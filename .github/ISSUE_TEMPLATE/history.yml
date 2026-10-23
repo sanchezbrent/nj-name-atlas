@@ -1,0 +1,16 @@
+name: Historical evidence or correction
+description: Propose evidence for review, preserving uncertainty.
+body:
+  - type: textarea
+    id: claim
+    attributes:
+      label: Municipality, current wording and proposed correction
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Public sources and exact wording
+      description: Include a source link/page, source date, quoted wording and unresolved conflicts. Do not upload private project files.
+    validations:
+      required: true

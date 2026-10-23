@@ -1,0 +1,15 @@
+name: Atlas behavior issue
+description: Report a reproducible atlas problem without private material.
+body:
+  - type: textarea
+    id: behavior
+    attributes:
+      label: What happened?
+      description: Include edition, town link, steps, expected behavior and browser/device.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Safe evidence
+      description: Use invented note text. Do not attach workbooks, credentials or personal notes.
