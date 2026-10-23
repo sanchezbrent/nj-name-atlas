@@ -1,0 +1,26 @@
+name: Atlas quality
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+concurrency:
+  group: atlas-quality-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+jobs:
+  atlas-quality:
+    name: atlas-quality
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Read proposed source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Verify public files, protected history, payload scope and script syntax
+        run: python3 scripts/check_project.py
+      - name: Prove rejection of changed history, private files and unsafe asset paths
+        run: python3 -m unittest discover -s tests -v
+      - name: Exercise the original notebook controller with isolated fake storage
+        run: node tests/notebook.mjs

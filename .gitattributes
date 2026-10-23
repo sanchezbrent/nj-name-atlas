@@ -1,0 +1,6 @@
+*.html -text
+*.css -text
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf

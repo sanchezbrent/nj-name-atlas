@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+outputs/
+work/
+private/
+authority/
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.zip
+*.pem
+*.key

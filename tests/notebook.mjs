@@ -1,0 +1,19 @@
+import fs from 'node:fs/promises';import vm from 'node:vm';import assert from 'node:assert/strict';import {createHash} from 'node:crypto';
+import {pathToFileURL} from 'node:url';import {resolve} from 'node:path';
+const html=await fs.readFile(new URL('../docs/young-explorers/index.html',import.meta.url),'utf8');
+let assertions=0;const check=(v,l)=>{assert.ok(v,l);assertions++};
+const notesCode=html.slice(html.indexOf('  function loadYoungNotes('),html.indexOf('  function renderYoungStory('));
+const controls=html.slice(html.indexOf("  youngNoteFields.forEach(field => $('young-note-' + field).addEventListener"),html.indexOf('  // Existing timeline and reference controls'));
+check(notesCode.length>500&&controls.length>1000,'exact actual notebook ranges extracted');
+const storage=new Map([['nj-young-atlas:notes:0327',JSON.stringify({story:'Earlier synthetic retained note',source:'Earlier source',question:'Earlier question'})],['unrelated-key','unchanged']]),before=JSON.stringify([...storage]),writes=[],nodes=new Map(),made=[],revoked=[],clicks=[];
+function node(id){if(!nodes.has(id))nodes.set(id,{value:'',textContent:'',disabled:false,handlers:{},addEventListener(type,fn){this.handlers[type]=fn}});return nodes.get(id)}
+const ctx={youngNoteFields:['story','source','question'],youngDrafts:new Map(),youngCurrentCode:'0212',state:{town:'0212'},profiles:{'0212':{name:'East Rutherford',county:'Bergen'},'0327':{name:'Palmyra',county:'Burlington'}},$:node,localStorage:{getItem:key=>storage.get(key)??null,setItem:(key,value)=>{writes.push({key,value});storage.set(key,value)}},URL:{createObjectURL:blob=>{made.push(blob);return 'blob:synthetic-test'},revokeObjectURL:url=>revoked.push(url)},Blob,el:()=>({click(){clicks.push({href:this.href,download:this.download})},remove(){}}),document:{body:{append(){}}},setTimeout:fn=>fn()};ctx.window={URL:ctx.URL};
+vm.runInNewContext(notesCode+controls,ctx);
+check(ctx.loadYoungNotes('0327').story==='Earlier synthetic retained note','earlier same-key-format note loads without migration');check(JSON.stringify([...storage])===before,'load performs no writes or migration');
+const empty=ctx.loadYoungNotes('0212');check(ctx.youngNoteFields.every(f=>empty[f]===''),'empty fake current note');
+for(const f of ctx.youngNoteFields)node('young-note-'+f).value='Synthetic '+f;
+node('young-note-story').handlers.input();check(writes.length===0,'editing remains memory-only draft');check(ctx.youngDrafts.get('0212').story==='Synthetic story','capture owns current town draft');
+node('young-save-notes').handlers.click();check(writes.length===1&&writes[0].key==='nj-young-atlas:notes:0212','explicit save keeps original key');check(JSON.parse(storage.get(writes[0].key)).question==='Synthetic question','explicit current fake note saved');check(JSON.parse(storage.get('nj-young-atlas:notes:0327')).story==='Earlier synthetic retained note','earlier other-town note unchanged');check(storage.get('unrelated-key')==='unchanged','unrelated storage unchanged');
+node('young-download-notes').handlers.click();check(made.length===1&&clicks.length===1,'actual download controller emits one Blob link');check(clicks[0].download==='east-rutherford-history-notes.txt','original download filename unchanged');
+const text=await made[0].text();check(text.includes('East Rutherford · Bergen County')&&text.includes('Synthetic story')&&text.includes('Synthetic source')&&text.includes('Synthetic question'),'download contains own fake notes and original labels');check(made[0].type==='text/plain;charset=utf-8','original plain-text format');check(revoked[0]==='blob:synthetic-test','temporary download URL revoked');check(writes.length===1,'download does not silently save or migrate');
+console.log(JSON.stringify({status:'PASS',assertions,scope:'Actual unchanged notebook controller exercised with fake storage and invented text only; no browser/user storage accessed.'}));
