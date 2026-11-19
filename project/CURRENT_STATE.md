@@ -1,26 +1,51 @@
 # Current project state
 
-Public site: <https://sanchezbrent.github.io/nj-name-atlas/>
+Public site: https://sanchezbrent.github.io/nj-name-atlas/
 
-- C14 public hosting baseline: `5abcd63005c4273c454a39aceaf4c7bbb97373c5`.
-- C13 remains factual authority, including exact C5 master/audit workbooks and C6
-  raw-preserving export. The C8/C9 original editorial pilots remain unchanged.
-- Twelve current profiles; 552 older research records. No new historical review
-  is included in repository setup. All existing historical holds remain.
-- The site has primary and Young Explorers editions with embedded fonts, map and
-  data. Its original controllers and browser note semantics are preserved.
-- C15 adds development checks, contribution/recovery guidance and a private
-  research companion. Large archive uploads are PENDING at the user's request.
-  Creating a private repository or a local packet is not completed remote ingestion.
+The November 19 candidate brings the completed C57 narratives and Review27
+categories into the existing standalone atlas. C21 remains factual authority.
+Both editions retain all 564 rewritten stories, summaries, journeys and sidebar
+records. Young Explorers keeps its separate adaptations and original browser
+note behavior. The category pass covers all 564 municipalities, with zero
+pending and 179 guarded display mappings across the seven existing categories.
 
-The new private research companion is `sanchezbrent/nj-name-atlas-research`.
-Its archive status and recovery records must be checked before assuming that a
-fresh machine has the complete factual project. Keep the verified local copies.
+This implements retained work. It adds no historical decisions, source research,
+workbook changes, category reviews or release of curated holds. Uncertain
+explanations and dates remain qualified. Completion does not mean every literal
+origin is solved or constitute universal reader acceptance.
 
-## Remaining work
+## Verification and continuation
 
-Finish and verify the deferred private archive transfer when the user resumes it.
-Do not start a new research batch or NJ PBS main-site integration automatically.
-Broader statewide history work, device acceptance and production integration need
-their own scope and estimates. Current CI guards publishing integrity; it is not
-universal browser, download or historical certification.
+- project/asset-baseline.json pins the seven publishable files.
+- project/content-baseline.json pins every municipality identity, both complete
+  editorial corpora, factual source identities and final category counts.
+- project/release-evidence.json records old public assets, Review27 source
+  identities and the publication-label changes.
+- project/browser-qa.json, when present, records current browser checks and limits.
+- Run all checks in CONTRIBUTING.md before changing or publishing assets.
+
+The research companion is sanchezbrent/nj-name-atlas-research. Private source
+workbooks, audit files, checkpoints and recovery handoffs stay outside this
+public tree. Do not recover later private work from an older public commit.
+Keep original sealed components immutable and use a new working candidate.
+
+## Current implementation stage
+
+Candidate verified on update/statewide-narratives-review27. Both editions pass
+local coverage, source, category and notebook checks. Current Chrome QA compares
+30 full story samples per edition spanning all 21 counties, seven filters per
+edition and all 564 computed map colors in light and dark themes. Desktop and
+emulated 390px layouts have no horizontal overflow; sampled navigation, historical
+search and reference controls pass. See browser-qa.json for scope and limits.
+
+The embedded payloads use lossless shared-string packing and a compressed category
+overlay. Both original expanded-data identities and the rewritten story identities
+are checked. This keeps each standalone edition below the connector upload limit;
+no story, source record, guard or publishing asset was removed. Browser checks of
+the compacted files pass in both editions and themes.
+
+Implementation and recorded local/browser QA are complete. The associated GitHub
+pull request and Pages workflow establish merge and deployment status. Until
+those records confirm completion, the remaining release milestones are required
+checks, publication and live-host readback. Provisional release work: 10–20 active
+minutes, excluding CI, access and review waits; not a release deadline.

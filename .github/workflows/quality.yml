@@ -24,3 +24,5 @@ jobs:
         run: python3 -m unittest discover -s tests -v
       - name: Exercise the original notebook controller with isolated fake storage
         run: node tests/notebook.mjs
+      - name: Verify all rewritten stories and reviewed categories through the actual guards
+        run: node tests/corpus.mjs

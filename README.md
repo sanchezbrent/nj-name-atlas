@@ -6,10 +6,10 @@
 [The Atlas](https://sanchezbrent.github.io/nj-name-atlas/primary/) ·
 [Young Explorers](https://sanchezbrent.github.io/nj-name-atlas/young-explorers/)
 
-Explore the name journeys of New Jersey municipalities. This is a research pilot:
-twelve profiles reflect the current review, and 552 retain earlier records.
-Sources, qualified dates and unresolved questions stay visible in the atlas.
-Publication does not imply that every profile has received the current review.
+Explore the name journeys of all 564 New Jersey municipalities. Both editions
+include the completed C57 reader stories, summaries, journeys and sidebars.
+Review27 covers every category assignment, with 179 guarded display mappings.
+Sources, qualified dates and unresolved explanations remain visible.
 
 ## Continue the project
 
@@ -32,12 +32,13 @@ Use Python 3.10+ and Node.js 22+. No npm or pip dependencies are needed.
 python3 scripts/check_project.py
 python3 -m unittest discover -s tests -v
 node tests/notebook.mjs
+node tests/corpus.mjs
 python3 scripts/preview.py
 ```
 
 The preview is available at `http://127.0.0.1:8780/nj-name-atlas/` and serves only
 website files. CI checks approved asset identities, private-file boundaries,
-twelve-profile payload scope, script syntax, edition links and original notebook
+564-profile narrative coverage and guarded categories, script syntax, edition links and original notebook
 behavior with isolated fake storage. Its negative tests prove that accidental
 asset changes and private files are rejected.
 
@@ -50,5 +51,5 @@ There is no account-sync or note-transmission service.
 GitHub Pages publishes `main` and `/docs`. Keep every font, map and data payload
 embedded. Use a branch and checked pull request for changes; do not put private
 workbooks or checkpoint archives in public source or website assets. The original
-pilot documents are preserved separately. Current public derivatives change only
-the visible “Private pilot” label to “Research pilot.”
+pilot documents are preserved separately. Current public derivatives retain the completed narratives and category review.
+See project/release-evidence.json for before/after asset identities.

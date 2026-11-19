@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-19",
+  "browser": "Chrome in a fresh isolated profile",
+  "delivery": "Seven candidate files fulfilled under a synthetic HTTPS origin with the GitHub Pages subpath; not live-host verification.",
+  "editions": [
+    {
+      "edition": "primary",
+      "sampled_story_routes": 30,
+      "county_coverage": 21,
+      "filters": [
+        {
+          "group": "indigenous",
+          "count": 42
+        },
+        {
+          "group": "people",
+          "count": 153
+        },
+        {
+          "group": "places",
+          "count": 148
+        },
+        {
+          "group": "landscape",
+          "count": 115
+        },
+        {
+          "group": "transport",
+          "count": 23
+        },
+        {
+          "group": "civic",
+          "count": 28
+        },
+        {
+          "group": "other",
+          "count": 55
+        }
+      ],
+      "themes": [
+        {
+          "mode": "light",
+          "map_paths_with_correct_computed_color": 564
+        },
+        {
+          "mode": "dark",
+          "map_paths_with_correct_computed_color": 564
+        }
+      ],
+      "layout": [
+        {
+          "width": 1280,
+          "horizontal_overflow": false
+        },
+        {
+          "width": 390,
+          "horizontal_overflow": false
+        }
+      ],
+      "historical_search": "MATCHING NAMES\nPine Hill\n\nMatched historical name or locality: Mount Ararat",
+      "journey_dialog_keyboard_close": true,
+      "full_history_control": true,
+      "reference_control": true
+    },
+    {
+      "edition": "young-explorers",
+      "sampled_story_routes": 30,
+      "county_coverage": 21,
+      "filters": [
+        {
+          "group": "indigenous",
+          "count": 42
+        },
+        {
+          "group": "people",
+          "count": 153
+        },
+        {
+          "group": "places",
+          "count": 148
+        },
+        {
+          "group": "landscape",
+          "count": 115
+        },
+        {
+          "group": "transport",
+          "count": 23
+        },
+        {
+          "group": "civic",
+          "count": 28
+        },
+        {
+          "group": "other",
+          "count": 55
+        }
+      ],
+      "themes": [
+        {
+          "mode": "light",
+          "map_paths_with_correct_computed_color": 564
+        },
+        {
+          "mode": "dark",
+          "map_paths_with_correct_computed_color": 564
+        }
+      ],
+      "layout": [
+        {
+          "width": 1280,
+          "horizontal_overflow": false
+        },
+        {
+          "width": 390,
+          "horizontal_overflow": false
+        }
+      ],
+      "journey_dialog_keyboard_close": true
+    }
+  ],
+  "errors": [],
+  "status": "PASS_SCOPED_BROWSER_QA",
+  "limits": [
+    "No physical-device test",
+    "No new substantive review of all 1128 stories",
+    "Live host readback remains separate",
+    "Original browser notes were not inspected or changed"
+  ],
+  "packing_recheck": {
+    "status": "PASS",
+    "scope": "Fresh browser load after lossless data compaction; preserved sample story details, final category correction and all computed map colors in both themes and editions.",
+    "editions": [
+      {
+        "edition": "primary",
+        "Pine_Hill_details_preserved": true,
+        "Washington_Borough_category": "places",
+        "computed_map_colors": [
+          {
+            "mode": "light",
+            "paths": 564,
+            "counts": {
+              "places": 148,
+              "landscape": 115,
+              "people": 153,
+              "indigenous": 42,
+              "other": 55,
+              "transport": 23,
+              "civic": 28
+            }
+          },
+          {
+            "mode": "dark",
+            "paths": 564,
+            "counts": {
+              "places": 148,
+              "landscape": 115,
+              "people": 153,
+              "indigenous": 42,
+              "other": 55,
+              "transport": 23,
+              "civic": 28
+            }
+          }
+        ]
+      },
+      {
+        "edition": "young-explorers",
+        "Pine_Hill_details_preserved": true,
+        "Washington_Borough_category": "places",
+        "computed_map_colors": [
+          {
+            "mode": "light",
+            "paths": 564,
+            "counts": {
+              "places": 148,
+              "landscape": 115,
+              "people": 153,
+              "indigenous": 42,
+              "other": 55,
+              "transport": 23,
+              "civic": 28
+            }
+          },
+          {
+            "mode": "dark",
+            "paths": 564,
+            "counts": {
+              "places": 148,
+              "landscape": 115,
+              "people": 153,
+              "indigenous": 42,
+              "other": 55,
+              "transport": 23,
+              "civic": 28
+            }
+          }
+        ]
+      }
+    ],
+    "errors": []
+  }
+}

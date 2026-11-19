@@ -1,13 +1,30 @@
 #!/usr/bin/env python3
 """Offline checks for the public atlas; never reads private research or user notes."""
-import argparse,hashlib,json,re,shutil,subprocess,sys,tempfile
+import argparse,base64,gzip,hashlib,json,re,shutil,subprocess,sys,tempfile
 from html.parser import HTMLParser
 from pathlib import Path
 
-TOWNS={'0327','1417','0212','0309','1333','1812','1511','0302','0113','2012','1820','2021'}
+def stable_bytes(value):
+    return json.dumps(value,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
 class CheckError(Exception): pass
 def require(value,message):
     if not value:raise CheckError(message)
+def expand_payload(parsed):
+    if parsed.get('atlas_string_dictionary')!=1:return parsed
+    strings=parsed.get('strings')
+    require(isinstance(strings,list),'Invalid embedded string dictionary')
+    def expand(value):
+        if isinstance(value,list):return [expand(item) for item in value]
+        if isinstance(value,dict):
+            if '$atlas_ref' in value:
+                index=value['$atlas_ref']
+                require(set(value)=={'$atlas_ref'} and type(index) is int and 0<=index<len(strings) and isinstance(strings[index],str),'Invalid embedded string reference')
+                return strings[index]
+            return {key:expand(item) for key,item in value.items()}
+        return value
+    result=expand(parsed['value'])
+    require(hashlib.sha256(stable_bytes(result)).hexdigest()==parsed['expanded_canonical_sha256'],'Expanded payload identity changed')
+    return result
 class Page(HTMLParser):
     def __init__(self):super().__init__();self.scripts=[];self.script=None;self.csp=[];self.assets=[];self.links=[]
     def handle_starttag(self,tag,attrs):
@@ -46,6 +63,7 @@ def check(root,syntax=True):
             require(not any(pat.search(text) for pat in secret_patterns),'Credential-like content requires private review: '+str(rel))
     node=shutil.which('node')
     if syntax:require(node is not None,'Node.js 22 or newer is required for syntax checks.')
+    corpus=json.loads((root/'project/content-baseline.json').read_text())
     script_count=0
     for edition in ['primary','young-explorers']:
         page=Page();page.feed((site/edition/'index.html').read_text())
@@ -54,10 +72,23 @@ def check(root,syntax=True):
         require(any("connect-src 'none'" in v for v in page.csp),edition+': outbound connections are not disabled')
         data=[s for s in page.scripts if s['attrs'].get('id')=='atlas-pilot-data']
         require(len(data)==1,edition+': missing versioned pilot payload')
-        payload=json.loads(data[0]['text'])
-        require(set(payload['views'])==TOWNS and set(payload['editorial'])==TOWNS,edition+': reviewed town scope changed')
-        require(payload['source_workbook_sha256']=='68e7ea52040854715ee14a38d56b46aa5baf418040f19ed73907babdf158ca7f',edition+': workbook authority drift')
-        require(payload['source_manifest_sha256']=='aead6f242c4a7e6585bf75661b2a6f9d254e5f88b24ca7b4c9b2a47d451887ed',edition+': raw export authority drift')
+        packed=json.loads(data[0]['text'])
+        require(packed.get('encoding')=='gzip-base64',edition+': unexpected payload encoding')
+        raw=gzip.decompress(base64.b64decode(packed['payload'],validate=True))
+        digest=hashlib.sha256(raw).hexdigest()
+        require(digest==packed['sha256']==corpus['editions'][edition]['payload_sha256'],edition+': reviewed payload identity changed')
+        payload=expand_payload(json.loads(raw))
+        require(hashlib.sha256(stable_bytes(payload)).hexdigest()==corpus['editions'][edition]['expanded_canonical_sha256'],edition+': original payload identity changed')
+        identities=corpus['editions'][edition]['municipalities'];codes=set(identities)
+        require(len(codes)==564 and len(set(identities.values()))==564,edition+': incomplete municipality baseline')
+        require(set(payload['views'])==set(payload['view_guards'])==set(payload['editorial'])==codes,edition+': statewide town scope changed')
+        require({c:e['municipality_id'] for c,e in payload['editorial'].items()}==identities,edition+': municipality identity changed')
+        require(hashlib.sha256(stable_bytes(payload['editorial'])).hexdigest()==corpus['editions'][edition]['editorial_sha256'],edition+': rewritten narratives changed')
+        for code,record in payload['editorial'].items():
+            require(bool(record.get('preview','').strip()) and bool(record.get('paragraphs')) and all(p.strip() for p in record['paragraphs']),edition+': missing story or summary '+code)
+            require(bool(record.get('journey')) and bool(record.get('sidebar')),edition+': missing journey or sidebar '+code)
+        require(payload['source_workbook_sha256']==corpus['source_workbook_sha256'],edition+': workbook authority drift')
+        require(payload['source_manifest_sha256']==corpus['source_manifest_sha256'],edition+': source authority drift')
         for s in page.scripts:
             if s['attrs'].get('type')=='application/json':continue
             script_count+=1
@@ -66,7 +97,7 @@ def check(root,syntax=True):
                 require(result.returncode==0,edition+': inline script syntax check failed')
     landing=Page();landing.feed((site/'index.html').read_text())
     require(landing.links==['./primary/','./young-explorers/'],'Edition chooser links must retain the project subpath.')
-    return {'result':'PASS','public_assets':len(expected),'classic_scripts_checked':script_count,'current_profiles_per_edition':12,'historical_reviews_added':0}
+    return {'result':'PASS','public_assets':len(expected),'classic_scripts_checked':script_count,'current_profiles_per_edition':564,'narratives_per_edition':564,'historical_reviews_added':0}
 if __name__=='__main__':
     ap=argparse.ArgumentParser();ap.add_argument('--root',type=Path,default=Path(__file__).resolve().parents[1]);args=ap.parse_args()
     try:print(json.dumps(check(args.root)))

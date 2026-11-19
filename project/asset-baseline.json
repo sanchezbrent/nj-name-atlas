@@ -1,6 +1,6 @@
 {
-  "checkpoint": "C14",
-  "purpose": "Reviewed immutable public asset identities; updates require explicit evidence and review",
+  "checkpoint": "C57 narratives and Review27 categories",
+  "purpose": "Reviewed public assets; changes require evidence and review",
   "assets": [
     {
       "path": ".nojekyll",
@@ -14,13 +14,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 1753,
-      "sha256": "c166db98f4e6f33b72bb74919934e6694955473867113b8b83b8fa9a48ddb4b5"
+      "bytes": 1663,
+      "sha256": "6d89eae2378a6c196ccab18367df67bb1ea9ba031c96e504b76e41954635a19e"
     },
     {
       "path": "primary/index.html",
-      "bytes": 2635654,
-      "sha256": "f408c61114d51d253a382a1fbae8c66770562033d57d93fb23ffbf2cf6901e9c"
+      "bytes": 11667921,
+      "sha256": "56d590582a0d67a08e6a9d0f071a4f88ecd1b68e4f43e55d50fbb1b0e07c2ef2"
     },
     {
       "path": "robots.txt",
@@ -34,8 +34,8 @@
     },
     {
       "path": "young-explorers/index.html",
-      "bytes": 2798138,
-      "sha256": "095629cf21f7f3a5914211384c409e24428086e6f4918e7f9688cf8c44e8c232"
+      "bytes": 11797861,
+      "sha256": "5e28671d49921dd6f986d020ef18678848192d2b0a02b361688ada4cdfb7fb60"
     }
   ]
 }

@@ -6,11 +6,12 @@ Research authority and full checkpoint recovery live in the separate private
 `sanchezbrent/nj-name-atlas-research` repository and sealed local checkpoints.
 
 - Preserve the accepted atlas design, source wording, uncertainty and date forms.
-- Twelve profiles have the current review; 552 retain older records. Never imply
-  statewide review completion. A historical/editorial batch may cover at most
-  twelve municipalities and must be explicitly requested.
-- C13 is factual authority: exact C5 workbooks, C6 export, C8/C9 originals. C14
-  public derivatives change only a visible pilot label. Never recalculate or
+- All 564 municipalities have completed C57 reader stories in both editions and
+  an individual Review27 category decision. Preserve the rewrites. Completion
+  does not resolve every uncertain origin or imply universal reader acceptance.
+  A new historical/editorial batch must be explicitly requested and scoped.
+- C21 is factual authority. C57 is the frozen narrative/source baseline and
+  Review27 supplies the guarded category display overlay. Never recalculate or
   roundtrip authority workbooks as part of a website task.
 - Keep source/date/lesson guards and original notebook semantics and storage key.
   Never inspect, migrate, relabel, sync or transmit existing browser notes implicitly.
