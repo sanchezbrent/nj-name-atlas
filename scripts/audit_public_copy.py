@@ -17,16 +17,16 @@ from pathlib import Path
 from check_project import Page, expand_payload
 
 PATTERNS = {
-    "original_research_control": re.compile(r"original\\s+research\\s+wording", re.I),
-    "internal_audit_id": re.compile(r"\\bAS-\\d{2,}\\b", re.I),
+    "original_research_control": re.compile(r"original\s+research\s+wording", re.I),
+    "internal_audit_id": re.compile(r"\bAS-\d{2,}\b", re.I),
     "source_not_inspected": re.compile(
-        r"\\b(?:uninspected|not inspected|not read|was not read)\\b", re.I
+        r"\b(?:uninspected|not inspected|not read|was not read)\b", re.I
     ),
     "generated_intermediary": re.compile(
-        r"\\b(?:AI[- ]generated\\s+HTML|AI[- ]generated\\s+transcript)\\b", re.I
+        r"\b(?:AI[- ]generated\s+HTML|AI[- ]generated\s+transcript)\b", re.I
     ),
     "batch_process_description": re.compile(
-        r"\\b(?:in this batch|in this run|local research batch|audit checkpoint)\\b", re.I
+        r"\b(?:in this batch|in this run|local research batch|audit checkpoint)\b", re.I
     ),
 }
 
