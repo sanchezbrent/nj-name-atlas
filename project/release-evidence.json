@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-19",
+  "base_commit": "a541e6f4bcf3bedf5bf8e5dfd1f58e0d18459ff4",
+  "narrative_checkpoint": "C57",
+  "category_review": "Review27",
+  "factual_authority": "C21",
+  "category_review_complete": true,
+  "category_counts": {
+    "civic": 28,
+    "indigenous": 42,
+    "landscape": 115,
+    "other": 55,
+    "people": 153,
+    "places": 148,
+    "transport": 23
+  },
+  "mappings": 179,
+  "source_archive_sha256": "374ac13533d46c89e860e22f56611f6778b7596e7ec6fad5eb8c116f1f7cf748",
+  "editions": {
+    "primary": {
+      "old_public_sha256": "f408c61114d51d253a382a1fbae8c66770562033d57d93fb23ffbf2cf6901e9c",
+      "source_review27_sha256": "e191939c486579a36634a4b94255cf5a0a70bdae225ac0a1c51c6c5425f22c1b",
+      "new_public_sha256": "56d590582a0d67a08e6a9d0f071a4f88ecd1b68e4f43e55d50fbb1b0e07c2ef2",
+      "narrative_records_exact_C57": 564,
+      "summaries": 564,
+      "journeys": 564,
+      "sidebars": 564,
+      "old_bytes": 2635654,
+      "new_bytes": 11667921,
+      "packing": {
+        "method": "Lossless shared-string dictionary and gzip; embedded category overlay gzip",
+        "expanded_payload_sha256": "60723951f18cf3e3d578bb5326d86b091b9250d9c59d4b2838671921ab891f57",
+        "packed_payload_sha256": "653cd0040528d010950873afaf2f3600a9cd6c6f503aefddf1844cadf650af2b",
+        "category_overlay_sha256": "e181b124da96d27d97f64d68092222539672fdfdfab3c9cfca1e710c4dc7f595",
+        "dictionary_strings": 12046,
+        "all_expanded_records_exact_C57": true,
+        "expanded_javascript_sha256": "a39b9e332febc60b20cc1e6b080430f42c2c7a99c7f2fa73d629d540cd948ae6",
+        "expanded_canonical_sha256": "46729aad50d79781b8bacf0e14cfcc8399baf83a06b6c4d37d5ce4c7a1e92bfb"
+      }
+    },
+    "young-explorers": {
+      "old_public_sha256": "095629cf21f7f3a5914211384c409e24428086e6f4918e7f9688cf8c44e8c232",
+      "source_review27_sha256": "dff9d1a8deef964ce226c50af7cb55bdcca67971c6659ce65d197cabf1ac9adb",
+      "new_public_sha256": "5e28671d49921dd6f986d020ef18678848192d2b0a02b361688ada4cdfb7fb60",
+      "narrative_records_exact_C57": 564,
+      "summaries": 564,
+      "journeys": 564,
+      "sidebars": 564,
+      "old_bytes": 2798138,
+      "new_bytes": 11797861,
+      "packing": {
+        "method": "Lossless shared-string dictionary and gzip; embedded category overlay gzip",
+        "expanded_payload_sha256": "83f0e79f7b466d19610e8e19c7f47d228b76c2a3b462778740052ff23a912564",
+        "packed_payload_sha256": "150dc59c8c45599cb70cb32196619259aa6e6610e7f312cfa2f289aaede00cfe",
+        "category_overlay_sha256": "e181b124da96d27d97f64d68092222539672fdfdfab3c9cfca1e710c4dc7f595",
+        "dictionary_strings": 12046,
+        "all_expanded_records_exact_C57": true,
+        "expanded_javascript_sha256": "4bf2a25df81bb0bbb0930dcf435a24393d26004c7d4a3f4d8fab58ec36850247",
+        "expanded_canonical_sha256": "3489d02a64bb3ffd4999a263956d480a6e8a84d59c312e75a11cb50a244367c9"
+      }
+    }
+  },
+  "public_label_changes": [
+    {
+      "edition": "primary",
+      "replacements": [
+        {
+          "before": "$('atlas-edition-context').textContent=edit?(edit.reader_draft?'Story draft · current records':edit.reader_revision?'Revised story draft · current records':'Story draft · awaiting revision'):'Updated records · story in preparation';",
+          "after": "$('atlas-edition-context').textContent=edit?'The name story':'Explore the records';"
+        },
+        {
+          "before": "Local statewide draft · Updated records for all 564 places. Shorter reader stories are still being prepared.",
+          "after": "Explore the name stories of all 564 New Jersey municipalities, with sources and uncertain explanations included."
+        },
+        {
+          "before": "$('atlas-research-scope').textContent='Local statewide draft: 564 municipalities use the current audited records. 564 stories are drafted. Sources and uncertain dates remain available.';",
+          "after": "$('atlas-research-scope').textContent='Name stories and source records for all 564 New Jersey municipalities. Uncertain dates and explanations remain marked.';"
+        }
+      ]
+    },
+    {
+      "edition": "young-explorers",
+      "replacements": [
+        {
+          "before": "$('atlas-edition-context').textContent=edit?(edit.reader_draft?'Young Explorers draft · current records':edit.reader_revision?'Revised Young Explorers draft · current records':'Young Explorers draft · awaiting revision'):'Updated records · story in preparation';",
+          "after": "$('atlas-edition-context').textContent=edit?'The name story':'Explore the records';"
+        },
+        {
+          "before": "Local statewide draft · Updated records for all 564 places. Shorter reader stories are still being prepared.",
+          "after": "Explore the name stories of all 564 New Jersey municipalities, with sources and uncertain explanations included."
+        },
+        {
+          "before": "$('atlas-research-scope').textContent='Local statewide draft: 564 municipalities use the current audited records. 564 stories are drafted. Sources and uncertain dates remain available.';",
+          "after": "$('atlas-research-scope').textContent='Name stories and source records for all 564 New Jersey municipalities. Uncertain dates and explanations remain marked.';"
+        }
+      ]
+    }
+  ],
+  "validation_scope": "Source identities and coverage; browser QA recorded separately. No new historical research or claim of universal reader acceptance."
+}
