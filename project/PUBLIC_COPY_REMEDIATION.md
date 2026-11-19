@@ -2,6 +2,8 @@
 
 **Status: OPEN — not publication-cleared.** Identified November 19, 2026 from screenshots of the deployed Atlas. This is a process and presentation issue, **not** a request to change historical source authority. See [PUBLICATION_STANDARD.md](PUBLICATION_STANDARD.md).
 
+Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
+
 ## Confirmed examples to remediate
 
 - An expandable **“Original research wording”** section is displayed to readers. Remove its visible control and prevent internal/original wording and raw research notes from being delivered in any public HTML, scripts or data payloads. Retain originals privately.
