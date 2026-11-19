@@ -14,6 +14,7 @@ Sources, qualified dates and unresolved explanations remain visible.
 ## Continue the project
 
 - [Current state and remaining work](project/CURRENT_STATE.md)
+- [Public editorial and research boundary](project/PUBLICATION_STANDARD.md) · [Open reader-copy cleanup](project/PUBLIC_COPY_REMEDIATION.md)
 - [Development and contribution guide](CONTRIBUTING.md)
 - [Recovery and rollback](project/RECOVERY.md)
 - [Agent working instructions](AGENTS.md)
@@ -33,6 +34,7 @@ python3 scripts/check_project.py
 python3 -m unittest discover -s tests -v
 node tests/notebook.mjs
 node tests/corpus.mjs
+python3 scripts/audit_public_copy.py  # report-only until existing copy is repaired
 python3 scripts/preview.py
 ```
 
