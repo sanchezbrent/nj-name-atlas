@@ -1,11 +1,13 @@
 # Public atlas working instructions
 
-Read README.md, CONTRIBUTING.md and project/CURRENT_STATE.md before changing files.
+Read README.md, CONTRIBUTING.md, project/CURRENT_STATE.md, project/PUBLICATION_STANDARD.md and project/PUBLIC_COPY_REMEDIATION.md before changing files.
 This repository contains the public standalone atlas and development safeguards.
 Research authority and full checkpoint recovery live in the separate private
 `sanchezbrent/nj-name-atlas-research` repository and sealed local checkpoints.
 
 - Preserve the accepted atlas design, source wording, uncertainty and date forms.
+- Apply the public/private editorial boundary at every research, writing, export, UI, release and handoff stage. Original research wording, process/audit notes, AI/PDF/HTML handling status and internal IDs belong only in private authority, **never** in reader views or delivered public HTML/JS/data, even behind a collapsed panel. Preserve cited historical evidence and genuinely disputed explanations in plain language.
+- The statewide public-copy remediation register is OPEN. Existing 564-story coverage and passing CI do not certify copy separation. A public-copy release requires 564/564 manually reviewed in each edition plus payload and live readback; do not claim completion until verified.
 - All 564 municipalities have completed C57 reader stories in both editions and
   an individual Review27 category decision. Preserve the rewrites. Completion
   does not resolve every uncertain origin or imply universal reader acceptance.
