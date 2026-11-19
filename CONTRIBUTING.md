@@ -7,6 +7,8 @@ checks pass; a second person's review is encouraged when available.
 Run `python3 scripts/check_project.py` and
 `python3 -m unittest discover -s tests -v` and `node tests/notebook.mjs` and `node tests/corpus.mjs` from the repository root. Python 3.10+
 and Node.js 22+ are sufficient; there is nothing to install from npm or pip.
+Run `python3 scripts/audit_public_copy.py` to report potentially exposed process language in both standalone payloads. This audit is deliberately nonblocking while known published leaks remain; it is **not** publication clearance. After cleanup, run it with `--strict` and complete the required human review for all 564 municipalities in each edition. See [the publication standard](project/PUBLICATION_STANDARD.md) and [open remediation register](project/PUBLIC_COPY_REMEDIATION.md).
+
 Run `python3 scripts/preview.py` for a loopback preview at
 `http://127.0.0.1:8780/nj-name-atlas/`. The preview serves only website files.
 
@@ -15,6 +17,8 @@ The automated checks protect the exact publishing asset list, reviewed bytes,
 policy, edition links and JavaScript syntax. Negative tests prove corruption and
 accidental private-file additions are rejected. These checks supplement browser
 review; they do not certify historical truth, all devices or native downloads.
+
+For every research, narrative, category, public copy or UI change, apply the three-layer separation in project/PUBLICATION_STANDARD.md. Retain original wording, research-process notes and file/source-access metadata in the private authority; export only reviewed reader fields and public citations. A hidden panel, raw JavaScript object or compressed HTML/JSON payload is still public exposure. Do not conflate a historically uncertain origin with a source not yet inspected. The checklists in .github/PULL_REQUEST_TEMPLATE.md and the remediation register must be completed before declaring a copy release clean.
 
 For an atlas-content change, first obtain its factual authority from the private
 research repository. Preserve raw wording and uncertainty; distinguish a date's

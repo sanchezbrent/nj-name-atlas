@@ -29,6 +29,10 @@ workbooks, audit files, checkpoints and recovery handoffs stay outside this
 public tree. Do not recover later private work from an older public commit.
 Keep original sealed components immutable and use a new working candidate.
 
+## Outstanding public-copy gate — November 19, 2026
+
+The currently published editions have an identified editorial/privacy-boundary defect: a reader-visible “Original research wording” disclosure and research-process language (including AS-617, uninspected source references and PDF/HTML handling) in town history. These are **not** reader-appropriate. Follow project/PUBLICATION_STANDARD.md and project/PUBLIC_COPY_REMEDIATION.md. The known defects still need remediation in both published HTML editions, plus a documented statewide 564-by-two review of visible text and shipped data. A policy-only change does not correct the live website; previous successful 564-story tests/CI and deployment do not constitute copy clearance.
+
 ## Current implementation stage
 
 Candidate verified on update/statewide-narratives-review27. Both editions pass

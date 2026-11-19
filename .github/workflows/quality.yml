@@ -26,3 +26,5 @@ jobs:
         run: node tests/notebook.mjs
       - name: Verify all rewritten stories and reviewed categories through the actual guards
         run: node tests/corpus.mjs
+      - name: Report public-copy process-leak candidates (not yet a publication sign-off)
+        run: python3 scripts/audit_public_copy.py
