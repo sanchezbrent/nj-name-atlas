@@ -7,6 +7,10 @@
 - An expandable **“Original research wording”** section is displayed to readers. Remove its visible control and prevent internal/original wording and raw research notes from being delivered in any public HTML, scripts or data payloads. Retain originals privately.
 - A **“Name origin and town history”** section displays internal process language about AS-617, Whippanong PDF access, AI-generated HTML, and an uninspected 1720 order. Distinguish historically meaningful uncertainty from unverified source-access status; do not present uninspected documents as evidence or invent historical conclusions.
 
+## Initial heuristic baseline (November 19, 2026)
+
+The new scripts/audit_public_copy.py successfully decoded both embedded data payloads during GitHub Actions PR #3 (run 44611587856). It reported **21,724 candidate field-level matches**: 10,896 in primary and 10,828 in Young Explorers. These include repeated source-status and internal-ID strings within nested views/events and a UI label. **They are not 21,724 distinct errors, verified exposures or affected municipalities; some may be duplicate fields or false positives.** This confirms that a UI-only hide is insufficient, while the exact repair scope requires field-by-field review. The test is currently report-only and explicitly returns public_copy_certified=false even on a successful CI run.
+
 ## Required full-scope review (not yet performed)
 
 | Stage | Requirement | Current status |
