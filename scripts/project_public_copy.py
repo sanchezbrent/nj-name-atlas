@@ -1,0 +1,218 @@
+#!/usr/bin/env python3
+"""Make a review candidate from the pinned pre-remediation public assets.
+
+This is a structural projection, NOT editorial or publication clearance. It never
+opens or writes a workbook. Inputs must be a separate, unchanged source checkout.
+Remaining reader-language candidates are intentionally left for contextual review.
+"""
+import argparse
+import base64
+import copy
+import gzip
+import hashlib
+import json
+import re
+from pathlib import Path
+
+from check_project import Page, expand_payload, stable_bytes
+
+EDITIONS = ('primary', 'young-explorers')
+PROFILE_FIELDS = frozenset('name form category etymology_status county code municipal_code municipality_id current_origin current_origin_label source_ids urls'.split())
+EVENT_FIELDS = frozenset('id municipality date year precision before after type actor action significance sources urls municipality_ids version date_review'.split())
+SOURCE_FIELDS = frozenset('id author title publication url'.split())
+
+
+def digest(value):
+    return hashlib.sha256(stable_bytes(value)).hexdigest()
+
+
+def compact(value):
+    return json.dumps(value, ensure_ascii=False, separators=(',', ':'))
+
+
+def pack(value):
+    raw = compact(value).encode()
+    return {'encoding': 'gzip-base64', 'sha256': hashlib.sha256(raw).hexdigest(),
+            'payload': base64.b64encode(gzip.compress(raw, mtime=0)).decode()}
+
+
+def unpack(wrapper):
+    raw = gzip.decompress(base64.b64decode(wrapper['payload'], validate=True))
+    if hashlib.sha256(raw).hexdigest() != wrapper['sha256']:
+        raise ValueError('Source packed identity mismatch')
+    return expand_payload(json.loads(raw))
+
+
+def literal(html, name):
+    match = re.search(r'\bconst ' + re.escape(name) + r'\s*=\s*', html)
+    if not match:
+        raise ValueError('Missing literal: ' + name)
+    value, size = json.JSONDecoder().raw_decode(html[match.end():])
+    return value, match.end(), match.end() + size
+
+
+def replace_literal(html, name, value):
+    _, start, end = literal(html, name)
+    return html[:start] + compact(value) + html[end:]
+
+
+def reader_copy(editorial):
+    """Exclude ONLY guard bindings, retaining every C57 reader text and metadata."""
+    result = copy.deepcopy(editorial)
+    for record in result.values():
+        record.pop('expected_data')
+        record['sidebar'].pop('expected_data')
+    return result
+
+
+def project_payload(original):
+    projected = copy.deepcopy(original)
+    projected['public_projection'] = 'publication-boundary-v1'
+    projected['source_field_guards'] = {}
+    for code, view in original['views'].items():
+        # Hashes retain source comparison bindings without shipping raw wording.
+        projected['source_field_guards'][code] = {
+            field: digest(value) for field, value in view['profile'].items()
+        }
+        profile = {key: value for key, value in view['profile'].items() if key in PROFILE_FIELDS}
+        # These are exact existing C57 reader strings, not new interpretations.
+        profile['referent'] = original['editorial'][code]['preview']
+        profile['earlier'] = '; '.join(dict.fromkeys(
+            name for frame in original['editorial'][code]['journey'] for name in frame['names']))
+        events = []
+        for event in view['events']:
+            public = {key: copy.deepcopy(value) for key, value in event.items() if key in EVENT_FIELDS}
+            review = public.get('date_review')
+            if review:
+                # Preserve displayed date, held status, kind and every retained
+                # expected field; private note/grade fields leave both sides.
+                review['expected_fields'] = {
+                    key: value for key, value in review['expected_fields'].items()
+                    if key in EVENT_FIELDS and key != 'date_review'
+                }
+            events.append(public)
+        sources = {sid: {key: value for key, value in source.items() if key in SOURCE_FIELDS}
+                   for sid, source in view['sources'].items()}
+        public_view = {'profile': profile, 'events': events, 'sources': sources}
+        projected['views'][code] = public_view
+        guard = stable_bytes(public_view).decode()
+        projected['view_guards'][code] = guard
+        projected['editorial'][code]['expected_data'] = guard
+        projected['editorial'][code]['sidebar']['expected_data'] = guard
+    if reader_copy(projected['editorial']) != reader_copy(original['editorial']):
+        raise ValueError('C57 reader text changed during structural projection')
+    return projected
+
+
+def project_html(html):
+    page = Page()
+    page.feed(html)
+    original = unpack(json.loads(next(s['text'] for s in page.scripts
+                                     if s['attrs'].get('id') == 'atlas-pilot-data')))
+    projected = project_payload(original)
+    old_wrapper = next(s['text'] for s in page.scripts if s['attrs'].get('id') == 'atlas-pilot-data')
+    html = html.replace(old_wrapper, compact(pack(projected)), 1)
+
+    # The legacy dataset is overwritten for all 564 towns. Only map geometry,
+    # county counts and retrieval date still have active consumers.
+    pattern = r'data=await decodeAtlasPacked\(("[^"]+"),"([a-f0-9]+)"\)'
+    match = re.search(pattern, html)
+    if not match:
+        raise ValueError('Missing legacy map payload')
+    legacy = unpack({'payload': json.loads(match[1]), 'sha256': match[2]})
+    map_data = {key: legacy[key] for key in ('geography', 'counties', 'context', 'counts', 'boundary_retrieved')}
+    map_data.update(profiles={}, events=[])
+    packed_map = pack(map_data)
+    html = html[:match.start()] + ('data=await decodeAtlasPacked(' + compact(packed_map['payload']) +
+                                  ',' + compact(packed_map['sha256']) + ')') + html[match.end():]
+
+    overlay, _, _ = literal(html, 'packedCategoryOverlay')
+    overlay = unpack(overlay)
+    old_overlay_semantics = [{key: value for key, value in row.items() if key != 'expected_data'} for row in overlay['rows']]
+    for row in overlay['rows']:
+        if row['expected_data'] != original['view_guards'][row['code']]:
+            raise ValueError('Source Review27 guard mismatch')
+        row['expected_data'] = projected['view_guards'][row['code']]
+    html = replace_literal(html, 'packedCategoryOverlay', pack(overlay))
+
+    # These three fallback stores are unreachable for every current municipality.
+    # Do not ship their older research wording merely to support dead branches.
+    for name, empty in [('presentationEdits', {}), ('curated', {}), ('storyHookData', {'hooks': []})]:
+        html = replace_literal(html, name, empty)
+    # readerText/readerNote have been identity functions since statewide C57.
+    html, count = re.subn(r'  const readerEdits=new Map\(\[[\s\S]*?\n  function readerText', '  function readerText', html, count=1)
+    if count != 1:
+        raise ValueError('Missing retired reader/note replacement dictionaries')
+
+    discovery, _, _ = literal(html, 'discovery')
+    for item in discovery['connections'] + [stop for tour in discovery['tours'] for stop in tour['stops']]:
+        for binding in item.get('basis', []):
+            binding['value_guard'] = digest(binding.pop('value'))
+    html = replace_literal(html, 'discovery', discovery)
+    before = "profiles[b.code]?.[b.field]===b.value"
+    after = "typeof b.value_guard==='string'&&pilotPayload.source_field_guards?.[b.code]?.[b.field]===b.value_guard"
+    if html.count(before) != 1:
+        raise ValueError('Unexpected discovery guard owner')
+    html = html.replace(before, after, 1)
+
+    # Remove the public disclosure and its private content owner, not just CSS.
+    html, count = re.subn(r"    if\(sidebar\)\{\n      const originals=el\('details',[\s\S]*?\n    \}\n    const sourceBody=", '    const sourceBody=', html, count=1)
+    if count != 1:
+        raise ValueError('Unexpected original-wording disclosure owner')
+    html = html.replace("sidebar?'More about '+p.name+'’s name and history.':'Research wording is retained below, including earlier statements and later qualifications. The shorter story above is shown only where its current evidence check passes.'", "'More about '+p.name+'’s name and history.'")
+
+    if 'const youngContent = ' in html:
+        young, _, _ = literal(html, 'youngContent')
+        young['researchEdition'] = 'Stories and activities for young explorers'
+        for code, lesson in young['stories'].items():
+            if lesson['guard']['expected_data'] != original['view_guards'][code]:
+                raise ValueError('Source Young lesson guard mismatch')
+            lesson['guard']['expected_data'] = projected['view_guards'][code]
+        html = replace_literal(html, 'youngContent', young)
+
+    return html, {
+        'expanded_canonical_sha256': digest(projected),
+        'payload_sha256': pack(projected)['sha256'],
+        'editorial_sha256': digest(projected['editorial']),
+        'reader_copy_sha256': digest(reader_copy(original['editorial'])),
+        'before_editorial_sha256': digest(original['editorial']),
+        'overlay_sha256': digest(overlay),
+        'overlay_semantics_sha256': digest(old_overlay_semantics),
+        'municipalities': {c: e['municipality_id'] for c, e in projected['editorial'].items()},
+        'events': sum(len(view['events']) for view in projected['views'].values()),
+        'sources': sum(len(view['sources']) for view in projected['views'].values()),
+        'source_input_writes': 0,
+        'editorial_corrections': 0,
+        'contextual_review_complete': False,
+    }
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--source-root', type=Path, required=True)
+    parser.add_argument('--output-root', type=Path, required=True)
+    args = parser.parse_args()
+    source, output = args.source_root.resolve(), args.output_root.resolve()
+    if source == output:
+        parser.error('Use a separate immutable input checkout')
+    baseline = json.loads((source / 'project/asset-baseline.json').read_text())
+    approved = {row['path']: row for row in baseline['assets']}
+    report = {'stage': 'STRUCTURAL_CANDIDATE_ONLY', 'release_status': 'BLOCKED', 'editions': {}}
+    for edition in EDITIONS:
+        rel = edition + '/index.html'
+        raw = (source / 'docs' / rel).read_bytes()
+        if hashlib.sha256(raw).hexdigest() != approved[rel]['sha256']:
+            raise ValueError('Source asset is not the pinned pre-remediation edition')
+        html, details = project_html(raw.decode())
+        (output / 'docs' / rel).write_text(html)
+        details['before_asset_sha256'] = approved[rel]['sha256']
+        details['after_asset_sha256'] = hashlib.sha256(html.encode()).hexdigest()
+        details['before_bytes'] = len(raw)
+        details['after_bytes'] = len(html.encode())
+        report['editions'][edition] = details
+    (output / 'project/public-copy-baseline.json').write_text(json.dumps(report, indent=2) + '\n')
+    print(json.dumps({'status': 'CANDIDATE_WRITTEN', 'publication_cleared': False}))
+
+
+if __name__ == '__main__':
+    main()

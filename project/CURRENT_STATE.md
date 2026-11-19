@@ -2,6 +2,14 @@
 
 Public site: https://sanchezbrent.github.io/nj-name-atlas/
 
+**Current remediation candidate:** [Structural checkpoint 1](PUBLIC_COPY_CHECKPOINT_1.md).
+The live editions remain unchanged and are not copy-cleared. The draft removes
+original-wording field owners and private annotation/fallback stores, preserves
+all C57 reader text and Review27 mappings, and keeps strict scanning blocking.
+All 1,128 contextual town-edition reviews and publication QA remain open.
+The implementation/browser statements below describe the earlier publication,
+not fresh acceptance of this remediation candidate.
+
 The November 19 candidate brings the completed C57 narratives and Review27
 categories into the existing standalone atlas. C21 remains factual authority.
 Both editions retain all 564 rewritten stories, summaries, journeys and sidebar

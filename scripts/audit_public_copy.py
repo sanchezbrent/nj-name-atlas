@@ -15,6 +15,7 @@ from collections import Counter
 from pathlib import Path
 
 from check_project import Page, expand_payload
+from project_public_copy import literal, unpack
 
 PATTERNS = {
     "original_research_control": re.compile(r"original\s+research\s+wording", re.I),
@@ -27,6 +28,11 @@ PATTERNS = {
     ),
     "batch_process_description": re.compile(
         r"\b(?:in this batch|in this run|local research batch|audit checkpoint)\b", re.I
+    ),
+    "private_source_status": re.compile(
+        r"\b(?:unchecked|not (?:yet )?(?:checked|reviewed|verified)|"
+        r"(?:PDF|HTML|OCR)[ -](?:extraction|conversion)|source workbook|"
+        r"sealed checkpoint|private reader draft)\b", re.I
     ),
 }
 
@@ -45,6 +51,11 @@ def strings_with_paths(value, prefix):
 
 def check_edition(root, edition):
     html = (root / "docs" / edition / "index.html").read_text(encoding="utf8")
+    return check_html(html, edition)
+
+
+def check_html(html, edition):
+    """Inspect every data store, including compressed fallbacks and guard strings."""
     findings = []
     for label in find_candidates(html):
         # UI strings are visible in the source bundle even when collapsed.
@@ -59,11 +70,22 @@ def check_edition(root, edition):
     wrapper = json.loads(scripts[0]["text"])
     if wrapper.get("encoding") != "gzip-base64":
         raise ValueError(edition + ": unexpected packed dataset")
-    packed = gzip.decompress(base64.b64decode(wrapper["payload"], validate=True))
-    payload = expand_payload(json.loads(packed))
-    for path, value in strings_with_paths(payload, "embedded"):
-        for label in find_candidates(value):
-            findings.append({"location": path, "rule": label})
+    bundles = {"embedded": unpack(wrapper)}
+    main = page.scripts[-1]["text"]
+    match = re.search(r'data=await decodeAtlasPacked\(("[^"]+"),"([a-f0-9]+)"\)', main)
+    if not match:
+        raise ValueError(edition + ": missing compressed map/fallback payload")
+    bundles["map_and_fallback"] = unpack({"payload": json.loads(match[1]), "sha256": match[2]})
+    overlay, _, _ = literal(main, "packedCategoryOverlay")
+    bundles["category_overlay"] = unpack(overlay)
+    for name in ("discovery", "storyHookData", "presentationEdits", "curated"):
+        bundles[name], _, _ = literal(main, name)
+    if "const youngContent = " in main:
+        bundles["youngContent"], _, _ = literal(main, "youngContent")
+    for owner, bundle in bundles.items():
+        for path, value in strings_with_paths(bundle, owner):
+            for label in find_candidates(value):
+                findings.append({"location": path, "rule": label})
     return findings
 
 def main():

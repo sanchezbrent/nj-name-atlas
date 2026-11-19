@@ -4,6 +4,17 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
+## Structural candidate checkpoint — November 19, 2026
+
+See [checkpoint 1](PUBLIC_COPY_CHECKPOINT_1.md) for the complete change/evidence
+map and limitations. The draft candidate removes the original-wording control,
+original profile columns, private annotation fields and overwritten fallback
+stores. All 1,128 C57 reader records remain exact; no source workbook is changed.
+It is **not merged, deployed or publication-cleared**. The broader scan still
+finds 2,736 primary and 2,560 Young candidates; strict mode blocks release.
+All 1,128 town-edition rows are inventoried privately with contextual review and
+human sign-off still pending. These machine counts do not constitute review.
+
 ## Confirmed examples to remediate
 
 - An expandable **“Original research wording”** section is displayed to readers. Remove its visible control and prevent internal/original wording and raw research notes from being delivered in any public HTML, scripts or data payloads. Retain originals privately.
@@ -17,9 +28,9 @@ The new scripts/audit_public_copy.py successfully decoded both embedded data pay
 
 | Stage | Requirement | Current status |
 | --- | --- | --- |
-| Source separation | Identify internal/original text fields in the authoring/export path; verify their private retention | Open |
-| Reader-facing UI | Remove original-research controls and process labels in both editions | Open |
-| Published bundles | Remove internal-only content from the delivered HTML, JS, JSON, embeds and exported data, not just from the DOM | Open |
+| Source separation | Identify internal/original text fields in the authoring/export path; verify their private retention | Structural candidate and sealed retention verified; contextual exceptions open |
+| Reader-facing UI | Remove original-research controls and process labels in both editions | Original control removed in draft; other copy and browser QA open |
+| Published bundles | Remove internal-only content from the delivered HTML, JS, JSON, embeds and exported data, not just from the DOM | Private field owners/fallbacks removed in draft; remaining free-text candidates open |
 | Statewide copy | Review all 564 municipality records in **each** edition, including deep panels and citation views; record exceptions/resolutions | Open |
 | Evidence quality | Preserve verified references and real disputes; no fabricated source access or false certainty | Open |
 | Test coverage | Automated candidate scan plus manual field-level review, browser/keyboard/mobile and existing source/notes/category guards | Open |
