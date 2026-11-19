@@ -5,6 +5,8 @@ Clone this public repository for the exact website source and run the checks in
 website has no build dependencies. Restore a previous reviewed asset set through
 a new PR, preserving history. Never force-reset the remote to perform a rollback.
 
+Before resuming publication or an editorial handoff, read [the publication standard](PUBLICATION_STANDARD.md) and [the open cleanup register](PUBLIC_COPY_REMEDIATION.md). Keep raw research/process notes in private authority, not in restored public page payloads; retain documented real disputes and verified source references.
+
 The complete historical project belongs in the private companion repository,
 `sanchezbrent/nj-name-atlas-research`. C15 inventories existing workspace files by
 SHA256, maps duplicate files to sealed nested checkpoints, and packages any extra
