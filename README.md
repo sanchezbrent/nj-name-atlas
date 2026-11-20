@@ -34,7 +34,7 @@ python3 scripts/check_project.py
 python3 -m unittest discover -s tests -v
 node tests/notebook.mjs
 node tests/corpus.mjs
-python3 scripts/audit_public_copy.py  # report-only until existing copy is repaired
+python3 scripts/audit_public_copy.py --strict  # intentionally fails while copy candidates remain
 python3 scripts/preview.py
 ```
 
@@ -43,6 +43,11 @@ website files. CI checks approved asset identities, private-file boundaries,
 564-profile narrative coverage and guarded categories, script syntax, edition links and original notebook
 behavior with isolated fake storage. Its negative tests prove that accidental
 asset changes and private files are rejected.
+
+The current remediation branch has blocked copy proposals; see
+[checkpoint 8](project/PUBLIC_COPY_CHECKPOINT_8.md). Passing integrity tests does
+not complete the 564-by-two contextual copy review. The frozen source baseline
+and the candidate public projection have separate identity records.
 
 ## Notes and publishing
 

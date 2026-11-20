@@ -1,5 +1,5 @@
 {
-  "checkpoint": "C57 narratives and Review27 categories",
+  "checkpoint": "Public-copy proposals checkpoint 8; release blocked; sealed C21/C57/Review27 unchanged",
   "purpose": "Reviewed public assets; changes require evidence and review",
   "assets": [
     {
@@ -19,8 +19,8 @@
     },
     {
       "path": "primary/index.html",
-      "bytes": 11667921,
-      "sha256": "56d590582a0d67a08e6a9d0f071a4f88ecd1b68e4f43e55d50fbb1b0e07c2ef2"
+      "bytes": 7443318,
+      "sha256": "f32198ec12bfd849dd3cb30a4c701489d0a55f11ab79853ff6e4647abe9ebc39"
     },
     {
       "path": "robots.txt",
@@ -34,8 +34,8 @@
     },
     {
       "path": "young-explorers/index.html",
-      "bytes": 11797861,
-      "sha256": "5e28671d49921dd6f986d020ef18678848192d2b0a02b361688ada4cdfb7fb60"
+      "bytes": 7510352,
+      "sha256": "6b80a1a0953596c1df836293394c9d0293138d7fda0af1e3dfcf6035110ba5ff"
     }
   ]
 }

@@ -11,7 +11,11 @@ Research authority and full checkpoint recovery live in the separate private
 - All 564 municipalities have completed C57 reader stories in both editions and
   an individual Review27 category decision. Preserve the rewrites. Completion
   does not resolve every uncertain origin or imply universal reader acceptance.
-  A new historical/editorial batch must be explicitly requested and scoped.
+  Public-copy remediation has standing owner authorization for agent-selected
+  runs of at most 24 municipalities across both editions, saved and validated
+  in checkpoints of at most twelve. Continue through the authorized run without
+  renewed town-selection approval, then stop after 24. New historical research or adjudication still needs an
+  explicit scope.
 - C21 is factual authority. C57 is the frozen narrative/source baseline and
   Review27 supplies the guarded category display overlay. Never recalculate or
   roundtrip authority workbooks as part of a website task.

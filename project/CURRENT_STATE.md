@@ -2,6 +2,19 @@
 
 Public site: https://sanchezbrent.github.io/nj-name-atlas/
 
+**Current remediation candidate:** [Copy proposals checkpoint 8](PUBLIC_COPY_CHECKPOINT_8.md).
+The live editions remain unchanged and are not copy-cleared. The draft removes
+original-wording owners and private fallback stores, preserves sealed C57 originals
+and Review27 mappings, and keeps strict scanning blocking. Agent text review is
+75/564 per edition, with 489 per edition remaining. County totals are
+Morris: 39, Sussex: 24, Warren: 12.
+The owner authorizes agent-selected runs of up to 24, with saved twelve-town
+validation checkpoints and no renewed town-selection approval; stop after 24.
+Human sign-offs and rendered/publication QA remain open. Proposed derivatives
+cover 72 C57 reader records per edition; sealed originals remain unchanged.
+The implementation/browser statements below describe the earlier publication,
+not fresh acceptance of this remediation candidate.
+
 The November 19 candidate brings the completed C57 narratives and Review27
 categories into the existing standalone atlas. C21 remains factual authority.
 Both editions retain all 564 rewritten stories, summaries, journeys and sidebar
