@@ -49,7 +49,8 @@ def main():
                             'agent_text_reviewed':len(reviews.get(edition,{})),
                             'heuristic_candidates':len(findings),
                             'by_rule':dict(Counter(row['rule'] for row in findings))}
-    ledger={'stage':'COPY_PROPOSALS_CHECKPOINT_2' if reviews else 'STRUCTURAL_CANDIDATE_ONLY','release':'BLOCKED','records':records,
+    checkpoint=json.loads((root/'project/public-copy-corrections.json').read_text())['checkpoint'] if reviews else None
+    ledger={'stage':checkpoint.replace('PUBLIC_COPY_','COPY_PROPOSALS_CHECKPOINT_',1) if checkpoint else 'STRUCTURAL_CANDIDATE_ONLY','release':'BLOCKED','records':records,
             'scope_note':'This inventory is not a contextual or human review. Guard repetitions are excluded from per-town excerpts; the complete bundle scan counts them.',
             'aggregate':aggregate}
     (output/'Pending_Review_Ledger.json').write_text(json.dumps(ledger,ensure_ascii=False,indent=2)+'\n')

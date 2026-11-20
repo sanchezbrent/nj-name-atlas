@@ -4,7 +4,28 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Copy proposals checkpoint — November 20, 2026
+## Current checkpoint 3 — November 20, 2026
+
+[Checkpoint 3](PUBLIC_COPY_CHECKPOINT_3.md) adds the next twelve Morris County
+towns in both editions: 494 new proposed fields, 1,061 cumulative. The 567 prior
+rows are exact and 540 unscoped reader records per edition remain exact C57.
+All event identities/years/citation bindings, source IDs/URLs and 179 Review27
+mappings are unchanged. The Morris Plains map bibliography adds a source hold;
+previous holds continue. No human or rendered sign-off is claimed.
+
+| Current measure | Primary | Young Explorers |
+| --- | ---: | ---: |
+| Agent text reviews | 24 / 564 | 24 / 564 |
+| Human/publication sign-offs | 0 / 564 | 0 / 564 |
+| Strict scan candidates | 2,469 | 2,299 |
+
+Integrity/schema/source checks, 19 Python tests, six script syntax checks,
+16 notebook assertions and 5,941 runtime assertions pass locally. Actual
+eligibility preserves all ten active stops, eleven connections and 36 holds per
+edition. Strict scanning remains blocking. These are candidate-inclusive counts,
+not distinct errors or publication clearance. Live Pages is unchanged.
+
+## Historical checkpoint 2 — November 20, 2026
 
 [Checkpoint 2](PUBLIC_COPY_CHECKPOINT_2.md) records agent text review of twelve
 towns in both editions and 567 explicit proposed field edits, including repeated

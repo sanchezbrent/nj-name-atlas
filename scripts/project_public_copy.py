@@ -253,7 +253,7 @@ def main():
     corrections=json.loads(args.corrections.read_text()) if args.corrections else None
     report = {'stage': 'STRUCTURAL_CANDIDATE_ONLY', 'release_status': 'BLOCKED', 'editions': {}}
     if corrections:
-        report.update(stage='COPY_PROPOSALS_CHECKPOINT_2',corrections_sha256=digest(corrections),owner_approval=False)
+        report.update(stage=corrections['checkpoint'].replace('PUBLIC_COPY_','COPY_PROPOSALS_CHECKPOINT_',1),corrections_sha256=digest(corrections),owner_approval=False)
     for edition in EDITIONS:
         rel = edition + '/index.html'
         raw = (source / 'docs' / rel).read_bytes()
