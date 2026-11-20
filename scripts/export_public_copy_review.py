@@ -14,11 +14,13 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root',type=Path,default=Path(__file__).resolve().parents[1])
     parser.add_argument('--private-output',type=Path,required=True)
+    parser.add_argument('--review-records',type=Path)
     args=parser.parse_args()
     root=args.root.resolve(); output=args.private_output.resolve()
     if output==root or root in output.parents:
         parser.error('Private review output must be outside the public repository')
     output.mkdir(parents=True,exist_ok=True)
+    reviews=json.loads(args.review_records.read_text()) if args.review_records else {}
     records=[]; aggregate={}
     for edition in ('primary','young-explorers'):
         page=Page();page.feed((root/'docs'/edition/'index.html').read_text())
@@ -36,16 +38,18 @@ def main():
                     candidates.append({'path':path,'rules':rules,'exact_public_candidate':text,
                                        'treatment':'PENDING_CONTEXTUAL_EDITORIAL_REVIEW',
                                        'evidence_checked':False,'resolution':None})
+            review=reviews.get(edition,{}).get(code)
             records.append({'edition':edition,'code':code,'municipality_id':view['profile']['municipality_id'],
                             'name':view['profile']['name'],'county':view['profile']['county'],
-                            'machine_inventory':'COMPLETE','manual_review':'NOT_STARTED',
+                            'machine_inventory':'COMPLETE','manual_review':'AGENT_TEXT_REVIEW_COMPLETE; HUMAN_AND_RENDER_REVIEW_PENDING' if review else 'NOT_STARTED',
                             'human_sign_off':False,'citation_verification':'PENDING',
-                            'candidate_fields':candidates})
+                            'candidate_fields':candidates,'contextual_review_record':review})
         findings=check_edition(root,edition)
         aggregate[edition]={'machine_inventoried':564,'manual_reviewed':0,'signed_off':0,
+                            'agent_text_reviewed':len(reviews.get(edition,{})),
                             'heuristic_candidates':len(findings),
                             'by_rule':dict(Counter(row['rule'] for row in findings))}
-    ledger={'stage':'STRUCTURAL_CANDIDATE_ONLY','release':'BLOCKED','records':records,
+    ledger={'stage':'COPY_PROPOSALS_CHECKPOINT_2' if reviews else 'STRUCTURAL_CANDIDATE_ONLY','release':'BLOCKED','records':records,
             'scope_note':'This inventory is not a contextual or human review. Guard repetitions are excluded from per-town excerpts; the complete bundle scan counts them.',
             'aggregate':aggregate}
     (output/'Pending_Review_Ledger.json').write_text(json.dumps(ledger,ensure_ascii=False,indent=2)+'\n')

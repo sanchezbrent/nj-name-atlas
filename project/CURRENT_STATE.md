@@ -2,11 +2,14 @@
 
 Public site: https://sanchezbrent.github.io/nj-name-atlas/
 
-**Current remediation candidate:** [Structural checkpoint 1](PUBLIC_COPY_CHECKPOINT_1.md).
+**Current remediation candidate:** [Copy proposals checkpoint 2](PUBLIC_COPY_CHECKPOINT_2.md).
 The live editions remain unchanged and are not copy-cleared. The draft removes
 original-wording field owners and private annotation/fallback stores, preserves
-all C57 reader text and Review27 mappings, and keeps strict scanning blocking.
-All 1,128 contextual town-edition reviews and publication QA remain open.
+sealed C57 originals and Review27 mappings, and keeps strict scanning blocking.
+Agent text review now covers twelve towns per edition; 552 per edition remain.
+All human sign-offs and publication/browser QA remain open. Proposed edits to
+eleven C57 reader records per edition are explicit, separately recorded derivatives;
+the sealed C57 originals remain unchanged.
 The implementation/browser statements below describe the earlier publication,
 not fresh acceptance of this remediation candidate.
 

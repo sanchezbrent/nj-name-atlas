@@ -44,8 +44,8 @@ website files. CI checks approved asset identities, private-file boundaries,
 behavior with isolated fake storage. Its negative tests prove that accidental
 asset changes and private files are rejected.
 
-The current remediation branch is a blocked structural candidate; see
-[checkpoint 1](project/PUBLIC_COPY_CHECKPOINT_1.md). Passing integrity tests does
+The current remediation branch has blocked copy proposals; see
+[checkpoint 2](project/PUBLIC_COPY_CHECKPOINT_2.md). Passing integrity tests does
 not complete the 564-by-two contextual copy review. The frozen source baseline
 and the candidate public projection have separate identity records.
 

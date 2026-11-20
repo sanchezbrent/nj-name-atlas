@@ -104,12 +104,56 @@ def project_payload(original):
     return projected
 
 
-def project_html(html):
+def apply_copy_corrections(payload, edition, corrections):
+    """Apply individually recorded proposals; refuse stale or out-of-scope fields."""
+    count=0
+    seen=set()
+    allowed_event={'date','precision','type','before','after','actor','action','significance'}
+    for row in corrections.get('changes',[]):
+        if row['edition']!=edition:continue
+        path=row['path']; code=row['code']
+        if code not in corrections['towns'] or path[1]!=code:
+            raise ValueError('Copy correction outside the explicit town scope')
+        key=tuple(path)
+        if key in seen:raise ValueError('Duplicate copy correction')
+        seen.add(key)
+        allowed=path[0]=='editorial' and (
+            (len(path)==3 and path[2]=='preview') or
+            (len(path)==4 and path[2]=='paragraphs' and type(path[3]) is int) or
+            (len(path)==5 and path[2]=='journey' and path[-1] in {'date','label','detail'}) or
+            (len(path)==6 and path[2:4]==['sidebar','fields'] and path[-1] in {'label','text'}))
+        if path[0]=='views':
+            allowed=(path[2]=='events' and (path[-1] in allowed_event or path[-2:]==['date_review','display'])) or (path[2]=='sources' and path[-1] in {'author','title','publication'}) or (len(path)==4 and path[2:] == ['profile','earlier'])
+        if not allowed:raise ValueError('Protected field in copy correction')
+        parent=payload
+        for part in path[:-1]:parent=parent[part]
+        before=parent[path[-1]];after=row['replacement']
+        if not isinstance(before,str) or not isinstance(after,str) or digest(before)!=row['expected_sha256']:
+            raise ValueError('Stale copy correction: '+edition+' '+str(path))
+        if path[0]=='views' and path[2]=='events' and path[-1]=='date':
+            if re.findall(r'\d+',before)!=re.findall(r'\d+',after):
+                raise ValueError('Historical date digits changed by copy correction')
+        parent[path[-1]]=after;count+=1
+        if path[0]=='views' and path[2]=='events' and len(path)==5:
+            review=parent.get('date_review')
+            if review and path[-1] in review['expected_fields']:
+                if review['expected_fields'][path[-1]]!=before:raise ValueError('Stale date-context binding')
+                review['expected_fields'][path[-1]]=after
+    for code,view in payload['views'].items():
+        payload['view_guards'][code]=stable_bytes(view).decode()
+        payload['editorial'][code]['expected_data']=payload['view_guards'][code]
+        payload['editorial'][code]['sidebar']['expected_data']=payload['view_guards'][code]
+    return count
+
+
+def project_html(html, edition=None, corrections=None):
     page = Page()
     page.feed(html)
     original = unpack(json.loads(next(s['text'] for s in page.scripts
                                      if s['attrs'].get('id') == 'atlas-pilot-data')))
     projected = project_payload(original)
+    structural_reader_hash=digest(reader_copy(projected['editorial']))
+    correction_count=apply_copy_corrections(projected,edition,corrections) if corrections else 0
     old_wrapper = next(s['text'] for s in page.scripts if s['attrs'].get('id') == 'atlas-pilot-data')
     html = html.replace(old_wrapper, compact(pack(projected)), 1)
 
@@ -148,6 +192,12 @@ def project_html(html):
     for item in discovery['connections'] + [stop for tour in discovery['tours'] for stop in tour['stops']]:
         for binding in item.get('basis', []):
             binding['value_guard'] = digest(binding.pop('value'))
+        code=item.get('code',item.get('a'))
+        if corrections and code in corrections['towns'] and item.get('event') and item.get('eventAction'):
+            source_event=next((e for e in original['views'][code]['events'] if e['id']==item['event']),None)
+            public_event=next((e for e in projected['views'][code]['events'] if e['id']==item['event']),None)
+            if source_event and public_event and item['eventAction']==source_event['action']:
+                item['eventAction']=public_event['action']
     html = replace_literal(html, 'discovery', discovery)
     before = "profiles[b.code]?.[b.field]===b.value"
     after = "typeof b.value_guard==='string'&&pilotPayload.source_field_guards?.[b.code]?.[b.field]===b.value_guard"
@@ -174,7 +224,8 @@ def project_html(html):
         'expanded_canonical_sha256': digest(projected),
         'payload_sha256': pack(projected)['sha256'],
         'editorial_sha256': digest(projected['editorial']),
-        'reader_copy_sha256': digest(reader_copy(original['editorial'])),
+        'reader_copy_sha256': digest(reader_copy(projected['editorial'])),
+        'frozen_reader_copy_sha256': structural_reader_hash,
         'before_editorial_sha256': digest(original['editorial']),
         'overlay_sha256': digest(overlay),
         'overlay_semantics_sha256': digest(old_overlay_semantics),
@@ -182,7 +233,8 @@ def project_html(html):
         'events': sum(len(view['events']) for view in projected['views'].values()),
         'sources': sum(len(view['sources']) for view in projected['views'].values()),
         'source_input_writes': 0,
-        'editorial_corrections': 0,
+        'copy_correction_fields': correction_count,
+        'exact_C57_reader_records':sum(reader_copy({c:original['editorial'][c]})==reader_copy({c:projected['editorial'][c]}) for c in original['editorial']),
         'contextual_review_complete': False,
     }
 
@@ -191,19 +243,23 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-root', type=Path, required=True)
     parser.add_argument('--output-root', type=Path, required=True)
+    parser.add_argument('--corrections',type=Path)
     args = parser.parse_args()
     source, output = args.source_root.resolve(), args.output_root.resolve()
     if source == output:
         parser.error('Use a separate immutable input checkout')
     baseline = json.loads((source / 'project/asset-baseline.json').read_text())
     approved = {row['path']: row for row in baseline['assets']}
+    corrections=json.loads(args.corrections.read_text()) if args.corrections else None
     report = {'stage': 'STRUCTURAL_CANDIDATE_ONLY', 'release_status': 'BLOCKED', 'editions': {}}
+    if corrections:
+        report.update(stage='COPY_PROPOSALS_CHECKPOINT_2',corrections_sha256=digest(corrections),owner_approval=False)
     for edition in EDITIONS:
         rel = edition + '/index.html'
         raw = (source / 'docs' / rel).read_bytes()
         if hashlib.sha256(raw).hexdigest() != approved[rel]['sha256']:
             raise ValueError('Source asset is not the pinned pre-remediation edition')
-        html, details = project_html(raw.decode())
+        html, details = project_html(raw.decode(),edition,corrections)
         (output / 'docs' / rel).write_text(html)
         details['before_asset_sha256'] = approved[rel]['sha256']
         details['after_asset_sha256'] = hashlib.sha256(html.encode()).hexdigest()

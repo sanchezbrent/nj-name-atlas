@@ -65,6 +65,10 @@ def check(root,syntax=True):
     if syntax:require(node is not None,'Node.js 22 or newer is required for syntax checks.')
     corpus=json.loads((root/'project/content-baseline.json').read_text())
     publication=json.loads((root/'project/public-copy-baseline.json').read_text()) if (root/'project/public-copy-baseline.json').exists() else None
+    if publication and publication.get('corrections_sha256'):
+        corrections=json.loads((root/'project/public-copy-corrections.json').read_text())
+        require(hashlib.sha256(stable_bytes(corrections)).hexdigest()==publication['corrections_sha256'],'Copy proposal manifest identity changed')
+        require(publication['release_status']=='BLOCKED' and publication['owner_approval'] is False,'Unapproved copy proposals cannot clear publication')
     script_count=0
     for edition in ['primary','young-explorers']:
         page=Page();page.feed((site/edition/'index.html').read_text())
@@ -89,7 +93,13 @@ def check(root,syntax=True):
         if publication:
             from project_public_copy import reader_copy,PROFILE_FIELDS,EVENT_FIELDS,SOURCE_FIELDS
             require(approved_corpus['before_editorial_sha256']==corpus['editions'][edition]['editorial_sha256'],edition+': frozen C57 binding changed')
-            require(hashlib.sha256(stable_bytes(reader_copy(payload['editorial']))).hexdigest()==approved_corpus['reader_copy_sha256'],edition+': C57 reader text changed')
+            require(hashlib.sha256(stable_bytes(reader_copy(payload['editorial']))).hexdigest()==approved_corpus['reader_copy_sha256'],edition+': reviewed reader copy changed')
+            if publication.get('corrections_sha256'):
+                for row in corrections['changes']:
+                    if row['edition']!=edition:continue
+                    value=payload
+                    for part in row['path']:value=value[part]
+                    require(value==row['replacement'],edition+': explicit copy proposal missing')
             for code,view in payload['views'].items():
                 require(set(view['profile'])<=PROFILE_FIELDS|{'referent','earlier'},edition+': private profile field reintroduced')
                 require(payload['view_guards'][code]==stable_bytes(view).decode(),edition+': public view guard mismatch')

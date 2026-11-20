@@ -4,6 +4,24 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
+## Copy proposals checkpoint — November 20, 2026
+
+[Checkpoint 2](PUBLIC_COPY_CHECKPOINT_2.md) records agent text review of twelve
+towns in both editions and 567 explicit proposed field edits, including repeated
+timeline and citation contexts. The 552 towns outside this batch remain exact
+C57 in each edition; the frozen source records remain unchanged. Historical
+search aliases are restored in this batch. Source holds and owner approval remain
+open; no human or rendered-browser sign-off is claimed.
+
+| Current measure | Primary | Young Explorers |
+| --- | ---: | ---: |
+| Agent text reviews | 12 / 564 | 12 / 564 |
+| Human/publication sign-offs | 0 / 564 | 0 / 564 |
+| Strict scan candidates | 2,601 | 2,431 |
+
+These are candidate/duplicate-inclusive scanner counts, not distinct errors or
+reviewed towns. Strict CI remains blocked. The draft is not merged or deployed.
+
 ## Structural candidate checkpoint — November 19, 2026
 
 See [checkpoint 1](PUBLIC_COPY_CHECKPOINT_1.md) for the complete change/evidence

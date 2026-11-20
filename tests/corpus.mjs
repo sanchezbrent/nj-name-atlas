@@ -38,7 +38,7 @@ for(const edition of ['primary','young-explorers']){
   check(hash(semantics)===approved.overlay_semantics_sha256,'all Review27 decisions unchanged '+edition);
   const readerCopy=structuredClone(payload.editorial);
   for(const record of Object.values(readerCopy)){delete record.expected_data;delete record.sidebar.expected_data;}
-  check(projectionHash(readerCopy)===approved.reader_copy_sha256,'every C57 reader field unchanged '+edition);
+  check(projectionHash(readerCopy)===approved.reader_copy_sha256,'reader fields match C57 plus explicit copy proposals '+edition);
   check(approved.before_editorial_sha256===baseline.editions[edition].editorial_sha256,'frozen C57 source identity '+edition);
   const helper=html.slice(html.indexOf('function applyReviewedCategoryOverlay('),html.indexOf('\n\n  const packedCategoryOverlay='));
   const apply=vm.runInNewContext(helper+';applyReviewedCategoryOverlay;');
