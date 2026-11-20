@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 7 — November 20, 2026
+## Current checkpoint 8 — November 20, 2026
+
+[Checkpoint 8](PUBLIC_COPY_CHECKPOINT_8.md) completes twelve Warren County towns
+in both editions, adding 314 proposals for 2,824 cumulative. All
+2,510 earlier rows and prior 63 reviewed reader/view records remain exact.
+Agent text review is **75/564 per edition**, with 489 remaining and zero human
+sign-offs. Strict candidates: 2,116 primary and 1,950 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Stop after this completed 24-town run. The next 24 towns are queued but unstarted; resume under standing authorization when instructed.
+
+## Historical checkpoint 7 — November 20, 2026
 
 [Checkpoint 7](PUBLIC_COPY_CHECKPOINT_7.md) completes twelve Sussex County towns
 in both editions, adding 257 proposals for 2,510 cumulative. All
