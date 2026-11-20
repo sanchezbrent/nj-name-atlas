@@ -4,7 +4,33 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 5 — November 20, 2026
+## Current checkpoint 6 — November 20, 2026
+
+[Checkpoint 6](PUBLIC_COPY_CHECKPOINT_6.md) completes the first twelve Sussex
+County towns in both editions, from Andover Borough through Hopatcong Borough.
+It adds 380 proposed fields, for 2,253 cumulative; all 1,873 earlier rows and
+all previous 39 reviewed reader/view records remain exact.
+
+| Current measure | Primary | Young Explorers |
+| --- | ---: | ---: |
+| Agent text reviews | 51 / 564 | 51 / 564 |
+| Human/publication sign-offs | 0 / 564 | 0 / 564 |
+| Strict scan candidates | 2,191 | 2,021 |
+
+All 513 unscoped reader records per edition remain exact C57. Dates, citations,
+source/event identities, all 179 Review27 mappings and discovery eligibility/holds
+are preserved. Required CLI checks, 21 Python tests, six script syntax checks,
+16 notebook assertions and 5,941 runtime assertions pass. Strict scanning remains
+blocking; candidate counts include duplicates and possible false positives.
+Source holds, human acceptance and rendered cross-edition QA remain open. Live
+Pages is unchanged. Exact before text and continuation records remain private.
+
+The owner has authorized agent selection of future public-copy batches of at
+most twelve without renewed town-selection approval. Save and stop at each
+checkpoint. The next twelve Sussex towns are queued but unstarted; release
+authorization and historical adjudication are separate.
+
+## Historical checkpoint 5 — November 20, 2026
 
 [Checkpoint 5](PUBLIC_COPY_CHECKPOINT_5.md) completes the saved three-town queue:
 Victory Gardens, Washington Township and Wharton, in both editions. It adds 69

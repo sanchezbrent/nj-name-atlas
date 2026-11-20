@@ -123,13 +123,15 @@ def apply_copy_corrections(payload, edition, corrections):
             (len(path)==5 and path[2]=='journey' and path[-1] in {'date','label','detail'}) or
             (len(path)==6 and path[2:4]==['sidebar','fields'] and path[-1] in {'label','text'}))
         if path[0]=='views':
-            allowed=(path[2]=='events' and (path[-1] in allowed_event or path[-2:]==['date_review','display'])) or (path[2]=='sources' and path[-1] in {'author','title','publication'}) or (len(path)==4 and path[2:] == ['profile','earlier'])
+            allowed=(path[2]=='events' and (path[-1] in allowed_event or path[-2:]==['date_review','display'])) or (path[2]=='sources' and path[-1] in {'author','title','publication'}) or (len(path)==4 and path[2]=='profile' and path[-1] in {'earlier','referent'})
         if not allowed:raise ValueError('Protected field in copy correction')
         parent=payload
         for part in path[:-1]:parent=parent[part]
         before=parent[path[-1]];after=row['replacement']
         if not isinstance(before,str) or not isinstance(after,str) or digest(before)!=row['expected_sha256']:
             raise ValueError('Stale copy correction: '+edition+' '+str(path))
+        if path==['views',code,'profile','referent'] and after!=payload['editorial'][code].get('preview'):
+            raise ValueError('Public profile summary must match the reviewed editorial preview')
         if path[0]=='views' and path[2]=='events' and path[-1]=='date':
             if re.findall(r'\d+',before)!=re.findall(r'\d+',after):
                 raise ValueError('Historical date digits changed by copy correction')
