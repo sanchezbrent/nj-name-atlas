@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_4",
+  "checkpoint": "PUBLIC_COPY_5",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -39,7 +39,10 @@
     "1433",
     "1434",
     "1435",
-    "1436"
+    "1436",
+    "1437",
+    "1438",
+    "1439"
   ],
   "changes": [
     {
@@ -25325,6 +25328,963 @@
       ],
       "expected_sha256": "3b667e677bd37811a3de69c49a6ce747a80a9b6c18d7eb3336d502b38347248a",
       "replacement": "Roxberry (transcribed spelling); Morris Township (parent)",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1437",
+      "path": [
+        "editorial",
+        "1437",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c738bbf32bda19d0a2fcf359f4bc2fa0a288ec7971f2898f7e1d2824b28e696b",
+      "replacement": "Historian Kat Kurylko reports development beginning on December 22, 1941 and the arrival of the first fifteen families on June 11, 1942. Those are milestones in building and occupying a community. Neither establishes when the name first appeared in writing.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1437",
+      "path": [
+        "editorial",
+        "1437",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0450484e8245b68c94f5bf0680a5604d9afad1c6f73d90c72015f3f863a39f1b",
+      "replacement": "Later histories connect the name with household victory gardens. The first proposer and exact naming date remain unknown.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1437",
+      "path": [
+        "editorial",
+        "1437",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0450484e8245b68c94f5bf0680a5604d9afad1c6f73d90c72015f3f863a39f1b",
+      "replacement": "Later histories connect the name with household victory gardens. The first proposer and exact naming date remain unknown.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1437",
+      "path": [
+        "editorial",
+        "1437",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "0df85f917b97c332bf6e567be4a58fc681d869f502d27d5a3324b96ce9293375",
+      "replacement": "The index gives September 18, 1951 for voter acceptance and immediate effect, separately from the June law and September filing.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1437",
+      "path": [
+        "editorial",
+        "1437",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "0df85f917b97c332bf6e567be4a58fc681d869f502d27d5a3324b96ce9293375",
+      "replacement": "The index gives September 18, 1951 for voter acceptance and immediate effect, separately from the June law and September filing.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "432eb70412fd52f95a0d8d8e0a78c939a014e4e1864258395ca0090442abf6e1",
+      "replacement": "Washington Township’s name is linked by its historical society to George Washington. He was still living, but no longer president, when the township formed in 1798. This is a later historical attribution; the original proposer and precise naming intention remain unknown.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "b9384234a662babe17353d71bdd7a22eb1eef3ce52b10f82256f4269fd790fa8",
+      "replacement": "The local historical society says Washington Township honors George Washington. He had finished being president when the township formed in 1798. The first person to suggest the name and the precise reason for choosing it remain unknown.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "8d3fd647f3bedad2465241bf4f65647d4f758fffc8a9c1e3e411cc72f758f9e1",
+      "replacement": "The township came from Roxbury territory. A legal-history index gives February 12, 1798 for approval of the division law and April 2 for its effect. The municipal history calls February 12 the incorporation date. These descriptions refer to different government stages. The indexed April 2 effective date does not establish an acceptance vote or when officials first met.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "de226f0f0e25c001ff7e07e87fb6b3393e462334bca3e03d9f15fd8b333c4a9b",
+      "replacement": "German Valley and Long Valley belong to the history of a community within the township. The historical society reports that a 1983 proposal to rename the whole municipality Long Valley Township lost, 1,450 to 1,113. The reported year and vote totals do not give an exact election day. Long Valley belongs here as a community name and a rejected municipal proposal, rather than an adopted former township name.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "0a7dd97b38d5380b6fa428661d4f49e366647c0329d3a44e13ff83a449526166",
+      "replacement": "Long Valley is a community inside the township, once also called German Valley. The historical society reports that a 1983 proposal to rename the whole township Long Valley lost by 1,450 votes to 1,113. The reported year and vote totals do not give an exact election day. The proposed name was rejected, so it did not become an official township name.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ea0ddb64dda7a11c3c4f1bb4fa8f1990cde8b4cafc3eaa2297da9b31bb46d098",
+      "replacement": "The legal index identifies the February 12, 1798 Roxbury division act using Washington Township. That government stage does not identify the original name proposer or establish the name’s first use.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ea0ddb64dda7a11c3c4f1bb4fa8f1990cde8b4cafc3eaa2297da9b31bb46d098",
+      "replacement": "The legal index identifies the February 12, 1798 Roxbury division act using Washington Township. That government stage does not identify the original name proposer or establish the name’s first use.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c21de340043618310d417c43ba2a48ed9299efb7b7b402e41526f662b8a459d4",
+      "replacement": "The historical society reports that the 1983 Long Valley Township proposal lost, 1,450–1,113. The reported year and vote totals do not give an exact election day. The proposed title was not adopted.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c21de340043618310d417c43ba2a48ed9299efb7b7b402e41526f662b8a459d4",
+      "replacement": "The historical society reports that the 1983 Long Valley Township proposal lost, 1,450–1,113. The reported year and vote totals do not give an exact election day. The proposed title was not adopted.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "2eb85871b2e580a0158941107d4db4c7082ce9a2c8e677ee6811263f3b4eb41d",
+      "replacement": "The historical society reports that the 1983 Long Valley Township proposal lost, 1,450–1,113. The reported year and vote totals do not give an exact election day.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "f4e3f7995a535c55c24f3cf018358ead2a56b46f4e77e816267562619aee2155",
+      "replacement": "The historical society says the 1983 proposal to rename the whole township Long Valley lost by 1,450 votes to 1,113. The reported year and vote totals do not give an exact election day.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "555008c238fa45e62625dad0caccd55c6c99a60600852c22865e64e3e7223aa0",
+      "replacement": "The legal index gives February 12, 1798 approval and April 2 effect. Municipal history calls February 12 incorporation. The indexed effective date does not establish an acceptance vote or when officials first met.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "editorial",
+        "1438",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "555008c238fa45e62625dad0caccd55c6c99a60600852c22865e64e3e7223aa0",
+      "replacement": "The legal index gives February 12, 1798 approval and April 2 effect. Municipal history calls February 12 incorporation. The indexed effective date does not establish an acceptance vote or when officials first met.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2fb20a1c2ff572a5919c28ee5381dcc37afac8a5ebad9d8abdf6bc4fbca0fec3",
+      "replacement": "The borough began as Port Oram in 1895, but accounts disagree about the June vote date. That disagreement does not establish two separate elections.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ab952fa584dff341429f19abe0d05a1ba1743c5368a7ce63a24eb711d4018e6a",
+      "replacement": "The March 27, 1902 law changes Port Oram to Wharton and makes the change operate when a certified copy is filed with the county clerk. April 16 is indexed as that filing. The law required no referendum, but that does not rule out a separate advisory vote. The original local proposer and any matching postal change remain unresolved.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "0c5a41deedb907675069a2d7c946abb4b504e1e5b29cc5d74f557cad7b1e62d3",
+      "replacement": "A 1902 law changed the name to Wharton. It said a certified copy had to be filed with the county clerk, and a guide gives April 16 for that filing. The law did not require a naming referendum or establish whether a separate advisory vote was held. A matching postal name change remains unresolved too.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f340a859e91d117ec64fb9f97015209182ce0df2fb5f458fb4eaec832385647e",
+      "replacement": "The legal index gives June 25, 1895 for the election. The municipal account instead gives June 28; the disagreement remains unresolved.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f340a859e91d117ec64fb9f97015209182ce0df2fb5f458fb4eaec832385647e",
+      "replacement": "The legal index gives June 25, 1895 for the election. The municipal account instead gives June 28; the disagreement remains unresolved.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "ac918344f3b2f8152c47b00f0d00c76e4d3023e1a7af4eb1b02aeaf428173ab8",
+      "replacement": "The law required county filing of a certified copy for the name change to operate. It prescribed no naming referendum.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "ac918344f3b2f8152c47b00f0d00c76e4d3023e1a7af4eb1b02aeaf428173ab8",
+      "replacement": "The law required county filing of a certified copy for the name change to operate. It prescribed no naming referendum.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "9aad9b2e379a78ba00bacc41896fc001ead3d5a7ec8301149512fd1c3ee7d4fb",
+      "replacement": "The index gives April 16, 1902 for county filing, the condition specified by the law. That filing date does not establish whether a separate advisory vote was held.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "9aad9b2e379a78ba00bacc41896fc001ead3d5a7ec8301149512fd1c3ee7d4fb",
+      "replacement": "The index gives April 16, 1902 for county filing, the condition specified by the law. That filing date does not establish whether a separate advisory vote was held.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1010ab37619323071c07c53229d6920bf266550e9de0417c0d3ba147ab626323",
+      "replacement": "Port Oram’s reported 1860 use comes from the later 1882 history. The March 27, 1902 law uses Wharton but does not explain the choice of honoree.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "editorial",
+        "1439",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "235071906501d3949b933474093323e9b692672c61a3e6c8652dbd1322dae0bb",
+      "replacement": "The Port Oram story was written later. The 1902 law uses Wharton but does not explain why that honoree was chosen.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "452b12b8b8a67195bbd63201a7a4a66f0eb8ceea9c135fda13385040d4a74c5c",
+      "replacement": "The development dates do not establish when the name first appeared.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "b7fa95daeed82ef1c9e60b3962d05917de1922dd6e11f7e5085ffda5d416b010",
+      "replacement": "Later histories explain the wartime garden association, while the exact naming date remains unknown.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "sources",
+        "S1545",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "sources",
+        "S2203",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "d8dc00b320e4cd1d56537c165134010f4ca44f0332061aee49ac15daa150db40",
+      "replacement": "The indexed act identifies a government stage using Washington, without establishing the name’s first use.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "a33ace69f3dfafe733632f533e9ff878b12bb889c59809fc4e44b72282a4d3d6",
+      "replacement": "An effective date does not establish an acceptance referendum or when officials first met.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "sources",
+        "S1547",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "sources",
+        "S2197",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "sources",
+        "S2202",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "0c8aa2913b0414711a32347e3475927c8e05315d6fc426bfaed0e887ae3da2a5",
+      "replacement": "Oram’s role as developer and namesake does not establish that he first chose the name.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "c457b38ec149cfbd65ecbb7db28e1714a7f5461fde03793f9d39dbdf7862bddc",
+      "replacement": "This municipal account conflicts with the index; it does not establish a second election.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "00ca58522e1e0ae2b7e4c55927efe3d4ec7f2aaa57e63c1c17fa166704d29823",
+      "replacement": "This is county filing and effect, rather than a separate legislative act.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "7595268125ffa0023b5988e8a97cdbcfa62e4f545da584b0de2f52ef186e3254",
+      "replacement": "Exact approval date in the cited act",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "3e809d3ac7d0c7af920c2131c362ad5c86fdde32f8a24b7f2d12171d57da7b11",
+      "replacement": "The filing corresponds to the act’s condition for the name change to operate, rather than a statutory referendum.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "sources",
+        "S1549",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "sources",
+        "S2199",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "sources",
+        "S2201",
+        "publication"
+      ],
+      "expected_sha256": "52f8f643a694b62f0e34220113656d3d672fd5baf39eb0593824cb49c7b1f6a2",
+      "replacement": "1882; modern transcription",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "452b12b8b8a67195bbd63201a7a4a66f0eb8ceea9c135fda13385040d4a74c5c",
+      "replacement": "The development dates do not establish when the name first appeared.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "b7fa95daeed82ef1c9e60b3962d05917de1922dd6e11f7e5085ffda5d416b010",
+      "replacement": "Later histories explain the wartime garden association, while the exact naming date remains unknown.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "sources",
+        "S1545",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "sources",
+        "S2203",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "d8dc00b320e4cd1d56537c165134010f4ca44f0332061aee49ac15daa150db40",
+      "replacement": "The indexed act identifies a government stage using Washington, without establishing the name’s first use.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "a33ace69f3dfafe733632f533e9ff878b12bb889c59809fc4e44b72282a4d3d6",
+      "replacement": "An effective date does not establish an acceptance referendum or when officials first met.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "sources",
+        "S1547",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "sources",
+        "S2197",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "sources",
+        "S2202",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "0c8aa2913b0414711a32347e3475927c8e05315d6fc426bfaed0e887ae3da2a5",
+      "replacement": "Oram’s role as developer and namesake does not establish that he first chose the name.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "c457b38ec149cfbd65ecbb7db28e1714a7f5461fde03793f9d39dbdf7862bddc",
+      "replacement": "This municipal account conflicts with the index; it does not establish a second election.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "00ca58522e1e0ae2b7e4c55927efe3d4ec7f2aaa57e63c1c17fa166704d29823",
+      "replacement": "This is county filing and effect, rather than a separate legislative act.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "7595268125ffa0023b5988e8a97cdbcfa62e4f545da584b0de2f52ef186e3254",
+      "replacement": "Exact approval date in the cited act",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "3e809d3ac7d0c7af920c2131c362ad5c86fdde32f8a24b7f2d12171d57da7b11",
+      "replacement": "The filing corresponds to the act’s condition for the name change to operate, rather than a statutory referendum.",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "sources",
+        "S1549",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "sources",
+        "S2199",
+        "publication"
+      ],
+      "expected_sha256": "279254cda40e071f6ee3e80186a612cf783eea467af7b69b1b997739c4f51e03",
+      "replacement": "Undated index",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "sources",
+        "S2201",
+        "publication"
+      ],
+      "expected_sha256": "52f8f643a694b62f0e34220113656d3d672fd5baf39eb0593824cb49c7b1f6a2",
+      "replacement": "1882; modern transcription",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "94eb4ceb1a326f28e077fcca87723b3c437543426981973be76a2c93fd7ab5f9",
+      "replacement": "Victory Gardens (federal housing community); Randolph Township (parent)",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1437",
+      "path": [
+        "views",
+        "1437",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "94eb4ceb1a326f28e077fcca87723b3c437543426981973be76a2c93fd7ab5f9",
+      "replacement": "Victory Gardens (federal housing community); Randolph Township (parent)",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0adb2fd5a12590d5e5cbe6683181051fd060e151fabf83d5bfbc4a0fb6babb46",
+      "replacement": "Roxbury Township (parent); German Valley (community); Long Valley (community); Long Valley Township (rejected 1983 proposal)",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1438",
+      "path": [
+        "views",
+        "1438",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0adb2fd5a12590d5e5cbe6683181051fd060e151fabf83d5bfbc4a0fb6babb46",
+      "replacement": "Roxbury Township (parent); German Valley (community); Long Valley (community); Long Valley Township (rejected 1983 proposal)",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1104ccc7e25cb29982f56d75119dfc7dc052c83f799a34d546a40bb7022b241b",
+      "replacement": "Port Oram; Irondale (associated settlement); Luxemburg (associated settlement); Maryville (associated settlement); Mount Pleasant (associated settlement)",
+      "treatment": "process-copy proposal; preserve attribution and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1439",
+      "path": [
+        "views",
+        "1439",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1104ccc7e25cb29982f56d75119dfc7dc052c83f799a34d546a40bb7022b241b",
+      "replacement": "Port Oram; Irondale (associated settlement); Luxemburg (associated settlement); Maryville (associated settlement); Mount Pleasant (associated settlement)",
       "treatment": "process-copy proposal; preserve attribution and uncertainty"
     }
   ]

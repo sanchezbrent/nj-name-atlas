@@ -4,7 +4,30 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 4 — November 20, 2026
+## Current checkpoint 5 — November 20, 2026
+
+[Checkpoint 5](PUBLIC_COPY_CHECKPOINT_5.md) completes the saved three-town queue:
+Victory Gardens, Washington Township and Wharton, in both editions. It adds 69
+proposed fields, for 1,873 cumulative; all 1,804 earlier rows remain exact.
+All 39 Morris County towns now have agent text review. Statewide review remains
+incomplete, and human/publication sign-offs remain zero.
+
+| Current measure | Primary | Young Explorers |
+| --- | ---: | ---: |
+| Agent text reviews | 39 / 564 | 39 / 564 |
+| Human/publication sign-offs | 0 / 564 | 0 / 564 |
+| Strict scan candidates | 2,211 | 2,045 |
+
+All 525 unscoped reader records per edition remain exact C57. Prior reviews,
+source/event identities, dates, citations, all 179 Review27 mappings and actual
+discovery eligibility/holds are unchanged. Required CLI project/source/schema
+checks, 19 Python tests, six script syntax checks, 16 notebook assertions and
+5,941 runtime assertions pass. Strict scanning still blocks publication; counts
+include duplicate guards and possible false positives. Source holds, human
+acceptance and rendered cross-edition QA remain open. Live Pages is unchanged.
+Stopped after the three-town queue; no new county or batch was begun.
+
+## Historical checkpoint 4 — November 20, 2026
 
 [Checkpoint 4](PUBLIC_COPY_CHECKPOINT_4.md) completes one saved twelve-town batch
 in both editions, from Morristown through Roxbury. It adds 743 proposed fields,
