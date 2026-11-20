@@ -12,8 +12,9 @@ Research authority and full checkpoint recovery live in the separate private
   an individual Review27 category decision. Preserve the rewrites. Completion
   does not resolve every uncertain origin or imply universal reader acceptance.
   Public-copy remediation has standing owner authorization for agent-selected
-  batches of at most twelve municipalities across both editions. Save and stop
-  at each checkpoint. New historical research or adjudication still needs an
+  runs of at most 24 municipalities across both editions, saved and validated
+  in checkpoints of at most twelve. Continue through the authorized run without
+  renewed town-selection approval, then stop after 24. New historical research or adjudication still needs an
   explicit scope.
 - C21 is factual authority. C57 is the frozen narrative/source baseline and
   Review27 supplies the guarded category display overlay. Never recalculate or

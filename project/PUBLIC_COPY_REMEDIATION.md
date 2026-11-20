@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 6 — November 20, 2026
+## Current checkpoint 7 — November 20, 2026
+
+[Checkpoint 7](PUBLIC_COPY_CHECKPOINT_7.md) completes twelve Sussex County towns
+in both editions, adding 257 proposals for 2,510 cumulative. All
+2,253 earlier rows and prior 51 reviewed reader/view records remain exact.
+Agent text review is **63/564 per edition**, with 501 remaining and zero human
+sign-offs. Strict candidates: 2,158 primary and 1,989 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Continue with the already authorized first twelve Warren towns as checkpoint 8, then stop after all 24.
+
+## Historical checkpoint 6 — November 20, 2026
 
 [Checkpoint 6](PUBLIC_COPY_CHECKPOINT_6.md) completes the first twelve Sussex
 County towns in both editions, from Andover Borough through Hopatcong Borough.

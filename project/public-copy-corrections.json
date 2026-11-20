@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_6",
+  "checkpoint": "PUBLIC_COPY_7",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -54,7 +54,19 @@
     "1909",
     "1910",
     "1911",
-    "1912"
+    "1912",
+    "1913",
+    "1914",
+    "1915",
+    "1916",
+    "1917",
+    "1918",
+    "1919",
+    "1920",
+    "1921",
+    "1922",
+    "1923",
+    "1924"
   ],
   "changes": [
     {
@@ -31605,6 +31617,3587 @@
       ],
       "expected_sha256": "dc6e8e684f6051e9ea9c280f21b7f400d9280ee9891fe0de7aa85bb5a77d5f7f",
       "replacement": "Hapakonoesson (reported watercourse form); Brookland (forge community); Brooklyn Forge; Brooklyn Borough (former municipal name)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a4e02e747bfb56a492c15767de3ad0db82034264d12c4284c155f9e12a2ccb11",
+      "replacement": "A historic nomination quotes a May 7, 1824 newspaper advertisement using La Fayette. The quotation shows the older community name without identifying who first proposed it. A postal compilation gives Lafayette Post Office on March 31, 1826. The claim to be the first American town named Lafayette remains unproved, and the nomination’s return-visit framing does not explain the advertisement’s timing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "71a40c32d9f4bf7f2b71dda3a81d1f9cb9be3c5174534f41c3b8f339d083f72f",
+      "replacement": "A later historic nomination quotes La Fayette in a newspaper advertisement dated May 7, 1824. A postal history gives Lafayette Post Office in 1826. These accounts show the older name connection without identifying its first proposer or establishing a claim to be the first American Lafayette.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "50c8a1c3fd61d647d58199b3a59bb044c86b839187d73fe417a9314466dc5da6",
+      "replacement": "The nomination quotes the May 1824 advertisement. The quotation does not identify the first name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "50c8a1c3fd61d647d58199b3a59bb044c86b839187d73fe417a9314466dc5da6",
+      "replacement": "The nomination quotes the May 1824 advertisement. The quotation does not identify the first name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f6e70bde25af75653c7e6363ae11ef5e3fa0c7c235fec42d3007c839fc191921",
+      "replacement": "Peck gives March 31 for postal establishment. That date does not establish the first actual operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f6e70bde25af75653c7e6363ae11ef5e3fa0c7c235fec42d3007c839fc191921",
+      "replacement": "Peck gives March 31 for postal establishment. That date does not establish the first actual operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "458160f0ec58c6b4c0a1fa48d435da6e3bd98e9d3ba19c702804d860b4f99b85",
+      "replacement": "The guide describes February 1839 petitions for and against township creation. These descriptions do not identify the original name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "458160f0ec58c6b4c0a1fa48d435da6e3bd98e9d3ba19c702804d860b4f99b85",
+      "replacement": "The guide describes February 1839 petitions for and against township creation. These descriptions do not identify the original name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "3495240c87dca9fd227b1416e60bf5ff4a7e37768d373324cd599116c519fed0",
+      "replacement": "The nomination reports March 20 for the township act, adopting the established village name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "3495240c87dca9fd227b1416e60bf5ff4a7e37768d373324cd599116c519fed0",
+      "replacement": "The nomination reports March 20 for the township act, adopting the established village name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "3fa436072e45222d0f6b56163a9d8b040d6e83581ae8c1a466e29ff4cc52fe17",
+      "replacement": "Peck reports the December 1895 postal spelling transition, separately from township naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "3fa436072e45222d0f6b56163a9d8b040d6e83581ae8c1a466e29ff4cc52fe17",
+      "replacement": "Peck reports the December 1895 postal spelling transition, separately from township naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "7fc1b2a674bf90b2b0b4bb12a2c3a6a05a5b2dd26bdae1af1af2351f77f9cdc8",
+      "replacement": "Peck reports the 1931 transition, another change in the office’s spelling rather than a new township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "7fc1b2a674bf90b2b0b4bb12a2c3a6a05a5b2dd26bdae1af1af2351f77f9cdc8",
+      "replacement": "Peck reports the 1931 transition, another change in the office’s spelling rather than a new township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "9cccea61b3af21888cf831005e663108ca8b946d391e0c8da7acfa1e7ec00982",
+      "replacement": "The nomination quotes La Fayette in a May 7, 1824 advertisement. That quotation does not establish the first-in-America claim.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "49378635bb0733fbf7343e5fce6e1a5724aae0f6a59c251f1c407dbf211eea3a",
+      "replacement": "A nomination quotes La Fayette in an 1824 advertisement. That does not establish the claim to be the first American Lafayette.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "7545a976714167d8a5f2fec53644ea6199691a03efcad793fbaa6530c5a222bd",
+      "replacement": "Peck gives Lafayette in 1826, La Fayette in 1836, Lafayette in 1895, La Fayette in 1905 and Lafayette in 1931. The office’s spelling changed more than once.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "editorial",
+        "1913",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "f1459d347e4f7760795f429a3f1f9dec22ad5969dfe8175a941b25eec42a6f3f",
+      "replacement": "Residents sought a township before 1845. A guide lists petitions for and against its creation in 1839.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1914",
+      "path": [
+        "editorial",
+        "1914",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "db4ebd2e9a9871a108b33443b8d3b622a22a42d6f257c5673bbae92ac4f18465",
+      "replacement": "The January–March account comes through an unidentified historical clipping in a later compilation, rather than a contemporary naming statement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1914",
+      "path": [
+        "editorial",
+        "1914",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "db4ebd2e9a9871a108b33443b8d3b622a22a42d6f257c5673bbae92ac4f18465",
+      "replacement": "The January–March account comes through an unidentified historical clipping in a later compilation, rather than a contemporary naming statement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1914",
+      "path": [
+        "editorial",
+        "1914",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "39039ac821ae0ace427975b2e736a5e7cce1ee7cb45528b0f9f774dc014d177e",
+      "replacement": "The index gives March 26, 1759 for the patent and separation from Walpack. It does not identify the exact honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1914",
+      "path": [
+        "editorial",
+        "1914",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "5a1368319af9809582e757a4f41162b62d5f72a7e45ccc73685b8f04f43100b1",
+      "replacement": "The index gives March 26, 1759 for the patent and separation from Walpack. It does not identify the exact honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1914",
+      "path": [
+        "editorial",
+        "1914",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "c9700a3927d89730ebe3039b08d9ed9ac32c4d38371380f9e82170ff189c69a4",
+      "replacement": "A 1998 compilation transmits January–March 1759 petition and council accounts from an unidentified historical clipping.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1914",
+      "path": [
+        "editorial",
+        "1914",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "5fb0282eef59f281de954c45ebe9cc0b8889a86040c129c268c7a60ab0d08909",
+      "replacement": "A later compilation describes petitions and discussions through a historical clipping. It does not settle the original naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "editorial",
+        "1915",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d0ed1c6c3436187824e0681530fd222501e70902f51290d6537e3ab6ee0260e5",
+      "replacement": "The current Town of Newton emerged when old Newton Township was divided in 1864. The March 10 act had immediate effect with an officer-transition provision; April 11 was prescribed for first meetings. The schedule does not establish when officials actually met. The later Andover territory transfer is another boundary stage, rather than a new choice of Newton’s name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "editorial",
+        "1915",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "9e06a6c159930bc09cb16525414ec916e28f62f41b1360ecb722401b8e79ddc8",
+      "replacement": "The present town government came from the 1864 division of old Newton Township. The law began in March with temporary officer arrangements and planned meetings in April. The schedule does not tell us when officials actually met. The older name continued through that government change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "editorial",
+        "1915",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "ac3adf1e88191552a3d0564d3e3e4eb504d474c2c0fb362302d6fdfd0c0bbd9e",
+      "replacement": "The 1792 establishment accounts disagree between June and July. They do not establish separate dates for establishment and first operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "editorial",
+        "1915",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "ac3adf1e88191552a3d0564d3e3e4eb504d474c2c0fb362302d6fdfd0c0bbd9e",
+      "replacement": "The 1792 establishment accounts disagree between June and July. They do not establish separate dates for establishment and first operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "editorial",
+        "1915",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "ba13f48ca5710763f41fa3380ebc1499071ac40508251cb3f3b98aaeae8efaae",
+      "replacement": "The claim of use by 1816 lacks an identifiable citation. The compiled 1825 postal spelling does not establish its first public use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "editorial",
+        "1915",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "ba13f48ca5710763f41fa3380ebc1499071ac40508251cb3f3b98aaeae8efaae",
+      "replacement": "The claim of use by 1816 lacks an identifiable citation. The compiled 1825 postal spelling does not establish its first public use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "editorial",
+        "1915",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "eb444a6baa3a835bbe68f85189f4159d8978d7d9bab51e89064ae1b5c53a2d37",
+      "replacement": "The act’s immediate effect had an officer provision. April 11 was prescribed for organization, which does not establish when officials actually met.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "editorial",
+        "1915",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "eb444a6baa3a835bbe68f85189f4159d8978d7d9bab51e89064ae1b5c53a2d37",
+      "replacement": "The act’s immediate effect had an officer provision. April 11 was prescribed for organization, which does not establish when officials actually met.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "00e30b1147e3e8a92eef6e1d33d2facfa4693d61280b0756a39bc4b19c89752a",
+      "replacement": "A modern gazetteer summary points to village use by 1834, before Sparta Township formed in 1845. This is the summary’s account of the earlier village. The disputed Sodom story is not a secure former name and does not replace the established village identity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "991674813bc6e92568ac1b7e79f0420c83c94d886ce65bb6f460953e8f5cbdef",
+      "replacement": "The later family account places Robert and Phebe’s settlement in the Revolutionary era. Its exact timing and the original naming occasion remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "991674813bc6e92568ac1b7e79f0420c83c94d886ce65bb6f460953e8f5cbdef",
+      "replacement": "The later family account places Robert and Phebe’s settlement in the Revolutionary era. Its exact timing and the original naming occasion remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c9098fdd3a844882982400442d347aed997995f933dd37b24fc6bc7301614180",
+      "replacement": "The modern summary reports village use by 1834. That is an attributed account, rather than proof of the name’s first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c9098fdd3a844882982400442d347aed997995f933dd37b24fc6bc7301614180",
+      "replacement": "The modern summary reports village use by 1834. That is an attributed account, rather than proof of the name’s first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f20451d04e922efa300b4e32f1cd02db26735332df57e1db4a6c3548d98d9bdc",
+      "replacement": "Peck lists the September 1860 establishment with a final h. Establishment and the first actual operation are different questions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f20451d04e922efa300b4e32f1cd02db26735332df57e1db4a6c3548d98d9bdc",
+      "replacement": "Peck lists the September 1860 establishment with a final h. Establishment and the first actual operation are different questions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "0e423cb9077afaa2bfcea9e314b7add77c78c7061016ae47b88766579ecab794",
+      "replacement": "The index gives March 31 for acceptance and the territorial separation from Sparta, following the enabling act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "0e423cb9077afaa2bfcea9e314b7add77c78c7061016ae47b88766579ecab794",
+      "replacement": "The index gives March 31 for acceptance and the territorial separation from Sparta, following the enabling act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "c69ea92c04c07fb50388ee28c1dcdba48862b1d673880a54e42d32edf9d828ef",
+      "replacement": "The index gives March 31 for the acceptance election, a separate stage from the enabling act and later filings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "c69ea92c04c07fb50388ee28c1dcdba48862b1d673880a54e42d32edf9d828ef",
+      "replacement": "The index gives March 31 for the acceptance election, a separate stage from the enabling act and later filings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "f53b6b17a2da88a9a40d3f7552bc8babdeea178d78448e9a16137e7522b53dd3",
+      "replacement": "The index gives April 6 and C:275 for county recording, following voter acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "f53b6b17a2da88a9a40d3f7552bc8babdeea178d78448e9a16137e7522b53dd3",
+      "replacement": "The index gives April 6 and C:275 for county recording, following voter acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "6923ec02659e387e5b9e38d1dc6f1e26d71056fbfef790d4895ac6fe5607c2e4",
+      "replacement": "A modern summary reports Ogdensburg village by 1834, before Sparta Township’s 1845 formation. It does not establish the name’s first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "e68b4a1d5117e6a38ace514e1e6a0927f1fcf3f87ecb1a5c6155cba95c2c55c2",
+      "replacement": "The village name is reported by 1834, before Sparta Township existed. That account does not tell us when people first chose it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "aee23b272a061b468816d93f4206d919844f450d0d5d7c781361ef783cd21842",
+      "replacement": "Peck gives September 4, 1860 for Ogdensburgh Post Office and July 19, 1893 for the spelling Ogdensburg.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "266e8c9ba517e521dbcf2c28f67288881bbbfd0b0e636b2db04da400f114e23b",
+      "replacement": "Postal history gives the h spelling in 1860 and its removal in 1893. These were changes in the office’s name, before the borough formed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "editorial",
+        "1916",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "57618220e0a416554735a7bfe9eb883eafd1d0576fa330add5416f57a7fd2825",
+      "replacement": "The index separates February 26 authorization, March 31 acceptance, April 6 county recording and April 18 state filing in 1914.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "15ef1185fd64ed29abc59a318fb483b77900c544e0cbf3fb8692d78f1c4a87fc",
+      "replacement": "Sandyston sounds as if it might describe sandy ground, but a familiar sound does not establish a naming explanation. The original meaning, proposer and intended referent remain unknown. The legal index dates colonial creation from Walpack to February 26, 1762, without establishing the patent’s exact lettering.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "09139e95e6f276330ca6f10366b26617d2088c9e427e1c0045f349967e08b777",
+      "replacement": "Sandyston’s name may sound descriptive, but its original meaning and name chooser remain unknown. A guide reports township creation from Walpack in 1762, without establishing the patent’s exact spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "7184c6f75b9170aed60895594e30acc03d44ee1853604dbd859f0f73c7ab4fea",
+      "replacement": "Later spellings appear in accounts and catalogues. A modern tax inventory identifies records under Sandyston, but its heading does not establish the wording of each eighteenth-century manuscript. No formal township spelling change is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "176b9fe05ad38730b6edc16d33ef9bfce5ab01cb8d8b42fe9592345343928075",
+      "replacement": "The catalogue identifies records for 1774–1781. Its modern headings do not establish the old manuscripts’ spellings or a formal name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "176b9fe05ad38730b6edc16d33ef9bfce5ab01cb8d8b42fe9592345343928075",
+      "replacement": "The catalogue identifies records for 1774–1781. Its modern headings do not establish the old manuscripts’ spellings or a formal name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f48393163bc4bf0cfe46705c55d367b32e214ae7f43f43df1392d89ae539f536",
+      "replacement": "Peck gives June 5, 1824 for postal establishment. That does not establish the first actual operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f48393163bc4bf0cfe46705c55d367b32e214ae7f43f43df1392d89ae539f536",
+      "replacement": "Peck gives June 5, 1824 for postal establishment. That does not establish the first actual operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0cd2777efa50a49a5ce9da092e9d4d679a065da30746563f16b5d9359c48b20d",
+      "replacement": "The government index gives February 26 for colonial creation. The patent’s exact lettering remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0cd2777efa50a49a5ce9da092e9d4d679a065da30746563f16b5d9359c48b20d",
+      "replacement": "The government index gives February 26 for colonial creation. The patent’s exact lettering remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0cbf47e21b09ef24b1f418675c01712369a349dc5adb264459da2942a8c6337c",
+      "replacement": "The 1798 law stage is separate from colonial creation. Catalogue labels do not establish an official spelling change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "editorial",
+        "1917",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0cbf47e21b09ef24b1f418675c01712369a349dc5adb264459da2942a8c6337c",
+      "replacement": "The 1798 law stage is separate from colonial creation. Catalogue labels do not establish an official spelling change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "12659b9b29dd5a51ebcc75caaf628ae5327b60cdb07c3466a5a45e009272394c",
+      "replacement": "Sparta’s name recalls the ancient Greek place. Later histories credit Phebe Ogden with choosing it for the family estate. The exact naming occasion and her original explanation remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "402e393049de9b1e35a2039fea4bc9b1a9ecefa62f35a82b79f7172d58c4cc03",
+      "replacement": "Postal evidence places the locality name earlier than the 1808 manual once used to illustrate it. Peck gives a May 28, 1796 establishment; Chambers reports 1797 and 1798 postal material. A claimed 1799 Ogden advertisement lacks an identifiable citation. These dates describe different kinds of evidence, rather than the first estate naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0cb7e97e3dc9dd417e0bf01a98ff3e72479805655a79db500ac02c01fcac67ec",
+      "replacement": "Chambers reports a 1797 postal packet through Hamburg records. This later account does not identify the estate’s first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0cb7e97e3dc9dd417e0bf01a98ff3e72479805655a79db500ac02c01fcac67ec",
+      "replacement": "Chambers reports a 1797 postal packet through Hamburg records. This later account does not identify the estate’s first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3edbc3e62de0a6ad9edfc617a50d1af4275c0dbe9157762966fbd986f93284b6",
+      "replacement": "The later commemoration reports April 14 at John Kelsey’s tavern. This is its account of the meeting, a separate stage from incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3edbc3e62de0a6ad9edfc617a50d1af4275c0dbe9157762966fbd986f93284b6",
+      "replacement": "The later commemoration reports April 14 at John Kelsey’s tavern. This is its account of the meeting, a separate stage from incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "004946ae022447b6d23bbd4ecba7911a4423f53a507a180a1843073c3e065320",
+      "replacement": "The index reports March 31, 1914 adoption after a February law. The acceptance vote and later recordings were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "004946ae022447b6d23bbd4ecba7911a4423f53a507a180a1843073c3e065320",
+      "replacement": "The index reports March 31, 1914 adoption after a February law. The acceptance vote and later recordings were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "aabb46eef346ef846db080da9aa5f878cf628f1690099e719dadf41d4545b4f2",
+      "replacement": "Peck gives 1796 establishment; Chambers reports 1797/1798 postal material. A claimed 1799 advertisement lacks an identifiable citation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "editorial",
+        "1918",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "aabb46eef346ef846db080da9aa5f878cf628f1690099e719dadf41d4545b4f2",
+      "replacement": "Peck gives 1796 establishment; Chambers reports 1797/1798 postal material. A claimed 1799 advertisement lacks an identifiable citation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1919",
+      "path": [
+        "editorial",
+        "1919",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c5d9d48e5fbb3488786227060d96650438dbb6d52da8b58c4ce78b4263f154da",
+      "replacement": "A specialist postal history gives October 7, 1825 for Stanhope Post Office. Another tradition mentions an 1823 postmaster. The difference remains unresolved; the two accounts do not establish separate administrative steps. The sound of Stanhope does not prove a connection with an English noble or place.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1919",
+      "path": [
+        "editorial",
+        "1919",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "1c3c6d2ff38750e7034bd802db0a81d9d537f734088cce79e18806c18b164839",
+      "replacement": "The index identifies the March 24 law separating Stanhope from Byram, followed by county recording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1919",
+      "path": [
+        "editorial",
+        "1919",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "1c3c6d2ff38750e7034bd802db0a81d9d537f734088cce79e18806c18b164839",
+      "replacement": "The index identifies the March 24 law separating Stanhope from Byram, followed by county recording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1919",
+      "path": [
+        "editorial",
+        "1919",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "51b80a6e454fb794f1e19efd05c2bc91505537d4e5d3da0dff82ecc9f3f2d206",
+      "replacement": "The index gives March 24, 1904 chapter 58 and March 26 county recording C:95. These were separate government stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1919",
+      "path": [
+        "editorial",
+        "1919",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "04baa67681a0b33c952d2047c2cbe9aabca1a7656e4f94e468b884392eb0156e",
+      "replacement": "The law and county recording came on different March 1904 dates. Neither step explains the first choice of the older village name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5dd70928b0b67ad78b365bd612a4d904d63e0b581434d64e981251f4f6630d54",
+      "replacement": "Later histories place German settlement in the area around 1741–1742. That background is older than the township, but it does not establish when the name Stillwater began. A specialist postal compilation gives April 29, 1814 for Stillwater Post Office and identifies Peter B. Shafer. The establishment date does not establish the first actual operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "71fec27fda6b3c7409410ac19d9f9d6d951197b217fc2fd8fe09c46edb95f5c2",
+      "replacement": "Peck reports the office with Peter B. Shafer. Its compiled establishment date does not establish first actual operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "71fec27fda6b3c7409410ac19d9f9d6d951197b217fc2fd8fe09c46edb95f5c2",
+      "replacement": "Peck reports the office with Peter B. Shafer. Its compiled establishment date does not establish first actual operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "329294d6d9a829856a83500a5896765f1d67ba54395f1131f8e94fa5f2c2b64a",
+      "replacement": "The act identifies Andover, Green, Hampton and Stillwater as the four contributing townships, with immediate February 24 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "329294d6d9a829856a83500a5896765f1d67ba54395f1131f8e94fa5f2c2b64a",
+      "replacement": "The act identifies Andover, Green, Hampton and Stillwater as the four contributing townships, with immediate February 24 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "58f8e6b7aacd652157cedb44220ef036025306f0a94f8eb2b82869e3305ae6ca",
+      "replacement": "The act identifies Stillwater as one of Fredon’s four parents. This changed territory while the township’s name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "58f8e6b7aacd652157cedb44220ef036025306f0a94f8eb2b82869e3305ae6ca",
+      "replacement": "The act identifies Stillwater as one of Fredon’s four parents. This changed territory while the township’s name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "271d90ba7cac563e44374f325cfa70720ce3a6375860941ba5995ecfa32e2a62",
+      "replacement": "Peck gives April 29, 1814 for postal establishment with Peter B. Shafer. That is a separate question from first actual operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1920",
+      "path": [
+        "editorial",
+        "1920",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "54f75e1d12f76bee3e543d1f968d3bb0c3b4e9aeda1dd16305e32f7e2f68bb9c",
+      "replacement": "A postal history lists Stillwater in 1814, before the township. The office carried an established community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "preview"
+      ],
+      "expected_sha256": "60a14f2cb4ea3674d2df7d0ee0d2d2a685c1112d45060e9a455613189fdf6ad8",
+      "replacement": "Sussex replaced Deckertown in postal use before the borough adopted it. The exact municipal sequence and immediate naming reason remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "376ec1dbf144f5e3592d521f133327d5c0015dc52e099682b7a6d1957089c840",
+      "replacement": "Sussex’s earlier settlement identity grew around the Decker family. Peck’s postal compilation records Deckerstown in 1816 and Deckertown in 1822. Borough government followed within Wantage in 1891, with October 14 voting in the index versus October 15 incorporation in municipal history. The one-day difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "6a225684705d7759fb9fe622f62e7b21d7b392826c8684b326598a941901d2c2",
+      "replacement": "The detailed index gives the local resolution only to 1902 and assigns filing and effect to March 22; the borough gives March 7 for the rename. March 6 concerns a general enabling law, rather than a special Sussex naming act. The exact local resolution day remains unresolved. A 2009 Sussex-Wantage proposal is reported, but its outcome is not established by that reporting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4e00e3ad8291bbef2e877ee4928bb0862380f67fbe75bf0a1929da2eb4cad2c4",
+      "replacement": "Accounts disagree on parts of the municipal timing. The local resolution, county filing and general law describe different steps. A later Sussex-Wantage proposal is reported, but that reporting does not establish how it ended.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "80da11b800a7932d9c7e00187db189e8d196c910a6ce6b101b075e25f45b528d",
+      "replacement": "The 1816 entry is attributed to Peck, describing an early postal use of the Decker-family name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "80da11b800a7932d9c7e00187db189e8d196c910a6ce6b101b075e25f45b528d",
+      "replacement": "The 1816 entry is attributed to Peck, describing an early postal use of the Decker-family name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1142c5eb4e5fc9fda393de3ba17e006d44ef459b0521e376c454d76e934730d7",
+      "replacement": "The index gives October 14, 1891 voting; municipal history gives October 15 incorporation. The one-day difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1142c5eb4e5fc9fda393de3ba17e006d44ef459b0521e376c454d76e934730d7",
+      "replacement": "The index gives October 14, 1891 voting; municipal history gives October 15 incorporation. The one-day difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "88f20d2704a13fa0a42b96a5c72510b0b699b71dfa8f25bd64e811e1c39a6ff4",
+      "replacement": "The index gives only 1902 for the resolution; municipal history gives March 7. The exact resolution day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "88f20d2704a13fa0a42b96a5c72510b0b699b71dfa8f25bd64e811e1c39a6ff4",
+      "replacement": "The index gives only 1902 for the resolution; municipal history gives March 7. The exact resolution day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "29990a18cc142156883751c73781902d7b020c7991f521fb5919ab7b9bea0f50",
+      "replacement": "The index gives March 22 for county filing and effect, without establishing the local resolution day. An earlier 1901 reference and the general enabling law have separate unresolved roles.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "29990a18cc142156883751c73781902d7b020c7991f521fb5919ab7b9bea0f50",
+      "replacement": "The index gives March 22 for county filing and effect, without establishing the local resolution day. An earlier 1901 reference and the general enabling law have separate unresolved roles.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        7,
+        "label"
+      ],
+      "expected_sha256": "f85246a9895dbab0d18a9e382f84d56f3b3d3715f691772f13ba01f9bb17dff7",
+      "replacement": "A later proposal has an unresolved outcome",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        7,
+        "label"
+      ],
+      "expected_sha256": "f85246a9895dbab0d18a9e382f84d56f3b3d3715f691772f13ba01f9bb17dff7",
+      "replacement": "A later proposal has an unresolved outcome",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "ca29cc0fed9bf911f6e09e3e7a2960b34f851e03d56a43e8757d69082d81515e",
+      "replacement": "The 2009 reporting describes a proposal without establishing its official result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "ca29cc0fed9bf911f6e09e3e7a2960b34f851e03d56a43e8757d69082d81515e",
+      "replacement": "The 2009 reporting describes a proposal without establishing its official result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "6e63dd8122118408e180b87e2b39b67b8bb8d326bec268b836dc66238f94012e",
+      "replacement": "Deckerstown and Deckertown connect the Decker family with local postal history. Later reporting describes a Sussex-Wantage proposal without establishing its official result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "7f195063396104b741452baccb8e41e7e532915c99e2ee2f2a56a69c948bfb2f",
+      "replacement": "The Decker family supplied the older community name. Postal accounts use Deckerstown and Deckertown. Later reporting describes a Sussex-Wantage proposal, but its official result remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "editorial",
+        "1921",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "1c0c74048e6591cd9b2c1e2633d4a2a15bbe590c677be83b0035d7f02ac9fbbf",
+      "replacement": "One history points to Sussex in England. Whether the namers meant that place directly or New Jersey’s county remains uncertain, along with the first name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a020158a601fa759d597f31bb185d7123f9ceee38652516f5c3a4ce9acebf6c2",
+      "replacement": "Vernon Township has a stronger legal chronology than a settled explanation for its name. The government index gives April 8, 1793 for creation from Hardyston, followed by continuation under the 1798 general township law. Haines’s older history gives 1792 instead; the difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "de721e89d152566ad4a66413bb6f28bbcc5f3ab1e8f81ca42f2b54992dce64b4",
+      "replacement": "Vernon Township separated from Hardyston under the indexed 1793 legal sequence. An older history gives 1792, leaving a difference between the accounts. Neither date explains why Vernon was chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "229411bf25b7b2d831de85df35b2b2a51aa829bd12cb8fa6c44a9a0d5b68ba51",
+      "replacement": "Several later theories try to explain Vernon: Admiral Edward Vernon or an indirect Mount Vernon association, a Vernon family connection, and a classical or Latin-derived vernal or green idea. These remain competing suggestions. Neither a particular honoree nor a reliable literal translation is established, and the original name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d2f9409be07dae4e1f122d80d29f64c7701c9d8d33533b8fbef11d2c15541847",
+      "replacement": "Later theories point in different directions: Admiral Edward Vernon or Mount Vernon, a Vernon family, or a Latin-derived idea connected with spring or green. These are possibilities, rather than proved meanings. The first name chooser and intended reference remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ca69a2d49b9a240dec429a24ac9b9a34d902115e6ad31fa736f8fa0783777ea3",
+      "replacement": "The index gives April 8, 1793 while Haines gives 1792. The difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ca69a2d49b9a240dec429a24ac9b9a34d902115e6ad31fa736f8fa0783777ea3",
+      "replacement": "The index gives April 8, 1793 while Haines gives 1792. The difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b4b0c822209a466d56168528d51dfe5728cdfae51327d517e418c758043be394",
+      "replacement": "The 1798 general-law stage continued the township without explaining its original naming motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b4b0c822209a466d56168528d51dfe5728cdfae51327d517e418c758043be394",
+      "replacement": "The 1798 general-law stage continued the township without explaining its original naming motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "364ca9321bdee050339a19562a4e887d354527111d2bbb399c8b802fa4f3f78f",
+      "replacement": "Compilations give May 12, 1807 and William Winans. This later postal use does not explain the earlier township naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "364ca9321bdee050339a19562a4e887d354527111d2bbb399c8b802fa4f3f78f",
+      "replacement": "Compilations give May 12, 1807 and William Winans. This later postal use does not explain the earlier township naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "6f38f56881a5f4f0adb565e008b7272d55aeb50a22ead48c178536f964d5f72b",
+      "replacement": "The index dates the territorial return from Vernon to April 1852. This changed boundaries while the township name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "6f38f56881a5f4f0adb565e008b7272d55aeb50a22ead48c178536f964d5f72b",
+      "replacement": "The index dates the territorial return from Vernon to April 1852. This changed boundaries while the township name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "sidebar",
+        "fields",
+        "community",
+        "label"
+      ],
+      "expected_sha256": "bbd39fae170b8c30d696d33e5df10d768d6bbca73325c38bc673a1d85576f9d7",
+      "replacement": "Later naming theories",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "sidebar",
+        "fields",
+        "community",
+        "label"
+      ],
+      "expected_sha256": "bbd39fae170b8c30d696d33e5df10d768d6bbca73325c38bc673a1d85576f9d7",
+      "replacement": "Later naming theories",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "848f3a9ee4c52cf63f403ac5d5b9e181258e1014726644db5a22a490c82d1631",
+      "replacement": "The personal, place-name and Latin-derived suggestions remain hypotheses, without an established original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "896928fc9dcdae8473e42027f07fa2cc3447b782079966efb19399c68f460373",
+      "replacement": "The personal, place-name and Latin-derived suggestions remain hypotheses, without an established original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "37eef4a808d4f8e8819423fd7a2c1529875f61ad3639ccc41aac614b58364e0d",
+      "replacement": "The government index gives April 8, 1793 from Hardyston, while Haines gives 1792. The difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "e73fa87945d8c0aa82b769b6c4c39388dd353b4b55e290ff599d0fb5e83c90af",
+      "replacement": "The index gives 1793 while an older history gives 1792. The accounts still differ.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "editorial",
+        "1922",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "cc28004081b9d3ab6041f3126a1ca268fbf921475316fe55b233fd7929041987",
+      "replacement": "The index dates the transfer to April 13, 1852. Territory returned to Hardyston while Vernon’s name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "preview"
+      ],
+      "expected_sha256": "b7aaaa68e874413fc076a11a1315b84e399f4ce676e21e5052494282f7b262d8",
+      "replacement": "Walpack preserves an older Indigenous-derived geographic name. Its reconstructed meaning and early government dates remain qualified; later postal names concerned distinct communities.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "preview"
+      ],
+      "expected_sha256": "91dd8eda680c25d906c0391685c370a90abcb4a1ec24b08e99f0374520875c76",
+      "replacement": "Scholarly interpretations link Walpack with turning or deep water. The township and its separate village post offices have different histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a8d20e6bfde0f60b2d7d40ead37f20e57414306e9176db2dd38c4d23cef5e31a",
+      "replacement": "Walpack’s name is associated with the Delaware River’s turning or deep-water landscape. Scholarly interpretations suggest a turn-hole, whirlpool or deep still water. These are attributed reconstructions, rather than one settled word-for-word translation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "43c11e01a98c629c4323660471edc3f66607023078101535c6f68d67a647b976",
+      "replacement": "The government index reports Walpake usage by 1731 and a May 30, 1754 precinct decree. An NPS history instead gives April 17 for the boundary definition. These remain conflicting accounts; they do not establish different procedural stages. Later Montague and Sandyston divisions and the 1798 continuation changed government while preserving the older geographic identity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "8ecd7751737310509f18bcc7c4207dc86e272682e5edb406b79eddd48e56d190",
+      "replacement": "A guide reports government use by 1731. Two later sources give different dates for the 1754 boundary stage. Those accounts do not establish two separate government actions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "83a7e919557c55bffd64adab7da9043102337f0370733e59d484cf72d0bb2bed",
+      "replacement": "The index reports government use by 1731. It does not establish the name’s first use or the manuscript’s exact lettering.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "83a7e919557c55bffd64adab7da9043102337f0370733e59d484cf72d0bb2bed",
+      "replacement": "The index reports government use by 1731. It does not establish the name’s first use or the manuscript’s exact lettering.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "dc5d3a99606e5abe114688599e5514dfb6dd3f8868c74a5118b8a64094e15be7",
+      "replacement": "The index gives May 30 and NPS April 17, 1754. The conflict does not establish two different procedural stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "dc5d3a99606e5abe114688599e5514dfb6dd3f8868c74a5118b8a64094e15be7",
+      "replacement": "The index gives May 30 and NPS April 17, 1754. The conflict does not establish two different procedural stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "9ba2a7fe2e90aacf407877b19eec545af3e559dce32b954199efdabd7a02deac",
+      "replacement": "Peck lists the 1829 Walpack office separately from the later Wallpack Centre office.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "9ba2a7fe2e90aacf407877b19eec545af3e559dce32b954199efdabd7a02deac",
+      "replacement": "Peck lists the 1829 Walpack office separately from the later Wallpack Centre office.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "0522e0d4982be6e60486b4b67bdc99aab55deb2e6cb628219f9d2cfaba7a49f9",
+      "replacement": "Scholarly interpretations connect the name with a turn-hole, whirlpool or deep still water. No single exact translation is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "0522e0d4982be6e60486b4b67bdc99aab55deb2e6cb628219f9d2cfaba7a49f9",
+      "replacement": "Scholarly interpretations connect the name with a turn-hole, whirlpool or deep still water. No single exact translation is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f4f913885317155f65d80f86284877ec06ea66752143c7aee16f01e251db6b57",
+      "replacement": "The index gives May 30 and NPS April 17. These remain conflicting accounts, rather than established dates for different procedural stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "editorial",
+        "1923",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f4f913885317155f65d80f86284877ec06ea66752143c7aee16f01e251db6b57",
+      "replacement": "The index gives May 30 and NPS April 17. These remain conflicting accounts, rather than established dates for different procedural stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "editorial",
+        "1924",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "45950daf9f1236ce981cb7e8876245fdf002af1535d0fecb5415b1dc0291334c",
+      "replacement": "Municipal history and the attributed specialist account connect Wantage with Wantage in Berkshire, England. The original New Jersey proposer and contemporary reason for choosing that place remain unknown. The English association does not establish a particular migration or naming conversation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "editorial",
+        "1924",
+        "preview"
+      ],
+      "expected_sha256": "eb56319268514a05d4d871181df7c90f6911aea61693a0cf966ec3c3468217b5",
+      "replacement": "Later accounts link Wantage with the English place. Older language theories and later boundary changes do not establish a different original name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "editorial",
+        "1924",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "4fc6e7d5245dcd5a4761c1ed76289f150bb726ab14bf932006ba00dca7235dc5",
+      "replacement": "Later accounts favor an English place-name connection. The older Delaware explanation belongs to interpretation history, rather than a new township naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "editorial",
+        "1924",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "4fc6e7d5245dcd5a4761c1ed76289f150bb726ab14bf932006ba00dca7235dc5",
+      "replacement": "Later accounts favor an English place-name connection. The older Delaware explanation belongs to interpretation history, rather than a new township naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "editorial",
+        "1924",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "89dcdccee63f5fa686b2b41a487cb64cb0a2c35fb106fe92aba431978782d9d5",
+      "replacement": "The index reports the May 30 precinct decree, without identifying the original name proposer or contemporary explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "editorial",
+        "1924",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "89dcdccee63f5fa686b2b41a487cb64cb0a2c35fb106fe92aba431978782d9d5",
+      "replacement": "The index reports the May 30 precinct decree, without identifying the original name proposer or contemporary explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "editorial",
+        "1924",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "a28504dba2ab317b0a061b2a3d8bc7d4cf54eef046fd6bcf480bcee5c6bc1379",
+      "replacement": "The 1754 precinct and 1798 township-law stages differ. The undated linguistic comparison is a separate part of interpretation history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "507b9c0176b78bed1cba91505e560953c2de22625a21857f2fbf47b1ad31d857",
+      "replacement": "The nomination quotes a May 7, 1824 La Fayette advertisement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "7f5b49d50f8e540a64f5fed9d3030bab1a36b2df08e53aa916ead374a359278f",
+      "replacement": "The archival guide describes February 1839 petitions for and against township creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "60628c5552839e903b3666403ad5f2533e89a6ee9c37a75731092d56caab078a",
+      "replacement": "The catalogue descriptions do not identify the original name proposer or establish final boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "67a3e7f854e4919b84191b287c5f7dea49b98f3ffe1c2492436ee63acbffba40",
+      "replacement": "The nomination reports approval of the township act on March 20, 1845.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "sources",
+        "S977",
+        "publication"
+      ],
+      "expected_sha256": "9cd4bd5368b1f1ca14efc1a285c5d4f515afa2f51fa11ef334216a5172a34e59",
+      "replacement": "National Register nomination; date unspecified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9849615491526f8bf9b0872047cd2dc8e27a4289186d71fe22846acbfd7daba7",
+      "replacement": "Bale’s Mill (village); Price’s Mill (village); Ludlum’s Mill (village); La Fayette (community and postal spelling); Lafayette (community); Newton Township (parent); Frankford Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1914",
+      "path": [
+        "views",
+        "1914",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "e9231c73d67057fb975aa04ce22fc2d5a458b7ae288c8e2331a14cedab4d0ca8",
+      "replacement": "The biographical account places George Montagu’s succession to the fourth dukedom in 1762.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1914",
+      "path": [
+        "views",
+        "1914",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2ce905562a2f5fd1873bd93baf1c64d81e145ab2ed0666218f3fa1d2ef991098",
+      "replacement": "Walpack Township (parent); Brick House (community); Millville (community); Minisink (regional context)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "ba3667b85550a9e8589cb93689f5e9858a2767caefd57fd82789debf5ba785e3",
+      "replacement": "The municipal plan’s later account does not establish the name’s first-ever use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "4a84da691e2e9be1391087727c9cecf69208d89720365ca2c3572d73cd88c09d",
+      "replacement": "Peck’s Table 3 gives June 12 and the appendix account gives July 12. Both concern establishment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2baf56961902da3d5f61d0f0eb1c56edc955ffa80c3ba4bfc913838a804e2ad8",
+      "replacement": "The conflicting accounts do not establish separate establishment and opening events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "62d603e628f4cd35c4dc42f9d5d369e37af22715da47886aed7d24e508397646",
+      "replacement": "The statutory creation and prescribed meetings are separate stages; the schedule does not establish when officials actually met.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "sources",
+        "S982",
+        "publication"
+      ],
+      "expected_sha256": "c085b6c625537b0fc1804b454ea103fcb52dd96998393969e2e7fa49f2596e9f",
+      "replacement": "2025-04 master plan",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "467a083291f156a98f25838290d23cd53ca415885ef9ea933a67a96b48846b48",
+      "replacement": "New Town; New-Town; Newtown; New Town Precinct; Sussex Court House (postal name); Newton Township (predecessor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "views",
+        "1916",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "89b40a247142958e07f70fd96c3459b0d6fee06f46cea230b83844787a178f56",
+      "replacement": "A modern gazetteer summary reports village use by 1834.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "views",
+        "1916",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "cafc89dd741ec7f39b42a48b5c079568ce8b4348cba84a2eb2976a5277238df1",
+      "replacement": "An attributed early village use, rather than proof of the first surviving record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1916",
+      "path": [
+        "views",
+        "1916",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "04365e3dc241d50b30acfe89c2873b48cb48273aab4f07fdd236b7348c14bd9a",
+      "replacement": "Ogdensburg (village); Ogdensburgh (postal spelling); Sparta Township (parent); Sodom (disputed folklore)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "views",
+        "1917",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "48dd5ab2effd2624be86c3db01a29b56fe10e1b6fa59b06f67fb604bf2096b71",
+      "replacement": "The index dates the municipal stage without establishing the patent’s exact spelling or naming motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "views",
+        "1917",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "f500554482e237a454464e2255ed7282af88dcafd4229db2fa501f3a1547f786",
+      "replacement": "The state catalogue identifies 1774 and 1781 tax records for the jurisdiction.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "views",
+        "1917",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "423be70f9a7d5d69e43dabf842159349fd73cdfd766d135095b4f329f79cf5cf",
+      "replacement": "The catalogue’s modern labels do not establish the manuscripts’ exact headings or an official spelling change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1917",
+      "path": [
+        "views",
+        "1917",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f4aee76f647fa7cb2da74ee528678b9c7f92cc52371f4a80be3a46275d19949d",
+      "replacement": "Walpack Township (parent); Sandyston (postal name); Hainesville (community and postal successor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ab7596abc2c6b00a8540dde75d94ae659d0d35a40b99ab83c5a8758d4775b37b",
+      "replacement": "Chambers (1887), p.96, reports a Sparta postal packet through Hamburg records.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "305dbeee458916efc5769656293193c03e0d7929fe837b6591351b7da884fc19",
+      "replacement": "Chambers (1887), p.96, reports Sparta post-office returns.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "8da969358e01ad1c933dfaebc6bad05e4d4a7d5fee964d0bd96842b57e426879",
+      "replacement": "Reported early advertisement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "d177871472a6c900d9f136a1cbd5284831d33eeaac29a5f21fefe4dfd562fa0c",
+      "replacement": "A claimed 1799 Ogden advertisement using Sparta lacks an identifiable citation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "bec9406dc07ee43d2cb8f07627a9c32566a879f28cd2cfbcb8235428904e4e68",
+      "replacement": "The claim does not establish a documented use in that year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "85d293722ed3037a557f34af7f71d4796c60b58d0c2f1cb363dd94e02dc4a62e",
+      "replacement": "Summary interval",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "002e23e855a4a07c70e639be525d598d48c87aa8683bcca65afd675e778a5218",
+      "replacement": "Sparta (estate and community); Head of the Wallkill (regional geography); Byram Township (parent); Frankford Township (parent); Hardyston Township (parent); Newton Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1919",
+      "path": [
+        "views",
+        "1919",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9a7c63bc75844e7ab833b1b083c5c7e8ea4e84cc0624f31be6a354140a33b66e",
+      "replacement": "Stanhope (village); Byram Township (parent); South Stanhope (neighboring settlement, later Netcong)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1920",
+      "path": [
+        "views",
+        "1920",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1920",
+      "path": [
+        "views",
+        "1920",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "db9f4323e21cf373dfcd16ea3f04e83f03e8e73525d3c47267368c0b6695b7ec",
+      "replacement": "The 1904 act identifies Stillwater as one of Fredon’s four contributing townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1920",
+      "path": [
+        "views",
+        "1920",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0eb8335aa6cb1b37e64f156aeb97eb292490b3b9d899730b2ad479d60ba108eb",
+      "replacement": "Stillwater (village); Hardwick Township (parent); Middleville (community); New Paterson (community); Swartswood (community); Fredon Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "81967bb6ecea93bf5efd1d64c1a639f447d8c60a15ee298cdeb0a873f2d525e2",
+      "replacement": "The election and incorporation accounts differ by a day, without establishing a separate filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "d143427f3988352329b7d83806f016406d65c456dfe878103b5033357db5c26e",
+      "replacement": "The indexed filing/effect date does not establish the local resolution day. The March 7 municipal account remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "ad9e612e60c7909f6eacf78ba190309461eead0ccf26318472a184aaa3a416ff",
+      "replacement": "The 2009 reporting describes a Sussex-Wantage title in a consolidation proposal.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "0ccb7f62219e92b9d484ed48dfd45b07140f336fde14f08084848766b92880e9",
+      "replacement": "The reporting describes the proposal without establishing its official result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c7c71a4292071ecc57517ba6ed5450fef4dd32a2987146199aa53a9914dcc676",
+      "replacement": "Deckerstown (postal spelling); Deckertown (community and former borough name); Wantage Township (parent); Sussex-Wantage (reported proposal)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "views",
+        "1922",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "views",
+        "1922",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a8a6a70bc1244b39cc7f550ad0c9de2e9719fd87a81c6f4d87ad74aeb33b31bd",
+      "replacement": "The index dates Vernon’s separation to April 8, 1793; Haines gives 1792.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "views",
+        "1922",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "faee7e7ca885729c84ad3d57a1ea925990a705f0788c4c4cade3268a31c8affd",
+      "replacement": "Peck and the cited postal article report May 12, 1807 Vernon postal establishment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1922",
+      "path": [
+        "views",
+        "1922",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1986d72833f2d6a01257b36cf2dc2fed77415f46ad8f1215fe59e65e2c6ac6a4",
+      "replacement": "Hardyston Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "2e46d7f519f6678ed7dfb7975830d701aad606ee2e334526756f7835b1a53819",
+      "replacement": "The government index reports Walpack use by 1731.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "47811148e077c1a743e9a9fe079a5bd2c24e40141adc6199a6ccbcca8c103e28",
+      "replacement": "The index’s account does not establish exact creation, first use or manuscript lettering.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "becb03e6f6d0982bde1b661edf18a525a7623b49506f0945408cc6f719f2421d",
+      "replacement": "The postal compilation reports discontinuance in 1844.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "552c4f42117abaa54dd8ee69a66156b7b3822d1e51e7753aed4618f0c262ba54",
+      "replacement": "Peck lists John C. Westbrook, while the NPS report credits Isaac Rundle. The postmaster accounts conflict.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2cd654d4f92456f56979262cdae06ff4f40ea16e8ef72ada4f2e9617162aebe7",
+      "replacement": "Walpake (reported early form); Walpack Precinct; Flatbrookville (community); Wallpack Centre (postal spelling); Wallpack Center (postal spelling); Walpack Center (community)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "b7aaaa68e874413fc076a11a1315b84e399f4ce676e21e5052494282f7b262d8",
+      "replacement": "Walpack preserves an older Indigenous-derived geographic name. Its reconstructed meaning and early government dates remain qualified; later postal names concerned distinct communities.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "1fd424c0720bfe44616c9ad25e237d68b2e3b16ddd5f45efa604a89de4ce1bfe",
+      "replacement": "The index reports government adoption without identifying the original naming proposal.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "81967bb6ecea93bf5efd1d64c1a639f447d8c60a15ee298cdeb0a873f2d525e2",
+      "replacement": "The election and incorporation accounts differ by a day, without establishing a separate filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "da2d2942d5614f0a4317858bd44e996eba10a003b2dda1fe412669df58b78d98",
+      "replacement": "The 1872 edited Heckewelder publication, the 1911 English study and the attributed 2014 gazetteer account offer different interpretations.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "24eb28456bb5187c1b44ffdca96990f090fc006e0b8f1995ad0094f785348b1b",
+      "replacement": "These publication layers do not date a local naming event; no 1900 naming occurrence is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "baaafdfebea755b9154864145ac8763d61892ba15bdc760873d29dd77a2fa252",
+      "replacement": "Wantage Precinct; Newton Township (parent); Deckertown (territorial branch); Wundachqui (older linguistic hypothesis); undachqui (older linguistic hypothesis)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "507b9c0176b78bed1cba91505e560953c2de22625a21857f2fbf47b1ad31d857",
+      "replacement": "The nomination quotes a May 7, 1824 La Fayette advertisement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "7f5b49d50f8e540a64f5fed9d3030bab1a36b2df08e53aa916ead374a359278f",
+      "replacement": "The archival guide describes February 1839 petitions for and against township creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "60628c5552839e903b3666403ad5f2533e89a6ee9c37a75731092d56caab078a",
+      "replacement": "The catalogue descriptions do not identify the original name proposer or establish final boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "67a3e7f854e4919b84191b287c5f7dea49b98f3ffe1c2492436ee63acbffba40",
+      "replacement": "The nomination reports approval of the township act on March 20, 1845.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "sources",
+        "S977",
+        "publication"
+      ],
+      "expected_sha256": "9cd4bd5368b1f1ca14efc1a285c5d4f515afa2f51fa11ef334216a5172a34e59",
+      "replacement": "National Register nomination; date unspecified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1913",
+      "path": [
+        "views",
+        "1913",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9849615491526f8bf9b0872047cd2dc8e27a4289186d71fe22846acbfd7daba7",
+      "replacement": "Bale’s Mill (village); Price’s Mill (village); Ludlum’s Mill (village); La Fayette (community and postal spelling); Lafayette (community); Newton Township (parent); Frankford Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1914",
+      "path": [
+        "views",
+        "1914",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "e9231c73d67057fb975aa04ce22fc2d5a458b7ae288c8e2331a14cedab4d0ca8",
+      "replacement": "The biographical account places George Montagu’s succession to the fourth dukedom in 1762.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1914",
+      "path": [
+        "views",
+        "1914",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2ce905562a2f5fd1873bd93baf1c64d81e145ab2ed0666218f3fa1d2ef991098",
+      "replacement": "Walpack Township (parent); Brick House (community); Millville (community); Minisink (regional context)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "ba3667b85550a9e8589cb93689f5e9858a2767caefd57fd82789debf5ba785e3",
+      "replacement": "The municipal plan’s later account does not establish the name’s first-ever use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "4a84da691e2e9be1391087727c9cecf69208d89720365ca2c3572d73cd88c09d",
+      "replacement": "Peck’s Table 3 gives June 12 and the appendix account gives July 12. Both concern establishment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2baf56961902da3d5f61d0f0eb1c56edc955ffa80c3ba4bfc913838a804e2ad8",
+      "replacement": "The conflicting accounts do not establish separate establishment and opening events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "62d603e628f4cd35c4dc42f9d5d369e37af22715da47886aed7d24e508397646",
+      "replacement": "The statutory creation and prescribed meetings are separate stages; the schedule does not establish when officials actually met.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "sources",
+        "S982",
+        "publication"
+      ],
+      "expected_sha256": "c085b6c625537b0fc1804b454ea103fcb52dd96998393969e2e7fa49f2596e9f",
+      "replacement": "2025-04 master plan",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1915",
+      "path": [
+        "views",
+        "1915",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "467a083291f156a98f25838290d23cd53ca415885ef9ea933a67a96b48846b48",
+      "replacement": "New Town; New-Town; Newtown; New Town Precinct; Sussex Court House (postal name); Newton Township (predecessor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "views",
+        "1916",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "89b40a247142958e07f70fd96c3459b0d6fee06f46cea230b83844787a178f56",
+      "replacement": "A modern gazetteer summary reports village use by 1834.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "views",
+        "1916",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "cafc89dd741ec7f39b42a48b5c079568ce8b4348cba84a2eb2976a5277238df1",
+      "replacement": "An attributed early village use, rather than proof of the first surviving record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1916",
+      "path": [
+        "views",
+        "1916",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "04365e3dc241d50b30acfe89c2873b48cb48273aab4f07fdd236b7348c14bd9a",
+      "replacement": "Ogdensburg (village); Ogdensburgh (postal spelling); Sparta Township (parent); Sodom (disputed folklore)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "views",
+        "1917",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "48dd5ab2effd2624be86c3db01a29b56fe10e1b6fa59b06f67fb604bf2096b71",
+      "replacement": "The index dates the municipal stage without establishing the patent’s exact spelling or naming motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "views",
+        "1917",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "f500554482e237a454464e2255ed7282af88dcafd4229db2fa501f3a1547f786",
+      "replacement": "The state catalogue identifies 1774 and 1781 tax records for the jurisdiction.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "views",
+        "1917",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "423be70f9a7d5d69e43dabf842159349fd73cdfd766d135095b4f329f79cf5cf",
+      "replacement": "The catalogue’s modern labels do not establish the manuscripts’ exact headings or an official spelling change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1917",
+      "path": [
+        "views",
+        "1917",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f4aee76f647fa7cb2da74ee528678b9c7f92cc52371f4a80be3a46275d19949d",
+      "replacement": "Walpack Township (parent); Sandyston (postal name); Hainesville (community and postal successor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ab7596abc2c6b00a8540dde75d94ae659d0d35a40b99ab83c5a8758d4775b37b",
+      "replacement": "Chambers (1887), p.96, reports a Sparta postal packet through Hamburg records.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "305dbeee458916efc5769656293193c03e0d7929fe837b6591351b7da884fc19",
+      "replacement": "Chambers (1887), p.96, reports Sparta post-office returns.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "8da969358e01ad1c933dfaebc6bad05e4d4a7d5fee964d0bd96842b57e426879",
+      "replacement": "Reported early advertisement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "d177871472a6c900d9f136a1cbd5284831d33eeaac29a5f21fefe4dfd562fa0c",
+      "replacement": "A claimed 1799 Ogden advertisement using Sparta lacks an identifiable citation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "bec9406dc07ee43d2cb8f07627a9c32566a879f28cd2cfbcb8235428904e4e68",
+      "replacement": "The claim does not establish a documented use in that year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "85d293722ed3037a557f34af7f71d4796c60b58d0c2f1cb363dd94e02dc4a62e",
+      "replacement": "Summary interval",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1918",
+      "path": [
+        "views",
+        "1918",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "002e23e855a4a07c70e639be525d598d48c87aa8683bcca65afd675e778a5218",
+      "replacement": "Sparta (estate and community); Head of the Wallkill (regional geography); Byram Township (parent); Frankford Township (parent); Hardyston Township (parent); Newton Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1919",
+      "path": [
+        "views",
+        "1919",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9a7c63bc75844e7ab833b1b083c5c7e8ea4e84cc0624f31be6a354140a33b66e",
+      "replacement": "Stanhope (village); Byram Township (parent); South Stanhope (neighboring settlement, later Netcong)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1920",
+      "path": [
+        "views",
+        "1920",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1920",
+      "path": [
+        "views",
+        "1920",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "db9f4323e21cf373dfcd16ea3f04e83f03e8e73525d3c47267368c0b6695b7ec",
+      "replacement": "The 1904 act identifies Stillwater as one of Fredon’s four contributing townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1920",
+      "path": [
+        "views",
+        "1920",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0eb8335aa6cb1b37e64f156aeb97eb292490b3b9d899730b2ad479d60ba108eb",
+      "replacement": "Stillwater (village); Hardwick Township (parent); Middleville (community); New Paterson (community); Swartswood (community); Fredon Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "81967bb6ecea93bf5efd1d64c1a639f447d8c60a15ee298cdeb0a873f2d525e2",
+      "replacement": "The election and incorporation accounts differ by a day, without establishing a separate filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "d143427f3988352329b7d83806f016406d65c456dfe878103b5033357db5c26e",
+      "replacement": "The indexed filing/effect date does not establish the local resolution day. The March 7 municipal account remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "ad9e612e60c7909f6eacf78ba190309461eead0ccf26318472a184aaa3a416ff",
+      "replacement": "The 2009 reporting describes a Sussex-Wantage title in a consolidation proposal.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "0ccb7f62219e92b9d484ed48dfd45b07140f336fde14f08084848766b92880e9",
+      "replacement": "The reporting describes the proposal without establishing its official result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c7c71a4292071ecc57517ba6ed5450fef4dd32a2987146199aa53a9914dcc676",
+      "replacement": "Deckerstown (postal spelling); Deckertown (community and former borough name); Wantage Township (parent); Sussex-Wantage (reported proposal)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1921",
+      "path": [
+        "views",
+        "1921",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "60a14f2cb4ea3674d2df7d0ee0d2d2a685c1112d45060e9a455613189fdf6ad8",
+      "replacement": "Sussex replaced Deckertown in postal use before the borough adopted it. The exact municipal sequence and immediate naming reason remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "views",
+        "1922",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "ec7af04ed27114a9e40a7b143ba738d7a0131cd7972d72decd463672b4ea9d06",
+      "replacement": "Exact date reported by the cited source",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "views",
+        "1922",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a8a6a70bc1244b39cc7f550ad0c9de2e9719fd87a81c6f4d87ad74aeb33b31bd",
+      "replacement": "The index dates Vernon’s separation to April 8, 1793; Haines gives 1792.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "views",
+        "1922",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "faee7e7ca885729c84ad3d57a1ea925990a705f0788c4c4cade3268a31c8affd",
+      "replacement": "Peck and the cited postal article report May 12, 1807 Vernon postal establishment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1922",
+      "path": [
+        "views",
+        "1922",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1986d72833f2d6a01257b36cf2dc2fed77415f46ad8f1215fe59e65e2c6ac6a4",
+      "replacement": "Hardyston Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "2e46d7f519f6678ed7dfb7975830d701aad606ee2e334526756f7835b1a53819",
+      "replacement": "The government index reports Walpack use by 1731.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "47811148e077c1a743e9a9fe079a5bd2c24e40141adc6199a6ccbcca8c103e28",
+      "replacement": "The index’s account does not establish exact creation, first use or manuscript lettering.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "becb03e6f6d0982bde1b661edf18a525a7623b49506f0945408cc6f719f2421d",
+      "replacement": "The postal compilation reports discontinuance in 1844.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "552c4f42117abaa54dd8ee69a66156b7b3822d1e51e7753aed4618f0c262ba54",
+      "replacement": "Peck lists John C. Westbrook, while the NPS report credits Isaac Rundle. The postmaster accounts conflict.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2cd654d4f92456f56979262cdae06ff4f40ea16e8ef72ada4f2e9617162aebe7",
+      "replacement": "Walpake (reported early form); Walpack Precinct; Flatbrookville (community); Wallpack Centre (postal spelling); Wallpack Center (postal spelling); Walpack Center (community)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1923",
+      "path": [
+        "views",
+        "1923",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "91dd8eda680c25d906c0391685c370a90abcb4a1ec24b08e99f0374520875c76",
+      "replacement": "Scholarly interpretations link Walpack with turning or deep water. The township and its separate village post offices have different histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "1fd424c0720bfe44616c9ad25e237d68b2e3b16ddd5f45efa604a89de4ce1bfe",
+      "replacement": "The index reports government adoption without identifying the original naming proposal.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "81967bb6ecea93bf5efd1d64c1a639f447d8c60a15ee298cdeb0a873f2d525e2",
+      "replacement": "The election and incorporation accounts differ by a day, without establishing a separate filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "da2d2942d5614f0a4317858bd44e996eba10a003b2dda1fe412669df58b78d98",
+      "replacement": "The 1872 edited Heckewelder publication, the 1911 English study and the attributed 2014 gazetteer account offer different interpretations.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "24eb28456bb5187c1b44ffdca96990f090fc006e0b8f1995ad0094f785348b1b",
+      "replacement": "These publication layers do not date a local naming event; no 1900 naming occurrence is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "baaafdfebea755b9154864145ac8763d61892ba15bdc760873d29dd77a2fa252",
+      "replacement": "Wantage Precinct; Newton Township (parent); Deckertown (territorial branch); Wundachqui (older linguistic hypothesis); undachqui (older linguistic hypothesis)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1924",
+      "path": [
+        "views",
+        "1924",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "eb56319268514a05d4d871181df7c90f6911aea61693a0cf966ec3c3468217b5",
+      "replacement": "Later accounts link Wantage with the English place. Older language theories and later boundary changes do not establish a different original name.",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
