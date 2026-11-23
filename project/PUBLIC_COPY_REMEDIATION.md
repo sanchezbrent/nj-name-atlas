@@ -22,6 +22,8 @@ open. Exact before text and continuation records stay private. Live Pages is unc
 The owner has authorized 24-town runs, with saved twelve-town checkpoints and
 no renewed town-selection approval. Continue the twelve already authorized Ocean County towns as checkpoint 22, save both PRs and issue #4, then stop after all 24.
 
+[Checkpoint 21 date-label addendum](PUBLIC_COPY_CHECKPOINT_21_ADDENDUM.md) adds six guarded proposals across two already-reviewed towns, for 6,409 cumulative. The sealed checkpoint-21 records remain preserved. Dates and historical claims are unchanged; no additional towns are counted.
+
 ## Historical checkpoint 20 — November 23, 2026
 
 [Checkpoint 20](PUBLIC_COPY_CHECKPOINT_20.md) completes twelve towns in Monmouth and Ocean counties

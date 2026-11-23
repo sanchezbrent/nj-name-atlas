@@ -1,11 +1,11 @@
 {
-  "stage": "COPY_PROPOSALS_CHECKPOINT_21",
+  "stage": "COPY_PROPOSALS_CHECKPOINT_21_ADDENDUM",
   "release_status": "BLOCKED",
   "editions": {
     "primary": {
-      "expanded_canonical_sha256": "ee93ee3a9aa7fcc16a1f1870aa33fb38a5878c84e0c2b8ab8960b8114eeb8457",
-      "payload_sha256": "897a2a99e54bf671bdbeb57be99b8a73e6a0c48630804c1040295e2ff2b103f1",
-      "editorial_sha256": "42846fe6f2d2f8faf7a1d6d59e51c455b28202d28d347e299567c3adfa166448",
+      "expanded_canonical_sha256": "99c85a05609c096afe6f28ed41726ea800640e45d7d02a7bd72471ade77b0add",
+      "payload_sha256": "5c98f0341af6f9fc261f3c27e64ee9a9fdcaa25a99f07cefb92f49df81b282b0",
+      "editorial_sha256": "01c646264a76952f431766f4247fe571c952d105d95dda40e6e5f248f5e36f11",
       "reader_copy_sha256": "ce2394963774f45599a280576a14213adfe4e81e9d1caac11eb44243df57a4c7",
       "frozen_reader_copy_sha256": "63c58945a15e7144d4d7ff57996c7daaf4e7aa632ee3c8d0a26d578226c98e48",
       "before_editorial_sha256": "8abb42999949bcfc874bddc85e3a28f9f9ba95782eb9555884d9516f1fb0d53c",
@@ -580,18 +580,18 @@
       "events": 4919,
       "sources": 4117,
       "source_input_writes": 0,
-      "copy_correction_fields": 3239,
+      "copy_correction_fields": 3242,
       "exact_C57_reader_records": 340,
       "contextual_review_complete": false,
       "before_asset_sha256": "56d590582a0d67a08e6a9d0f071a4f88ecd1b68e4f43e55d50fbb1b0e07c2ef2",
-      "after_asset_sha256": "7f7bb26b04568cf5b7746b344d9aa6a9b892476e1417122324f75034fc44c2f0",
+      "after_asset_sha256": "9ae0ceda0602952130bff65e428412e14e35ce728be1807f7f3ba2c2d06d3dc0",
       "before_bytes": 11667921,
-      "after_bytes": 7439314
+      "after_bytes": 7439194
     },
     "young-explorers": {
-      "expanded_canonical_sha256": "7c41cde0188b0c8300442771783cebe8bd849cb5b2732531a926d4a66256c12c",
-      "payload_sha256": "40935a4dbb293c8fa7e91a223040b82c7d1862a76b4b66f8d1f3f5f806179951",
-      "editorial_sha256": "e62aa6c3c9443f0349dec58b2986a2b4e5e315c61671a6e572c1d0c321eb28cc",
+      "expanded_canonical_sha256": "8da3d1ca27a6bb6b0d0519bc9ffbedcda7f0d078ec8be7897e75b301136438e1",
+      "payload_sha256": "99fc9d86b6a82f1a71265d986a75b35d291c3fb2fe00206f0421e005b8e69928",
+      "editorial_sha256": "abb2e620f993b4e9c0dec6941a033ef1400d2239a8ac318b3d6913b975ae46e7",
       "reader_copy_sha256": "85e16142378fd6f9102cae5088c2285cd7853afa5863a2a0c642417f99b12dc0",
       "frozen_reader_copy_sha256": "7e687ea1bff12044444e102fc7be36fb7249c792e4a2c8aa040ae69a3c1ef568",
       "before_editorial_sha256": "8295e310e91d1385174e645677cc57027656fae1ac2331d26ed2e5eddbf8a6ba",
@@ -1166,15 +1166,15 @@
       "events": 4919,
       "sources": 4117,
       "source_input_writes": 0,
-      "copy_correction_fields": 3164,
+      "copy_correction_fields": 3167,
       "exact_C57_reader_records": 340,
       "contextual_review_complete": false,
       "before_asset_sha256": "5e28671d49921dd6f986d020ef18678848192d2b0a02b361688ada4cdfb7fb60",
-      "after_asset_sha256": "00a6ae2d225032d0abc20d24c5277d107d506070f7b7cc48b44ff01a090cf5ad",
+      "after_asset_sha256": "03cf704e7bb0785f81d6f56d4ff7da7a2c0b0afec1ccbe9d92614bf76156ab40",
       "before_bytes": 11797861,
-      "after_bytes": 7510572
+      "after_bytes": 7510480
     }
   },
-  "corrections_sha256": "ab61d5fbd86a66843f61d506a802aa972ad840f36630b2c7e20d5238f62d1abb",
+  "corrections_sha256": "0c84dce62ad28f12e280dbb75243db378066faf8d46d93c00820d15dd4320795",
   "owner_approval": false
 }

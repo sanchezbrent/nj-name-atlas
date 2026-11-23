@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_21",
+  "checkpoint": "PUBLIC_COPY_21_ADDENDUM",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -89675,6 +89675,90 @@
       "expected_sha256": "26d45e2bb6cf3416ba25669570227b2346f4b5e6394e06937eb73d9c908e5a1e",
       "replacement": "Abraham Waier (community namesake tradition); Waier Creek, Waier Mills, Wiretown and Waretown (reported locality forms); Brookville (community); Township of Waretown (unsuccessful proposal); Lacey and Union (parents); Long Beach and Island Beach (later divisions)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "views",
+        "1515",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "405bc8588dfd95f906f16f80aea1d82ec138cfd2675257c9412414a1477e8558",
+      "replacement": "Decade; exact transaction dates unknown",
+      "treatment": "reader-copy proposal; preserve date forms, competing years and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "445303883205dd228d40480f024a10dd4625b0f76861e1186c71c01bb09f6176",
+      "replacement": "Conflicting reported years",
+      "treatment": "reader-copy proposal; preserve date forms, competing years and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "ee853b0807dbe9bbc8f557c25cc55bff5df1a42259846035fae0df7572fca302",
+      "replacement": "Approximate reported transition period",
+      "treatment": "reader-copy proposal; preserve date forms, competing years and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "views",
+        "1515",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "405bc8588dfd95f906f16f80aea1d82ec138cfd2675257c9412414a1477e8558",
+      "replacement": "Decade; exact transaction dates unknown",
+      "treatment": "reader-copy proposal; preserve date forms, competing years and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "445303883205dd228d40480f024a10dd4625b0f76861e1186c71c01bb09f6176",
+      "replacement": "Conflicting reported years",
+      "treatment": "reader-copy proposal; preserve date forms, competing years and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "ee853b0807dbe9bbc8f557c25cc55bff5df1a42259846035fae0df7572fca302",
+      "replacement": "Approximate reported transition period",
+      "treatment": "reader-copy proposal; preserve date forms, competing years and uncertainty"
     }
   ]
 }
