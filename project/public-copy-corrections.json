@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_29",
+  "checkpoint": "PUBLIC_COPY_30",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -330,7 +330,19 @@
     "0505",
     "0506",
     "0507",
-    "0508"
+    "0508",
+    "0509",
+    "0510",
+    "0511",
+    "0512",
+    "0513",
+    "0514",
+    "0515",
+    "0516",
+    "0601",
+    "0602",
+    "0603",
+    "0604"
   ],
   "changes": [
     {
@@ -130210,6 +130222,3815 @@
       ],
       "expected_sha256": "69adfecea6c63eb476b30627d856dc1b85679749380bbdd47c9ac83feb0ec6b4",
       "replacement": "State filing followed the April 30 vote and May 3 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4102a9a6caa8be8c2f6464ad20ed46fb70cab9a45fc8a9454b9a3e1edbe7243c",
+      "replacement": "The later biography dates foundation to 1879; Stevens describes layout around 1880. These may concern different work, without establishing one exact naming day or Landis’s original explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4102a9a6caa8be8c2f6464ad20ed46fb70cab9a45fc8a9454b9a3e1edbe7243c",
+      "replacement": "The later biography dates foundation to 1879; Stevens describes layout around 1880. These may concern different work, without establishing one exact naming day or Landis’s original explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "6a5f98199990aad60d896b5e9c967ed6830fea8b7b21ab7e9052f58eb8311803",
+      "replacement": "The legal index separates the May 16, 1882 vote, May 22 county record and May 23 state filing. Law’s compilation reports June 20 postal establishment. The county record was not a special founding act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "6a5f98199990aad60d896b5e9c967ed6830fea8b7b21ab7e9052f58eb8311803",
+      "replacement": "The legal index separates the May 16, 1882 vote, May 22 county record and May 23 state filing. Law’s compilation reports June 20 postal establishment. The county record was not a special founding act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e3ff560b35683720686651a5df0334d1f8ef26ba239a28b82ce26a53f61f7c8c",
+      "replacement": "The formal corporate title shortened in May 1897 while Sea Isle City remained the public name. April 1907 city authorization and later voter acceptance were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e3ff560b35683720686651a5df0334d1f8ef26ba239a28b82ce26a53f61f7c8c",
+      "replacement": "The formal corporate title shortened in May 1897 while Sea Isle City remained the public name. April 1907 city authorization and later voter acceptance were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "bf699a34d4d3e23a42af6dc4c6fa059da709f87c3a9c89970a650af2e934d53c",
+      "replacement": "The descriptive name fits a city on a sea island. Charles K. Landis and the improvement company promoted it; his precise original reason for the wording remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "bf699a34d4d3e23a42af6dc4c6fa059da709f87c3a9c89970a650af2e934d53c",
+      "replacement": "The descriptive name fits a city on a sea island. Charles K. Landis and the improvement company promoted it; his precise original reason for the wording remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "6283a57372b0e5c0ef13d5fb0c8f9fe9b0fcbcdbacc9c9179524e9dd860fe668",
+      "replacement": "Law’s compilation reports June 20, 1882 postal establishment under George Whitney. It carried the existing development name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "6283a57372b0e5c0ef13d5fb0c8f9fe9b0fcbcdbacc9c9179524e9dd860fe668",
+      "replacement": "Law’s compilation reports June 20, 1882 postal establishment under George Whitney. It carried the existing development name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b13a966881042720a916b711bd804045f52a43f281ab29d95ad77de48f9611ee",
+      "replacement": "The May 1897 action shortened the formal corporate title while keeping the public name. The legal index gives April 20, 1907 authorization and April 30 acceptance for city form.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "editorial",
+        "0509",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b13a966881042720a916b711bd804045f52a43f281ab29d95ad77de48f9611ee",
+      "replacement": "The May 1897 action shortened the formal corporate title while keeping the public name. The legal index gives April 20, 1907 authorization and April 30 acceptance for city form.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "8e6a8a698abdd746b55f9c650d2d604fe141266e36cbae0bffeb4e6f29565869",
+      "replacement": "A captain sheltering from a storm is the tradition often told about Stone Harbor. His identity and role in naming it remain unconfirmed. The first name-giver is unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "42d822b2ca63c85dba20e3ee41268c1f9139801c87cb99fa20d3f05c51bc15ea",
+      "replacement": "The April 3, 1914 law required voter acceptance; the index gives April 28 adoption. The December 1, 1931 postal space was a separate spelling change rather than a borough rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "42d822b2ca63c85dba20e3ee41268c1f9139801c87cb99fa20d3f05c51bc15ea",
+      "replacement": "The April 3, 1914 law required voter acceptance; the index gives April 28 adoption. The December 1, 1931 postal space was a separate spelling change rather than a borough rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "8c45473d9fbd3b748da070fa1ea353af89ccce01d44170779d8da31ca5302045",
+      "replacement": "The index records December 27, 1941 ordinance and January 14, 1942 filing but leaves the overall annexation outcome unknown. Those dated procedures do not establish a completed transfer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "8c45473d9fbd3b748da070fa1ea353af89ccce01d44170779d8da31ca5302045",
+      "replacement": "The index records December 27, 1941 ordinance and January 14, 1942 filing but leaves the overall annexation outcome unknown. Those dated procedures do not establish a completed transfer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "de12e36f458fcefe477abda323b16ed1c23d06d98cbbeda614723601b9728bb4",
+      "replacement": "Law’s compilation gives July 3, 1894 Stoneharbor establishment under Hiram W. Godfrey. It separately reports discontinuance and re-establishment in 1900. These are postal administrative dates rather than the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "de12e36f458fcefe477abda323b16ed1c23d06d98cbbeda614723601b9728bb4",
+      "replacement": "Law’s compilation gives July 3, 1894 Stoneharbor establishment under Hiram W. Godfrey. It separately reports discontinuance and re-establishment in 1900. These are postal administrative dates rather than the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "4b26aeaa5ab274fe1f471ce4279d5c07c56563202987233033a6ae14d756a5a7",
+      "replacement": "The law was approved April 3, 1914 with voter acceptance required. The legal index gives April 28 adoption and effect from Middle Township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0510",
+      "path": [
+        "editorial",
+        "0510",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "4b26aeaa5ab274fe1f471ce4279d5c07c56563202987233033a6ae14d756a5a7",
+      "replacement": "The law was approved April 3, 1914 with voter acceptance required. The legal index gives April 28 adoption and effect from Middle Township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0511",
+      "path": [
+        "editorial",
+        "0511",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "2c35302abaae31203f087b82915bc31e52d38a010748112e34bbf542839214d4",
+      "replacement": "The legal index records Upper receiving Maurice River territory on April 8, 1844. This preceded the opposite-direction transfer in 1845.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0511",
+      "path": [
+        "editorial",
+        "0511",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "2c35302abaae31203f087b82915bc31e52d38a010748112e34bbf542839214d4",
+      "replacement": "The legal index records Upper receiving Maurice River territory on April 8, 1844. This preceded the opposite-direction transfer in 1845.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0511",
+      "path": [
+        "editorial",
+        "0511",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "a0a7c01155709ae29e68bdf5f2a12aa28058c7c11c86bfa465bc9c39886bedc3",
+      "replacement": "The government summary gives March 27, 1905 for Sea Isle City’s expansion from Upper. It is separate from the later return to Upper.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0511",
+      "path": [
+        "editorial",
+        "0511",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "a0a7c01155709ae29e68bdf5f2a12aa28058c7c11c86bfa465bc9c39886bedc3",
+      "replacement": "The government summary gives March 27, 1905 for Sea Isle City’s expansion from Upper. It is separate from the later return to Upper.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0512",
+      "path": [
+        "editorial",
+        "0512",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "64fa728d72b05d59f766d9960db59777ca39ee8d8b8f76570605f01e7f9f97e5",
+      "replacement": "The index separates April 15, 1884 vote, April 17 county recording and April 18 state filing. The county entry was not a special law and does not identify the first name-giver.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0512",
+      "path": [
+        "editorial",
+        "0512",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "64fa728d72b05d59f766d9960db59777ca39ee8d8b8f76570605f01e7f9f97e5",
+      "replacement": "The index separates April 15, 1884 vote, April 17 county recording and April 18 state filing. The county entry was not a special law and does not identify the first name-giver.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0512",
+      "path": [
+        "editorial",
+        "0512",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0c9c0105f7b3979f1cb4f78702098793a321010a2b93d70dc4117857e548781c",
+      "replacement": "Law’s compilation describes the later Eldredge office, its change to West Cape May and closure. These postal changes did not create, rename or dissolve the already existing borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0512",
+      "path": [
+        "editorial",
+        "0512",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0c9c0105f7b3979f1cb4f78702098793a321010a2b93d70dc4117857e548781c",
+      "replacement": "Law’s compilation describes the later Eldredge office, its change to West Cape May and closure. These postal changes did not create, rename or dissolve the already existing borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0512",
+      "path": [
+        "editorial",
+        "0512",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "c1cca82fab9f7ec622af063527988e4fb7784a5ac134eea28c29c0fd538dbde5",
+      "replacement": "The legal index gives April 15, 1884 voting and effect, April 17 county recording and April 18 state filing. The county day was not a special founding law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0512",
+      "path": [
+        "editorial",
+        "0512",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "c1cca82fab9f7ec622af063527988e4fb7784a5ac134eea28c29c0fd538dbde5",
+      "replacement": "The legal index gives April 15, 1884 voting and effect, April 17 county recording and April 18 state filing. The county day was not a special founding law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0512",
+      "path": [
+        "editorial",
+        "0512",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "5fd57146e2811fde29e7d2e3c4598980aa6d8dda89547f83ef163924fc770de4",
+      "replacement": "Law’s compilation reports Eldredge opening August 2, 1898, becoming West Cape May November 8, 1909 and closing March 31, 1920, with mail transferred to Cape May.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0512",
+      "path": [
+        "editorial",
+        "0512",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "5fd57146e2811fde29e7d2e3c4598980aa6d8dda89547f83ef163924fc770de4",
+      "replacement": "Law’s compilation reports Eldredge opening August 2, 1898, becoming West Cape May November 8, 1909 and closing March 31, 1920, with mail transferred to Cape May.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "47bef3c94eb6b3b874bdfd8a003198c13293ebce6e46daf5c39bab5185eb0b48",
+      "replacement": "The printed law gives April 21, 1920 creation from Middle Township and immediate effect, conflicting with the local history’s April 20 date. The history separately reports an August 3 first election. Law’s 1921 mail-service report is explicitly unofficial and does not establish a separate post office. These institutions carried an existing development name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "7aaa2d11f9df8e80990fda257343e15cc3dd9a01d403cb56edb565cbddd2304c",
+      "replacement": "The borough law was approved April 21, 1920 and took effect immediately. A later local account gives April 20, leaving a disagreement. It separately reports an August 3 first election. An unofficial report of 1921 mail service does not prove that a separate post office existed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "5795efc50ce5cb30396579b1bd4eab77fbf762b88f2a8f01f890396c1c35e382",
+      "replacement": "The later borough history reports Warren D. Hann’s 1899 purchase and organizing role. It does not establish the first printed West Wildwood use or individual name-giver.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "5795efc50ce5cb30396579b1bd4eab77fbf762b88f2a8f01f890396c1c35e382",
+      "replacement": "The later borough history reports Warren D. Hann’s 1899 purchase and organizing role. It does not establish the first printed West Wildwood use or individual name-giver.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "6430439e49fe570fdc55c6c974396b06a03bfc205dc7526ace9d84ee804b98b7",
+      "replacement": "The history describes a 1909 bridge suggestion, 1910 railway proposal and 1912 financing. Those stages do not establish completed construction or service opening dates.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "6430439e49fe570fdc55c6c974396b06a03bfc205dc7526ace9d84ee804b98b7",
+      "replacement": "The history describes a 1909 bridge suggestion, 1910 railway proposal and 1912 financing. Those stages do not establish completed construction or service opening dates.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "ff2cf1554ecc0bfacdefbf52a2055241d996eeb8f9fc6c53e4ecbe8ee21a4e38",
+      "replacement": "The printed law gives April 21, 1920 approval and immediate effect. The August 3 election is reported by the borough history; the unofficial 1921 mail account does not establish an independent office.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "ff2cf1554ecc0bfacdefbf52a2055241d996eeb8f9fc6c53e4ecbe8ee21a4e38",
+      "replacement": "The printed law gives April 21, 1920 approval and immediate effect. The August 3 election is reported by the borough history; the unofficial 1921 mail account does not establish an independent office.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "cebe4767b3f6000d03c1d1248037a398a07caf9de6e9e7fc032d8cdbbdf13032",
+      "replacement": "The borough history reports Hann’s 1899 land purchase and early-twentieth-century development. The exact first printed name and original chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "cebe4767b3f6000d03c1d1248037a398a07caf9de6e9e7fc032d8cdbbdf13032",
+      "replacement": "The borough history reports Hann’s 1899 land purchase and early-twentieth-century development. The exact first printed name and original chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "3d6a058c9e9761c5bda645ac7d3c8f7faa1ccbbc351f0b735f2741f90c475d01",
+      "replacement": "The printed law gives April 21, 1920 approval and immediate effect from Middle Township. The retrospective April 20 date conflicts, without establishing a second legal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "3d6a058c9e9761c5bda645ac7d3c8f7faa1ccbbc351f0b735f2741f90c475d01",
+      "replacement": "The printed law gives April 21, 1920 approval and immediate effect from Middle Township. The retrospective April 20 date conflicts, without establishing a second legal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c8e723268426f591d092cc03ad32fbcec3c8acc34ec4ba82dbe4cdaf0e2098f3",
+      "replacement": "The borough history reports an August 3, 1920 first election. A 1926 annexation is separately recorded by the legal index as an ordinance stage rather than another naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "editorial",
+        "0513",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c8e723268426f591d092cc03ad32fbcec3c8acc34ec4ba82dbe4cdaf0e2098f3",
+      "replacement": "The borough history reports an August 3, 1920 first election. A 1926 annexation is separately recorded by the legal index as an ordinance stage rather than another naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "205369b8b490ec6d6357ff0327035981088c00b6205a5e3d84ff64e0bfba68c7",
+      "replacement": "Woods and wild plants help explain Wildwood. Later accounts credit either J. Thompson Baker or Philip Pontius Baker, with differing 1885 and 1886 stories. The exact original name-giver and naming day remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "334bc64a48e7097961fa776f7ffe21213ea81c7f670cc43a2bd5a7256d93f4b9",
+      "replacement": "Later accounts credit different Baker family members and dates. The 1886 and 1895 company/development accounts are not established as separate corporate events or one settled naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "334bc64a48e7097961fa776f7ffe21213ea81c7f670cc43a2bd5a7256d93f4b9",
+      "replacement": "Later accounts credit different Baker family members and dates. The 1886 and 1895 company/development accounts are not established as separate corporate events or one settled naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "942f373e8255d0a2f7e70b2e5903be5cc279f798b6a114ace5afaaf46e4788ca",
+      "replacement": "Law’s compilation reports the 1889 postal office. The legal index separates April 30, 1895 borough vote, May 1 county filing and effect, and May 21 state filing. The county record was not a special naming law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "942f373e8255d0a2f7e70b2e5903be5cc279f798b6a114ace5afaaf46e4788ca",
+      "replacement": "Law’s compilation reports the 1889 postal office. The legal index separates April 30, 1895 borough vote, May 1 county filing and effect, and May 21 state filing. The county record was not a special naming law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4ad582fe3e1883f527415839dc0e232c869d5a3f9ed082498f04288f695f7210",
+      "replacement": "Wildwood and Holly Beach accepted consolidation while North Wildwood and Wildwood Crest rejected it. The index separates the August 1911 vote, September decree and filing, and January 1, 1912 start of the combined city.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4ad582fe3e1883f527415839dc0e232c869d5a3f9ed082498f04288f695f7210",
+      "replacement": "Wildwood and Holly Beach accepted consolidation while North Wildwood and Wildwood Crest rejected it. The index separates the August 1911 vote, September decree and filing, and January 1, 1912 start of the combined city.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "c3d941d131bdc0cffeef5686a48bc873c82261e980ce6fb5aa30fe0d7c1e5181",
+      "replacement": "Law’s compilation reports Holly Beach office closure and mail transfer to Wildwood on April 30, 1913. That postal change followed the city’s January 1, 1912 beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "c3d941d131bdc0cffeef5686a48bc873c82261e980ce6fb5aa30fe0d7c1e5181",
+      "replacement": "Law’s compilation reports Holly Beach office closure and mail transfer to Wildwood on April 30, 1913. That postal change followed the city’s January 1, 1912 beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "6c2247df4fb34397415a605335242f1b5cc3016dffc8a54181f7f863830aafce",
+      "replacement": "Later accounts give 1886 development and 1895 improvement-company organization. Their relationship remains unresolved rather than establishing separate company formations or one exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "6c2247df4fb34397415a605335242f1b5cc3016dffc8a54181f7f863830aafce",
+      "replacement": "Later accounts give 1886 development and 1895 improvement-company organization. Their relationship remains unresolved rather than establishing separate company formations or one exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "93c8832e486add8c93f03928d923c72f87b0b74796e8ad9b92e8a55251bbbbd7",
+      "replacement": "Law’s compilation reports Wildwood establishment September 14, 1889 and Holly Beach closure April 30, 1913 with mail to Wildwood. The Holly Beach office lasted beyond its separate municipality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "93c8832e486add8c93f03928d923c72f87b0b74796e8ad9b92e8a55251bbbbd7",
+      "replacement": "Law’s compilation reports Wildwood establishment September 14, 1889 and Holly Beach closure April 30, 1913 with mail to Wildwood. The Holly Beach office lasted beyond its separate municipality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0487082ac9920413a35e7aa177971c1f2a454914c579edbafb9b75d0b4f35fab",
+      "replacement": "The index gives September 23, 1911 decree, September 27 filing and January 1, 1912 effect. The combined city’s beginning did not invent the older resort name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "editorial",
+        "0514",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0487082ac9920413a35e7aa177971c1f2a454914c579edbafb9b75d0b4f35fab",
+      "replacement": "The index gives September 23, 1911 decree, September 27 filing and January 1, 1912 effect. The combined city’s beginning did not invent the older resort name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "67d89009ec87fd172c4885f75e81ac28d502c6e59ee2aa96624c8b5e316733f8",
+      "replacement": "The first-house year differs: the Historical Society gives 1906, while WHYY gives 1905. The Society reports a 1907 entrance arch. A company-name report is attributed to a February 29, 1908 newspaper issue; that reference does not establish the company’s original naming day or charter.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "218984d832bc9704cdeedef2af3a63b0f9955ddc6a2378e4710c0f42bbba4ac7",
+      "replacement": "The postal compilation gives July 23, 1909 establishment and April 30, 1913 discontinuance with mail through Wildwood. The borough was separately created by an April 6, 1910 special act. Voters rejected Wildwood consolidation in 1911 and a city proposal in 1917. Commission government adopted in 1937 changed government form rather than the borough’s name; Wildwood Crest did not merge into Wildwood City.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "3b73bda0a1e14b5bbc3495b0afa83bf2b3dda434c1534bc037e2207a2ca1ebe8",
+      "replacement": "Wildwood Crest added a word to a familiar resort name. Philip Baker and the development company helped build the southern community. A later interview explains Crest as slightly higher ground, while the developers’ exact original meaning and first name-giver remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "995f01983abdea549842a879263e2c993fc443e15246da2ae550110ef4bd7b44",
+      "replacement": "The Historical Society reports an entrance arch in 1907. That is a reported development milestone rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "995f01983abdea549842a879263e2c993fc443e15246da2ae550110ef4bd7b44",
+      "replacement": "The Historical Society reports an entrance arch in 1907. That is a reported development milestone rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        3,
+        "label"
+      ],
+      "expected_sha256": "ebd332f87820a5affb3cfa8f96f8a057297c3f616f387a1e78776958f78a77e3",
+      "replacement": "A reported company reference in a newspaper",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        3,
+        "label"
+      ],
+      "expected_sha256": "ebd332f87820a5affb3cfa8f96f8a057297c3f616f387a1e78776958f78a77e3",
+      "replacement": "A reported company reference in a newspaper",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "899e25dc3c6355a89a997c1957ef76477df68e4818c1dd6f1fbdd773626d21cf",
+      "replacement": "A company-name report is attributed to page 2 of the February 29, 1908 newspaper issue. The catalogue identifies the issue; the reference does not establish an original company charter or naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "899e25dc3c6355a89a997c1957ef76477df68e4818c1dd6f1fbdd773626d21cf",
+      "replacement": "A company-name report is attributed to page 2 of the February 29, 1908 newspaper issue. The catalogue identifies the issue; the reference does not establish an original company charter or naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3cf359a0946b19ef2ecf76c39b752df8631a80668dc0ef8b6a259d7e10d4525f",
+      "replacement": "Law’s compilation gives July 23, 1909 postal establishment. That administrative date does not establish first operation or original naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3cf359a0946b19ef2ecf76c39b752df8631a80668dc0ef8b6a259d7e10d4525f",
+      "replacement": "Law’s compilation gives July 23, 1909 postal establishment. That administrative date does not establish first operation or original naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "b966c31619074fb32262ce1d43f7af035c77845b73e5f7efbfa834170117fc6c",
+      "replacement": "The special act created the borough from Lower Township on April 6, 1910. It adopted the existing development name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "b966c31619074fb32262ce1d43f7af035c77845b73e5f7efbfa834170117fc6c",
+      "replacement": "The special act created the borough from Lower Township on April 6, 1910. It adopted the existing development name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "e87e9e028067ac00e1912ac9b41829adafa7f701421b91d39fb575de8d3239f5",
+      "replacement": "May 1910 organization is reported. More precise claims of a May 3 election and May 9 organization remain unconfirmed rather than established separate proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "e87e9e028067ac00e1912ac9b41829adafa7f701421b91d39fb575de8d3239f5",
+      "replacement": "May 1910 organization is reported. More precise claims of a May 3 election and May 9 organization remain unconfirmed rather than established separate proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        11,
+        "detail"
+      ],
+      "expected_sha256": "4c314a70bc09e4c86b8b75535abd1c4ab30f333746beceb32b78997d4c99dbd0",
+      "replacement": "The printed municipal-election statement gives September 14, 1937 voter adoption of commission government. The borough’s name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "journey",
+        11,
+        "detail"
+      ],
+      "expected_sha256": "4c314a70bc09e4c86b8b75535abd1c4ab30f333746beceb32b78997d4c99dbd0",
+      "replacement": "The printed municipal-election statement gives September 14, 1937 voter adoption of commission government. The borough’s name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "editorial",
+        "0515",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "4d6c2b7bd26d6aac094da3da167fac9dca99a2b7e55d14398d95af9403f8c51a",
+      "replacement": "Reported development spans about 1904–1906. The 1908 newspaper reference does not establish an original charter or naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "29c8dbfb294e09f1ab8e2ca42cedc709d37ad2b933cff45214250aa0fa0e3a3a",
+      "replacement": "Law’s later tradition credits Mrs. Townsend without establishing Hannah, one plant species or an exact naming year. The 1880 gazetteer lists Woodbine before the colony began.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "29c8dbfb294e09f1ab8e2ca42cedc709d37ad2b933cff45214250aa0fa0e3a3a",
+      "replacement": "Law’s later tradition credits Mrs. Townsend without establishing Hannah, one plant species or an exact naming year. The 1880 gazetteer lists Woodbine before the colony began.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d8ef56774b779fa11d91b6009b0eec411300492f5ff3b7f47189cd40baa586ae",
+      "replacement": "The legal index gives March 3, 1903 direct creation from Dennis Township and March 5 county recording. These stages used an older locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d8ef56774b779fa11d91b6009b0eec411300492f5ff3b7f47189cd40baa586ae",
+      "replacement": "The legal index gives March 3, 1903 direct creation from Dennis Township and March 5 county recording. These stages used an older locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "94a6ff1d1e59fe3b068c4a843904042535f06578425bf37637f7583fd2f10a0a",
+      "replacement": "The 1880 Lippincott gazetteer lists Woodbine as a West Jersey Railroad station. That printed use predates the colony but does not establish the first naming day, chooser or plant species.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "94a6ff1d1e59fe3b068c4a843904042535f06578425bf37637f7583fd2f10a0a",
+      "replacement": "The 1880 Lippincott gazetteer lists Woodbine as a West Jersey Railroad station. That printed use predates the colony but does not establish the first naming day, chooser or plant species.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "e136712c1319d46e59915628bc641b8403bc7e9e24ee73a3b922e618687b41a8",
+      "replacement": "Rosenthal reports August 28, 1891 establishment by the Baron de Hirsch Fund. Rutgers and another institutional account differ between 1894 and 1893 for the agricultural school. The difference remains unresolved rather than established planning and opening stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "e136712c1319d46e59915628bc641b8403bc7e9e24ee73a3b922e618687b41a8",
+      "replacement": "Rosenthal reports August 28, 1891 establishment by the Baron de Hirsch Fund. Rutgers and another institutional account differ between 1894 and 1893 for the agricultural school. The difference remains unresolved rather than established planning and opening stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "edc80afb06d5e691d637833d348df7ff0fc9c1921d630bceef00d52880209c2c",
+      "replacement": "The legal index separates March 3, 1903 direct creation and immediate effect from March 5 county recording. The borough inherited an existing locality and colony name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "editorial",
+        "0516",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "edc80afb06d5e691d637833d348df7ff0fc9c1921d630bceef00d52880209c2c",
+      "replacement": "The legal index separates March 3, 1903 direct creation and immediate effect from March 5 county recording. The borough inherited an existing locality and colony name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "editorial",
+        "0601",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "1b1f27e68849eb51d5748892c7a96bcf83a1e8f3ed9a832e77ab1c568f86c740",
+      "replacement": "Elmer reports Bridgeton on 1816 banknotes; the bank’s role in inventing or spreading the form and the printing-error explanation remain unresolved. Cumberland was a separate unrealized 1754 town plan.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "editorial",
+        "0601",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "1b1f27e68849eb51d5748892c7a96bcf83a1e8f3ed9a832e77ab1c568f86c740",
+      "replacement": "Elmer reports Bridgeton on 1816 banknotes; the bank’s role in inventing or spreading the form and the printing-error explanation remain unresolved. Cumberland was a separate unrealized 1754 town plan.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "editorial",
+        "0601",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "2836dc93c1731389b316245bc94c5d1804161e47454b74a020ff1035810e7bcf",
+      "replacement": "The index gives March 29, 1864 law approval and March 1, 1865 city effect, also describing the latter as an election date in its Snyder annotation. The city combined Bridgeton and Cohansey townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "editorial",
+        "0601",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "2836dc93c1731389b316245bc94c5d1804161e47454b74a020ff1035810e7bcf",
+      "replacement": "The index gives March 29, 1864 law approval and March 1, 1865 city effect, also describing the latter as an election date in its Snyder annotation. The city combined Bridgeton and Cohansey townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "editorial",
+        "0601",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "a85264527275d831c8d24127a6d9548c1a8eba6856386b757baf3c5be00d0ae3",
+      "replacement": "Elmer reports Bridgetown in 1765 county minutes. Both the 1792 and printed 1802 post-road laws use Bridgetown. A later historian’s shorter spelling while describing the route is not the original law’s wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "editorial",
+        "0601",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "a85264527275d831c8d24127a6d9548c1a8eba6856386b757baf3c5be00d0ae3",
+      "replacement": "Elmer reports Bridgetown in 1765 county minutes. Both the 1792 and printed 1802 post-road laws use Bridgetown. A later historian’s shorter spelling while describing the route is not the original law’s wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "editorial",
+        "0601",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "9db0a380b6445b7130bef0dae5550f365ee37d1730d982e4e223c7e640422745",
+      "replacement": "The legal index gives March 29, 1864 approval and March 1, 1865 effect, with an annotation also calling the latter an election date. These later government stages do not date first use of the bridge name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "editorial",
+        "0601",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "9db0a380b6445b7130bef0dae5550f365ee37d1730d982e4e223c7e640422745",
+      "replacement": "The legal index gives March 29, 1864 approval and March 1, 1865 effect, with an annotation also calling the latter an election date. These later government stages do not date first use of the bridge name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "901540c9b9ccb3c7297f7e112bc696098ef5f398e0a27aa7f182502d91541101",
+      "replacement": "The township formed from Downe. A centennial history reports a March 14, 1874 committee meeting at a hotel. The law separately scheduled an annual meeting at a schoolhouse. Those describe different proceedings, without establishing every organization detail or the first person who suggested Commercial.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "432037b0cb6292eb088026ec182eceb984233b1e1d206496f69c562c99547173",
+      "replacement": "The February 27, 1874 law created Commercial without giving a naming reason or proposer. Shellfishing is a later conventional interpretation, alongside the area’s broader commerce.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "432037b0cb6292eb088026ec182eceb984233b1e1d206496f69c562c99547173",
+      "replacement": "The February 27, 1874 law created Commercial without giving a naming reason or proposer. Shellfishing is a later conventional interpretation, alongside the area’s broader commerce.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "997bed7d8ca4f916a3d466c9bf4c2bc5655d03242abd2eb2ce90e6dbfe509f13",
+      "replacement": "The centennial history reports March 14, 1874 committee organization at William Hinson’s hotel. The annual schoolhouse meeting scheduled by law was a different proceeding; a schedule does not establish actual attendance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "997bed7d8ca4f916a3d466c9bf4c2bc5655d03242abd2eb2ce90e6dbfe509f13",
+      "replacement": "The centennial history reports March 14, 1874 committee organization at William Hinson’s hotel. The annual schoolhouse meeting scheduled by law was a different proceeding; a schedule does not establish actual attendance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0939469c90c6cd6e16ad70ae548a30d6fa110d8f0f4d16d6d864c401a40f3103",
+      "replacement": "The law approved February 27, 1874 created and named Commercial Township. It does not give the name’s reason or first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0939469c90c6cd6e16ad70ae548a30d6fa110d8f0f4d16d6d864c401a40f3103",
+      "replacement": "The law approved February 27, 1874 created and named Commercial Township. It does not give the name’s reason or first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "afa3db8c5f52cd75cb5192a4e5f5a103009077ec6815afc3c71aad3fa68a6997",
+      "replacement": "The centennial history places railway connection around 1860 and Port Norris postal service in 1870. Those are reports of district transport and mail rather than evidence that either institution chose Commercial.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "editorial",
+        "0602",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "afa3db8c5f52cd75cb5192a4e5f5a103009077ec6815afc3c71aad3fa68a6997",
+      "replacement": "The centennial history places railway connection around 1860 and Port Norris postal service in 1870. Those are reports of district transport and mail rather than evidence that either institution chose Commercial.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "4c6601b120d3a56ec5bdfb8afca4017151944df87b0f3d49ac2e656a8b7841c1",
+      "replacement": "The 1945 place-name compilation points to Deerfield, Massachusetts as the conventional explanation. How the name was transferred and who first chose it locally remain unknown. Benjamin Davis’s early landholding belongs to the settlement story rather than establishing him as name-giver.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "6a3f868b4a2957954b858775e1ed59f32648d4a90d3e996174e353ca28b5d9d8",
+      "replacement": "A later place-name book points to Deerfield in Massachusetts. That is the usual explanation, while the route of transfer and first local chooser remain unknown. Benjamin Davis owned early land here; that does not establish that he named the place.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "209005df1e5be23d9f5c697dce8d86bd9933316043f13b9e1b459c5fe0004d1d",
+      "replacement": "The legal catalogue gives January 19, 1747/48 for the precinct, retaining the source’s dual year without conversion. State law continued the township in 1798 rather than inventing the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "209005df1e5be23d9f5c697dce8d86bd9933316043f13b9e1b459c5fe0004d1d",
+      "replacement": "The legal catalogue gives January 19, 1747/48 for the precinct, retaining the source’s dual year without conversion. State law continued the township in 1798 rather than inventing the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "fbb5838c681ac9a868bfb99331000fe76fff1e41392b36534abf4b48b747567d",
+      "replacement": "The 1945 compilation points to Deerfield, Massachusetts. The original route of transfer and first local chooser remain unknown. Deer-lick explanations from an Ohio township do not establish this New Jersey name’s origin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "fbb5838c681ac9a868bfb99331000fe76fff1e41392b36534abf4b48b747567d",
+      "replacement": "The 1945 compilation points to Deerfield, Massachusetts. The original route of transfer and first local chooser remain unknown. Deer-lick explanations from an Ohio township do not establish this New Jersey name’s origin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d74d1041c42ed17dde9ea56c3edc38cbb6f816f4a85ad33314ff0f610a7a102e",
+      "replacement": "Church history reports Benjamin Davis’s 1725 tract, a log school by 1732 and the church’s 1737 founding. Those later accounts do not establish Davis as name-giver or supply a contemporary organization minute.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d74d1041c42ed17dde9ea56c3edc38cbb6f816f4a85ad33314ff0f610a7a102e",
+      "replacement": "Church history reports Benjamin Davis’s 1725 tract, a log school by 1732 and the church’s 1737 founding. Those later accounts do not establish Davis as name-giver or supply a contemporary organization minute.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "2d999b3553c0f73c6fa9f8cb0fdf434ead8c4c402ef26c533d1a4688acd9d57c",
+      "replacement": "The older settlement and parish name preceded transport institutions. A later place-name compilation reports Deerfield Street in a 1768 mortgage; that locality is distinct from the present township’s boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "2d999b3553c0f73c6fa9f8cb0fdf434ead8c4c402ef26c533d1a4688acd9d57c",
+      "replacement": "The older settlement and parish name preceded transport institutions. A later place-name compilation reports Deerfield Street in a 1768 mortgage; that locality is distinct from the present township’s boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "ab229c0fd304d17c47d84fe120f39bd9cac2761bf94da23138491868a3497bdd",
+      "replacement": "The legal catalogue gives January 19, 1747/48 for the precinct; the dual year remains as recorded. The township continued February 21, 1798.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "editorial",
+        "0603",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "ab229c0fd304d17c47d84fe120f39bd9cac2761bf94da23138491868a3497bdd",
+      "replacement": "The legal catalogue gives January 19, 1747/48 for the precinct; the dual year remains as recorded. The township continued February 21, 1798.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "editorial",
+        "0604",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "cd70387a0c0dc024e32c83c702deb5664587fc135649d768e4e38db9537ef167",
+      "replacement": "Elmer’s 1869 history explains Downes as a compliment to Elizabeth Downes Franklin, Governor William Franklin’s wife. A patent abstract records Downes Township on September 26, 1772, from southwestern Fairfield. The personal honor remains Elmer’s later attribution rather than an established original dedication statement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "editorial",
+        "0604",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "6ec6a06577dd8e1cebbc3bf3287c0069ce13ed135ab0bfe28ca5dfa87dcee749",
+      "replacement": "A patent abstract records Downes Township in 1772. Elmer’s later history says it honored Elizabeth Downes Franklin, the governor’s wife. That is an attributed explanation rather than an established original naming statement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "editorial",
+        "0604",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "598730caacac4bbd7b177660aaf8c0afd0492bf9d2435c726bba5f005b2250a2",
+      "replacement": "The patent abstract gives Downes Township and September 26, 1772. It does not supply an original naming declaration, and the county’s earlier 1747/48 framework is a different government stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "editorial",
+        "0604",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "598730caacac4bbd7b177660aaf8c0afd0492bf9d2435c726bba5f005b2250a2",
+      "replacement": "The patent abstract gives Downes Township and September 26, 1772. It does not supply an original naming declaration, and the county’s earlier 1747/48 framework is a different government stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "editorial",
+        "0604",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "29cf44ef473fec269e7a571c32a7de68fdc3d77d585ba0097371be72660be32f",
+      "replacement": "The patent index gives September 26, 1772 and Commission Book AB, page 116, for Downes Township. The abstract records the title and date rather than an original personal dedication statement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "editorial",
+        "0604",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "29cf44ef473fec269e7a571c32a7de68fdc3d77d585ba0097371be72660be32f",
+      "replacement": "The patent index gives September 26, 1772 and Commission Book AB, page 116, for Downes Township. The abstract records the title and date rather than an original personal dedication statement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "4eed891f77e638a3cd2587c2587a2c11efa6f9ae0b137af23cbd2b98cc717d44",
+      "replacement": "Sea Isle City; Charles K. Landis; Ludlam’s Beach; Ludlam Island; Joseph Ludlam; Townsend’s Inlet; Dennis and Upper parent townships; Sea Isle improvement company",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "4eed891f77e638a3cd2587c2587a2c11efa6f9ae0b137af23cbd2b98cc717d44",
+      "replacement": "Sea Isle City; Charles K. Landis; Ludlam’s Beach; Ludlam Island; Joseph Ludlam; Townsend’s Inlet; Dennis and Upper parent townships; Sea Isle improvement company",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "a580919aee03231da728901853ab6a5ea3523f3116e12d78bd0edf6023df43b4",
+      "replacement": "State filing followed the May 16 vote and May 22 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "a580919aee03231da728901853ab6a5ea3523f3116e12d78bd0edf6023df43b4",
+      "replacement": "State filing followed the May 16 vote and May 22 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "520912b7e4f4fed95b11d8db2e84ed633d7a031605fa5a3c266bbc27ffe08e29",
+      "replacement": "The March 27 expansion was distinct from the April 5 return; the public place name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "520912b7e4f4fed95b11d8db2e84ed633d7a031605fa5a3c266bbc27ffe08e29",
+      "replacement": "The March 27 expansion was distinct from the April 5 return; the public place name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        11,
+        "precision"
+      ],
+      "expected_sha256": "aae9b647cd319077b2f8b32680c016f5c49bdb0e5f9f4465fe87963fe467bed2",
+      "replacement": "Act approval date reported by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        11,
+        "precision"
+      ],
+      "expected_sha256": "aae9b647cd319077b2f8b32680c016f5c49bdb0e5f9f4465fe87963fe467bed2",
+      "replacement": "Act approval date reported by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "0c83bf3c72b519eae9663ae7a41d59d03756085ee2c3d9f91d1fb937a78b0de3",
+      "replacement": "The legal index gives April 20, 1907 approval, separately from April 30 acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "0c83bf3c72b519eae9663ae7a41d59d03756085ee2c3d9f91d1fb937a78b0de3",
+      "replacement": "The legal index gives April 20, 1907 approval, separately from April 30 acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "2338a237470f5f6b90ea31f8c959e87ae2425f4542b3901508549a844f69da94",
+      "replacement": "Authorization preceded the later voter acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "2338a237470f5f6b90ea31f8c959e87ae2425f4542b3901508549a844f69da94",
+      "replacement": "Authorization preceded the later voter acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        12,
+        "precision"
+      ],
+      "expected_sha256": "e5144071e91b9a2690203d6a6e0d1591af3849895fb7902bba4b798b2802f48d",
+      "replacement": "Acceptance date reported by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        12,
+        "precision"
+      ],
+      "expected_sha256": "e5144071e91b9a2690203d6a6e0d1591af3849895fb7902bba4b798b2802f48d",
+      "replacement": "Acceptance date reported by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "df1ab75246797e38a1bb93fd9216c3977f3ca2ffc14adfe641fc84cedc92710e",
+      "replacement": "The legal index reports April 30, 1907 acceptance under the April 20 enabling act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0509",
+      "path": [
+        "views",
+        "0509",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "df1ab75246797e38a1bb93fd9216c3977f3ca2ffc14adfe641fc84cedc92710e",
+      "replacement": "The legal index reports April 30, 1907 acceptance under the April 20 enabling act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0510",
+      "path": [
+        "views",
+        "0510",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9c2428304e90a65d021304fd66384d29cd9d4031403b7dde3dab8bc77ec68f44",
+      "replacement": "Stone Harbor; Stoneharbor; Captain Stone tradition; Seven Mile Beach; Howard, David and Reese Risley; South Jersey Realty Company; Marshall Reid hydroplane mail; Middle parent township; proposed Avalon road annexation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0510",
+      "path": [
+        "views",
+        "0510",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9c2428304e90a65d021304fd66384d29cd9d4031403b7dde3dab8bc77ec68f44",
+      "replacement": "Stone Harbor; Stoneharbor; Captain Stone tradition; Seven Mile Beach; Howard, David and Reese Risley; South Jersey Realty Company; Marshall Reid hydroplane mail; Middle parent township; proposed Avalon road annexation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0511",
+      "path": [
+        "views",
+        "0511",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "32eed8607c4e051a3e481a5fb5557c9bf7fdf10c6f57b2b97af39c8e40fdebe6",
+      "replacement": "Upper; Upper Precinct; Upper, Middle and Lower county scheme; Tuckahoe; Beesley’s Point; Petersburg; Seaville; Marmora; Dennis separation; Maurice River reciprocal transfers; Sea Isle City transfers",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0511",
+      "path": [
+        "views",
+        "0511",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "32eed8607c4e051a3e481a5fb5557c9bf7fdf10c6f57b2b97af39c8e40fdebe6",
+      "replacement": "Upper; Upper Precinct; Upper, Middle and Lower county scheme; Tuckahoe; Beesley’s Point; Petersburg; Seaville; Marmora; Dennis separation; Maurice River reciprocal transfers; Sea Isle City transfers",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0511",
+      "path": [
+        "views",
+        "0511",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2ed1d004934bb1d2f577180ce30cb1fa2f7942da5b339b3cf60f3a2739e414ce",
+      "replacement": "Passage on November 9, 1826 preceded the specified March 1, 1827 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0511",
+      "path": [
+        "views",
+        "0511",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2ed1d004934bb1d2f577180ce30cb1fa2f7942da5b339b3cf60f3a2739e414ce",
+      "replacement": "Passage on November 9, 1826 preceded the specified March 1, 1827 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0511",
+      "path": [
+        "views",
+        "0511",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "9c86b73e6a961389346a1d771affce4a43e7e1b4f1711f117ce275223aac9602",
+      "replacement": "The April 1844 addition was separate from the February 1845 partial return.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0511",
+      "path": [
+        "views",
+        "0511",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "9c86b73e6a961389346a1d771affce4a43e7e1b4f1711f117ce275223aac9602",
+      "replacement": "The April 1844 addition was separate from the February 1845 partial return.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0511",
+      "path": [
+        "views",
+        "0511",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "520912b7e4f4fed95b11d8db2e84ed633d7a031605fa5a3c266bbc27ffe08e29",
+      "replacement": "The March 27 expansion was distinct from the April 5 return; the public place name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0511",
+      "path": [
+        "views",
+        "0511",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "520912b7e4f4fed95b11d8db2e84ed633d7a031605fa5a3c266bbc27ffe08e29",
+      "replacement": "The March 27 expansion was distinct from the April 5 return; the public place name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0512",
+      "path": [
+        "views",
+        "0512",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0e369e28b66cc9882559cc0418cb95abab5880fddafae8894ca6060f06389ac5",
+      "replacement": "West Cape May; Cape May geographic and city name; Lower parent township; Eldredge later post office; West Cape May postal name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0512",
+      "path": [
+        "views",
+        "0512",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0e369e28b66cc9882559cc0418cb95abab5880fddafae8894ca6060f06389ac5",
+      "replacement": "West Cape May; Cape May geographic and city name; Lower parent township; Eldredge later post office; West Cape May postal name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0512",
+      "path": [
+        "views",
+        "0512",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c4047427aa5c4898d9504a70493297bc87bcec0ec9c0e131a5e935996449af70",
+      "replacement": "State filing followed the April 15 vote and April 17 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0512",
+      "path": [
+        "views",
+        "0512",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c4047427aa5c4898d9504a70493297bc87bcec0ec9c0e131a5e935996449af70",
+      "replacement": "State filing followed the April 15 vote and April 17 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0512",
+      "path": [
+        "views",
+        "0512",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "3e2b851bc0209ca40057aa47dc6c6d4eca969e65bd78e54281502e0c227acca1",
+      "replacement": "Postal alignment with the borough name preceded the later 1920 closure.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0512",
+      "path": [
+        "views",
+        "0512",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "3e2b851bc0209ca40057aa47dc6c6d4eca969e65bd78e54281502e0c227acca1",
+      "replacement": "Postal alignment with the borough name preceded the later 1920 closure.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "views",
+        "0513",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "984c331ff5f2ed18ce40fb3eb8c51b7105f21ceee20f8900366c48b0b3821aa2",
+      "replacement": "West Wildwood; Wildwood Extension Realty Company; Warren D. Hann; E. G. Slaughter; back-bay development; Middle parent township; unofficial mail-service account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "views",
+        "0513",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "984c331ff5f2ed18ce40fb3eb8c51b7105f21ceee20f8900366c48b0b3821aa2",
+      "replacement": "West Wildwood; Wildwood Extension Realty Company; Warren D. Hann; E. G. Slaughter; back-bay development; Middle parent township; unofficial mail-service account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "views",
+        "0513",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "c4ce8eedfa1b4bae18b20654ce82936842f2864b12c4bbcdb855da63b0b6a63b",
+      "replacement": "The 1970 borough history, reprinted in 2019, reports Hann’s 1899 land purchase.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "views",
+        "0513",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "c4ce8eedfa1b4bae18b20654ce82936842f2864b12c4bbcdb855da63b0b6a63b",
+      "replacement": "The 1970 borough history, reprinted in 2019, reports Hann’s 1899 land purchase.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "views",
+        "0513",
+        "sources",
+        "S1050",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "views",
+        "0513",
+        "sources",
+        "S1050",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0513",
+      "path": [
+        "views",
+        "0513",
+        "sources",
+        "S1054",
+        "publication"
+      ],
+      "expected_sha256": "c048f912223caad8a93be35bc0ebd41419327e30d9a2aa0d2cf7237187c88261",
+      "replacement": "Museum collection; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0513",
+      "path": [
+        "views",
+        "0513",
+        "sources",
+        "S1054",
+        "publication"
+      ],
+      "expected_sha256": "c048f912223caad8a93be35bc0ebd41419327e30d9a2aa0d2cf7237187c88261",
+      "replacement": "Museum collection; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "views",
+        "0514",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e739db4cdf3f21ee1ed8e17ea97042b07f1e0cb8b6f889ab9b18b539d4616710",
+      "replacement": "Wildwood; Five Mile Beach; J. Thompson Baker; Philip Pontius Baker; Wildwood Beach Improvement Company; proposed Florida City; Holly Beach City Borough consolidation; Middle and Lower parent townships",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "views",
+        "0514",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e739db4cdf3f21ee1ed8e17ea97042b07f1e0cb8b6f889ab9b18b539d4616710",
+      "replacement": "Wildwood; Five Mile Beach; J. Thompson Baker; Philip Pontius Baker; Wildwood Beach Improvement Company; proposed Florida City; Holly Beach City Borough consolidation; Middle and Lower parent townships",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "views",
+        "0514",
+        "sources",
+        "S1052",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "views",
+        "0514",
+        "sources",
+        "S1052",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0514",
+      "path": [
+        "views",
+        "0514",
+        "sources",
+        "S1054",
+        "publication"
+      ],
+      "expected_sha256": "c048f912223caad8a93be35bc0ebd41419327e30d9a2aa0d2cf7237187c88261",
+      "replacement": "Museum collection; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0514",
+      "path": [
+        "views",
+        "0514",
+        "sources",
+        "S1054",
+        "publication"
+      ],
+      "expected_sha256": "c048f912223caad8a93be35bc0ebd41419327e30d9a2aa0d2cf7237187c88261",
+      "replacement": "Museum collection; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "57c1a26823659a4803da25deda98bdd3f703c5912e09f418d397ad751a0f512f",
+      "replacement": "Wildwood Crest; Philip Baker; Wildwood Crest Company; Crest higher-ground interpretation; Pary Tell; Lower parent township; rejected Wildwood consolidation; rejected city proposal; commission government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "57c1a26823659a4803da25deda98bdd3f703c5912e09f418d397ad751a0f512f",
+      "replacement": "Wildwood Crest; Philip Baker; Wildwood Crest Company; Crest higher-ground interpretation; Pary Tell; Lower parent township; rejected Wildwood consolidation; rejected city proposal; commission government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "962335be1d1db2c3b0fd0d47fbd40fb27ed8dec40915cae5b54bc97cee3f1515",
+      "replacement": "Reported newspaper company-name reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "962335be1d1db2c3b0fd0d47fbd40fb27ed8dec40915cae5b54bc97cee3f1515",
+      "replacement": "Reported newspaper company-name reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "7ac5840c75862dc550bc8d4549d6d34771d73583401394a842ee59ba157eb7b8",
+      "replacement": "A company-name report is attributed to page 2 of the February 29, 1908 issue. The library catalogue identifies the issue, rather than an original company charter.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "7ac5840c75862dc550bc8d4549d6d34771d73583401394a842ee59ba157eb7b8",
+      "replacement": "A company-name report is attributed to page 2 of the February 29, 1908 issue. The library catalogue identifies the issue, rather than an original company charter.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2edd51691156e652543e712a16be27ac29ef24e4e98b4b703f7239d658f51f27",
+      "replacement": "A reported company-name reference rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2edd51691156e652543e712a16be27ac29ef24e4e98b4b703f7239d658f51f27",
+      "replacement": "A reported company-name reference rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "5404cf6ecb9f7179a89d9aeb1cb401f1731b7365c2bf72425dc1c34c1909c3f6",
+      "replacement": "The Society places the first election about a month after April 6, 1910. More precise May 3 election and May 9 organization dates remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "5404cf6ecb9f7179a89d9aeb1cb401f1731b7365c2bf72425dc1c34c1909c3f6",
+      "replacement": "The Society places the first election about a month after April 6, 1910. More precise May 3 election and May 9 organization dates remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        11,
+        "precision"
+      ],
+      "expected_sha256": "c426755b5b8bb85a4a73091ea3cb9dc5a53095ee27d71edd47978c9878058c34",
+      "replacement": "Date in the printed municipal-election statement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        11,
+        "precision"
+      ],
+      "expected_sha256": "c426755b5b8bb85a4a73091ea3cb9dc5a53095ee27d71edd47978c9878058c34",
+      "replacement": "Date in the printed municipal-election statement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "ab7c831d14104912f54645a5ec3d07d2d1f1a01f42a15150d11b04a4500c4307",
+      "replacement": "The 1938 printed statement, page 1145, records September 14, 1937 voter adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "ab7c831d14104912f54645a5ec3d07d2d1f1a01f42a15150d11b04a4500c4307",
+      "replacement": "The 1938 printed statement, page 1145, records September 14, 1937 voter adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        12,
+        "precision"
+      ],
+      "expected_sha256": "c426755b5b8bb85a4a73091ea3cb9dc5a53095ee27d71edd47978c9878058c34",
+      "replacement": "Date in the printed municipal-election statement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "events",
+        12,
+        "precision"
+      ],
+      "expected_sha256": "c426755b5b8bb85a4a73091ea3cb9dc5a53095ee27d71edd47978c9878058c34",
+      "replacement": "Date in the printed municipal-election statement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "sources",
+        "S1054",
+        "publication"
+      ],
+      "expected_sha256": "c048f912223caad8a93be35bc0ebd41419327e30d9a2aa0d2cf7237187c88261",
+      "replacement": "Museum collection; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "sources",
+        "S1054",
+        "publication"
+      ],
+      "expected_sha256": "c048f912223caad8a93be35bc0ebd41419327e30d9a2aa0d2cf7237187c88261",
+      "replacement": "Museum collection; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "sources",
+        "S1055",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "sources",
+        "S1055",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "sources",
+        "S1056",
+        "publication"
+      ],
+      "expected_sha256": "06fa360cddf7a7b06d74353f1330ec0e1db2535ab16b2f47068cbe55db2fa880",
+      "replacement": "Official municipal website; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0515",
+      "path": [
+        "views",
+        "0515",
+        "sources",
+        "S1056",
+        "publication"
+      ],
+      "expected_sha256": "06fa360cddf7a7b06d74353f1330ec0e1db2535ab16b2f47068cbe55db2fa880",
+      "replacement": "Official municipal website; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "606c62b5bce3a0f7bae3c9de1db33a37109ca1b531e03bb3426bab67cc67f2a2",
+      "replacement": "Woodbine; Mrs. William S. Townsend; disputed Hannah identification; climbing vines; West Jersey Railroad station; Baron de Hirsch Fund; Jewish agricultural colony; Woodbine Land and Improvement Company; agricultural school; Brotherhood Synagogue; Hirsch Loeb Sabsovich; Dennis parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "606c62b5bce3a0f7bae3c9de1db33a37109ca1b531e03bb3426bab67cc67f2a2",
+      "replacement": "Woodbine; Mrs. William S. Townsend; disputed Hannah identification; climbing vines; West Jersey Railroad station; Baron de Hirsch Fund; Jewish agricultural colony; Woodbine Land and Improvement Company; agricultural school; Brotherhood Synagogue; Hirsch Loeb Sabsovich; Dennis parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "18b49383a0e254c3c062d649e4ad38f98c254a59c11cb4a44066178aca5d0bc0",
+      "replacement": "The 1880 Lippincott gazetteer, page 2435, lists Woodbine as a West Jersey Railroad station.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "18b49383a0e254c3c062d649e4ad38f98c254a59c11cb4a44066178aca5d0bc0",
+      "replacement": "The 1880 Lippincott gazetteer, page 2435, lists Woodbine as a West Jersey Railroad station.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "647835cfd71a300ce30eed0520f20e59560df710089dec4ee099f0e1a60c39a1",
+      "replacement": "The American Jewish Historical Society account gives 1893, while Rutgers gives 1894. The school-year difference remains unresolved rather than established planning and opening dates.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "647835cfd71a300ce30eed0520f20e59560df710089dec4ee099f0e1a60c39a1",
+      "replacement": "The American Jewish Historical Society account gives 1893, while Rutgers gives 1894. The school-year difference remains unresolved rather than established planning and opening dates.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "d0fda5f5bbd7cd7d62c8ff4956798dedd34b4d037569babb0ec118b870e6f024",
+      "replacement": "A surviving synagogue associated with the colony’s history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "d0fda5f5bbd7cd7d62c8ff4956798dedd34b4d037569babb0ec118b870e6f024",
+      "replacement": "A surviving synagogue associated with the colony’s history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1057",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1057",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1058",
+        "publication"
+      ],
+      "expected_sha256": "4fa807aeb1653e9cb956893f9bed5c672879998491e79cd58f5c8d4a903f5afd",
+      "replacement": "Digital humanities project; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1058",
+        "publication"
+      ],
+      "expected_sha256": "4fa807aeb1653e9cb956893f9bed5c672879998491e79cd58f5c8d4a903f5afd",
+      "replacement": "Digital humanities project; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1059",
+        "publication"
+      ],
+      "expected_sha256": "0363e38895a9b185fd9583fe49690f35ce9f2927d1e858e1d4d49300b6a87dce",
+      "replacement": "Federal nomination; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1059",
+        "publication"
+      ],
+      "expected_sha256": "0363e38895a9b185fd9583fe49690f35ce9f2927d1e858e1d4d49300b6a87dce",
+      "replacement": "Federal nomination; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1060",
+        "publication"
+      ],
+      "expected_sha256": "43215e3ca7e48a6be81e00987d5afa6108e97e781e52a1c17117a5f917b38043",
+      "replacement": "Local institutional history; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1060",
+        "publication"
+      ],
+      "expected_sha256": "43215e3ca7e48a6be81e00987d5afa6108e97e781e52a1c17117a5f917b38043",
+      "replacement": "Local institutional history; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1061",
+        "publication"
+      ],
+      "expected_sha256": "9ecf237fc335c09ddaa81b28bf824da39a27564787f8a71a1e0667f2f22d8166",
+      "replacement": "Archival feature; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1061",
+        "publication"
+      ],
+      "expected_sha256": "9ecf237fc335c09ddaa81b28bf824da39a27564787f8a71a1e0667f2f22d8166",
+      "replacement": "Archival feature; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1063",
+        "publication"
+      ],
+      "expected_sha256": "12f6f634decc240520064313f6e46da007cf550a8259a3274e670d52881828ba",
+      "replacement": "Official museum website; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1063",
+        "publication"
+      ],
+      "expected_sha256": "12f6f634decc240520064313f6e46da007cf550a8259a3274e670d52881828ba",
+      "replacement": "Official museum website; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1064",
+        "publication"
+      ],
+      "expected_sha256": "e08ab0e158be21dab145acf0e5e0087ebb437ec647d7d9254e54f94b6e44f194",
+      "replacement": "Special collections guide; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0516",
+      "path": [
+        "views",
+        "0516",
+        "sources",
+        "S1064",
+        "publication"
+      ],
+      "expected_sha256": "e08ab0e158be21dab145acf0e5e0087ebb437ec647d7d9254e54f94b6e44f194",
+      "replacement": "Special collections guide; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f2f6dd7173c39a8a03d32a90e9ad44ff5fc3be2dd76a80984e2777708a31e68b",
+      "replacement": "Bridgeton; Bridgetown; Cohansey Bridge; Cohansey River crossing; Cumberland Bank; James Giles; proposed Cumberland town plan; Alexander Moore; Daniel Elmer; Deerfield parent township; Cohansey consolidation partner",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f2f6dd7173c39a8a03d32a90e9ad44ff5fc3be2dd76a80984e2777708a31e68b",
+      "replacement": "Bridgeton; Bridgetown; Cohansey Bridge; Cohansey River crossing; Cumberland Bank; James Giles; proposed Cumberland town plan; Alexander Moore; Daniel Elmer; Deerfield parent township; Cohansey consolidation partner",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "events",
+        8,
+        "actor"
+      ],
+      "expected_sha256": "e8264c4ae5f7648907e7042cf64133022dc697ac5a2689335a1387dc867eb82e",
+      "replacement": "New Jersey Legislature; local proceedings described by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "events",
+        8,
+        "actor"
+      ],
+      "expected_sha256": "e8264c4ae5f7648907e7042cf64133022dc697ac5a2689335a1387dc867eb82e",
+      "replacement": "New Jersey Legislature; local proceedings described by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "ffebc7eaf2ccb64ee6ea01dea8244aab6fb6a145d4b57af1d3d8412867c7426c",
+      "replacement": "March 29, 1864 approval preceded the indexed March 1, 1865 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "ffebc7eaf2ccb64ee6ea01dea8244aab6fb6a145d4b57af1d3d8412867c7426c",
+      "replacement": "March 29, 1864 approval preceded the indexed March 1, 1865 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "sources",
+        "S1065",
+        "publication"
+      ],
+      "expected_sha256": "8a01fd8658be00ce162cc2fbb97639fe824bc5d2f9b48011e4e3d7c2c026cdbb",
+      "replacement": "New Jersey Public Library Commission, 1945; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "sources",
+        "S1065",
+        "publication"
+      ],
+      "expected_sha256": "8a01fd8658be00ce162cc2fbb97639fe824bc5d2f9b48011e4e3d7c2c026cdbb",
+      "replacement": "New Jersey Public Library Commission, 1945; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "sources",
+        "S1071",
+        "publication"
+      ],
+      "expected_sha256": "4c7cf5df4a76d11dc31a73d223047fdc0c642febad267b7937f410da75d49118",
+      "replacement": "Official municipal history; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "sources",
+        "S1071",
+        "publication"
+      ],
+      "expected_sha256": "4c7cf5df4a76d11dc31a73d223047fdc0c642febad267b7937f410da75d49118",
+      "replacement": "Official municipal history; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "sources",
+        "S1072",
+        "publication"
+      ],
+      "expected_sha256": "4d0044bf09da7226591a53e6cd1d72571313d4e10004735bfe6762caff2daa2b",
+      "replacement": "Federal statute; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "sources",
+        "S1072",
+        "publication"
+      ],
+      "expected_sha256": "4d0044bf09da7226591a53e6cd1d72571313d4e10004735bfe6762caff2daa2b",
+      "replacement": "Federal statute; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "sources",
+        "S1073",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0601",
+      "path": [
+        "views",
+        "0601",
+        "sources",
+        "S1073",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5661c82d5e3c71b4e985eecaf2ec9a2cb1c91f278083392411448ef702a630d1",
+      "replacement": "Commercial; shellfishing interpretation; Maurice River and Delaware Bay commerce; Port Norris; Mauricetown; Bivalve; Shell Pile; William Hinson hotel; Downe parent township; failed Port Norris borough proposal",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5661c82d5e3c71b4e985eecaf2ec9a2cb1c91f278083392411448ef702a630d1",
+      "replacement": "Commercial; shellfishing interpretation; Maurice River and Delaware Bay commerce; Port Norris; Mauricetown; Bivalve; Shell Pile; William Hinson hotel; Downe parent township; failed Port Norris borough proposal",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "sources",
+        "S1065",
+        "publication"
+      ],
+      "expected_sha256": "8a01fd8658be00ce162cc2fbb97639fe824bc5d2f9b48011e4e3d7c2c026cdbb",
+      "replacement": "New Jersey Public Library Commission, 1945; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "sources",
+        "S1065",
+        "publication"
+      ],
+      "expected_sha256": "8a01fd8658be00ce162cc2fbb97639fe824bc5d2f9b48011e4e3d7c2c026cdbb",
+      "replacement": "New Jersey Public Library Commission, 1945; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "sources",
+        "S1074",
+        "publication"
+      ],
+      "expected_sha256": "ec26a3e1a11a7a540ddc9404e126ae6cdaff43efa9e2cf6e4556e4356f2031ee",
+      "replacement": "98 N.J. Laws 210, chapter 95; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "sources",
+        "S1074",
+        "publication"
+      ],
+      "expected_sha256": "ec26a3e1a11a7a540ddc9404e126ae6cdaff43efa9e2cf6e4556e4356f2031ee",
+      "replacement": "98 N.J. Laws 210, chapter 95; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "sources",
+        "S1075",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "sources",
+        "S1075",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "sources",
+        "S1077",
+        "publication"
+      ],
+      "expected_sha256": "6a648bd252b9455e04a4da961cae4edd5f5a5a6db8ce4aebf68a200851549058",
+      "replacement": "Institutional website; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0602",
+      "path": [
+        "views",
+        "0602",
+        "sources",
+        "S1077",
+        "publication"
+      ],
+      "expected_sha256": "6a648bd252b9455e04a4da961cae4edd5f5a5a6db8ce4aebf68a200851549058",
+      "replacement": "Institutional website; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "54b8e2a2e26dfc7f3aedea89a33ea3975d26db35c0807d1793d5ca284d648cb1",
+      "replacement": "Deerfield; Deerfield, Massachusetts; Benjamin Davis tract; Deerfield Presbyterian parish; Deerfield Street; Cohansey jurisdiction; Upper Deerfield later separation; Bridgeton separation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "54b8e2a2e26dfc7f3aedea89a33ea3975d26db35c0807d1793d5ca284d648cb1",
+      "replacement": "Deerfield; Deerfield, Massachusetts; Benjamin Davis tract; Deerfield Presbyterian parish; Deerfield Street; Cohansey jurisdiction; Upper Deerfield later separation; Bridgeton separation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "271663894fda4b6173835c9ef263a4c6d37705556da037a9cc8c6ba148602ad5",
+      "replacement": "The church history describes a log school by 1732, separately from its reported church-founding year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "271663894fda4b6173835c9ef263a4c6d37705556da037a9cc8c6ba148602ad5",
+      "replacement": "The church history describes a log school by 1732, separately from its reported church-founding year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1065",
+        "publication"
+      ],
+      "expected_sha256": "8a01fd8658be00ce162cc2fbb97639fe824bc5d2f9b48011e4e3d7c2c026cdbb",
+      "replacement": "New Jersey Public Library Commission, 1945; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1065",
+        "publication"
+      ],
+      "expected_sha256": "8a01fd8658be00ce162cc2fbb97639fe824bc5d2f9b48011e4e3d7c2c026cdbb",
+      "replacement": "New Jersey Public Library Commission, 1945; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill’s Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill’s Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1073",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1073",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1078",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1078",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1079",
+        "publication"
+      ],
+      "expected_sha256": "d44cca1896f0de3ef6f5a48eb2eb8afef698949efb84335d26019a5fb2a74c2a",
+      "replacement": "Local institutional history based on F. Alan Palmer; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0603",
+      "path": [
+        "views",
+        "0603",
+        "sources",
+        "S1079",
+        "publication"
+      ],
+      "expected_sha256": "d44cca1896f0de3ef6f5a48eb2eb8afef698949efb84335d26019a5fb2a74c2a",
+      "replacement": "Local institutional history based on F. Alan Palmer; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6ddfc47ebc9dff63701c572ad58095e05e51ec2d900d1adcfd3e2af046d7669d",
+      "replacement": "Downe; Downes; Elizabeth Downes Franklin; Governor William Franklin; Fairfield parent township; Cumberland County framework; missing final s tradition; Commercial later separation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6ddfc47ebc9dff63701c572ad58095e05e51ec2d900d1adcfd3e2af046d7669d",
+      "replacement": "Downe; Downes; Elizabeth Downes Franklin; Governor William Franklin; Fairfield parent township; Cumberland County framework; missing final s tradition; Commercial later separation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill’s Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill’s Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1074",
+        "publication"
+      ],
+      "expected_sha256": "ec26a3e1a11a7a540ddc9404e126ae6cdaff43efa9e2cf6e4556e4356f2031ee",
+      "replacement": "98 N.J. Laws 210, chapter 95; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1074",
+        "publication"
+      ],
+      "expected_sha256": "ec26a3e1a11a7a540ddc9404e126ae6cdaff43efa9e2cf6e4556e4356f2031ee",
+      "replacement": "98 N.J. Laws 210, chapter 95; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1080",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1080",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1081",
+        "publication"
+      ],
+      "expected_sha256": "e697844b34c1061dfa6768d85f42d00c96d00dbb8388e4917b30fa0a366eab35",
+      "replacement": "Commission Book AB, page 116 reconstruction; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1081",
+        "publication"
+      ],
+      "expected_sha256": "e697844b34c1061dfa6768d85f42d00c96d00dbb8388e4917b30fa0a366eab35",
+      "replacement": "Commission Book AB, page 116 reconstruction; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1082",
+        "publication"
+      ],
+      "expected_sha256": "a2e9c1c1f6180d0ce2515730bb11fda4f26269b9c666b9d01fc0a0eb4a4eec4a",
+      "replacement": "Official county page; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1082",
+        "publication"
+      ],
+      "expected_sha256": "a2e9c1c1f6180d0ce2515730bb11fda4f26269b9c666b9d01fc0a0eb4a4eec4a",
+      "replacement": "Official county page; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1083",
+        "publication"
+      ],
+      "expected_sha256": "d6623282da98465cf27a8f544f324286a4779c62e4d355641448154ee214e063",
+      "replacement": "Official municipal page; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1083",
+        "publication"
+      ],
+      "expected_sha256": "d6623282da98465cf27a8f544f324286a4779c62e4d355641448154ee214e063",
+      "replacement": "Official municipal page; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1084",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1084",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1086",
+        "publication"
+      ],
+      "expected_sha256": "57d5f2149f4f53dec0ed9ba4e38a1716bf5ba29d963c29ebb67172e025cd1ea5",
+      "replacement": "May 1697; N.J. Grants and Concessions 556; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0604",
+      "path": [
+        "views",
+        "0604",
+        "sources",
+        "S1086",
+        "publication"
+      ],
+      "expected_sha256": "57d5f2149f4f53dec0ed9ba4e38a1716bf5ba29d963c29ebb67172e025cd1ea5",
+      "replacement": "May 1697; N.J. Grants and Concessions 556; accessed 2026-09-12",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
