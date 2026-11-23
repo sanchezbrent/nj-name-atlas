@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_12",
+  "checkpoint": "PUBLIC_COPY_13",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -126,7 +126,19 @@
     "1809",
     "1810",
     "1811",
-    "1812"
+    "1812",
+    "1813",
+    "1814",
+    "1815",
+    "1816",
+    "1817",
+    "1818",
+    "1819",
+    "1820",
+    "1821",
+    "1201",
+    "1202",
+    "1203"
   ],
   "changes": [
     {
@@ -53729,6 +53741,4726 @@
       ],
       "expected_sha256": "e36e06126de481be6b7ea47065e98b0a1843ff4bf1802bf7f15615dbe6dd8dfc",
       "replacement": "Middleburgh (reported locality); Hillsborough (reported map label); Somerset Court House (village); Millstone River (name source); Borough Commission of Millstone (earlier government form); Hillsborough Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "8930a5cacb1e84af49b56ab2c663cba839830bddb47a7f8ceb27cbef57b60117",
+      "replacement": "Montgomery’s legal name is clearer than its original naming intention. Modern township history identifies Richard Montgomery as the honoree, while the Van Harlingen Historical Society calls that connection possible. These later accounts preserve a strong tradition without establishing the original dedication or individual proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a721e6398a6ce7853560fbf3c8ddb94778d24f0c365a42e0dd77dfc0b66f7bf2",
+      "replacement": "Township history says Montgomery honors Richard Montgomery, while local historical accounts keep that connection qualified. The familiar explanation remains a tradition; the original naming intention and individual chooser are unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a3df36aae4b3763046f83e9b6080540349f8087e8a964cae0ae81906e8571414",
+      "replacement": "Before Montgomery, the territory was Western Precinct, also called Westering in later histories. An archival guide places its establishment by about 1745. That approximate account does not establish an exact formation day. Hillsborough separated from the older territory in 1771, before Montgomery became the remaining precinct’s corporate name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "7d81e77a5ddfdb0addc6cbb83cc57a22c6a0f9599b6b35869d67298db8663ca3",
+      "replacement": "The authorized 1800 law revision styles Western Precinct’s inhabitants as those of Montgomery under the act passed February 21, 1798. Harlingen, Blawenburg and the Skillman area kept separate community histories. Rocky Hill’s later government stages changed jurisdiction without answering why Montgomery was first chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c33d8ca56cec508fd3883c5710e30f3c68928951639be60a9807ba74fd563163",
+      "replacement": "The archival guide places Western Precinct’s establishment by about 1745. That remains approximate, rather than an exact formation date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c33d8ca56cec508fd3883c5710e30f3c68928951639be60a9807ba74fd563163",
+      "replacement": "The archival guide places Western Precinct’s establishment by about 1745. That remains approximate, rather than an exact formation date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "78af06c0377d7e38b9f1d90a6e15483dda267ce52f52cdf2308b53fb8a9014be",
+      "replacement": "The authorized 1800 printing of the 1798 law names Western Precinct as Montgomery. It does not identify the original name proposer or establish the honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "78af06c0377d7e38b9f1d90a6e15483dda267ce52f52cdf2308b53fb8a9014be",
+      "replacement": "The authorized 1800 printing of the 1798 law names Western Precinct as Montgomery. It does not identify the original name proposer or establish the honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1ab0f6eefe989d5ff9cb310e01076b563b22ffb643f87ad76bbf03c3d1d18f83",
+      "replacement": "Municipal history identifies Richard Montgomery, while local historical accounts qualify the connection. The original naming intention remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1ab0f6eefe989d5ff9cb310e01076b563b22ffb643f87ad76bbf03c3d1d18f83",
+      "replacement": "Municipal history identifies Richard Montgomery, while local historical accounts qualify the connection. The original naming intention remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "dd4157f9f5117a5a2cb7d4e873111fd562d8d8fcc75f7ae6bc04cad429631d2f",
+      "replacement": "Municipal history identifies Richard Montgomery; local historical accounts qualify the connection. The original dedication and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "dd4157f9f5117a5a2cb7d4e873111fd562d8d8fcc75f7ae6bc04cad429631d2f",
+      "replacement": "Municipal history identifies Richard Montgomery; local historical accounts qualify the connection. The original dedication and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "editorial",
+        "1813",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "1de1e340f719adbf0adf218f822903ae8fc7d31ae60bfbe766433e817b211f74",
+      "replacement": "The 1798 law names Western Precinct as Montgomery and gives its inhabitants corporate status. The original name proposer and actual first meeting date remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "editorial",
+        "1814",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "6dfa3f35d3e5f5e0a3ff978b8b24e1ab0ae6d7b3e963c7318bfd3a255b1176fa",
+      "replacement": "A larger North Plainfield Township began in 1872. The borough formed inside it later. A 1914 law reports a June 1885 election but also says its result statement could not then be found in county files. The indexed filing does not resolve that historical gap.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1814",
+      "path": [
+        "editorial",
+        "1814",
+        "journey",
+        3,
+        "label"
+      ],
+      "expected_sha256": "21c5605315aafc5f84e5db339143742b256fbad7aad72a0f9ec4bc929993e4b4",
+      "replacement": "The filing and missing statement remain distinct",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "editorial",
+        "1814",
+        "journey",
+        3,
+        "label"
+      ],
+      "expected_sha256": "21c5605315aafc5f84e5db339143742b256fbad7aad72a0f9ec4bc929993e4b4",
+      "replacement": "The filing and missing statement remain distinct",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d46c14d1cb5afa3a74647d04d1499ab549a43f803a63417bb69e4b13e2968947",
+      "replacement": "The March 28, 1912 law combined the names for territory from Bedminster and required majority acceptance, a signed return and full entry in Bedminster’s minutes before full operation. April 23 voting is reported. The exact roles of later county entries and a June 6 date in later histories remain unresolved; neither replaces the separate approval and adoption stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "532ec2ad91bf2463dfbfb0a62159da315a8a0130e92f5d875dfdb2be9450be0f",
+      "replacement": "The 1912 borough law used both community names and required local acceptance and a return entered in Bedminster’s minutes. A vote is reported, without establishing completion of every required step. These were two villages supplying one borough name, rather than two earlier boroughs joining together.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "abc7a9db47098c30c8022a730185695a5b843021926576b4bbf9d3e9cfb4297e",
+      "replacement": "Gladstone’s later community name is said to honor William Ewart Gladstone. Railway and postal growth helped establish that identity, while the exact first naming occasion and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "38d5e577d1288acc57b22bf629dad70120afb7ed095c80d967a3cd6f7986f66d",
+      "replacement": "The 1917 article reports Peapock and Pepock in 1708 deeds. That is an attributed early-use account; a certain literal translation remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "38d5e577d1288acc57b22bf629dad70120afb7ed095c80d967a3cd6f7986f66d",
+      "replacement": "The 1917 article reports Peapock and Pepock in 1708 deeds. That is an attributed early-use account; a certain literal translation remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "journey",
+        4,
+        "label"
+      ],
+      "expected_sha256": "dc7796346cc7cbf2fc0eafc5ffd3a707188fffa2abc064ed9fff783ccc119332",
+      "replacement": "An April county entry has a separate date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "journey",
+        4,
+        "label"
+      ],
+      "expected_sha256": "dc7796346cc7cbf2fc0eafc5ffd3a707188fffa2abc064ed9fff783ccc119332",
+      "replacement": "An April county entry has a separate date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "27ce592290111e012dce119b0323c57c99be0f1a7fe5d89c2983e8908a8f355d",
+      "replacement": "The index lists an April 30 entry. Its exact instrument and role remain uncertain, separately from the reported acceptance vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "27ce592290111e012dce119b0323c57c99be0f1a7fe5d89c2983e8908a8f355d",
+      "replacement": "The index lists an April 30 entry. Its exact instrument and role remain uncertain, separately from the reported acceptance vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "0db3f90e12937be0094b6d20f536dc3e2242332e6d09dceedaac9a5b24f4ede5",
+      "replacement": "The index lists another entry on May 1. Its date does not establish the first meeting or final operative day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "0db3f90e12937be0094b6d20f536dc3e2242332e6d09dceedaac9a5b24f4ede5",
+      "replacement": "The index lists another entry on May 1. Its date does not establish the first meeting or final operative day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "406c171b407744c7ffa39003ece3054cffc8abf0a29e6255084a7893d66d1144",
+      "replacement": "The March 28, 1912 act required adoption and a return entered in Bedminster minutes. April 23 voting is reported. Later county-entry dates do not establish completion of all requirements.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "editorial",
+        "1815",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "406c171b407744c7ffa39003ece3054cffc8abf0a29e6255084a7893d66d1144",
+      "replacement": "The March 28, 1912 act required adoption and a return entered in Bedminster minutes. April 23 voting is reported. Later county-entry dates do not establish completion of all requirements.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c2a3f7d05a04e3143e06573e01c19b428a260925969244ae9b66f04cd4ba4ea6",
+      "replacement": "The places called Raritan also need to be kept apart. A later historical compilation reports Rariton on 1808 tavern receipts associated with Somerville. The 1850 county map labels RARITAN west of SOMERVILLE as a distinct community. Neither occurrence makes every earlier use a reference to today’s borough. Forked river and overflowing stream remain local traditions; an attributed interpretation of approximately amid the mountains also remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "15a55898d25a0b430029d141d9299e5e7164e67517980f35fc71dfe81e4127ba",
+      "replacement": "A law established town commissioners in 1868. In 1948 another law offered borough government if voters accepted it; later references report a June 12 adoption vote. The older Town already had its own legal identity. Becoming a borough changed its government. The much older name’s reported 1640 reference and proposed translations remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "journey",
+        0,
+        "date"
+      ],
+      "expected_sha256": "4b6e35fac14940f7da6cec5028438bc7598ebc458724cc279b8d70f9049edfbc",
+      "replacement": "1640 (reported; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "journey",
+        0,
+        "date"
+      ],
+      "expected_sha256": "4b6e35fac14940f7da6cec5028438bc7598ebc458724cc279b8d70f9049edfbc",
+      "replacement": "1640 (reported; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "d2aad37d1b559ed1fadd2290fe856ec2aa729dce77938ef799c1140c0419bdce",
+      "replacement": "An early regional reference is reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "d2aad37d1b559ed1fadd2290fe856ec2aa729dce77938ef799c1140c0419bdce",
+      "replacement": "An early regional reference is reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f49ddece347bf0e2d29e30e96cdc7cffe728c6565440246952941e554356442b",
+      "replacement": "The reported 1640 reference concerns people or territory, rather than an established borough in that year. Its exact form and connection remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f49ddece347bf0e2d29e30e96cdc7cffe728c6565440246952941e554356442b",
+      "replacement": "The reported 1640 reference concerns people or territory, rather than an established borough in that year. Its exact form and connection remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "7f043e0d3776984c0b727f216308397b87e7bcc369fa6d0b7064df0540d6abbd",
+      "replacement": "Snyder and the index give June 12 for adoption. The exact officer-election date remains unknown; the old Town was already a distinct municipal entity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "7f043e0d3776984c0b727f216308397b87e7bcc369fa6d0b7064df0540d6abbd",
+      "replacement": "Snyder and the index give June 12 for adoption. The exact officer-election date remains unknown; the old Town was already a distinct municipal entity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "cdbdd1e52609b6ff4afb0a35e29be1d6328cf73392679c7bcdb19db1db3a6e5d",
+      "replacement": "The 1850 map labels RARITAN separately west of SOMERVILLE. A reported 1640 reference concerns the older regional name and remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "9cf6a82ee64a057234b5e9104574c6fcaac18a953f87f4f01af3cce65c0322a6",
+      "replacement": "The 1850 map labels RARITAN separately west of SOMERVILLE. A reported 1640 reference concerns the older regional name and remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "editorial",
+        "1816",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "129484a16f6123bfe7eb24b364df0c0c79cfcc3d4492078f97b8d8c9675f1763",
+      "replacement": "The Indigenous regional and river connection is retained. Forked river and overflowing stream are local traditions; the attributed amid the mountains interpretation remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "68cc54ad7fb66f1bf73f6885f46b7a70baee8ada21c5156fd3a639cf094b306b",
+      "replacement": "The early references concern different things. A historic-district nomination quotes a 1729 bequest locating land at the foot of Rockie Hill. Samuel Smith’s 1765 history, reproduced in an 1890 reprint, refers to Rocky-Hill mines. The attributed bequest and mine reference do not establish an exact village naming day or a borough beginning in either printing year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "6c779a70f35bee32f88d57121db946018f847707b866ba58a67631bfc3b52812",
+      "replacement": "A later historic nomination quotes a 1729 will using Rockie Hill for the landscape. Samuel Smith’s 1765 history names Rocky-Hill mines; that text was reprinted in 1890. These references concern a hill and mines, without establishing the village’s exact naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "6dcd84b0f6c39c913e626f1daf10422ac9dbc4b966805d0fddf54bcd0cf47d34",
+      "replacement": "The nomination quotes a 1729 bequest locating land by the foot of Rockie Hill. That later quotation concerns the landscape, without dating village naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "6dcd84b0f6c39c913e626f1daf10422ac9dbc4b966805d0fddf54bcd0cf47d34",
+      "replacement": "The nomination quotes a 1729 bequest locating land by the foot of Rockie Hill. That later quotation concerns the landscape, without dating village naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "7801d413f629e3b464d74faa6a6328b816ede28d69a467f4f80714dc922f211f",
+      "replacement": "William S. Sharp’s 1890 reprint reproduces Smith’s 1765 text naming Rocky-Hill mines. A mine reference does not establish a borough or an exact village naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "7801d413f629e3b464d74faa6a6328b816ede28d69a467f4f80714dc922f211f",
+      "replacement": "William S. Sharp’s 1890 reprint reproduces Smith’s 1765 text naming Rocky-Hill mines. A mine reference does not establish a borough or an exact village naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "6e8c8d7ed9e4527fa4038c108df5e3c8b396394bf5a1b38d92ff97b880e555c1",
+      "replacement": "Snyder and the index report December 14 for the vote, separately from the December 18 filing. Neither establishes an actual first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "6e8c8d7ed9e4527fa4038c108df5e3c8b396394bf5a1b38d92ff97b880e555c1",
+      "replacement": "Snyder and the index report December 14 for the vote, separately from the December 18 filing. Neither establishes an actual first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "942d497efd467b01164c4c6830e40debfc9adf73c7a9db968559663ca34e11d3",
+      "replacement": "The historic nomination quotes Rockie Hill in a 1729 bequest. This is an attributed landscape-name reference, rather than an established village naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "dee9604355971e810e4100623b23f1ddd922c05c036e9d053f6bbfa33a30a6d7",
+      "replacement": "The historic nomination quotes Rockie Hill in a 1729 bequest. This is an attributed landscape-name reference, rather than an established village naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "d6d72d255f140095416f4d509d10ada82a62f442f2ac2f291c755ad0c3d3065e",
+      "replacement": "Samuel Smith’s 1765 text names Rocky-Hill mines. Its 1890 reprint reproduces that text; the printing date does not establish village naming or borough founding.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f83448d31ca50d863d4620de4f7921e7cb13f1ad2048a39b9e6feec91f0fee58",
+      "replacement": "Later references report a December 14 vote and December 18 county filing in 1889 for a borough commission within Montgomery. These were separate stages; the actual first meeting date remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "editorial",
+        "1817",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "38186878b1f0d8fd093a8a6841f70f28af93ae1c1d024c57a113b188f170e0fb",
+      "replacement": "Later references report a December 14 vote and December 18 county filing in 1889 for a borough commission within Montgomery. These were separate stages; the actual first meeting date remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "05cd909901d47530a7b7144142865b0a4af9f1d6daf490c7e93a55c00016430c",
+      "replacement": "Somerville’s community name developed in a courthouse locality also known as Raritan and Somerset Court House. Later Academy histories report Somerville in July 1801, and a 1917 article transcribes a letter dated there on September 13, 1803. These are attributed early uses, without establishing the exact moment the community changed its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "bc4fb19e6aecef7135f584056062274af38edf888bdb9162760d93f9edabf1de",
+      "replacement": "Somerville had a community name before it became a borough. Later histories report the word in Academy papers from July 1801. A published transcription also gives it in the date line of an 1803 letter. These attributed references do not establish an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4e45028b106ca5a4a5bd8bdf647090642494c2f3a77deaebb77b3cd3cc8b5613",
+      "replacement": "Community, postal and government names followed different schedules. A postal compilation gives Somerset Court House in 1800 and a change to Somerville in 1827, without a month or day. An 1850 map labels Somerville separately from Raritan. Town commissioners were authorized in 1863. The 1909 borough act required voter acceptance and return procedures; May 4 is the reported vote date. That report does not establish completion of all required returns and filings or replace the older community-name story.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "02a05d3c5704503aa3c127dc4998b46d880bef1ce6841d8d7275d3f035ba0952",
+      "replacement": "Coles reports John Meldrum’s first postmaster appointment at Somerset Court House. That attributed date concerns the postal institution, separately from later Somerville community use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "02a05d3c5704503aa3c127dc4998b46d880bef1ce6841d8d7275d3f035ba0952",
+      "replacement": "Coles reports John Meldrum’s first postmaster appointment at Somerset Court House. That attributed date concerns the postal institution, separately from later Somerville community use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "815287682a0210491e8c21406d26c01ef85a5498bc0ecb347525ee74f0d8fffa",
+      "replacement": "The July 1801 account comes through histories dependent on Messler. Repeating the account does not provide two independent contemporary witnesses or establish the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "815287682a0210491e8c21406d26c01ef85a5498bc0ecb347525ee74f0d8fffa",
+      "replacement": "The July 1801 account comes through histories dependent on Messler. Repeating the account does not provide two independent contemporary witnesses or establish the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "41c08719be559f2b462b9972b1a4c7bc2a4b7e4f639832e211061a456d3259dd",
+      "replacement": "The 1917 article transcribes a letter dated Somerville, September 13, 1803. That published transcription supplies an attributed early use, rather than the first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "41c08719be559f2b462b9972b1a4c7bc2a4b7e4f639832e211061a456d3259dd",
+      "replacement": "The 1917 article transcribes a letter dated Somerville, September 13, 1803. That published transcription supplies an attributed early use, rather than the first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "e21831c304c8e7488a676631798378c5058bac2474e655a8d546cf97acc54fac",
+      "replacement": "Snyder and the index report May 4 for the acceptance vote. This was distinct from April 16 approval and does not establish completion of the required returns and filings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "e21831c304c8e7488a676631798378c5058bac2474e655a8d546cf97acc54fac",
+      "replacement": "Snyder and the index report May 4 for the acceptance vote. This was distinct from April 16 approval and does not establish completion of the required returns and filings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "fe25a1460adf9843623ca09dac06f7215d5e2e30700e5bd3f0fe2f9f63c85287",
+      "replacement": "Later accounts report July 1801 Academy use through Messler; a 1917 article transcribes an 1803 dated letter. These attributed uses do not establish the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "b8e173a8faa0611580a44a2cac893322a042655a14181a1f71e33442c92ee602",
+      "replacement": "Later accounts report July 1801 Academy use through Messler; a 1917 article transcribes an 1803 dated letter. These attributed uses do not establish the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "editorial",
+        "1818",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "e5d8238274618c030aa397bfbd5446f7fe87fdf28f86999b6b8174f8bde1be09",
+      "replacement": "The borough law required a vote and official returns. Later references give May 4 for the vote, without establishing completion of every required step.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "199069c7dcb24081e29ba29b037c8e17aea21cc9269a35ecd70cc04d8f21d520",
+      "replacement": "The 1907 law provided for a borough to replace the street-commission town if voters accepted it. The index reports a successful May 1 vote, followed by county entries whose exact roles remain uncertain. The law, vote and recording were separate actions. The petitioners’ original reasons and the first borough meeting date remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "a1bcc4ef90e6712cf28b5cecdcc44871b97f99b74c2e94a3ecf39eeda29bf811",
+      "replacement": "A 1907 law offered borough government if voters accepted it. A successful vote is reported, while later county entries have separate dates and uncertain roles. Restoring a name and creating borough government were different parts of the story.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "87dc892bd127d5e88b60c977298a1404684939194e23fd70384972c2dadc75c7",
+      "replacement": "The index reports an April 1891 petition seeking restoration of South Bound Brook. The petitioners’ exact reasons remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "87dc892bd127d5e88b60c977298a1404684939194e23fd70384972c2dadc75c7",
+      "replacement": "The index reports an April 1891 petition seeking restoration of South Bound Brook. The petitioners’ exact reasons remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "054780c91750edffe7cc9ee1f50f2903ca0ac20226973a3ccb404e698e0928cd",
+      "replacement": "The law scheduled May 1 and the index reports successful acceptance that day. The vote was separate from legislative approval and later certification and recording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "054780c91750edffe7cc9ee1f50f2903ca0ac20226973a3ccb404e698e0928cd",
+      "replacement": "The law scheduled May 1 and the index reports successful acceptance that day. The vote was separate from legislative approval and later certification and recording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "journey",
+        7,
+        "label"
+      ],
+      "expected_sha256": "907fa48ff7503193229fb8a08f371cb00bfc2f2aa82e809ae8d6d14081ea5101",
+      "replacement": "A county entry followed the reported vote",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "journey",
+        7,
+        "label"
+      ],
+      "expected_sha256": "907fa48ff7503193229fb8a08f371cb00bfc2f2aa82e809ae8d6d14081ea5101",
+      "replacement": "A county entry followed the reported vote",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "ad4e49cfb83a6d5737495c132ee31dd2da3d2cefd2485dec8cdc27476ddba234",
+      "replacement": "The 1891 petition, decree and recording were separate. The 1907 borough act required acceptance; May 1 voting is indexed, while the roles of later county entries remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "editorial",
+        "1819",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "ad4e49cfb83a6d5737495c132ee31dd2da3d2cefd2485dec8cdc27476ddba234",
+      "replacement": "The 1891 petition, decree and recording were separate. The 1907 borough act required acceptance; May 1 voting is indexed, while the roles of later county entries remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1820",
+      "path": [
+        "editorial",
+        "1820",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "d1380a5cea3620cebbde3a6969cbbd0e8e19491040f98a566e0f13189b1a4ef9",
+      "replacement": "The shortened compilation does not establish the actual first meeting. Suggested Smalley or Cox involvement remains speculation; the original naming discussion and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1820",
+      "path": [
+        "editorial",
+        "1820",
+        "sidebar",
+        "fields",
+        "legal",
+        "label"
+      ],
+      "expected_sha256": "30a008deae2e7a8463d49a23f478a95ae6cdc75a4665a66d2f0b56c66ee4cc5f",
+      "replacement": "The first naming discussion remains unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1820",
+      "path": [
+        "editorial",
+        "1820",
+        "sidebar",
+        "fields",
+        "legal",
+        "label"
+      ],
+      "expected_sha256": "30a008deae2e7a8463d49a23f478a95ae6cdc75a4665a66d2f0b56c66ee4cc5f",
+      "replacement": "The first naming discussion remains unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "57b86993d97838bed9e17d5d2e86df4b2348c96468df48552a7c6760496b4076",
+      "replacement": "The postal account lists an October appointment that was later declined and George A. Schmidt’s December appointment. Neither appointment nor a newspaper publication date establishes the exact naming day or first day of service. High hills remains a municipal tradition rather than a settled translation; a reported 1667 regional reference also remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "30ab83898d7efebcaf48e824ffaeebdc780905aab0f807d52a8d866c1f9e7b09",
+      "replacement": "The borough law was approved March 23, 1926 and required acceptance and specified returns. April 20 voting and an April 21 county entry are indexed; a May 24 first meeting is reported separately. The parent was North Plainfield Township, later Green Brook, rather than North Plainfield Borough. The reported dates do not establish completion of every required local procedure.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "03aeef21b19dcb7396a405c41ae82c4192adc911f4bb35b6a000f27ac8f3dc21",
+      "replacement": "The later postal history reports a request to replace Washingtonville and selection of Watchung in 1899. The exact choice day and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "03aeef21b19dcb7396a405c41ae82c4192adc911f4bb35b6a000f27ac8f3dc21",
+      "replacement": "The later postal history reports a request to replace Washingtonville and selection of Watchung in 1899. The exact choice day and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "0126a104ac9ef170d901f79def7b8252c3201e6f4c64ca5b89ed93bceca4d903",
+      "replacement": "The index lists an April 21 county entry. Its date does not by itself establish township minute entry or the officer-election return.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "0126a104ac9ef170d901f79def7b8252c3201e6f4c64ca5b89ed93bceca4d903",
+      "replacement": "The index lists an April 21 county entry. Its date does not by itself establish township minute entry or the officer-election return.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "707353b71a921366aac87d7e0e6c453686f437d071622904bb391930e8879853",
+      "replacement": "A later municipal webpage reports May 24 for the first mayor and council meeting. That report is separate from March legislative approval and April acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "707353b71a921366aac87d7e0e6c453686f437d071622904bb391930e8879853",
+      "replacement": "A later municipal webpage reports May 24 for the first mayor and council meeting. That report is separate from March legislative approval and April acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "editorial",
+        "1821",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "350cff6492d0c5af581e4a27dd2ea320463b4e66038fa4709bca50bd84bd57b6",
+      "replacement": "The October appointment later declined, December newspaper report and December appointment are distinct. None independently establishes the exact first day of public service.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1201",
+      "path": [
+        "editorial",
+        "1201",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f9bca4612d55fb92d73e2f4d91e6f21c2d602cfd0f4afe6599b516beb5c9be9a",
+      "replacement": "The index dates a law here and voting later; municipal history uses a different election label. These remain conflicting accounts of the adoption sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "editorial",
+        "1201",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f9bca4612d55fb92d73e2f4d91e6f21c2d602cfd0f4afe6599b516beb5c9be9a",
+      "replacement": "The index dates a law here and voting later; municipal history uses a different election label. These remain conflicting accounts of the adoption sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1201",
+      "path": [
+        "editorial",
+        "1201",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b5dae4551c30805cb5ae33367e6fffec83d0b4c44a0320ff5dc65eda84f54dcc",
+      "replacement": "Postal history reports Carteret in 1884, before Roosevelt Borough. The exact original naming occasion and intended Carteret honoree remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "editorial",
+        "1201",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b5dae4551c30805cb5ae33367e6fffec83d0b4c44a0320ff5dc65eda84f54dcc",
+      "replacement": "Postal history reports Carteret in 1884, before Roosevelt Borough. The exact original naming occasion and intended Carteret honoree remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1201",
+      "path": [
+        "editorial",
+        "1201",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "0caecb79645c6fd29d390d40d64fde3064904cf9a29ce428d78cfbd6c9f78cf2",
+      "replacement": "The index gives April 11, 1906 for the law and May 1 for voting; local history calls April 11 the vote, while another account gives May 22. The election date remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "editorial",
+        "1201",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "0caecb79645c6fd29d390d40d64fde3064904cf9a29ce428d78cfbd6c9f78cf2",
+      "replacement": "The index gives April 11, 1906 for the law and May 1 for voting; local history calls April 11 the vote, while another account gives May 22. The election date remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "editorial",
+        "1201",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "8cd223ceb6138aa05fe334734a0be6e5e1b96d0051b06db9f839d503633edb79",
+      "replacement": "An attempted change in late 1921 was withdrawn in January 1922. Accounts disagree on the earlier resolution day and the successful November vote day. A separate filing date does not settle those conflicts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "19fb0fe82717ff4b25157c351960ee827ef3714f4b8c20a1af1e522c34d3b68f",
+      "replacement": "Cranbury’s spelling has a history of its own. The historical society reports Cranberry Town on a map published by Christopher Colles in 1789. It credits the Reverend Joseph G. Symmes with advocating Cranbury in 1857 and says the town and brook adopted that spelling in 1869. These are attributed stages, without an established exact first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "53cf03725e3a1afff0175a1953d0343f35d95758fa7189f4ba02396bfe121d24",
+      "replacement": "These are later accounts of different steps. Cranberry may make you think of the fruit, but the spelling alone does not prove why the place first received its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "9efc293a9266b17299c509ffe5edbfd6dae15a3e81dddfab45c2e99c2f0f673d",
+      "replacement": "The historical society reports Cranberry Town on Colles’s 1789 map. That attributed map use does not establish the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "9efc293a9266b17299c509ffe5edbfd6dae15a3e81dddfab45c2e99c2f0f673d",
+      "replacement": "The historical society reports Cranberry Town on Colles’s 1789 map. That attributed map use does not establish the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "166c1a972608f419e3cee2a1995d1dcbc88d8176f7687c3f91a75af241237745",
+      "replacement": "The historical society gives 1869 for town and brook adoption. That reported community step does not establish the date of a separate postal decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "166c1a972608f419e3cee2a1995d1dcbc88d8176f7687c3f91a75af241237745",
+      "replacement": "The historical society gives 1869 for town and brook adoption. That reported community step does not establish the date of a separate postal decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "bf986f90052ace1290a63fa79a3f5e12fb862ea2c120e572f6a9467e8b172fe8",
+      "replacement": "Later history reports Cranberry Town on Colles’s 1789 map, Symmes’s Cranbury advocacy in 1857 and town/brook adoption in 1869. These were different reported stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1b9b870fecbb9f0a4d53396c2a1b3bbbe9136a8d14e802fb81ba4b45d941d204",
+      "replacement": "Later history reports Cranberry Town on Colles’s 1789 map, Symmes’s Cranbury advocacy in 1857 and town/brook adoption in 1869. These were different reported stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "ed9a98e0bf20f2d43a96ec5ee1d5d23e7496b3e4508d7148f99c4c8d9364587d",
+      "replacement": "Community and postal use may have helped establish the spelling. The exact original coiner and separate postal decision remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "editorial",
+        "1202",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "ed9a98e0bf20f2d43a96ec5ee1d5d23e7496b3e4508d7148f99c4c8d9364587d",
+      "replacement": "Community and postal use may have helped establish the spelling. The exact original coiner and separate postal decision remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "15715dd0139d2e83bcddb87987f26fd00dc422986b697e922c54c73a603b1ddf",
+      "replacement": "Dunellen’s name is linked with a planned railroad community and a later family story. The account credits Central Railroad of New Jersey president John Taylor Johnston with using Ellen for family friend Ellen Betts and adding Dun because he liked its sound. It comes through family recollection, including Johnston’s daughter Emily de Forest. This remains an attributed story rather than an established exact original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "c9ef7cfac93aff355abc47b6ef16f5170cfbcf5e81fb09122326a0b712c32eeb",
+      "replacement": "Dunellen grew as a railroad-linked community. A later family story credits railroad president John Taylor Johnston with choosing Ellen for family friend Ellen Betts and adding Dun because he liked its sound. That remains an attributed account of the choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2c49ddae99a5bb9ffbc12f41121eb23ac78ef0fca19580e64e0d73d3dd27d26f",
+      "replacement": "New Market was the earlier station identity, rather than a former legal name of Dunellen Borough. A January 1869 development plat is reported to bear Dunellen. Railway and land-development institutions appear to have carried the name into community use; neither an exact coining day nor a Scottish or Gaelic translation of Dun is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "ef03447af11bc52880b331351387d422d426995aad9185d95b8937784210b80a",
+      "replacement": "The station area had been called New Market. A development map reportedly used Dunellen in January 1869. New Market was a station identity, rather than an earlier Dunellen borough; the report does not establish an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8a96e3ccb03e935779a6b2840697fe5d4c23a2bfdd7f9d942beacaedad888c7a",
+      "replacement": "The later family account credits Johnston and links Ellen with Ellen Betts. The precise original naming occasion and reason for adding Dun remain unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8a96e3ccb03e935779a6b2840697fe5d4c23a2bfdd7f9d942beacaedad888c7a",
+      "replacement": "The later family account credits Johnston and links Ellen with Ellen Betts. The precise original naming occasion and reason for adding Dun remain unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        1,
+        "label"
+      ],
+      "expected_sha256": "833fe47ddeba03dec0b852d4f6dc76226ebfc5859f006fb5d36eed39c6e6ffa9",
+      "replacement": "A development plat reportedly bears Dunellen",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        1,
+        "label"
+      ],
+      "expected_sha256": "833fe47ddeba03dec0b852d4f6dc76226ebfc5859f006fb5d36eed39c6e6ffa9",
+      "replacement": "A development plat reportedly bears Dunellen",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "8b42b287798372f3f6d8e9114fddd2f979ab40842077250dce58ad4a2ffd1395",
+      "replacement": "A January 1869 development plat is reported to bear Dunellen. That attributed use does not establish a precise coining day or sole coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "8b42b287798372f3f6d8e9114fddd2f979ab40842077250dce58ad4a2ffd1395",
+      "replacement": "A January 1869 development plat is reported to bear Dunellen. That attributed use does not establish a precise coining day or sole coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "de040fffc8d72cb790f00de68d21667eccd5d442c16cea3797dc77a79eaf437d",
+      "replacement": "The government summary lists February 6, 1895 for full separation. That date does not establish the exact local voting procedure.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "de040fffc8d72cb790f00de68d21667eccd5d442c16cea3797dc77a79eaf437d",
+      "replacement": "The government summary lists February 6, 1895 for full separation. That date does not establish the exact local voting procedure.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "f0062dcd88e6810f0c32344d48bb43029ad4bf5b8183e2627cf2be64e2cd1703",
+      "replacement": "The government summary lists April 15, 1914 for charter revival. This was a later legal stage retaining the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "f0062dcd88e6810f0c32344d48bb43029ad4bf5b8183e2627cf2be64e2cd1703",
+      "replacement": "The government summary lists April 15, 1914 for charter revival. This was a later legal stage retaining the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "b3c145d29ba5a9bffe238694cd19e15a6d43f2fd82819237fa28f883b325d274",
+      "replacement": "Later family recollection credits John Taylor Johnston and says Dun was added for its sound. The precise original naming decision remains unestablished; no Gaelic meaning is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e29b25336ab2a88df1956eb9a15d0cbe5ea40ac43bd00e2ca6923cc486434e61",
+      "replacement": "A January 1869 development plat is reported to bear Dunellen. An exact first-use or coining day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e29b25336ab2a88df1956eb9a15d0cbe5ea40ac43bd00e2ca6923cc486434e61",
+      "replacement": "A January 1869 development plat is reported to bear Dunellen. An exact first-use or coining day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d8026c5a083342c55ab4577234b943ec00681522fb6b58cae784abb334e3902a",
+      "replacement": "Railroad-linked development preceded municipal government and appears to have carried the name into community use. The exact original choice remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d8026c5a083342c55ab4577234b943ec00681522fb6b58cae784abb334e3902a",
+      "replacement": "Railroad-linked development preceded municipal government and appears to have carried the name into community use. The exact original choice remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "editorial",
+        "1203",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "d02b7e93d0ca15d1ffea391707bd71c8b84933d4a409799034841dcc956b13d2",
+      "replacement": "The commission, separate borough and later charter revival were different stages. The government summary does not establish the actual local vote or first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "4b2bdc17767472b9fbbfc2526e60d0437b82770eb7b7cf16c9bd7aab22bf028e",
+      "replacement": "Charter date reported by later histories",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "eb96e09b65bdb4d9591ba546323d54796829c0f1e5317cf441c6e72511d1ba9a",
+      "replacement": "A reported township-name use, without an established individual proposer or original naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "c4f0f0c9b589c98aa2bf00605bc82cf9877e9cad656ae5c0bbafc4abd689db22",
+      "replacement": "Passage date reproduced in the authorized 1800 revision",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "9e724cc1677e4d4d5bcaa0b203d914256801de67bed2c11a7a2d7144172cb01d",
+      "replacement": "The corporate law names Montgomery without establishing the honoree or original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "c44b051d797efd5e8970311c245b92b4d553fa0bfbb7518b79440226354e9081",
+      "replacement": "Reported county filing and commission creation, separate from the earlier vote and later borough conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "b00e82e5191609ae7f3025a909a07245c58d964e22a5df9dea4695a745956670",
+      "replacement": "Approximate establishment date reported in the archival guide",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "sources",
+        "S1751",
+        "publication"
+      ],
+      "expected_sha256": "47a9255b6a190ffba4d24b8f2f711cda096500daa84d466c53f13ab9e966c84e",
+      "replacement": "Archival guide dated May 1991",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "da953ca170ddbdea4acbb5246bc7e250b02cb1662c5f8ed63cc7f4f7053eb754",
+      "replacement": "Western Precinct (predecessor); Westering (reported form); Harlingen (community); Blawenburg (community); Skillman (area); Rocky Hill (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "13d5682e9481a932100c78583d2447403c429e925d7f1e67cd0f057628aa61ab",
+      "replacement": "Act approval date; immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "e0b0fb5228945770865c51df8ef8d354e5ec767cb0dd81a0fad10c714ee4e12f",
+      "replacement": "County filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "sources",
+        "S1754",
+        "title"
+      ],
+      "expected_sha256": "4b40b6d7d023865956281ec033e33b4323922f2eda718624ab5958661238bd82",
+      "replacement": "Catalogue link to Princeton map record xs55mf611",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "sources",
+        "S1754",
+        "publication"
+      ],
+      "expected_sha256": "90a086f4a8bca41fb8050f97e3d04040f91d9a8a856f6a02a015f25ed786da80",
+      "replacement": "Undated catalogue entry concerning an 1860 map",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "sources",
+        "S2315",
+        "title"
+      ],
+      "expected_sha256": "07d24a5eb9783f8e0a59924c4098e65821ca9793881231d71844cba7ee507f69",
+      "replacement": "Laws of New Jersey 1872, chapter 455 — North Plainfield Township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "sources",
+        "S2317",
+        "title"
+      ],
+      "expected_sha256": "db8688a64e068694e76c1bfe4459941d1b6985b6f2e31b2873fb7197a59de4c8",
+      "replacement": "1895 borough separation act, chapter 107, and North Plainfield applicability index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "37bbd6dc1bd39b6a002527627e6a35501b874b8d73af6ade946ebc88d21a9366",
+      "replacement": "North Plainfield P.O. (mapped locality); North Plainfield Township (parent, later Green Brook); Blue Hills (regional description); Washingtonville (separately mapped locality); Warren Township (territorial parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "1a704012315a370dc080dfb8936948c8b3b883687b82338a89c8199e09d4f028",
+      "replacement": "Deed year reported by later historical writers",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "6e75c1f245455449b9b09dea408ab178e5cac6455bee5003ea371ed9bb5d432b",
+      "replacement": "Original name givers and individual deed recorders unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "46d1963440d38bfee64070df4467a3575d2448e27c6d6b16a76a8d86f63d079d",
+      "replacement": "An attributed early-name account, rather than an established literal translation or first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "593a2215d748d8ba2c3d1b9eacf1c811d16f146fbe50cf3d34001cdef4dff4bb",
+      "replacement": "Two older community names became one borough name, separately from legislative approval and acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "bcb0a9556015e44644759de288f818529a13b178559e0897a7f51945aba4a006",
+      "replacement": "Election date reported by later chronology and index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "dbab34223a71b0de3d926feb51300001c297c6a8857077dd7ff248fe63894d6e",
+      "replacement": "A second county-record date, separate from the reported vote and April entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "sources",
+        "S1762",
+        "author"
+      ],
+      "expected_sha256": "767694ac60630917e5e390ca701532730cd30cbf4ebbf50d900e9adae95fa8b1",
+      "replacement": "Mr. Local History, website; individual author unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "sources",
+        "S1762",
+        "title"
+      ],
+      "expected_sha256": "a275e39373e6e626fc099c9d44b20bbabed176cbd88ef6b62c0ffa319d496aa1",
+      "replacement": "Peapack–Gladstone divide — article",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "sources",
+        "S1762",
+        "publication"
+      ],
+      "expected_sha256": "13ef9ef16a6dffe1b3ab5b056266548b4a6b849d9f70fca2f9b08c3e4a02f627",
+      "replacement": "Undated webpage",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "sources",
+        "S1764",
+        "title"
+      ],
+      "expected_sha256": "8db514b2fb5ebefb0ae9504da2dd328b18b8a2161e6de676a60cae256fda752a",
+      "replacement": "Origin of the Name “Peapack,” Somerset County Historical Quarterly, vol. VI, no. 1",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "fb5860746317bd7761c2be41ec0c665e2a25c443eccb6cef48cca5a935225065",
+      "replacement": "Peapock (reported deed form); Pepock (reported deed form); Peapack (community); Gladstone (community); Bedminster Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "4b6e35fac14940f7da6cec5028438bc7598ebc458724cc279b8d70f9049edfbc",
+      "replacement": "1640 (reported; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "8e2f9a435574149adfb7601aad2186ed6697e58a957c5408f5fe0893358e821e",
+      "replacement": "Reported year; exact form and connection unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "265a40bef4ebc8afcdf8c284febd5bcbdc756e0fa0e0c4c6d36b54912888d6e2",
+      "replacement": "A 1640 reference to people or territory is attributed to Grumet. Its exact form and connection with the present borough remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "5783eff468dbed23ad8d2fde3694f493d5d60d01782e5565e58c3b1709b3b085",
+      "replacement": "A reported early regional reference, rather than a borough founding or established exact naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "7366b072824daf7d197ee56d3cb07e5de6f6b0a2c38d77a1cace25754eb11d7e",
+      "replacement": "The map labels Raritan and Somerville as distinct communities; its publication does not establish first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "7d1689cf9e8542914d40e5b22d1b20366ec9a97d26fa613dde4455a70cca8d71",
+      "replacement": "The 1868 commissioners’ government was a separate stage from borough conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f0c8f59b167a3ca8825c9d5a60150ab69f6b25163d73a2265df0b7345628130b",
+      "replacement": "Rariton (reported older Somerville usage); RARITAN (mapped community); Raritan River (regional name); Town of Raritan (earlier government); Bridgewater Township (territorial parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "9e0f9d525d3543c2c30fe522a5d06dce0d56c98007e002efb6589a1aaca5646d",
+      "replacement": "Bequest year quoted in the 1981 nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "a57b1140061065bbc1ed1fb36be29191b7cace2fc01f322f6bed5204657ee26a",
+      "replacement": "An attributed landscape-name reference, rather than an established village naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "7ff946a7e8499003e2888f954dd61a0b1600198638aaac19bafcd0847ee0f976",
+      "replacement": "Original text published in 1765 and reprinted in 1890",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "850a3d20a90eef581d2065529a91340b72ae9e92e1d579d7eaa2d6de3b8256bb",
+      "replacement": "Smith’s text names Rocky-Hill mines on page 492. William S. Sharp’s 1890 reprint reproduces the 1765 history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "f990222d01be93011d6ddd0e9960429acba4d4c5ec9bdb4b10a2e5d06033c05a",
+      "replacement": "A mine-name reference, distinct from village naming and borough formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "c44b051d797efd5e8970311c245b92b4d553fa0bfbb7518b79440226354e9081",
+      "replacement": "Reported county filing and commission creation, separate from the earlier vote and later borough conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c7e65143a3a11aafc29b9f3230dbc7164a90bd60ca28f080adf940e441950b6f",
+      "replacement": "Rockie Hill (quoted landscape form); Rocky-Hill mines (historical mine name); Montgomery Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "978fb5f6c97d3dbfa7cc5f2fa1b264482fee6a7903e5f91cd69d79e197847b2c",
+      "replacement": "Month reported through later histories",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "256a5ae5ed08668c0fee5d6c7995d5ac3ba32709fce67207bbbe16ba406709fb",
+      "replacement": "Bergen attributes the oldest documentary evidence to July 1801 through Messler. Gillette quotes Messler’s account of a July 18 constitution naming Somerville and vicinity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "653776091393068690618d869a169dbb5508c1181f90200f4fa513c7e2513b48",
+      "replacement": "An attributed early use through related later accounts; their shared dependence does not establish independent contemporary witnesses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "70b6eef1576fd0215a564e545063422e4679abb1bffd1f22b8cb7847127edc86",
+      "replacement": "A specifically dated use in a published letter transcription, rather than an established first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "8dddabf44017b7830a6acc5df59ec9d748365ec6b26a91731e1e6ad64d52962c",
+      "replacement": "Town commissioners were a distinct stage from the later borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "651cb98c423685a535a119a02c47b1f5ab7d3566281c26b906ad614fbef2b45a",
+      "replacement": "Return and county-filing requirements, without established actual dates of completion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "sources",
+        "S1774",
+        "publication"
+      ],
+      "expected_sha256": "21fc53704c591c6fb953994abd4049c2a46b6abdb3993268a328f6f72fd5964f",
+      "replacement": "March 2021",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "sources",
+        "S1775",
+        "title"
+      ],
+      "expected_sha256": "a7c5327c92a7570f12f48273076ff1654bce25fac3d13d75c49a4b675623c910",
+      "replacement": "Somerset County Historical Quarterly, vol. VI — The Somerville Academy and the Raritan Reformed Church, pp.31–33; Raritan/Rariton references pp.248, 313–314",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3a8b7ef29d11cdd546915a9e51f357b8ee3976e0fe3a3ec5ad2d8ffb745bff11",
+      "replacement": "Raritan (older locality usage); Rariton (historical spelling); Somerset Court House (locality and postal name); Town of Somerville (earlier government); Bridgewater Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "ce97d8cd60da0c0d37137cf49aa56ac665a8b954e97130654a162f0b81867e52",
+      "replacement": "Map publication year; abbreviated settlement label",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "a9f76445c4a7f99417027fac913675df8a39515ed94d87df145c909a2844dae2",
+      "replacement": "Statutorily scheduled election day; actual occurrence unestablished",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "405e9894997d03154201414538c2054bd277e3dd41e4edbd3341bf3657ea3b7c",
+      "replacement": "Petition filing day reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "f2f83b74c3ce5deae9735e4f03d717e5f0576476b7678e64f9a0d1443325c611",
+      "replacement": "An attributed petition by named participants, without identifying the original locality coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "d48d108d9388d2536b3e3b11cda937caff789119f46a1e83da796e292de694fc",
+      "replacement": "Decree and effect day reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "3f16ceb6983801980d144ea881f59ca21c4d13214e81cf542c470bf03bad7736",
+      "replacement": "Later decree filing day reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "b54bdde09f86c74690c8cb808551f9f6209c3e0aaca9264ceedb0552cdfad8b1",
+      "replacement": "County record date reported by the index; exact role uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        9,
+        "precision"
+      ],
+      "expected_sha256": "b54bdde09f86c74690c8cb808551f9f6209c3e0aaca9264ceedb0552cdfad8b1",
+      "replacement": "County record date reported by the index; exact role uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "sources",
+        "S1782",
+        "publication"
+      ],
+      "expected_sha256": "3cb2b65e59614c0fa7d2dc6759e278f5fbce22dd0cb4f22926b7bcffe163c930",
+      "replacement": "Undated database page",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "sources",
+        "S1783",
+        "title"
+      ],
+      "expected_sha256": "21a61c41432d7bf01cdc85a8bc9c89564609d60aea480c9013f887960420f6a2",
+      "replacement": "Bound Brook — GNIS populated-place record 874865",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "sources",
+        "S2333",
+        "publication"
+      ],
+      "expected_sha256": "51d599d5369bbf485b71e6c3cd29d52b047d94f3ea4ce5971a76e3a5051c2282",
+      "replacement": "Approved March 31, 1887; pp.76–77",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "sources",
+        "S2334",
+        "publication"
+      ],
+      "expected_sha256": "3e64e2b538bfb25556359a3f1802b4be4676b874af97ce4eb90d0e50183a1b81",
+      "replacement": "Approved April 11, 1907; pp.71–73",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "170ce2d0a5a2f5efa7c62d92a1df9abd38fa71ecd67389612c99d81b728c2fe8",
+      "replacement": "Bloomington (former legal name); South Bound Brook (older locality); Franklin Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1820",
+      "path": [
+        "views",
+        "1820",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "3ec4be8f48fd67a5158ff6cbb0d1c56c6929596b8a764820d373aecb66e996d5",
+      "replacement": "Village formation date reported by Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1820",
+      "path": [
+        "views",
+        "1820",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "13d5682e9481a932100c78583d2447403c429e925d7f1e67cd0f057628aa61ab",
+      "replacement": "Act approval date; immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1820",
+      "path": [
+        "views",
+        "1820",
+        "sources",
+        "S2315",
+        "title"
+      ],
+      "expected_sha256": "07d24a5eb9783f8e0a59924c4098e65821ca9793881231d71844cba7ee507f69",
+      "replacement": "Laws of New Jersey 1872, chapter 455 — North Plainfield Township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1820",
+      "path": [
+        "views",
+        "1820",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6b1ac62aba90ce4c6f60dda5a562c739249ea89ab1a03fcd2e84b4d284c5a103",
+      "replacement": "Joseph Warren (traditional honoree); Bernard (historical parent spelling); Bernards Township (parent); Bridgewater Township (parent); Union Village (community); Smalleytown (community); Mount Bethel (community); North Plainfield Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "6b3d16a52e9762d2fe38fb4dbfb4fe7f4ad94cec3e28220b47048352e3ce3234",
+      "replacement": "1667 — reported regional reference; unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "b296cb95dd3126024046953075f2b1ae64cbed53c0b99a5dd953526732d22576",
+      "replacement": "Reported year; exact form and connection unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "before"
+      ],
+      "expected_sha256": "8fe07d000d58a92c14095c5f2e14b0d92d2c102b7c904351695e71ef75f09def",
+      "replacement": "Reported older regional or mountain name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "ca1df5b4251501fed0c5ad060b94f6e92daea3d3f9b3a69db7b21aa5d74705f7",
+      "replacement": "Unconfirmed early regional reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "9dd66b4dbd0f58ab03ee7aafd9915091b560d63a9b44e577e1c795a8c44801bf",
+      "replacement": "Original name givers and record makers unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "3cf164f48c2d2fe3d4dcbecaadc44c4ea9a8a512c9914ed5b212db8372e20110",
+      "replacement": "A reported 1667 regional reference remains unconfirmed. The cited postal history concerns the much later community adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "3ddde8ec4e820e2e78efe9e032bdb4646b5d28516f07e06aea0fa00a1fc3f1a7",
+      "replacement": "A qualified early regional claim, separate from the later postal and municipal names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "8ceb992b2a980e65984414cdf8b09e734a3e587a4e719a3c37b27ffe32ec1060",
+      "replacement": "Map publication year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ee5270ad7baf2e6aecc4c0d4595ff896251173baaf47a8c83904d22180b94603",
+      "replacement": "The State Library map labels WASHINGTONVILLE northwest of NORTH PLAINFIELD P.O.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "826917b04b7696b96bdce65c3b35e6e9cc77e22d8654bcf3bf02c5d094d49833",
+      "replacement": "Table 1 lists an October 31 appointment and reports that Wohlfert declined the position.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "8d780637b64519ce05a72e8d133e55b0fa0a75da6f18a15e93edf423cef839ef",
+      "replacement": "Newspaper issue date quoted in the 2013 article",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "f24710f86dc89122147e37baad779477993b3393f9693e5d041b3fea50a42540",
+      "replacement": "Appointment and tenure-start day reported by the later article",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "c246c76bd8f8f514eb32b47894286c7cbbf717667893b68fd4e361e2f973707b",
+      "replacement": "Discontinuance day reported by the later table",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "2bd48e821f8e829d961aa65faad4e16b78d299856cc620e16e70ece3602d90bc",
+      "replacement": "Table 1 reports discontinuance on April 15, 1921, with service directed to Plainfield.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "9ddf1c3b1068020d1e45cc8f1a48d18cee9433ed0bb80bb80b76af9ce719e04e",
+      "replacement": "Successful election day reported by the index and Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        9,
+        "precision"
+      ],
+      "expected_sha256": "1279868a1ff70435bd3213cedac6a3f47aeed364de511e3c637738bfb0fcd63a",
+      "replacement": "County entry date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "952581b0e4293a838300746de31bd8d4d20ba0b30ab1f306d8e14cc689fd2fd1",
+      "replacement": "A county-entry date, without establishing completion of the separate signed-return and township-minute requirements.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        10,
+        "precision"
+      ],
+      "expected_sha256": "602ffdb0dccc4001e6b34ec19299a56938f5a6a2fe3841fd02593ee77535e27d",
+      "replacement": "First meeting day reported by the municipal centennial page",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        10,
+        "actor"
+      ],
+      "expected_sha256": "84ccf7ffed205416c1749123727a2ec092caa6f4cd241fdb14a415955933eac7",
+      "replacement": "First Watchung mayor and council, as reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7fe78a67f75f4c7513ff02b8f27e7c92df64aed25ce4bfb4270e28751151e7e0",
+      "replacement": "Washingtonville (older locality); Browes Town (local usage); Green Valley (local usage); Watchung Mountains (regional name); North Plainfield Township (parent, later Green Brook)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "283ab699b3847a8c6450dd2aaf5675b38953dee3462bf000a797513f0f492d80",
+      "replacement": "The index gives May 1 for election and immediate effect; municipal history instead calls April 11 a referendum, while another account gives May 22.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "13dcda32986153945cf88b2b3bcda1b87995f496e4ed524f63aaffc08b31a4c5",
+      "replacement": "The legal index reports November 7 Carteret adoption; Walton’s postal-history article reports November 27.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "84b385a13fbc787d3c419c967ce97e39141039e609537a4285fd6c49befe2ac2",
+      "replacement": "State filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "sources",
+        "S2076",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0a2f06c65c8b26323e93ba28ee7231d2ffd8891f181b5c1aee34578276e27606",
+      "replacement": "Roosevelt (former borough name); Roosevelt-Carteret (postal form); Smoking Point (older locality); Blazing Star (older locality); Woodbridge Neck (area); Chrome (community); Woodbridge Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "views",
+        "1202",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "c76452521c3c4671ea622ec50e1775461db2c9d0609d5b85ea98f4c41c2dbab4",
+      "replacement": "An attributed map-name use, rather than first naming or township creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "views",
+        "1202",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "f1850c8fd1d25b41bd4966207d9feaa1932c9cc85c025f39546e196bb4fc8aad",
+      "replacement": "Reported community and brook spelling adoption, separate from the 1872 township act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "views",
+        "1202",
+        "sources",
+        "S2089",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1202",
+      "path": [
+        "views",
+        "1202",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d838bb9817fd00aa5791dfaa1d0836cbd6e67e46aae9732bcada647df032aeb8",
+      "replacement": "Cranberry (older spelling); Cranberry Town (reported map form); South Brunswick Township (parent); Monroe Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "ef27c3deab63fe88e9285c424c119cad0fe3dd4d86431c3c7159076954c012ec",
+      "replacement": "Reported plat month",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "146a09f59bd04b11a6fb89629c9f2b5d11d2e782adef706fb47e8cfff6c4b9e5",
+      "replacement": "A January 1869 subdivision plat is reported to bear Dunellen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "b5bdceb8d6d1e58f516a926662bac42d062dda509b3ee5a00df6a67f9d064f40",
+      "replacement": "Reported use in a railroad-linked development, rather than an established exact coining day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "f712e65e2e12a2af6f2d87597ac1d4f7dfca48009bad762a4cc1704fa4dae897",
+      "replacement": "State and local authorities, as summarized",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "a9044e0503ee80fc0258e8bca65be1a59ba55e96e652c93c48c72ee6c01a3f13",
+      "replacement": "A later family and railroad account credits Johnston and links Ellen with Ellen Betts. The precise original naming decision remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "e31387291558521e7bb2f6fbd4cfaa82b8c3ece10080b3028368ff9c1adde8c3",
+      "replacement": "An attributed naming tradition associated with railroad development.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "sources",
+        "S1290",
+        "author"
+      ],
+      "expected_sha256": "d29d26631ccc77d73be87dd71510710872ad1b1646f1539986b6e49aac2d32be",
+      "replacement": "Compiler unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "sources",
+        "S1290",
+        "title"
+      ],
+      "expected_sha256": "73a09e99360e9320063a8262bd42b30db515b5b62afc7246526d1c220cc8584f",
+      "replacement": "Central New Jersey railroad development and Johnston family naming recollection",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "sources",
+        "S2077",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ddcd9810346f154131c62485dec8cb42cb2656cd283699c10234c291537e7fc5",
+      "replacement": "New Market (earlier station identity); Piscataway Township (parent); Borough Commission of Dunellen (earlier government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "4b2bdc17767472b9fbbfc2526e60d0437b82770eb7b7cf16c9bd7aab22bf028e",
+      "replacement": "Charter date reported by later histories",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "eb96e09b65bdb4d9591ba546323d54796829c0f1e5317cf441c6e72511d1ba9a",
+      "replacement": "A reported township-name use, without an established individual proposer or original naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "c4f0f0c9b589c98aa2bf00605bc82cf9877e9cad656ae5c0bbafc4abd689db22",
+      "replacement": "Passage date reproduced in the authorized 1800 revision",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "9e724cc1677e4d4d5bcaa0b203d914256801de67bed2c11a7a2d7144172cb01d",
+      "replacement": "The corporate law names Montgomery without establishing the honoree or original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "c44b051d797efd5e8970311c245b92b4d553fa0bfbb7518b79440226354e9081",
+      "replacement": "Reported county filing and commission creation, separate from the earlier vote and later borough conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "b00e82e5191609ae7f3025a909a07245c58d964e22a5df9dea4695a745956670",
+      "replacement": "Approximate establishment date reported in the archival guide",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "sources",
+        "S1751",
+        "publication"
+      ],
+      "expected_sha256": "47a9255b6a190ffba4d24b8f2f711cda096500daa84d466c53f13ab9e966c84e",
+      "replacement": "Archival guide dated May 1991",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1813",
+      "path": [
+        "views",
+        "1813",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "da953ca170ddbdea4acbb5246bc7e250b02cb1662c5f8ed63cc7f4f7053eb754",
+      "replacement": "Western Precinct (predecessor); Westering (reported form); Harlingen (community); Blawenburg (community); Skillman (area); Rocky Hill (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "13d5682e9481a932100c78583d2447403c429e925d7f1e67cd0f057628aa61ab",
+      "replacement": "Act approval date; immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "e0b0fb5228945770865c51df8ef8d354e5ec767cb0dd81a0fad10c714ee4e12f",
+      "replacement": "County filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "sources",
+        "S1754",
+        "title"
+      ],
+      "expected_sha256": "4b40b6d7d023865956281ec033e33b4323922f2eda718624ab5958661238bd82",
+      "replacement": "Catalogue link to Princeton map record xs55mf611",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "sources",
+        "S1754",
+        "publication"
+      ],
+      "expected_sha256": "90a086f4a8bca41fb8050f97e3d04040f91d9a8a856f6a02a015f25ed786da80",
+      "replacement": "Undated catalogue entry concerning an 1860 map",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "sources",
+        "S2315",
+        "title"
+      ],
+      "expected_sha256": "07d24a5eb9783f8e0a59924c4098e65821ca9793881231d71844cba7ee507f69",
+      "replacement": "Laws of New Jersey 1872, chapter 455 — North Plainfield Township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "sources",
+        "S2317",
+        "title"
+      ],
+      "expected_sha256": "db8688a64e068694e76c1bfe4459941d1b6985b6f2e31b2873fb7197a59de4c8",
+      "replacement": "1895 borough separation act, chapter 107, and North Plainfield applicability index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1814",
+      "path": [
+        "views",
+        "1814",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "37bbd6dc1bd39b6a002527627e6a35501b874b8d73af6ade946ebc88d21a9366",
+      "replacement": "North Plainfield P.O. (mapped locality); North Plainfield Township (parent, later Green Brook); Blue Hills (regional description); Washingtonville (separately mapped locality); Warren Township (territorial parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "1a704012315a370dc080dfb8936948c8b3b883687b82338a89c8199e09d4f028",
+      "replacement": "Deed year reported by later historical writers",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "6e75c1f245455449b9b09dea408ab178e5cac6455bee5003ea371ed9bb5d432b",
+      "replacement": "Original name givers and individual deed recorders unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "46d1963440d38bfee64070df4467a3575d2448e27c6d6b16a76a8d86f63d079d",
+      "replacement": "An attributed early-name account, rather than an established literal translation or first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "593a2215d748d8ba2c3d1b9eacf1c811d16f146fbe50cf3d34001cdef4dff4bb",
+      "replacement": "Two older community names became one borough name, separately from legislative approval and acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "bcb0a9556015e44644759de288f818529a13b178559e0897a7f51945aba4a006",
+      "replacement": "Election date reported by later chronology and index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "dbab34223a71b0de3d926feb51300001c297c6a8857077dd7ff248fe63894d6e",
+      "replacement": "A second county-record date, separate from the reported vote and April entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "sources",
+        "S1762",
+        "author"
+      ],
+      "expected_sha256": "767694ac60630917e5e390ca701532730cd30cbf4ebbf50d900e9adae95fa8b1",
+      "replacement": "Mr. Local History, website; individual author unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "sources",
+        "S1762",
+        "title"
+      ],
+      "expected_sha256": "a275e39373e6e626fc099c9d44b20bbabed176cbd88ef6b62c0ffa319d496aa1",
+      "replacement": "Peapack–Gladstone divide — article",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "sources",
+        "S1762",
+        "publication"
+      ],
+      "expected_sha256": "13ef9ef16a6dffe1b3ab5b056266548b4a6b849d9f70fca2f9b08c3e4a02f627",
+      "replacement": "Undated webpage",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "sources",
+        "S1764",
+        "title"
+      ],
+      "expected_sha256": "8db514b2fb5ebefb0ae9504da2dd328b18b8a2161e6de676a60cae256fda752a",
+      "replacement": "Origin of the Name “Peapack,” Somerset County Historical Quarterly, vol. VI, no. 1",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1815",
+      "path": [
+        "views",
+        "1815",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "fb5860746317bd7761c2be41ec0c665e2a25c443eccb6cef48cca5a935225065",
+      "replacement": "Peapock (reported deed form); Pepock (reported deed form); Peapack (community); Gladstone (community); Bedminster Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "4b6e35fac14940f7da6cec5028438bc7598ebc458724cc279b8d70f9049edfbc",
+      "replacement": "1640 (reported; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "8e2f9a435574149adfb7601aad2186ed6697e58a957c5408f5fe0893358e821e",
+      "replacement": "Reported year; exact form and connection unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "265a40bef4ebc8afcdf8c284febd5bcbdc756e0fa0e0c4c6d36b54912888d6e2",
+      "replacement": "A 1640 reference to people or territory is attributed to Grumet. Its exact form and connection with the present borough remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "5783eff468dbed23ad8d2fde3694f493d5d60d01782e5565e58c3b1709b3b085",
+      "replacement": "A reported early regional reference, rather than a borough founding or established exact naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "7366b072824daf7d197ee56d3cb07e5de6f6b0a2c38d77a1cace25754eb11d7e",
+      "replacement": "The map labels Raritan and Somerville as distinct communities; its publication does not establish first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "7d1689cf9e8542914d40e5b22d1b20366ec9a97d26fa613dde4455a70cca8d71",
+      "replacement": "The 1868 commissioners’ government was a separate stage from borough conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1816",
+      "path": [
+        "views",
+        "1816",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f0c8f59b167a3ca8825c9d5a60150ab69f6b25163d73a2265df0b7345628130b",
+      "replacement": "Rariton (reported older Somerville usage); RARITAN (mapped community); Raritan River (regional name); Town of Raritan (earlier government); Bridgewater Township (territorial parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "9e0f9d525d3543c2c30fe522a5d06dce0d56c98007e002efb6589a1aaca5646d",
+      "replacement": "Bequest year quoted in the 1981 nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "a57b1140061065bbc1ed1fb36be29191b7cace2fc01f322f6bed5204657ee26a",
+      "replacement": "An attributed landscape-name reference, rather than an established village naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "7ff946a7e8499003e2888f954dd61a0b1600198638aaac19bafcd0847ee0f976",
+      "replacement": "Original text published in 1765 and reprinted in 1890",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "850a3d20a90eef581d2065529a91340b72ae9e92e1d579d7eaa2d6de3b8256bb",
+      "replacement": "Smith’s text names Rocky-Hill mines on page 492. William S. Sharp’s 1890 reprint reproduces the 1765 history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "f990222d01be93011d6ddd0e9960429acba4d4c5ec9bdb4b10a2e5d06033c05a",
+      "replacement": "A mine-name reference, distinct from village naming and borough formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "c44b051d797efd5e8970311c245b92b4d553fa0bfbb7518b79440226354e9081",
+      "replacement": "Reported county filing and commission creation, separate from the earlier vote and later borough conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1817",
+      "path": [
+        "views",
+        "1817",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c7e65143a3a11aafc29b9f3230dbc7164a90bd60ca28f080adf940e441950b6f",
+      "replacement": "Rockie Hill (quoted landscape form); Rocky-Hill mines (historical mine name); Montgomery Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "978fb5f6c97d3dbfa7cc5f2fa1b264482fee6a7903e5f91cd69d79e197847b2c",
+      "replacement": "Month reported through later histories",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "256a5ae5ed08668c0fee5d6c7995d5ac3ba32709fce67207bbbe16ba406709fb",
+      "replacement": "Bergen attributes the oldest documentary evidence to July 1801 through Messler. Gillette quotes Messler’s account of a July 18 constitution naming Somerville and vicinity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "653776091393068690618d869a169dbb5508c1181f90200f4fa513c7e2513b48",
+      "replacement": "An attributed early use through related later accounts; their shared dependence does not establish independent contemporary witnesses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "70b6eef1576fd0215a564e545063422e4679abb1bffd1f22b8cb7847127edc86",
+      "replacement": "A specifically dated use in a published letter transcription, rather than an established first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "8dddabf44017b7830a6acc5df59ec9d748365ec6b26a91731e1e6ad64d52962c",
+      "replacement": "Town commissioners were a distinct stage from the later borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "651cb98c423685a535a119a02c47b1f5ab7d3566281c26b906ad614fbef2b45a",
+      "replacement": "Return and county-filing requirements, without established actual dates of completion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "sources",
+        "S1774",
+        "publication"
+      ],
+      "expected_sha256": "21fc53704c591c6fb953994abd4049c2a46b6abdb3993268a328f6f72fd5964f",
+      "replacement": "March 2021",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "sources",
+        "S1775",
+        "title"
+      ],
+      "expected_sha256": "a7c5327c92a7570f12f48273076ff1654bce25fac3d13d75c49a4b675623c910",
+      "replacement": "Somerset County Historical Quarterly, vol. VI — The Somerville Academy and the Raritan Reformed Church, pp.31–33; Raritan/Rariton references pp.248, 313–314",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1818",
+      "path": [
+        "views",
+        "1818",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3a8b7ef29d11cdd546915a9e51f357b8ee3976e0fe3a3ec5ad2d8ffb745bff11",
+      "replacement": "Raritan (older locality usage); Rariton (historical spelling); Somerset Court House (locality and postal name); Town of Somerville (earlier government); Bridgewater Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "ce97d8cd60da0c0d37137cf49aa56ac665a8b954e97130654a162f0b81867e52",
+      "replacement": "Map publication year; abbreviated settlement label",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "a9f76445c4a7f99417027fac913675df8a39515ed94d87df145c909a2844dae2",
+      "replacement": "Statutorily scheduled election day; actual occurrence unestablished",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "405e9894997d03154201414538c2054bd277e3dd41e4edbd3341bf3657ea3b7c",
+      "replacement": "Petition filing day reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "f2f83b74c3ce5deae9735e4f03d717e5f0576476b7678e64f9a0d1443325c611",
+      "replacement": "An attributed petition by named participants, without identifying the original locality coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "d48d108d9388d2536b3e3b11cda937caff789119f46a1e83da796e292de694fc",
+      "replacement": "Decree and effect day reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "3f16ceb6983801980d144ea881f59ca21c4d13214e81cf542c470bf03bad7736",
+      "replacement": "Later decree filing day reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "b54bdde09f86c74690c8cb808551f9f6209c3e0aaca9264ceedb0552cdfad8b1",
+      "replacement": "County record date reported by the index; exact role uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "events",
+        9,
+        "precision"
+      ],
+      "expected_sha256": "b54bdde09f86c74690c8cb808551f9f6209c3e0aaca9264ceedb0552cdfad8b1",
+      "replacement": "County record date reported by the index; exact role uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "sources",
+        "S1782",
+        "publication"
+      ],
+      "expected_sha256": "3cb2b65e59614c0fa7d2dc6759e278f5fbce22dd0cb4f22926b7bcffe163c930",
+      "replacement": "Undated database page",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "sources",
+        "S1783",
+        "title"
+      ],
+      "expected_sha256": "21a61c41432d7bf01cdc85a8bc9c89564609d60aea480c9013f887960420f6a2",
+      "replacement": "Bound Brook — GNIS populated-place record 874865",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "sources",
+        "S2333",
+        "publication"
+      ],
+      "expected_sha256": "51d599d5369bbf485b71e6c3cd29d52b047d94f3ea4ce5971a76e3a5051c2282",
+      "replacement": "Approved March 31, 1887; pp.76–77",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "sources",
+        "S2334",
+        "publication"
+      ],
+      "expected_sha256": "3e64e2b538bfb25556359a3f1802b4be4676b874af97ce4eb90d0e50183a1b81",
+      "replacement": "Approved April 11, 1907; pp.71–73",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1819",
+      "path": [
+        "views",
+        "1819",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "170ce2d0a5a2f5efa7c62d92a1df9abd38fa71ecd67389612c99d81b728c2fe8",
+      "replacement": "Bloomington (former legal name); South Bound Brook (older locality); Franklin Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1820",
+      "path": [
+        "views",
+        "1820",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "3ec4be8f48fd67a5158ff6cbb0d1c56c6929596b8a764820d373aecb66e996d5",
+      "replacement": "Village formation date reported by Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1820",
+      "path": [
+        "views",
+        "1820",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "13d5682e9481a932100c78583d2447403c429e925d7f1e67cd0f057628aa61ab",
+      "replacement": "Act approval date; immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1820",
+      "path": [
+        "views",
+        "1820",
+        "sources",
+        "S2315",
+        "title"
+      ],
+      "expected_sha256": "07d24a5eb9783f8e0a59924c4098e65821ca9793881231d71844cba7ee507f69",
+      "replacement": "Laws of New Jersey 1872, chapter 455 — North Plainfield Township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1820",
+      "path": [
+        "views",
+        "1820",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6b1ac62aba90ce4c6f60dda5a562c739249ea89ab1a03fcd2e84b4d284c5a103",
+      "replacement": "Joseph Warren (traditional honoree); Bernard (historical parent spelling); Bernards Township (parent); Bridgewater Township (parent); Union Village (community); Smalleytown (community); Mount Bethel (community); North Plainfield Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "6b3d16a52e9762d2fe38fb4dbfb4fe7f4ad94cec3e28220b47048352e3ce3234",
+      "replacement": "1667 — reported regional reference; unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "b296cb95dd3126024046953075f2b1ae64cbed53c0b99a5dd953526732d22576",
+      "replacement": "Reported year; exact form and connection unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "before"
+      ],
+      "expected_sha256": "8fe07d000d58a92c14095c5f2e14b0d92d2c102b7c904351695e71ef75f09def",
+      "replacement": "Reported older regional or mountain name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "ca1df5b4251501fed0c5ad060b94f6e92daea3d3f9b3a69db7b21aa5d74705f7",
+      "replacement": "Unconfirmed early regional reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "9dd66b4dbd0f58ab03ee7aafd9915091b560d63a9b44e577e1c795a8c44801bf",
+      "replacement": "Original name givers and record makers unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "3cf164f48c2d2fe3d4dcbecaadc44c4ea9a8a512c9914ed5b212db8372e20110",
+      "replacement": "A reported 1667 regional reference remains unconfirmed. The cited postal history concerns the much later community adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "3ddde8ec4e820e2e78efe9e032bdb4646b5d28516f07e06aea0fa00a1fc3f1a7",
+      "replacement": "A qualified early regional claim, separate from the later postal and municipal names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "8ceb992b2a980e65984414cdf8b09e734a3e587a4e719a3c37b27ffe32ec1060",
+      "replacement": "Map publication year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ee5270ad7baf2e6aecc4c0d4595ff896251173baaf47a8c83904d22180b94603",
+      "replacement": "The State Library map labels WASHINGTONVILLE northwest of NORTH PLAINFIELD P.O.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "826917b04b7696b96bdce65c3b35e6e9cc77e22d8654bcf3bf02c5d094d49833",
+      "replacement": "Table 1 lists an October 31 appointment and reports that Wohlfert declined the position.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "8d780637b64519ce05a72e8d133e55b0fa0a75da6f18a15e93edf423cef839ef",
+      "replacement": "Newspaper issue date quoted in the 2013 article",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "f24710f86dc89122147e37baad779477993b3393f9693e5d041b3fea50a42540",
+      "replacement": "Appointment and tenure-start day reported by the later article",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "c246c76bd8f8f514eb32b47894286c7cbbf717667893b68fd4e361e2f973707b",
+      "replacement": "Discontinuance day reported by the later table",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "2bd48e821f8e829d961aa65faad4e16b78d299856cc620e16e70ece3602d90bc",
+      "replacement": "Table 1 reports discontinuance on April 15, 1921, with service directed to Plainfield.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "9ddf1c3b1068020d1e45cc8f1a48d18cee9433ed0bb80bb80b76af9ce719e04e",
+      "replacement": "Successful election day reported by the index and Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        9,
+        "precision"
+      ],
+      "expected_sha256": "1279868a1ff70435bd3213cedac6a3f47aeed364de511e3c637738bfb0fcd63a",
+      "replacement": "County entry date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "952581b0e4293a838300746de31bd8d4d20ba0b30ab1f306d8e14cc689fd2fd1",
+      "replacement": "A county-entry date, without establishing completion of the separate signed-return and township-minute requirements.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        10,
+        "precision"
+      ],
+      "expected_sha256": "602ffdb0dccc4001e6b34ec19299a56938f5a6a2fe3841fd02593ee77535e27d",
+      "replacement": "First meeting day reported by the municipal centennial page",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "events",
+        10,
+        "actor"
+      ],
+      "expected_sha256": "84ccf7ffed205416c1749123727a2ec092caa6f4cd241fdb14a415955933eac7",
+      "replacement": "First Watchung mayor and council, as reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1821",
+      "path": [
+        "views",
+        "1821",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7fe78a67f75f4c7513ff02b8f27e7c92df64aed25ce4bfb4270e28751151e7e0",
+      "replacement": "Washingtonville (older locality); Browes Town (local usage); Green Valley (local usage); Watchung Mountains (regional name); North Plainfield Township (parent, later Green Brook)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "283ab699b3847a8c6450dd2aaf5675b38953dee3462bf000a797513f0f492d80",
+      "replacement": "The index gives May 1 for election and immediate effect; municipal history instead calls April 11 a referendum, while another account gives May 22.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "13dcda32986153945cf88b2b3bcda1b87995f496e4ed524f63aaffc08b31a4c5",
+      "replacement": "The legal index reports November 7 Carteret adoption; Walton’s postal-history article reports November 27.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "84b385a13fbc787d3c419c967ce97e39141039e609537a4285fd6c49befe2ac2",
+      "replacement": "State filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "sources",
+        "S2076",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1201",
+      "path": [
+        "views",
+        "1201",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0a2f06c65c8b26323e93ba28ee7231d2ffd8891f181b5c1aee34578276e27606",
+      "replacement": "Roosevelt (former borough name); Roosevelt-Carteret (postal form); Smoking Point (older locality); Blazing Star (older locality); Woodbridge Neck (area); Chrome (community); Woodbridge Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "views",
+        "1202",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "c76452521c3c4671ea622ec50e1775461db2c9d0609d5b85ea98f4c41c2dbab4",
+      "replacement": "An attributed map-name use, rather than first naming or township creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "views",
+        "1202",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "f1850c8fd1d25b41bd4966207d9feaa1932c9cc85c025f39546e196bb4fc8aad",
+      "replacement": "Reported community and brook spelling adoption, separate from the 1872 township act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "views",
+        "1202",
+        "sources",
+        "S2089",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1202",
+      "path": [
+        "views",
+        "1202",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d838bb9817fd00aa5791dfaa1d0836cbd6e67e46aae9732bcada647df032aeb8",
+      "replacement": "Cranberry (older spelling); Cranberry Town (reported map form); South Brunswick Township (parent); Monroe Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "ef27c3deab63fe88e9285c424c119cad0fe3dd4d86431c3c7159076954c012ec",
+      "replacement": "Reported plat month",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "146a09f59bd04b11a6fb89629c9f2b5d11d2e782adef706fb47e8cfff6c4b9e5",
+      "replacement": "A January 1869 subdivision plat is reported to bear Dunellen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "b5bdceb8d6d1e58f516a926662bac42d062dda509b3ee5a00df6a67f9d064f40",
+      "replacement": "Reported use in a railroad-linked development, rather than an established exact coining day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "f712e65e2e12a2af6f2d87597ac1d4f7dfca48009bad762a4cc1704fa4dae897",
+      "replacement": "State and local authorities, as summarized",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "a9044e0503ee80fc0258e8bca65be1a59ba55e96e652c93c48c72ee6c01a3f13",
+      "replacement": "A later family and railroad account credits Johnston and links Ellen with Ellen Betts. The precise original naming decision remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "e31387291558521e7bb2f6fbd4cfaa82b8c3ece10080b3028368ff9c1adde8c3",
+      "replacement": "An attributed naming tradition associated with railroad development.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "sources",
+        "S1290",
+        "author"
+      ],
+      "expected_sha256": "d29d26631ccc77d73be87dd71510710872ad1b1646f1539986b6e49aac2d32be",
+      "replacement": "Compiler unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "sources",
+        "S1290",
+        "title"
+      ],
+      "expected_sha256": "73a09e99360e9320063a8262bd42b30db515b5b62afc7246526d1c220cc8584f",
+      "replacement": "Central New Jersey railroad development and Johnston family naming recollection",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "sources",
+        "S2077",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1203",
+      "path": [
+        "views",
+        "1203",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ddcd9810346f154131c62485dec8cb42cb2656cd283699c10234c291537e7fc5",
+      "replacement": "New Market (earlier station identity); Piscataway Township (parent); Borough Commission of Dunellen (earlier government)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
