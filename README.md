@@ -45,7 +45,7 @@ behavior with isolated fake storage. Its negative tests prove that accidental
 asset changes and private files are rejected.
 
 The current remediation branch has blocked copy proposals; see
-[checkpoint 21](project/PUBLIC_COPY_CHECKPOINT_21.md). Passing integrity tests does
+[checkpoint 22](project/PUBLIC_COPY_CHECKPOINT_22.md). Passing integrity tests does
 not complete the 564-by-two contextual copy review. The frozen source baseline
 and the candidate public projection have separate identity records.
 

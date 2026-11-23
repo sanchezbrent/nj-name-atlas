@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_21_ADDENDUM",
+  "checkpoint": "PUBLIC_COPY_22",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -234,7 +234,19 @@
     "1518",
     "1519",
     "1520",
-    "1521"
+    "1521",
+    "1522",
+    "1523",
+    "1524",
+    "1525",
+    "1526",
+    "1527",
+    "1528",
+    "1529",
+    "1530",
+    "1531",
+    "1532",
+    "1533"
   ],
   "changes": [
     {
@@ -89759,6 +89771,3077 @@
       "expected_sha256": "ee853b0807dbe9bbc8f557c25cc55bff5df1a42259846035fae0df7572fca302",
       "replacement": "Approximate reported transition period",
       "treatment": "reader-copy proposal; preserve date forms, competing years and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1522",
+      "path": [
+        "editorial",
+        "1522",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "7ca62d161f6c0dca0f6f545b5b1fe81883f7598850f21e45dcb146b68d72da62",
+      "replacement": "The index gives March 26, 1918 for voting and effect. The reported 26–4 tally comes through a later account and remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1522",
+      "path": [
+        "editorial",
+        "1522",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "7ca62d161f6c0dca0f6f545b5b1fe81883f7598850f21e45dcb146b68d72da62",
+      "replacement": "The index gives March 26, 1918 for voting and effect. The reported 26–4 tally comes through a later account and remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1522",
+      "path": [
+        "editorial",
+        "1522",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b1dd4477dfbdfb355054ea4b26b0525fe0532edaac0fd0de4a5969e8fd42c2df",
+      "replacement": "The index gives February 28, 1918 authorization, March 26 voting and effect, and March 27 recording. A later account reports a 26–4 tally, which remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1522",
+      "path": [
+        "editorial",
+        "1522",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c230e648b7059e434d714a26c8a10e5e4b71bf61d8bfd42580fe89c36b49de48",
+      "replacement": "The law, vote and recording were different steps in 1918. A later account gives a 26–4 vote count, which remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "76c0ee52f2a2f8b10edbb5a4498ab33f8cc0b478de0480b071600e307d327fcd",
+      "replacement": "Institutional histories describe Horter’s planning in summer 1908, company formation and survey work in 1909, and an April 11 train bringing prospective buyers. Their map and property totals are later accounts. Island Heights Junction belonged to the railway area’s earlier identity, rather than a former borough. The inn, chapel and yacht club helped make Pine Beach familiar. Spring 1916 clubhouse completion and August 12 formal opening were distinct stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "adfa0640dbc25c41f1da67e2a3c8f87c4cfced73601a3fed7cc3ffa1b2acf6d1",
+      "replacement": "The borough followed from Berkeley in 1925. The index separates February 26 authorization, a March 25 election and effect date drawn from an unofficial source, and March 26 county recording. The reported vote tally and April officers’ election and organization dates remain unconfirmed. The name was established before those government stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "3a8824032bbaff0dad1611353fef19a013b9aa064cf1c0aa58537484610e4eb0",
+      "replacement": "Community institutions spread Pine Beach before its 1925 borough government. Finishing a clubhouse in spring and formally opening it in August were different events. The borough’s law, vote and county entry also had separate dates. The reported vote count and early organizing dates remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "fbfd6b268e683599c78dad6f1f34c695579817d5823f4e95596c10ba603ec7a7",
+      "replacement": "Island Heights Junction was a reported railway-area identity, rather than a former municipality. It does not establish when Pine Beach was first chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "fbfd6b268e683599c78dad6f1f34c695579817d5823f4e95596c10ba603ec7a7",
+      "replacement": "Island Heights Junction was a reported railway-area identity, rather than a former municipality. It does not establish when Pine Beach was first chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "fc506d19a3c93e4b92cd6d58330325172fea93acf8a674a3423980cbad56c976",
+      "replacement": "The chapel history reports an April 11, 1909 train bringing prospective buyers. This is an attributed excursion date, separate from the original name choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "fc506d19a3c93e4b92cd6d58330325172fea93acf8a674a3423980cbad56c976",
+      "replacement": "The chapel history reports an April 11, 1909 train bringing prospective buyers. This is an attributed excursion date, separate from the original name choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "8cbec595e25041d4420aba1a477ad1b064276f6825546c8c1ca6943be23bf594",
+      "replacement": "The chapel history reports company formation and survey work in 1909. These were private development stages, rather than borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "8cbec595e25041d4420aba1a477ad1b064276f6825546c8c1ca6943be23bf594",
+      "replacement": "The chapel history reports company formation and survey work in 1909. These were private development stages, rather than borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "64274421295b67254faf98a35832fecf46fa4ec0c2c772b54ad216d4dcbacda6",
+      "replacement": "The later history reports 109 recorded deeds and 22 dwellings by the end of 1909. These are attributed development totals.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "64274421295b67254faf98a35832fecf46fa4ec0c2c772b54ad216d4dcbacda6",
+      "replacement": "The later history reports 109 recorded deeds and 22 dwellings by the end of 1909. These are attributed development totals.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "815a4122a3d596c19568db74f3fb25f8cf9624b8fa20201cd47b471776958820",
+      "replacement": "The index draws March 25, 1925 voting and effect from an unofficial source. A reported 63–15 tally and spoiled ballot remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "815a4122a3d596c19568db74f3fb25f8cf9624b8fa20201cd47b471776958820",
+      "replacement": "The index draws March 25, 1925 voting and effect from an unofficial source. A reported 63–15 tally and spoiled ballot remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        10,
+        "detail"
+      ],
+      "expected_sha256": "2bddf841d3349dda5b6a6660837ddc30aa5031164f6bce24ff3c02f39b2b6b60",
+      "replacement": "The index gives March 26, 1925 for county recording. The exact local certification wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        10,
+        "detail"
+      ],
+      "expected_sha256": "2bddf841d3349dda5b6a6660837ddc30aa5031164f6bce24ff3c02f39b2b6b60",
+      "replacement": "The index gives March 26, 1925 for county recording. The exact local certification wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        11,
+        "detail"
+      ],
+      "expected_sha256": "cc4d0177b40574673b525b17b506a6ab0763732a5617e76467b513fca4b0972a",
+      "replacement": "An April 21, 1925 first officers’ election is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        11,
+        "detail"
+      ],
+      "expected_sha256": "cc4d0177b40574673b525b17b506a6ab0763732a5617e76467b513fca4b0972a",
+      "replacement": "An April 21, 1925 first officers’ election is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        12,
+        "detail"
+      ],
+      "expected_sha256": "742e2861d54680e9b113e1a2ec776e885d75f99f45103ed579f3d82b96cfee9c",
+      "replacement": "An April 27, 1925 organization meeting is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "journey",
+        12,
+        "detail"
+      ],
+      "expected_sha256": "742e2861d54680e9b113e1a2ec776e885d75f99f45103ed579f3d82b96cfee9c",
+      "replacement": "An April 27, 1925 organization meeting is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "sidebar",
+        "fields",
+        "legal",
+        "label"
+      ],
+      "expected_sha256": "37995c8bcd43005d9fe2e46bdc3812650d4e0ce07452d85b86b1481938746fa3",
+      "replacement": "Reported early government details",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "sidebar",
+        "fields",
+        "legal",
+        "label"
+      ],
+      "expected_sha256": "37995c8bcd43005d9fe2e46bdc3812650d4e0ce07452d85b86b1481938746fa3",
+      "replacement": "Reported early government details",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "bd376391c00f567c7269a5c8ba774155d3a95ce315a86ca4d6b9b71b34a646a4",
+      "replacement": "A 63–15 tally with a spoiled ballot, an April 21 officers’ election and April 27 organization are reported but remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "a07877e3c441a890932e28daf04e56434a6406fd9bf87390c9290da086decc37",
+      "replacement": "A later account reports a vote count and April organizing dates. These details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "460c475f71d4200ec2da603543017a053e75b0e4f6d1378671bbd896850860b9",
+      "replacement": "The index gives February 26, 1925 authorization, March 25 voting and effect from an unofficial source, and March 26 county recording. The exact certification wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "editorial",
+        "1523",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "87b01df9d03bc16638fe5e31fbce8f1da9d8694f50f42533cc603d35c59248fa",
+      "replacement": "The law, reported vote and county entry came on separate dates. The exact wording of the local certification remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1524",
+      "path": [
+        "editorial",
+        "1524",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "203b077e841a538ea88230b3935277c48856857575957d3c52ccebdf243d3376",
+      "replacement": "The township commemorates the Plumsted family. A later detailed history points to the Philadelphia Clement, while the exact original dedication remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "8044abe789728ea292c2675cf46d7803160caa1aa7354c6632e24c1186867b4f",
+      "replacement": "Point Pleasant Borough carries an older fishing-village name, later differentiated as West Point Pleasant. Later historical accounts describe postal and resort use shifting toward the Atlantic district in the early 1870s. The exact federal action and physical point behind the name remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "267c952d6006e2174b488f250c3ab172b1532f2ac8f549a09491826377737a83",
+      "replacement": "Historical accounts connect Point Pleasant with an older fishing village. They describe postal and resort use moving toward the beach, leaving the older place called West Point Pleasant. The exact postal action and original physical point remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "65f33084700771b6331dfacf433049af7b0203c187bb97e43f3cbe9f885cf267",
+      "replacement": "Voters rejected a proposed Point Pleasant Heights borough in 1911. Point Pleasant succeeded in 1920, with indexed April 21 authorization, May 19 voting and effect, and June 23 county recording, from Brick Township. Later reports of 1928 reincorporation and a 1956 postal change remain unconfirmed. They do not establish another naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "60dac234c03f8b7a0379d42534f9787606276382b4d23fd69ee9b185bdf530f1",
+      "replacement": "A proposed Point Pleasant Heights borough failed in 1911. Point Pleasant Borough formed from Brick territory in 1920 through a law and vote. It is separate from Point Pleasant Beach. Later claims about a postal change and reincorporation remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "preview"
+      ],
+      "expected_sha256": "da5ac4f012c0c392cd579ea87d1fb28d367c576ceda3d42d8f94f0ae33ac7329",
+      "replacement": "Point Pleasant and Point Pleasant Beach are separate boroughs. The 1920 Point Pleasant government used an older village name; its exact postal history remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "816c861cd9b52f1676c0c5983df0bcbfa82d55c90b618e5b60c5c30f889b20a3",
+      "replacement": "Later historical accounts report the older fishing village’s Point Pleasant name before the early 1870s. The exact original postal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "816c861cd9b52f1676c0c5983df0bcbfa82d55c90b618e5b60c5c30f889b20a3",
+      "replacement": "Later historical accounts report the older fishing village’s Point Pleasant name before the early 1870s. The exact original postal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "4966c6d8fe2bd11f5ca046b43d907f9e3dba2dde3b4f89d819593e32c5e5cc32",
+      "replacement": "Later accounts report village use before the early 1870s, without establishing the exact original postal order.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "4966c6d8fe2bd11f5ca046b43d907f9e3dba2dde3b4f89d819593e32c5e5cc32",
+      "replacement": "Later accounts report village use before the early 1870s, without establishing the exact original postal order.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "label"
+      ],
+      "expected_sha256": "5398659094308ce2feded911cc29af1408e1459befea77103d8dd6ab233023db",
+      "replacement": "A qualified postal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "label"
+      ],
+      "expected_sha256": "5398659094308ce2feded911cc29af1408e1459befea77103d8dd6ab233023db",
+      "replacement": "A qualified postal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "editorial",
+        "1525",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "6b59d85051279f3ff4b56e752a8ae3221094b4c067399c2c1b0105e0836bab40",
+      "replacement": "The 1911 proposal failed and the 1920 Point Pleasant proposal succeeded. A later 1928 reincorporation claim remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1526",
+      "path": [
+        "editorial",
+        "1526",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "69ba80c34b8dc54018150f19d49c4e6b30183153c6da9dbb4f688f286351fa52",
+      "replacement": "Point Pleasant Beach adds a shoreline distinction to a name with an older village history. A reproduced 1920 account says Point Pleasant first belonged to the fishing village later called West Point Pleasant. That is a later recollection of an early-1870s postal shift; the exact federal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1526",
+      "path": [
+        "editorial",
+        "1526",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "5e4e27f65a343b19239138eb5e1f7506b1bb659a5d334dc631f284b2dbcb7a8c",
+      "replacement": "Beach distinguishes the shore resort from the older village inland. A later account describes mail and public use of Point Pleasant shifting toward the Atlantic district. The exact postal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1526",
+      "path": [
+        "editorial",
+        "1526",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b2c97a9fd45c14128d0138b20abe3703aba9e987ae2eef8fe3071af7225b7fe8",
+      "replacement": "A reproduced 1920 account describes an early-1870s postal and resort shift. The exact federal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1526",
+      "path": [
+        "editorial",
+        "1526",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b2c97a9fd45c14128d0138b20abe3703aba9e987ae2eef8fe3071af7225b7fe8",
+      "replacement": "A reproduced 1920 account describes an early-1870s postal and resort shift. The exact federal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1526",
+      "path": [
+        "editorial",
+        "1526",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "456c2839c1d9a5a10b0fbb00fbb4cf081fc8cb8aa75bf53dba840cae590c58e4",
+      "replacement": "The index gives May 18, 1886 for filing and effect after the May 17 vote. The exact role of the separately reported June 2 date remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1526",
+      "path": [
+        "editorial",
+        "1526",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "456c2839c1d9a5a10b0fbb00fbb4cf081fc8cb8aa75bf53dba840cae590c58e4",
+      "replacement": "The index gives May 18, 1886 for filing and effect after the May 17 vote. The exact role of the separately reported June 2 date remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1526",
+      "path": [
+        "editorial",
+        "1526",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "dfcd6e3fad03de68b01ac79988edb2f583727754be4bc1350f13f56aa50b996e",
+      "replacement": "Two proposals failed in 1885; the 1886 vote and filing succeeded. June 2 is another recorded date whose exact role remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f5b47debd7bc37c9cb7801432ba38e036eaf2931e6785d12f002251c8f09f4d7",
+      "replacement": "September 4, 1908 dates a map filing, rather than necessarily its production or first use of Seaside Heights. The map’s exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f5b47debd7bc37c9cb7801432ba38e036eaf2931e6785d12f002251c8f09f4d7",
+      "replacement": "September 4, 1908 dates a map filing, rather than necessarily its production or first use of Seaside Heights. The map’s exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1c885022e85b6dcd04fc3b671dc5473651b77b1c1555df7f32a7cba7e7603adf",
+      "replacement": "The later survey describes multiple development interests in 1909. Their promotion does not identify the individual who chose Seaside Heights.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1c885022e85b6dcd04fc3b671dc5473651b77b1c1555df7f32a7cba7e7603adf",
+      "replacement": "The later survey describes multiple development interests in 1909. Their promotion does not identify the individual who chose Seaside Heights.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "11a8f92505bda091f678355d045ec24d5d0ed4e16d1cf5421b37ccf0daa10d49",
+      "replacement": "The 1913 enabling act uses Seaside Heights. Sea Side in a later election abstract does not establish a second statutory spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "11a8f92505bda091f678355d045ec24d5d0ed4e16d1cf5421b37ccf0daa10d49",
+      "replacement": "The 1913 enabling act uses Seaside Heights. Sea Side in a later election abstract does not establish a second statutory spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "ce35c12079ac29037dd7912842653953e3ca470deb85b5a80acee8a054f825be",
+      "replacement": "The index gives March 25, 1913 for voter adoption and effect, separate from enabling approval and subsequent county filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "ce35c12079ac29037dd7912842653953e3ca470deb85b5a80acee8a054f825be",
+      "replacement": "The index gives March 25, 1913 for voter adoption and effect, separate from enabling approval and subsequent county filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "b663032743d6250a3522399ad4bedf41322945cffb09065b37e357d6e5e3b258",
+      "replacement": "The 1913 law uses Seaside Heights. Sea Side Heights appears in the later election abstract, without establishing a second statutory form.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "e0855616c380380397ddd95f158b9555a9ecb585630974087bc2db46807d3f43",
+      "replacement": "The 1913 law uses Seaside Heights. A later abstract’s Sea Side spelling does not establish that the law used both forms.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "fe93021cb60d57ebfebd280c66c6ccfb0b562aa0bd7ff74f4822429356dfe312",
+      "replacement": "The index labels May 5, 1913 as a county reference entry. Its exact procedural role remains unresolved; it does not establish a first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "7da4650fe268b0224333a647d87661969a58dc5fb9633df223b3530e8d8a151f",
+      "replacement": "The May reference entry has an unresolved role. A reference in a record book does not automatically describe a meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "602f8f7a62b46253ee35663f96139813dcdd953f3568b9b91bdfafcca2add553",
+      "replacement": "The chronology separates February 26, 1913 authorization, March 25 voting and effect, and March 29 county filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "editorial",
+        "1527",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ef2c5bfc7b7f02bdf7b4c5939b9b3d7d93c5f773a5415fdd4ede355f7e593aad",
+      "replacement": "The law, vote and county filing had separate dates in 1913. The law uses Seaside Heights. A later abstract’s Sea Side spelling does not establish that the law used both forms. A May county reference entry has an unresolved role and does not establish a first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "6e4d9e3416bb30fca6729aeed94b7466d81a759101aef309b85c0fbaa712c3f3",
+      "replacement": "Seaside Park grew through seaside recreation and a religious retreat. A later legal boundary description names the Baptist Sea Side Park Association in an October 27, 1875 deed. Allaback’s 1991 federal buildings survey also recounts a separate Park City tree-planting story attributed to Eleanor Angott. The original name chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "11dbb1ec8d0d99e9b17609f6258512005c0524fdca63e2461abfd6393161dd01",
+      "replacement": "Seaside Park grew as a seaside destination and Baptist religious retreat. A later legal description names the association in an older deed. A separate survey recounts a Park City tree-planting story. These are later accounts of the community’s early history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "b5e14452db7116f17d34bc346d531a3739d46d6e3d0e040ead2df4f4d3165c12",
+      "replacement": "The legal chronology gives direct incorporation as Sea Side Park on March 3, 1898. A later municipal account, citing Wikipedia, says a clerk began using Seaside Park in 1914. That reported spelling use does not establish a formal naming ordinance. Separate 1900 annexation-date accounts also remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "5552cd857b33b9e43ba1e5cc3f5c9b2d2ffab062455acbf9ed7f1df34be4da24",
+      "replacement": "The borough began as Sea Side Park in 1898. A later story says a clerk began writing Seaside Park in 1914. That story does not establish an official spelling order or formal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "preview"
+      ],
+      "expected_sha256": "f9602347d22da4ed5abc614560f760f3083e5a89af79d446d37f23f2f532030c",
+      "replacement": "Seaside Park’s name developed through a seaside resort and Baptist retreat. A later story about joining Sea Side into Seaside does not establish a formal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b1c8efb4037d44a724ed854f01e75e87e03e04e4f62a9a118ea71af4af55adb6",
+      "replacement": "Allaback’s 1991 report attributes the Park City tree-planting story to Eleanor Angott. The original name chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b1c8efb4037d44a724ed854f01e75e87e03e04e4f62a9a118ea71af4af55adb6",
+      "replacement": "Allaback’s 1991 report attributes the Park City tree-planting story to Eleanor Angott. The original name chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "9e4fe6dab7274e27068243e276d2ab9a0c293541e694d16d8012bbc3cb994b43",
+      "replacement": "A later boundary description names the Baptist Sea Side Park Association in an October 27, 1875 conveyance. This is an attributed earlier association name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "9e4fe6dab7274e27068243e276d2ab9a0c293541e694d16d8012bbc3cb994b43",
+      "replacement": "A later boundary description names the Baptist Sea Side Park Association in an October 27, 1875 conveyance. This is an attributed earlier association name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "journey",
+        3,
+        "label"
+      ],
+      "expected_sha256": "baa756c81b31b335b6238a9c0a54e73926f8d7d4936f476eed318d1abdfa9a0a",
+      "replacement": "A reported compact spelling",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "journey",
+        3,
+        "label"
+      ],
+      "expected_sha256": "baa756c81b31b335b6238a9c0a54e73926f8d7d4936f476eed318d1abdfa9a0a",
+      "replacement": "A reported compact spelling",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1346db5b9e8c4917e8d69d9aeba54c730f61081725cca7fcb0d81d96fc7e311c",
+      "replacement": "A later legal boundary description recounts an October 27, 1875 deed naming the Baptist Sea Side Park Association. This describes an earlier association, rather than a borough government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1346db5b9e8c4917e8d69d9aeba54c730f61081725cca7fcb0d81d96fc7e311c",
+      "replacement": "A later legal boundary description recounts an October 27, 1875 deed naming the Baptist Sea Side Park Association. This describes an earlier association, rather than a borough government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "editorial",
+        "1528",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "ef58d815e22d763357df454b184e8aadafe994d403c840de4fe614fc9de1068d",
+      "replacement": "The borough began as Sea Side Park in 1898. The later 1914 clerk-spelling account does not establish a formal spelling ordinance or rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1529",
+      "path": [
+        "editorial",
+        "1529",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "859d86f7e1e39af7ed7f8e9e5602a51e82aac61636c854ac4e45c6b3fada870f",
+      "replacement": "The 1875 federal station table independently lists Ship Bottom. This establishes use by then, rather than its first invention or the truth of the rescue tradition. Arlington Beach and other development names belonged to sections of the future borough. A railway opening does not establish when its station name was chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1529",
+      "path": [
+        "editorial",
+        "1529",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "708302eb7e8c34cd81aea3420925a790ea937ee7421c5e9c78b8c0ffc20eace5",
+      "replacement": "Later accounts tell the Willets rescue story, but no contemporary wreck or naming record establishes that explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1529",
+      "path": [
+        "editorial",
+        "1529",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "708302eb7e8c34cd81aea3420925a790ea937ee7421c5e9c78b8c0ffc20eace5",
+      "replacement": "Later accounts tell the Willets rescue story, but no contemporary wreck or naming record establishes that explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1529",
+      "path": [
+        "editorial",
+        "1529",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "899a50ffaf290224366b68c1080cfcc16ba71e81621fc05c6e247aaad395ff18",
+      "replacement": "The 1875 Treasury table lists Ship Bottom. This establishes use by then, rather than first coinage or the rescue explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1529",
+      "path": [
+        "editorial",
+        "1529",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "899a50ffaf290224366b68c1080cfcc16ba71e81621fc05c6e247aaad395ff18",
+      "replacement": "The 1875 Treasury table lists Ship Bottom. This establishes use by then, rather than first coinage or the rescue explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1529",
+      "path": [
+        "editorial",
+        "1529",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "29cb28862e2d160625c8c7a1f64684b948762cc596eaba26ecd56d52f3ff4caa",
+      "replacement": "The 1875 federal station table establishes Ship Bottom use by that year, rather than first naming or proof of the 1817 rescue.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1529",
+      "path": [
+        "editorial",
+        "1529",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "29cb28862e2d160625c8c7a1f64684b948762cc596eaba26ecd56d52f3ff4caa",
+      "replacement": "The 1875 federal station table establishes Ship Bottom use by that year, rather than first naming or proof of the 1817 rescue.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "5239359d319309993eb879e95e7ce24b351e879f7d5e9295bc9e3865cec1e366",
+      "replacement": "South Toms River’s name places the community on the south bank of the waterway, across from the older Toms River village. A later history reports Tom’s River on a 1712 map and preserves a Thomas Luker naming tradition. That reported map use does not settle the river’s disputed deeper namesake.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0db2f124951f928af1c00b3f13e43ba58a23ae2be2b55e6b86369955bc3e76e6",
+      "replacement": "South Toms River describes the community south of the river, opposite the older village. A later history reports Tom’s River on a 1712 map. A tradition connects the river name with Thomas Luker, but its deeper namesake remains disputed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "0b44fdca9e44f16e3c2f843925f4565429db33dda814d136350c1f57a7b78f2e",
+      "replacement": "The borough came from Berkeley Township. The legal index gives March 28, 1927 enabling approval and May 3 voting and effect, expressly using an unofficial source for May 3. Borough history separately reports May 23 organization at P. Furman’s residence. These are attributed accounts of separate government stages. Across the river, the municipality was still legally Dover Township in 1927; its later Toms River title did not originate South Toms River’s name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "f91326441b1e74430ab2feb6f95075eed6883fac2810fb2b899a32d69ffe889d",
+      "replacement": "The borough came from Berkeley Township. An index gives a March 28, 1927 law and May 3 voting and effect, using an unofficial source for May 3. Borough history reports organization at P. Furman’s home on May 23. These were separate steps. Across the river, the other township was legally Dover until 2006; South Toms River already had its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d7d9333b157d731e37fd762ba38843f392812d86e3030fab2c4ea32a80af1c29",
+      "replacement": "A later history reports Tom’s River on a 1712 map. The exact original map wording remains unconfirmed, and the river’s deeper namesake remains disputed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d7d9333b157d731e37fd762ba38843f392812d86e3030fab2c4ea32a80af1c29",
+      "replacement": "A later history reports Tom’s River on a 1712 map. The exact original map wording remains unconfirmed, and the river’s deeper namesake remains disputed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "19a8e013a488ff3836d571f3d31720f32f4bb69e9ffbe0b61088078bcd393063",
+      "replacement": "The index gives March 28, 1927 enabling approval from Berkeley territory. The opposite-bank township was a different government, rather than the parent.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "19a8e013a488ff3836d571f3d31720f32f4bb69e9ffbe0b61088078bcd393063",
+      "replacement": "The index gives March 28, 1927 enabling approval from Berkeley territory. The opposite-bank township was a different government, rather than the parent.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "ed5eba74d15d1d11dae6f72838d80f687d30786eedfb7b365b26bd535886437d",
+      "replacement": "The index draws May 3, 1927 voting and effect from an unofficial source. That date retains this qualification, separate from the law and reported organization.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "ed5eba74d15d1d11dae6f72838d80f687d30786eedfb7b365b26bd535886437d",
+      "replacement": "The index draws May 3, 1927 voting and effect from an unofficial source. That date retains this qualification, separate from the law and reported organization.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "1e7472b92cc9811390aff44180c3ab750d79a047434e54b5296c826022deba20",
+      "replacement": "Borough history reports May 23, 1927 organization at P. Furman’s residence, separate from the enabling act and vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "1e7472b92cc9811390aff44180c3ab750d79a047434e54b5296c826022deba20",
+      "replacement": "Borough history reports May 23, 1927 organization at P. Furman’s residence, separate from the enabling act and vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "cc0237b5f06c75f7e3a8995be0dea436e11f8532c2e1cd525c7aaa0f5d820e93",
+      "replacement": "A later history reports Tom’s River on a 1712 map and a Thomas Luker tradition. The exact original map wording remains unconfirmed; the deeper namesake remains disputed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "cc0237b5f06c75f7e3a8995be0dea436e11f8532c2e1cd525c7aaa0f5d820e93",
+      "replacement": "A later history reports Tom’s River on a 1712 map and a Thomas Luker tradition. The exact original map wording remains unconfirmed; the deeper namesake remains disputed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "8641074849a86f29cb0a9fd199c84dc11fdf7a504992e507df414bb0a566ad48",
+      "replacement": "The index gives March 28, 1927 enabling approval and May 3 voting and effect, using an unofficial source for May 3. Borough history separately reports May 23 organization at P. Furman’s residence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "editorial",
+        "1530",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b096566040005457485112cd622c364c9e5a5257d5c9f1da359e15f8b596d23e",
+      "replacement": "The index gives a March 28 law and May 3 voting and effect, while calling its May 3 source unofficial. Borough history separately reports a May 23 gathering at P. Furman’s home.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "987c752383f1edacf217fd38c4ae3f2c2d6dab9b9bf356b5b7ac222c69c2f71b",
+      "replacement": "The historical chronology reports colonial letters patent creating Stafford from Shrewsbury on March 3, 1749/50. The double-year date remains qualified; its original calendar convention is unconfirmed. The jurisdiction reached toward the inlet and barrier beach. State continuation in 1798 and later divisions changed government and territory while Stafford kept its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a49813216daa3ec46a25c1e61acd43f173cc5ceb9768e57fb1efd652d016be19",
+      "replacement": "Colonial authorities created the township from Shrewsbury in 1749/50. The historical account gives two year numbers; their exact calendar convention remains unconfirmed. Later governments and boundaries changed while Stafford kept its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "e4d3a592567886c9e33f50f6ea1c9c66402503426197dccbd7c9ea74404b8c3f",
+      "replacement": "Manahawkin has a separate history as an older Indigenous-derived creek and community identity, rather than a former title of the whole township. A specialist gazetteer reports early deed forms and a proposed wood-cutting-land interpretation. The original linguistic history remains unresolved. Stafford Forge and Staffordville instead carry later transfers of the township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "7b6b208156d8c5e2ce0d8f55d0e3e43bad7009314dc9691f664f850f6e51b515",
+      "replacement": "Manahawkin has its own Indigenous naming history as a creek and community. A specialist gazetteer reports early spellings and a proposed meaning, without settling every linguistic question. It was not the old legal name of the whole township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "51617a66ea0e412a6fb0e5b35368f39e2478d11e069705253a4f05fdb8523205",
+      "replacement": "A specialist gazetteer reports Manahohaky Creek in a September 3, 1693 deed. This older creek-name account neither dates Stafford’s choice nor settles Manahawkin’s meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "51617a66ea0e412a6fb0e5b35368f39e2478d11e069705253a4f05fdb8523205",
+      "replacement": "A specialist gazetteer reports Manahohaky Creek in a September 3, 1693 deed. This older creek-name account neither dates Stafford’s choice nor settles Manahawkin’s meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4780d7aef2ca369d877a28e68d8242c70eee7362348259fb533ee95d2e61b51f",
+      "replacement": "The source gives March 3, 1749/50. The original calendar convention remains unconfirmed, so the double year remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4780d7aef2ca369d877a28e68d8242c70eee7362348259fb533ee95d2e61b51f",
+      "replacement": "The source gives March 3, 1749/50. The original calendar convention remains unconfirmed, so the double year remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "75285a07259b7f8143da6395598ecaec25cead4a03e45c0c27a4c1546abc6c2e",
+      "replacement": "The provincial date is reported as March 3, 1749/50. Its exact original calendar convention remains unconfirmed; the double year stays visible.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "editorial",
+        "1531",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "f1ef6752d7a43c9889e69d76aaff03060518cc7b1b403fb7914ad1ba2ce2d040",
+      "replacement": "The source gives March 3, 1749/50, using two year numbers. Their exact calendar convention remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1532",
+      "path": [
+        "editorial",
+        "1532",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "1307d9e4188d9aa09c8200597b3819d76e85ba406412b080050b19e0016e2967",
+      "replacement": "Voters created Long Beach City Borough in September 1894, initially within Stafford. The index gives May 26, 1899 for the council’s Surf City resolution and May 30 for filing. The 1897 formal-title action was separate. Somerville’s explanation appeared fifteen years after the rename and does not establish the first individual proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1532",
+      "path": [
+        "editorial",
+        "1532",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "e0a506b79834d9721bcef348bc316595c6198820961faa46921ba7a9fa90a4b6",
+      "replacement": "The borough formed as Long Beach City in 1894. Its council chose Surf City in May 1899, followed by filing. City stayed in the name while the government remained a borough. The person who first suggested Surf City remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1533",
+      "path": [
+        "editorial",
+        "1533",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1f1bde7ccf169ebe58222c14a68f4fa8a9bd6c3497bd93f708b58f7a7ba24333",
+      "replacement": "The May 27, 1796 statute authorizes a separate district and sole port of entry at Tuckerton. This establishes use of the name, rather than its first invention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1533",
+      "path": [
+        "editorial",
+        "1533",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1f1bde7ccf169ebe58222c14a68f4fa8a9bd6c3497bd93f708b58f7a7ba24333",
+      "replacement": "The May 27, 1796 statute authorizes a separate district and sole port of entry at Tuckerton. This establishes use of the name, rather than its first invention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1533",
+      "path": [
+        "editorial",
+        "1533",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "6d0a797eaab1fba2cb790636116263e1e9affa965adcab95d77789778e664f10",
+      "replacement": "The legal chronology links the unsuccessful 1901 proposal with court adjudication. The precise original holding remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1533",
+      "path": [
+        "editorial",
+        "1533",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "6d0a797eaab1fba2cb790636116263e1e9affa965adcab95d77789778e664f10",
+      "replacement": "The legal chronology links the unsuccessful 1901 proposal with court adjudication. The precise original holding remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1533",
+      "path": [
+        "editorial",
+        "1533",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "9010d95820cd8850d21949ade979d71cd659afe1b43b0dddf57cc5b0c7644d58",
+      "replacement": "The May 27, 1796 statute uses Tuckerton. Blackman’s later oral-recollection calculation cannot establish 1798 as the name’s beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1522",
+      "path": [
+        "views",
+        "1522",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d0da2d329ee7749a281e20fc62ce002996874f0a42e9426e1d82ae5fdeff6f20",
+      "replacement": "Good Luck and Good Luck Point (older locality identities); Robert McMullen (escape tradition); Great Eastern Building Corporation and Charles Guttentag (developers); Narragansett Avenue station (railway facility); Berkeley Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "98701cbd0842247ab9e5ea082d6afc107101901b9653a34a3460f7160012a5c0",
+      "replacement": "The chapel history reports company formation and survey work in 1909. These were private development stages, rather than borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "1840507e68b6a2425e6fa0f638445a827133f0e6b5d197b1b71f848503c9fce7",
+      "replacement": "The index reports March 25, 1925 voting and effect from an unofficial source. A later account gives a 63–15 tally and one spoiled ballot; those details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "9d8e6c9b6923aa3689eedb0ad6ac32b3c26220b9c7dc89f2baf45dee90cbb3c6",
+      "replacement": "The index gives March 26, 1925 for county recording. The exact local certification wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "c54bd5a4a0e1d3fcecb40da7197e9a28cc6d9349647d2ef4cbfe3656d84d0189",
+      "replacement": "A first borough officers’ election is reported for April 21, 1925 but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "f866d748aad764c3f1de550e61fe890be7c556d375d6800e8e9cad4cc8c42b5e",
+      "replacement": "An April 27, 1925 organization meeting is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        13,
+        "precision"
+      ],
+      "expected_sha256": "15479032df7f6fc87f43c42097f2a06c1d360e3016b9f322b380ac40001d73a8",
+      "replacement": "Conflicting reported years",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "09a4d0d5c42f14a42ffb63f6029109e29793525a08cf6ab06fff17631eba968e",
+      "replacement": "Island Heights Junction (railway-area identity); Robert M. Horter and Kelly (development and financing); Pine Beach Improvement Company (developer); Pine Beach Inn, Chapel and Yacht Club (institutions); Admiral Farragut Academy (later institution); Berkeley Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1524",
+      "path": [
+        "views",
+        "1524",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "9cafb14075ebd015a3ddeccb9dea59f606adda70d5564eae1921fed18d96d45f",
+      "replacement": "The 1890 published archival calendar abstracts a December 20, 1683 transfer from Clement Plumstead of London to Robert Burnett of a one-twenty-fourth share of East New Jersey. That is distinct from a defined township parcel.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1524",
+      "path": [
+        "views",
+        "1524",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "204ef5c1a23d4c0ea75bf3f8e8951fd88721710e79bf356a0c83a0f9c7fe0a61",
+      "replacement": "Broad reported period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1524",
+      "path": [
+        "views",
+        "1524",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "8d91be8d05267050e53c82ed30a89e5266c41ac770341ad0eb7eae869ab37db0",
+      "replacement": "The 2004 report, citing Dorothy Mount, places the change from Egypt to New Egypt sometime in the early nineteenth century.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1524",
+      "path": [
+        "views",
+        "1524",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "fbb91ad2eb31677e58d1368e2304c1a0934e5a9dc67d0d7c83039058ed7ad18c",
+      "replacement": "Plumstead (family-name spelling); Clement Plumsted, London and Philadelphia relatives (qualified honoree accounts); Egypt, New Egypt, Kimmons Mills and Oakford (community names); Jackson Township (parent); Upper Freehold and New Hanover (boundary neighbors)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "405bc8588dfd95f906f16f80aea1d82ec138cfd2675257c9412414a1477e8558",
+      "replacement": "Decade; exact date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "aebc260be92bd5fc8dc538e9481e017cdadcf0b7dc1b13ee5b79142218a85078",
+      "replacement": "Later historical accounts describe Point Pleasant as the older fishing village’s name before the early 1870s. The exact original postal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "ee853b0807dbe9bbc8f557c25cc55bff5df1a42259846035fae0df7572fca302",
+      "replacement": "Approximate reported period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "ef7c43319b567fec5fb54c729d3f0a5945c9e7e7af9e2e3be3e8c3a0c0a6d374",
+      "replacement": "Later accounts connect a beach-resort postal shift with the West Point Pleasant distinction. The exact federal action and date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        14,
+        "type"
+      ],
+      "expected_sha256": "13338af81eccca93735f19761ff165e2fee016559a2ebe7e8e2e8f1821fd033d",
+      "replacement": "Unconfirmed reported reincorporation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        14,
+        "action"
+      ],
+      "expected_sha256": "75789c160f1bd894b259994098f51c5dc0e9749a9a4e54c0cebfa4e86e1deae2",
+      "replacement": "A Wikipedia-derived summary reports March 12, 1928 reincorporation. The exact original instrument and procedure remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        14,
+        "significance"
+      ],
+      "expected_sha256": "a2277a2bf383bc88183056a1afce3e07acc5fbb0d0bc49650313f831cd2739ee",
+      "replacement": "A qualified later legal-event account, rather than an established second creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        15,
+        "action"
+      ],
+      "expected_sha256": "d700dcf7b71cbbad56584d64595faccc22228472770894f5b400430d7812b107",
+      "replacement": "A municipal tradition and Wikipedia-derived summary report that the West Point Pleasant postal designation ended in 1956. The exact federal order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        16,
+        "action"
+      ],
+      "expected_sha256": "f89393f6f6fd548f949a2e5879929b7f087b93248724eb6f1c1609171482bb88",
+      "replacement": "Municipal history reports a federal canal-name change in 1964. The exact act day remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "29125f9d251615d329b4a4eca2586648ccd57574eb90de971a7e47e4023ee8df",
+      "replacement": "Point Pleasant village and West Point Pleasant (older community identity); Lovelandtown (subcommunity); Point Pleasant City (resort development); Point Pleasant Heights (rejected borough proposal); Point Pleasant Beach (separate borough); Brick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1526",
+      "path": [
+        "views",
+        "1526",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "6308ed4efa018b84b4a8cc89ddb2eab85bf5fdcfd306bc28a80b68f7dba99534",
+      "replacement": "A reproduced 1920 account describes Point Pleasant postal and resort use shifting toward the Atlantic district, leaving the older village differentiated as West Point Pleasant. The exact federal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1526",
+      "path": [
+        "views",
+        "1526",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a6a003dbf57ce7e2ef13ef9c3f1e072ae452b5e97411f7f650ee6955c7a58137",
+      "replacement": "Point Pleasant and West Point Pleasant (older community names); Arnold City and Point Pleasant City (developments); Sea Side (rejected proposal); Point Pleasant Borough (separate municipality); Brick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "views",
+        "1527",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "6a7d5f234e47aee88f4295dbd87fd8bf364bdfe26742f296656aa3ae463fb1b1",
+      "replacement": "A county reference entry with unresolved role, without an established first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "views",
+        "1527",
+        "sources",
+        "S649",
+        "publication"
+      ],
+      "expected_sha256": "c5708c13ace67ddad7ce2d41084d88c3eaefea3e794173d3a3dd61a8995c029d",
+      "replacement": "1991",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1527",
+      "path": [
+        "views",
+        "1527",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "559fc898205a8976130c768f18bbe0f20734dbb09dbf10835a0ec231df37b0c8",
+      "replacement": "North Seaside Park and Berkeley Beach (development tracts); Sea Side Heights (later election-abstract spelling); Manhasset Realty Company, Grosscup, Cummings and Larkin (development interests); Cranberry Inlet (older geographic feature); Berkeley and Dover (parents)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "228e2e7b2a3ae692b296ecd20fda8241a3edc0910c4b07320d446bc028532edc",
+      "replacement": "Allaback’s 1991 federal buildings survey attributes the Park City tree-planting story to Eleanor Angott.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "7c3dbde959faf09185fca697fa29117c545dd25612143b78cd10734d42a07377",
+      "replacement": "An association name reported in a later legal boundary description, rather than borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "671714af96e1b55e2a1750688a6996081d739537b1761055cd0454d5a61b6ab9",
+      "replacement": "County entries after the act, without an established first organization date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "sources",
+        "S655",
+        "publication"
+      ],
+      "expected_sha256": "c5708c13ace67ddad7ce2d41084d88c3eaefea3e794173d3a3dd61a8995c029d",
+      "replacement": "1991",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b9388079bce81b280a5602ac4b953a9555f73f9cf59b9522858b9fa86121a06e",
+      "replacement": "Sandtown and Park City (locality and development accounts); Baptist Sea Side Park Association (retreat body); Sea Side Park (1898 borough title); Seaside Park (later compact spelling); Thomas Kennedy and George M. Dorrance (property interests); Berkeley Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1529",
+      "path": [
+        "views",
+        "1529",
+        "events",
+        9,
+        "type"
+      ],
+      "expected_sha256": "8848cc57751f6eb6c4902eaec72523c6cdb4f1dc346922118c18734a5b3c7be4",
+      "replacement": "Corrected later date account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1529",
+      "path": [
+        "views",
+        "1529",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1a9fc7d7c152864fe7f1b8bd31958fa3010f06958222031f8144dd229f64797a",
+      "replacement": "Stephen Willets (traditional rescuer); Arlington Beach, Beach Arlington, Bonnie Beach, Bonnet Beach and Edgewater Beach (section names); Ship Bottom–Beach Arlington (former borough title); Long Beach Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "views",
+        "1530",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "266217e624b48c8367190f37188eaf008cc5e16afaa93d3b5ea43f480167e18c",
+      "replacement": "The index reports May 3, 1927 voting and effect from an unofficial source. The date retains that qualification.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1530",
+      "path": [
+        "views",
+        "1530",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "30a9d37285c0ba84e9fb422cf6b0f94dc9e7fa5259ac2fd7cab50b9b9218843b",
+      "replacement": "Tom’s River and Toms River (river forms); Thomas Luker (disputed river-name tradition); Mill Tract, Manitou Park and Birdville (parts and properties); Berkeley Township (parent); Dover and Toms River Township (opposite-bank municipality)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "1b6b9eae90a1e4a75495d28527ddca8db09b01587e45f657bf4bd807f1b5285e",
+      "replacement": "A specialist gazetteer reports Manahohaky Creek in a September 3, 1693 deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "21fee680e8f74a6516b00c9f4734fd1574e5ffeb5805ec5d906acd7fb69aa261",
+      "replacement": "An attributed early creek-name form, separate from Stafford’s later municipal name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "a84c1fbbc0e1866cdfec7446841c34d42e83970415a47c1e7b5d64646de37e79",
+      "replacement": "The gazetteer reports Manohohaky Creek in a December 7, 1696 deed. This spelling variation does not establish a formal name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "5937f7b45cb0aeb236c24e461e594370692c5c57660600f5375ce8af836fb239",
+      "replacement": "The gazetteer reports Mannahoking as a tract form in a February 15, 1715 record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "b6b2824d780c5fd2d195f70ffc6355e4e6f193b9112409ac8af7840db5426130",
+      "replacement": "The chronology reports provincial letters-patent creation on March 3, 1749/50. The original calendar convention remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "0e88261f161a79efcf003e5e877cfdbd62f9f49866529de045af3e1d63c1ddcd",
+      "replacement": "Separate 1894–1895 proceedings concern Long Beach City and Harvey Cedars. Their individually qualified vote and filing accounts describe distinct boroughs.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b18b1c03b3dea300af8a18467552bc47bd7d1796c6115b752ef699a49e81dd26",
+      "replacement": "Staffordshire, England (namesake); James Haywood, Perry Paul and Luke Courtney (reported purchasers); Manahohaky Creek, Manohohaky Creek, Mannahoking and Manahawkin (older creek and community forms); Stafford Forge and Staffordville (later transfers); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1532",
+      "path": [
+        "views",
+        "1532",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "38d150d3db1cd9c16165c4322b6503c2fd2b35144f3a10e4b0901d05f9f05445",
+      "replacement": "Founders unidentified in the later account; historian",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1532",
+      "path": [
+        "views",
+        "1532",
+        "events",
+        11,
+        "actor"
+      ],
+      "expected_sha256": "4d4d16ddc2de527a59dd220e2c76768f1caa1561ce84efafdb29850a86b2d1dd",
+      "replacement": "J. Amelia Somerville, as attributed in this event account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1532",
+      "path": [
+        "views",
+        "1532",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a058b832f343a26fa9cd905d8bc97517c0c7620dbdddd4609d235bc03fe755a1",
+      "replacement": "Great Swamp (tract); Mansion of Health, Buzby’s Place, Old Mansion and Mansion Cove (resort and landmark identities); Long Beach City (former community and borough name); Long Branch (confusing destination); Stafford Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "79941e09a1894c2d827e1bd0c760a40991071fc179f9c1afb100512d6109acc9",
+      "replacement": "Neither feast tradition establishes first coinage; the 1796 statute already uses Tuckerton.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "9649c2e25dfb7ff33362d72d2df639a05715f68a5f1952600dcd4438c2107660",
+      "replacement": "An earlier congressional use quoted by a later historian; the original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "events",
+        15,
+        "action"
+      ],
+      "expected_sha256": "d9ba231b4ba0004b901bf30fa90965403b8eb0ef526742ac06a19f7b0ebeba16",
+      "replacement": "The legal chronology links the unsuccessful 1901 borough proposal with Supreme Court adjudication. The exact original holding remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "sources",
+        "S1977",
+        "publication"
+      ],
+      "expected_sha256": "920a20fc847e3986c88f930102ae19cae2d2e76e59641d2cf6d3f97200c1c78a",
+      "replacement": "1880; exact reprint edition unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7958d984b211018ee1e5f83d30c18f886bcdbd3f8042b746b29b3993beab9623",
+      "replacement": "Andrew Mills and Andrews Mills, Middle-of-the-Shore, Clamtown, Quakertown and Fishtown (older overlapping identities); Ebenezer Tucker (honoree); Pohatcong Creek (geographic setting); Little Egg Harbour and Little Egg Harbor (port and parent township forms)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1522",
+      "path": [
+        "views",
+        "1522",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d0da2d329ee7749a281e20fc62ce002996874f0a42e9426e1d82ae5fdeff6f20",
+      "replacement": "Good Luck and Good Luck Point (older locality identities); Robert McMullen (escape tradition); Great Eastern Building Corporation and Charles Guttentag (developers); Narragansett Avenue station (railway facility); Berkeley Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "98701cbd0842247ab9e5ea082d6afc107101901b9653a34a3460f7160012a5c0",
+      "replacement": "The chapel history reports company formation and survey work in 1909. These were private development stages, rather than borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "1840507e68b6a2425e6fa0f638445a827133f0e6b5d197b1b71f848503c9fce7",
+      "replacement": "The index reports March 25, 1925 voting and effect from an unofficial source. A later account gives a 63–15 tally and one spoiled ballot; those details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "9d8e6c9b6923aa3689eedb0ad6ac32b3c26220b9c7dc89f2baf45dee90cbb3c6",
+      "replacement": "The index gives March 26, 1925 for county recording. The exact local certification wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "c54bd5a4a0e1d3fcecb40da7197e9a28cc6d9349647d2ef4cbfe3656d84d0189",
+      "replacement": "A first borough officers’ election is reported for April 21, 1925 but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "f866d748aad764c3f1de550e61fe890be7c556d375d6800e8e9cad4cc8c42b5e",
+      "replacement": "An April 27, 1925 organization meeting is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "events",
+        13,
+        "precision"
+      ],
+      "expected_sha256": "15479032df7f6fc87f43c42097f2a06c1d360e3016b9f322b380ac40001d73a8",
+      "replacement": "Conflicting reported years",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1523",
+      "path": [
+        "views",
+        "1523",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "09a4d0d5c42f14a42ffb63f6029109e29793525a08cf6ab06fff17631eba968e",
+      "replacement": "Island Heights Junction (railway-area identity); Robert M. Horter and Kelly (development and financing); Pine Beach Improvement Company (developer); Pine Beach Inn, Chapel and Yacht Club (institutions); Admiral Farragut Academy (later institution); Berkeley Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1524",
+      "path": [
+        "views",
+        "1524",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "9cafb14075ebd015a3ddeccb9dea59f606adda70d5564eae1921fed18d96d45f",
+      "replacement": "The 1890 published archival calendar abstracts a December 20, 1683 transfer from Clement Plumstead of London to Robert Burnett of a one-twenty-fourth share of East New Jersey. That is distinct from a defined township parcel.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1524",
+      "path": [
+        "views",
+        "1524",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "204ef5c1a23d4c0ea75bf3f8e8951fd88721710e79bf356a0c83a0f9c7fe0a61",
+      "replacement": "Broad reported period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1524",
+      "path": [
+        "views",
+        "1524",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "8d91be8d05267050e53c82ed30a89e5266c41ac770341ad0eb7eae869ab37db0",
+      "replacement": "The 2004 report, citing Dorothy Mount, places the change from Egypt to New Egypt sometime in the early nineteenth century.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1524",
+      "path": [
+        "views",
+        "1524",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "fbb91ad2eb31677e58d1368e2304c1a0934e5a9dc67d0d7c83039058ed7ad18c",
+      "replacement": "Plumstead (family-name spelling); Clement Plumsted, London and Philadelphia relatives (qualified honoree accounts); Egypt, New Egypt, Kimmons Mills and Oakford (community names); Jackson Township (parent); Upper Freehold and New Hanover (boundary neighbors)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "405bc8588dfd95f906f16f80aea1d82ec138cfd2675257c9412414a1477e8558",
+      "replacement": "Decade; exact date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "aebc260be92bd5fc8dc538e9481e017cdadcf0b7dc1b13ee5b79142218a85078",
+      "replacement": "Later historical accounts describe Point Pleasant as the older fishing village’s name before the early 1870s. The exact original postal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "ee853b0807dbe9bbc8f557c25cc55bff5df1a42259846035fae0df7572fca302",
+      "replacement": "Approximate reported period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "ef7c43319b567fec5fb54c729d3f0a5945c9e7e7af9e2e3be3e8c3a0c0a6d374",
+      "replacement": "Later accounts connect a beach-resort postal shift with the West Point Pleasant distinction. The exact federal action and date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        14,
+        "type"
+      ],
+      "expected_sha256": "13338af81eccca93735f19761ff165e2fee016559a2ebe7e8e2e8f1821fd033d",
+      "replacement": "Unconfirmed reported reincorporation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        14,
+        "action"
+      ],
+      "expected_sha256": "75789c160f1bd894b259994098f51c5dc0e9749a9a4e54c0cebfa4e86e1deae2",
+      "replacement": "A Wikipedia-derived summary reports March 12, 1928 reincorporation. The exact original instrument and procedure remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        14,
+        "significance"
+      ],
+      "expected_sha256": "a2277a2bf383bc88183056a1afce3e07acc5fbb0d0bc49650313f831cd2739ee",
+      "replacement": "A qualified later legal-event account, rather than an established second creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        15,
+        "action"
+      ],
+      "expected_sha256": "d700dcf7b71cbbad56584d64595faccc22228472770894f5b400430d7812b107",
+      "replacement": "A municipal tradition and Wikipedia-derived summary report that the West Point Pleasant postal designation ended in 1956. The exact federal order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "events",
+        16,
+        "action"
+      ],
+      "expected_sha256": "f89393f6f6fd548f949a2e5879929b7f087b93248724eb6f1c1609171482bb88",
+      "replacement": "Municipal history reports a federal canal-name change in 1964. The exact act day remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "29125f9d251615d329b4a4eca2586648ccd57574eb90de971a7e47e4023ee8df",
+      "replacement": "Point Pleasant village and West Point Pleasant (older community identity); Lovelandtown (subcommunity); Point Pleasant City (resort development); Point Pleasant Heights (rejected borough proposal); Point Pleasant Beach (separate borough); Brick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1525",
+      "path": [
+        "views",
+        "1525",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "da5ac4f012c0c392cd579ea87d1fb28d367c576ceda3d42d8f94f0ae33ac7329",
+      "replacement": "Point Pleasant and Point Pleasant Beach are separate boroughs. The 1920 Point Pleasant government used an older village name; its exact postal history remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1526",
+      "path": [
+        "views",
+        "1526",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "6308ed4efa018b84b4a8cc89ddb2eab85bf5fdcfd306bc28a80b68f7dba99534",
+      "replacement": "A reproduced 1920 account describes Point Pleasant postal and resort use shifting toward the Atlantic district, leaving the older village differentiated as West Point Pleasant. The exact federal action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1526",
+      "path": [
+        "views",
+        "1526",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a6a003dbf57ce7e2ef13ef9c3f1e072ae452b5e97411f7f650ee6955c7a58137",
+      "replacement": "Point Pleasant and West Point Pleasant (older community names); Arnold City and Point Pleasant City (developments); Sea Side (rejected proposal); Point Pleasant Borough (separate municipality); Brick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "views",
+        "1527",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "6a7d5f234e47aee88f4295dbd87fd8bf364bdfe26742f296656aa3ae463fb1b1",
+      "replacement": "A county reference entry with unresolved role, without an established first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "views",
+        "1527",
+        "sources",
+        "S649",
+        "publication"
+      ],
+      "expected_sha256": "c5708c13ace67ddad7ce2d41084d88c3eaefea3e794173d3a3dd61a8995c029d",
+      "replacement": "1991",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1527",
+      "path": [
+        "views",
+        "1527",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "559fc898205a8976130c768f18bbe0f20734dbb09dbf10835a0ec231df37b0c8",
+      "replacement": "North Seaside Park and Berkeley Beach (development tracts); Sea Side Heights (later election-abstract spelling); Manhasset Realty Company, Grosscup, Cummings and Larkin (development interests); Cranberry Inlet (older geographic feature); Berkeley and Dover (parents)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "228e2e7b2a3ae692b296ecd20fda8241a3edc0910c4b07320d446bc028532edc",
+      "replacement": "Allaback’s 1991 federal buildings survey attributes the Park City tree-planting story to Eleanor Angott.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "7c3dbde959faf09185fca697fa29117c545dd25612143b78cd10734d42a07377",
+      "replacement": "An association name reported in a later legal boundary description, rather than borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "671714af96e1b55e2a1750688a6996081d739537b1761055cd0454d5a61b6ab9",
+      "replacement": "County entries after the act, without an established first organization date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "sources",
+        "S655",
+        "publication"
+      ],
+      "expected_sha256": "c5708c13ace67ddad7ce2d41084d88c3eaefea3e794173d3a3dd61a8995c029d",
+      "replacement": "1991",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b9388079bce81b280a5602ac4b953a9555f73f9cf59b9522858b9fa86121a06e",
+      "replacement": "Sandtown and Park City (locality and development accounts); Baptist Sea Side Park Association (retreat body); Sea Side Park (1898 borough title); Seaside Park (later compact spelling); Thomas Kennedy and George M. Dorrance (property interests); Berkeley Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1528",
+      "path": [
+        "views",
+        "1528",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "f9602347d22da4ed5abc614560f760f3083e5a89af79d446d37f23f2f532030c",
+      "replacement": "Seaside Park’s name developed through a seaside resort and Baptist retreat. A later story about joining Sea Side into Seaside does not establish a formal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1529",
+      "path": [
+        "views",
+        "1529",
+        "events",
+        9,
+        "type"
+      ],
+      "expected_sha256": "8848cc57751f6eb6c4902eaec72523c6cdb4f1dc346922118c18734a5b3c7be4",
+      "replacement": "Corrected later date account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1529",
+      "path": [
+        "views",
+        "1529",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1a9fc7d7c152864fe7f1b8bd31958fa3010f06958222031f8144dd229f64797a",
+      "replacement": "Stephen Willets (traditional rescuer); Arlington Beach, Beach Arlington, Bonnie Beach, Bonnet Beach and Edgewater Beach (section names); Ship Bottom–Beach Arlington (former borough title); Long Beach Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "views",
+        "1530",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "266217e624b48c8367190f37188eaf008cc5e16afaa93d3b5ea43f480167e18c",
+      "replacement": "The index reports May 3, 1927 voting and effect from an unofficial source. The date retains that qualification.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1530",
+      "path": [
+        "views",
+        "1530",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "30a9d37285c0ba84e9fb422cf6b0f94dc9e7fa5259ac2fd7cab50b9b9218843b",
+      "replacement": "Tom’s River and Toms River (river forms); Thomas Luker (disputed river-name tradition); Mill Tract, Manitou Park and Birdville (parts and properties); Berkeley Township (parent); Dover and Toms River Township (opposite-bank municipality)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "1b6b9eae90a1e4a75495d28527ddca8db09b01587e45f657bf4bd807f1b5285e",
+      "replacement": "A specialist gazetteer reports Manahohaky Creek in a September 3, 1693 deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "21fee680e8f74a6516b00c9f4734fd1574e5ffeb5805ec5d906acd7fb69aa261",
+      "replacement": "An attributed early creek-name form, separate from Stafford’s later municipal name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "a84c1fbbc0e1866cdfec7446841c34d42e83970415a47c1e7b5d64646de37e79",
+      "replacement": "The gazetteer reports Manohohaky Creek in a December 7, 1696 deed. This spelling variation does not establish a formal name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "5937f7b45cb0aeb236c24e461e594370692c5c57660600f5375ce8af836fb239",
+      "replacement": "The gazetteer reports Mannahoking as a tract form in a February 15, 1715 record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "b6b2824d780c5fd2d195f70ffc6355e4e6f193b9112409ac8af7840db5426130",
+      "replacement": "The chronology reports provincial letters-patent creation on March 3, 1749/50. The original calendar convention remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "0e88261f161a79efcf003e5e877cfdbd62f9f49866529de045af3e1d63c1ddcd",
+      "replacement": "Separate 1894–1895 proceedings concern Long Beach City and Harvey Cedars. Their individually qualified vote and filing accounts describe distinct boroughs.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1531",
+      "path": [
+        "views",
+        "1531",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b18b1c03b3dea300af8a18467552bc47bd7d1796c6115b752ef699a49e81dd26",
+      "replacement": "Staffordshire, England (namesake); James Haywood, Perry Paul and Luke Courtney (reported purchasers); Manahohaky Creek, Manohohaky Creek, Mannahoking and Manahawkin (older creek and community forms); Stafford Forge and Staffordville (later transfers); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1532",
+      "path": [
+        "views",
+        "1532",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "38d150d3db1cd9c16165c4322b6503c2fd2b35144f3a10e4b0901d05f9f05445",
+      "replacement": "Founders unidentified in the later account; historian",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1532",
+      "path": [
+        "views",
+        "1532",
+        "events",
+        11,
+        "actor"
+      ],
+      "expected_sha256": "4d4d16ddc2de527a59dd220e2c76768f1caa1561ce84efafdb29850a86b2d1dd",
+      "replacement": "J. Amelia Somerville, as attributed in this event account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1532",
+      "path": [
+        "views",
+        "1532",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a058b832f343a26fa9cd905d8bc97517c0c7620dbdddd4609d235bc03fe755a1",
+      "replacement": "Great Swamp (tract); Mansion of Health, Buzby’s Place, Old Mansion and Mansion Cove (resort and landmark identities); Long Beach City (former community and borough name); Long Branch (confusing destination); Stafford Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "79941e09a1894c2d827e1bd0c760a40991071fc179f9c1afb100512d6109acc9",
+      "replacement": "Neither feast tradition establishes first coinage; the 1796 statute already uses Tuckerton.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "9649c2e25dfb7ff33362d72d2df639a05715f68a5f1952600dcd4438c2107660",
+      "replacement": "An earlier congressional use quoted by a later historian; the original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "events",
+        15,
+        "action"
+      ],
+      "expected_sha256": "d9ba231b4ba0004b901bf30fa90965403b8eb0ef526742ac06a19f7b0ebeba16",
+      "replacement": "The legal chronology links the unsuccessful 1901 borough proposal with Supreme Court adjudication. The exact original holding remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "sources",
+        "S1977",
+        "publication"
+      ],
+      "expected_sha256": "920a20fc847e3986c88f930102ae19cae2d2e76e59641d2cf6d3f97200c1c78a",
+      "replacement": "1880; exact reprint edition unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1533",
+      "path": [
+        "views",
+        "1533",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7958d984b211018ee1e5f83d30c18f886bcdbd3f8042b746b29b3993beab9623",
+      "replacement": "Andrew Mills and Andrews Mills, Middle-of-the-Shore, Clamtown, Quakertown and Fishtown (older overlapping identities); Ebenezer Tucker (honoree); Pohatcong Creek (geographic setting); Little Egg Harbour and Little Egg Harbor (port and parent township forms)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
 }
