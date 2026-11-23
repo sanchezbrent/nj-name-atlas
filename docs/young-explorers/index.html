@@ -808,7 +808,7 @@ body{margin:0;background:var(--page);color:var(--ink)}
 #nj-name-atlas.young-edition .edition { font-size:12px; letter-spacing:.025em; margin-top:8px; text-transform:none; color:var(--secondary-ink); }
 
 /* Story choices, with a clear current stop. */
-#nj-name-atlas.young-edition .young-starters { padding:0 0 22px; }
+#nj-name-atlas.young-edition .young-starters { padding:22px 0 0; }
 #nj-name-atlas.young-edition .young-starters-heading { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:10px 16px; margin-bottom:12px; }
 #nj-name-atlas.young-edition .young-starters-heading h2 { font-size:20px; line-height:1.3; font-weight:500; }
 #nj-name-atlas.young-edition .young-starters-heading p { font-size:14px; margin-top:3px; color:var(--secondary-ink); }
@@ -1294,15 +1294,6 @@ body{margin:0;background:var(--page);color:var(--ink)}
     <p class="subtitle">Explore the names, follow the clues, and get to know New Jersey.</p>
     <p class="edition">New Jersey · An Atlas of Names</p>
   </header>
-  <section class="young-starters" aria-labelledby="young-starters-heading">
-  <div class="young-starters-heading"><div><h2 id="young-starters-heading">Pick a story to explore</h2><p>Start anywhere. See where a name takes you.</p></div><button id="young-find-town" type="button">Find my town <span aria-hidden="true">↗</span></button></div>
-  <div class="young-starter-buttons">
-    <button type="button" data-young-town="0327" aria-pressed="true"><span class="young-stop" aria-hidden="true">1</span><span class="young-starter-text"><span class="young-starter-town">Palmyra</span><span class="young-starter-title">A name travels by train</span><span class="young-card-status">Reading now</span></span><span class="young-card-arrow" aria-hidden="true">→</span></button>
-    <button type="button" data-young-town="1417" aria-pressed="false"><span class="young-stop" aria-hidden="true">2</span><span class="young-starter-text"><span class="young-starter-town">Madison</span><span class="young-starter-title">The name that didn’t make it</span><span class="young-card-status">Explore this story</span></span><span class="young-card-arrow" aria-hidden="true">→</span></button>
-    <button type="button" data-young-town="0212" aria-pressed="false"><span class="young-stop" aria-hidden="true">3</span><span class="young-starter-text"><span class="young-starter-town">East Rutherford</span><span class="young-starter-title">A name, a vote and another question.</span><span class="young-card-status">Explore this story</span></span><span class="young-card-arrow" aria-hidden="true">→</span></button>
-  </div>
-</section>
-
   <div class="atlas-columns">
     <aside class="explore" aria-labelledby="explore-heading">
       <h2 id="explore-heading">Find your town</h2>
@@ -1584,6 +1575,15 @@ body{margin:0;background:var(--page);color:var(--ink)}
       </div>
     </section>
   </div>
+  <section class="young-starters" aria-labelledby="young-starters-heading">
+  <div class="young-starters-heading"><div><h2 id="young-starters-heading">Pick a story to explore</h2><p>Start anywhere. See where a name takes you.</p></div><button id="young-find-town" type="button">Find my town <span aria-hidden="true">↗</span></button></div>
+  <div class="young-starter-buttons">
+    <button type="button" data-young-town="0327" aria-pressed="true"><span class="young-stop" aria-hidden="true">1</span><span class="young-starter-text"><span class="young-starter-town">Palmyra</span><span class="young-starter-title">A name travels by train</span><span class="young-card-status">Reading now</span></span><span class="young-card-arrow" aria-hidden="true">→</span></button>
+    <button type="button" data-young-town="1417" aria-pressed="false"><span class="young-stop" aria-hidden="true">2</span><span class="young-starter-text"><span class="young-starter-town">Madison</span><span class="young-starter-title">The name that didn’t make it</span><span class="young-card-status">Explore this story</span></span><span class="young-card-arrow" aria-hidden="true">→</span></button>
+    <button type="button" data-young-town="0212" aria-pressed="false"><span class="young-stop" aria-hidden="true">3</span><span class="young-starter-text"><span class="young-starter-town">East Rutherford</span><span class="young-starter-title">A name, a vote and another question.</span><span class="young-card-status">Explore this story</span></span><span class="young-card-arrow" aria-hidden="true">→</span></button>
+  </div>
+</section>
+
   <footer class="atlas-footer">
     <details class="scope-note" id="atlas-held-content"><summary>Stories and tours awaiting review</summary><p>Existing features remain paused wherever their current wording has not been checked.</p><ul><li>Three adult tour definitions have checked stops; the Young Explorers interface keeps its starter trail. Unreviewed stops remain paused.</li><li>5 tour stops await review.</li><li>31 related-place links await review.</li><li>6 story invitations await review.</li><li>2 special name journeys await review.</li></ul><p>The three starter lessons remain available in Young Explorers. Current records and sources are available for every town.</p></details>
     <p class="pilot-scope">Explore the name stories of all 564 New Jersey municipalities, with sources and uncertain explanations included.</p>
