@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_8",
+  "checkpoint": "PUBLIC_COPY_9",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -78,7 +78,19 @@
     "2109",
     "2110",
     "2111",
-    "2112"
+    "2112",
+    "2113",
+    "2114",
+    "2115",
+    "2116",
+    "2117",
+    "2119",
+    "2120",
+    "2121",
+    "2122",
+    "2123",
+    "1001",
+    "1002"
   ],
   "changes": [
     {
@@ -39595,6 +39607,4080 @@
       ],
       "expected_sha256": "11567dae8712dd04baf39c02a5fba8b47a6d70e325251a3a6267cb1734328a18",
       "replacement": "Lower Hardwick (territory); Hardwick Township (parent); Hackettstown (territorial branch); Allamuchy (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "editorial",
+        "2113",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "25013ead2020b076a0dd69332ebf630c2a0e861b7814bbfcb1b1941bd6c16720",
+      "replacement": "Knowlton continued under the 1798 township law. Hope and Blairstown later separated from its territory. The original naming intention remains unknown; the patent index does not settle the competing personal and landscape explanations.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "editorial",
+        "2113",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "9097110a1fb69475a5e9a9c0b720d726d4b7460df61379256078cdb531a913d1",
+      "replacement": "Knowlton came from Oxford and continued under the 1798 township law. Hope and Blairstown later took parts of its territory. The name’s original meaning and first local chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "editorial",
+        "2113",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "34cdeb0371952c81d4d9e446c32d7426cea6815fa26b41ba2b8fd1b20e424301",
+      "replacement": "The index reports February 23, 1763 for creation from Oxford, without establishing the intended namesake.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "editorial",
+        "2113",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "34cdeb0371952c81d4d9e446c32d7426cea6815fa26b41ba2b8fd1b20e424301",
+      "replacement": "The index reports February 23, 1763 for creation from Oxford, without establishing the intended namesake.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "editorial",
+        "2113",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "5523def9806b73c81f89dee709568f2f49b6215c15c71c1577547489a158bc48",
+      "replacement": "The patent index gives February 23, 1763, while some local accounts give 1768. The differing dates and original naming intention remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "editorial",
+        "2113",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "5523def9806b73c81f89dee709568f2f49b6215c15c71c1577547489a158bc48",
+      "replacement": "The patent index gives February 23, 1763, while some local accounts give 1768. The differing dates and original naming intention remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "52f696809dd5194fabf4ddb9a1947bd6f38d640cfd6bc020f24fdfa14d71eda6",
+      "replacement": "The detailed legal index distinguishes a March 25, 1926 act, April 30 adoption and effect, May 4 county recording and June 22 state filing. A 2022 township newsletter instead calls March 26 the referendum date. The conflicting vote dates remain unresolved; they do not establish a separate March 26 proceeding. Later accounts support the broad separation meaning, while the exact name proposal and some procedural dates remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "71b3f037d0a9ee235c38bb669f8042a43730e229654d59b46749d905dd8cdc25",
+      "replacement": "An index gives separate dates for the law, vote and county and state filings. Its April 30 vote conflicts with a newsletter’s March 26 referendum claim. Those accounts leave a disagreement, rather than proving an extra event. Later accounts connect the name with separation from Hope.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0eebca5a40dfd68600879e23c3fc87050d465073549b52bb32a39457838b35c2",
+      "replacement": "The index gives March 25 for approval of the enabling act, a separate stage from voter adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0eebca5a40dfd68600879e23c3fc87050d465073549b52bb32a39457838b35c2",
+      "replacement": "The index gives March 25 for approval of the enabling act, a separate stage from voter adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5549780f0f5ef14b1f8f0fbf81797ef8080c9a64165608c3c5a0855a948fcd33",
+      "replacement": "The index’s April 30 adoption date conflicts with the newsletter’s March 26 referendum date. The accounts do not establish an extra March 26 proceeding.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5549780f0f5ef14b1f8f0fbf81797ef8080c9a64165608c3c5a0855a948fcd33",
+      "replacement": "The index’s April 30 adoption date conflicts with the newsletter’s March 26 referendum date. The accounts do not establish an extra March 26 proceeding.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "6d23c7bfee00c0a667f319018135fd181b650942e13172c0ddbc0e5a942517c6",
+      "replacement": "The index gives May 4 for county recording, without a specified book identifier. Recording was a separate stage from the vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "6d23c7bfee00c0a667f319018135fd181b650942e13172c0ddbc0e5a942517c6",
+      "replacement": "The index gives May 4 for county recording, without a specified book identifier. Recording was a separate stage from the vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "fe03af481f329519d2960e5c3da69b6b49ad33483144b3af607ce386d8006e3e",
+      "replacement": "The index gives June 22 for the state filing and cites Series I 425. Filing was separate from voter adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "fe03af481f329519d2960e5c3da69b6b49ad33483144b3af607ce386d8006e3e",
+      "replacement": "The index gives June 22 for the state filing and cites Series I 425. Filing was separate from voter adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "2ad093e51650c1344722c8d25ca29d76fc5283681487039dd5baedf69f62a038",
+      "replacement": "Later place-name and municipal accounts connect Liberty with separation from Hope Township. The first proposer and exact naming discussion remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "4728b9d7c5bfe73ab2e2f9aa9089ccb52d0f654e4849e81a67c927ab34cc5f84",
+      "replacement": "The index gives March 25, 1926 for enabling approval. Voter adoption was a separate stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "159981cebc84be4ea7f54d6583f9cb8152f2705a6a61eb912275d6c54365086a",
+      "replacement": "The index gives April 30 adoption and effect, while the newsletter calls March 26 a referendum. The conflicting accounts do not establish two separate proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "editorial",
+        "2114",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "9f48b08d6fd62bad6dce95f8b4f5b7db18a16addc1b57761f8e3798f326c329b",
+      "replacement": "The accounts give different referendum dates. The difference remains unresolved, rather than proving two separate votes.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "8bf65bd7c0dc72b06a6729c1dcb614376d694bdb793d178d691a172541785f51",
+      "replacement": "Lopatcong Township takes its name from Lopatcong Creek, carrying an Indigenous-derived water name into a later government. The creek connection is clearer than the proposed English translation. Winter watering-place of deer is a published traditional interpretation, rather than a settled word-for-word meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d11dcf32484131e3dda6998fb5d56aaf931485c70e5a6c1379806abb18e30e9a",
+      "replacement": "Reported early creek forms include Laocolon in January 1719 and Lopetekong in 1735. Their precise relationship to modern Lopatcong remains uncertain. These reports do not establish an uninterrupted sequence of spellings for one precisely bounded locality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d50b58ea870bb073abb6399175cb1473ceed32acf83399be431a9fe3ccb26043",
+      "replacement": "Reported creek forms include Laocolon in 1719 and Lopetekong in 1735. Their exact relationship to Lopatcong remains uncertain. They do not prove one continuous spelling history for exactly the same place.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "fa91da0de2e1e052ff01ede3d63068a83a24f4d83a1cf6eb2235d2640cf0458c",
+      "replacement": "Laocolon is reported as an early creek form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "fa91da0de2e1e052ff01ede3d63068a83a24f4d83a1cf6eb2235d2640cf0458c",
+      "replacement": "Laocolon is reported as an early creek form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "add06aae1f0c10593dce13f3ac7f9e1a2428a9205534584fb04694f4dfabeeeb",
+      "replacement": "Laocolon is reported for January 1719. Its exact relationship to modern Lopatcong and the earliest local name use remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "add06aae1f0c10593dce13f3ac7f9e1a2428a9205534584fb04694f4dfabeeeb",
+      "replacement": "Laocolon is reported for January 1719. Its exact relationship to modern Lopatcong and the earliest local name use remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        1,
+        "label"
+      ],
+      "expected_sha256": "e5941509109faf2450b4338c0dc69711324b85afffac946b9b08f3dec50b5c38",
+      "replacement": "Lopetekong is another reported creek form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        1,
+        "label"
+      ],
+      "expected_sha256": "e5941509109faf2450b4338c0dc69711324b85afffac946b9b08f3dec50b5c38",
+      "replacement": "Lopetekong is another reported creek form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "631dc50ded608515e86c1ed28741952278c1e793afa0211ba91c6ab1cef8a2f0",
+      "replacement": "Lopetekong is reported for 1735. The form does not establish a settled translation or uninterrupted spelling history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "631dc50ded608515e86c1ed28741952278c1e793afa0211ba91c6ab1cef8a2f0",
+      "replacement": "Lopetekong is reported for 1735. The form does not establish a settled translation or uninterrupted spelling history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "cfa7e1b19092f1b67605a1a65283836e36feccdd24790f3ea491a74fe3d65a18",
+      "replacement": "The index dates Phillipsburg Township’s creation to March 7, 1851, distinct from the later Town of Phillipsburg.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "cfa7e1b19092f1b67605a1a65283836e36feccdd24790f3ea491a74fe3d65a18",
+      "replacement": "The index dates Phillipsburg Township’s creation to March 7, 1851, distinct from the later Town of Phillipsburg.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "d46bf69e0442708906c925ff6462eb090004926d875b6177e1af440d00a2b0fd",
+      "replacement": "The index dates the present town’s creation to March 8, 1861, separately from the remaining township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "d46bf69e0442708906c925ff6462eb090004926d875b6177e1af440d00a2b0fd",
+      "replacement": "The index dates the present town’s creation to March 8, 1861, separately from the remaining township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "924f1b9ff0aec7bf76cef159d285a8635b3c89325c9c749377ee4bfeccb904ec",
+      "replacement": "The index cites the March 18, 1863 legislative rename of the remaining township. The Town of Phillipsburg kept its name; the first township name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "924f1b9ff0aec7bf76cef159d285a8635b3c89325c9c749377ee4bfeccb904ec",
+      "replacement": "The index cites the March 18, 1863 legislative rename of the remaining township. The Town of Phillipsburg kept its name; the first township name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "5af6cfb021a96b47faec9718a9b5ddd34c17220627837dfeb46452fa493b339d",
+      "replacement": "The township took the Indigenous-derived creek name. Winter watering-place of deer is a traditional interpretation; its exact translation remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "29d1ed1e75fa6b979c810dd93e73b7608d2ac5151169e67b3c25c5151ec1304d",
+      "replacement": "Laocolon in January 1719 and Lopetekong in 1735 are reported creek forms. Their exact relationship to modern Lopatcong remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "c97e42621b15850d524bcfa0be87c46f42ef6682ef40dd3333a7810a2dc4974f",
+      "replacement": "Laocolon and Lopetekong are reported older creek spellings. Their exact relationship to Lopatcong remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "316f39759ad671d1cd242e65d9171c3dea2a4f651d4afee3e1caf3a83c098850",
+      "replacement": "The legal index cites March 18, 1863 chapter 156 for the remaining township’s change to Lopatcong.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "editorial",
+        "2115",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "7f5002887a37bcb6c539dfde3cd0f475486c7c3f540650b01d16769bc5b0faf1",
+      "replacement": "The index gives March 18, 1863 for the remaining township’s change to Lopatcong. The separate town kept Phillipsburg.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "editorial",
+        "2116",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d64cb64d847a0ee7f8826905cf893d4ade93e3d15ab696b481d5919c44f80245",
+      "replacement": "The 1798 continuation uses Mansfield. It does not by itself establish a deliberate shortening on that day. The township came from Greenwich territory; Washington later separated. A postal table lists John G. Robins as first postmaster in 1814, which does not establish the office’s first operating day or the original place-name choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "editorial",
+        "2116",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5312b3184b0e1ef2458ed2966655da20d20e24b714d0f589eef9b7f6a37a5c28",
+      "replacement": "The later account reports May 30, 1754 for the Mansfield-Woodhouse precinct. It does not identify the first name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "editorial",
+        "2116",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5312b3184b0e1ef2458ed2966655da20d20e24b714d0f589eef9b7f6a37a5c28",
+      "replacement": "The later account reports May 30, 1754 for the Mansfield-Woodhouse precinct. It does not identify the first name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "editorial",
+        "2116",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "c9041d6a3e2c93fafc6b92ee7d8da8bb1872f0f26442d05983b267283567bc04",
+      "replacement": "April 9 was the date for most provisions to operate and for a scheduled meeting. A legal schedule does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "editorial",
+        "2116",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "c9041d6a3e2c93fafc6b92ee7d8da8bb1872f0f26442d05983b267283567bc04",
+      "replacement": "April 9 was the date for most provisions to operate and for a scheduled meeting. A legal schedule does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "dcd42f20d7bb358876bca589b30beae83a568e600c474060c9fc5711aa902faf",
+      "replacement": "A museum photograph shows a fireback inscribed OXFORD 1746. The museum attributes it to Oxford Furnace and dates it 1746 in its details, although the webpage heading says 1742. The photographed inscription supports 1746, rather than a second naming event in 1742. A later study also reports Oxford Furnace in Sven Roseen’s 1748 writing; that is the study’s account of the text.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "92c5413481a3157d6b8941287bf56298dd9d660fcea7b3a73e91b6f76ac16df9",
+      "replacement": "The photograph and museum details give 1746, while the webpage heading gives 1742. That disagreement does not establish a separate naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "92c5413481a3157d6b8941287bf56298dd9d660fcea7b3a73e91b6f76ac16df9",
+      "replacement": "The photograph and museum details give 1746, while the webpage heading gives 1742. That disagreement does not establish a separate naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "b965acae1629a1fe84f22e6a67259721e4dd5919884c045efe2642c2e1044d61",
+      "replacement": "Morgan’s later study reports Oxford Furnace in Sven Roseen’s 1748 writing. This is an attributed account of early use, rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "b965acae1629a1fe84f22e6a67259721e4dd5919884c045efe2642c2e1044d61",
+      "replacement": "Morgan’s later study reports Oxford Furnace in Sven Roseen’s 1748 writing. This is an attributed account of early use, rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "7c240d8fdcb51918ccb0252bf7fd7964d1d9d8466dfa7f263e5754ed3603c05f",
+      "replacement": "May 30, 1754 is the usual reported date, with 1753 and 1755 variants in other accounts. The formation chronology remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "7c240d8fdcb51918ccb0252bf7fd7964d1d9d8466dfa7f263e5754ed3603c05f",
+      "replacement": "May 30, 1754 is the usual reported date, with 1753 and 1755 variants in other accounts. The formation chronology remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "9bdac732bb818d8a3967204a23b2ddb49d9187e9369d2be1c70649ac67688169",
+      "replacement": "The index gives April 9, 1913 for White Township’s enabling approval. That later territorial change does not settle Oxford’s older name origin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "9bdac732bb818d8a3967204a23b2ddb49d9187e9369d2be1c70649ac67688169",
+      "replacement": "The index gives April 9, 1913 for White Township’s enabling approval. That later territorial change does not settle Oxford’s older name origin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "daffa6ce6dbce0ced2ef27df9dc35fc7d176e3d6e8a432e7ff002ab420fc022c",
+      "replacement": "The museum photograph and details give OXFORD 1746, while its heading says 1742. The differing heading does not establish another early naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "582b949337280270d414d90ead354a64f030750ae847c75c8d1a7ed81eb8c691",
+      "replacement": "The museum photograph and details give OXFORD 1746, while its heading says 1742. The differing heading does not establish another early naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "775005ade0ccde8a657049aad0017ac95225640003c3fa8a6105a11f22644630",
+      "replacement": "Morgan’s later study reports Oxford Furnace in Sven Roseen’s 1748 writing. This is attributed early usage, rather than an account of the original choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "editorial",
+        "2117",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "775005ade0ccde8a657049aad0017ac95225640003c3fa8a6105a11f22644630",
+      "replacement": "Morgan’s later study reports Oxford Furnace in Sven Roseen’s 1748 writing. This is attributed early usage, rather than an account of the original choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "21cfe299b8cb69d08aea22dc50344298549b89f7f2919dc9151d69dcac0512bf",
+      "replacement": "The municipal-hosted history reports Phillipsburg on maps dated 1749 and 1755. These are later reports of early map use, rather than accounts of the original naming choice. Chintewink or Chinterwink is also reported as an Indigenous predecessor, including a 1654 map tradition. The exact location and its relationship to the community that became Phillipsburg remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "17b7b3cf0e2cadcb368722dd47fb809fd3d76581b2521e94f797cf86730b445f",
+      "replacement": "A town history reports Phillipsburg on maps dated 1749 and 1755. Those reports do not identify who first chose the name. Chintewink or Chinterwink is also reported as an older Indigenous place, but its exact location and relationship to the later town remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "5ffe767f9a529cb4f32cafa45e9afb7d46888278e6b8075298b7654145fbd7df",
+      "replacement": "A tradition reports an older Indigenous place",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "5ffe767f9a529cb4f32cafa45e9afb7d46888278e6b8075298b7654145fbd7df",
+      "replacement": "A tradition reports an older Indigenous place",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d2f04d17170b01a90635dc4206c2186acbebc293045c5b12b7172f3113607215",
+      "replacement": "The 1654 map tradition names Chintewink or Chinterwink. Its exact location and relationship to the later town remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d2f04d17170b01a90635dc4206c2186acbebc293045c5b12b7172f3113607215",
+      "replacement": "The 1654 map tradition names Chintewink or Chinterwink. Its exact location and relationship to the later town remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "30e56a47b5d011839347ec34d87dd598935148c6139e5d34920c8863ba7502fe",
+      "replacement": "The town history reports Phillipsburg on a 1749 map. That later report does not establish the intended namesake.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "30e56a47b5d011839347ec34d87dd598935148c6139e5d34920c8863ba7502fe",
+      "replacement": "The town history reports Phillipsburg on a 1749 map. That later report does not establish the intended namesake.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "11f80ac0d2f90c38e6a06eed45bde1e855632e0aa40e3995064bf1f6018bfb3d",
+      "replacement": "The town history reports Phillipsburg on a 1755 Evans map. This is reported early use, rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "11f80ac0d2f90c38e6a06eed45bde1e855632e0aa40e3995064bf1f6018bfb3d",
+      "replacement": "The town history reports Phillipsburg on a 1755 Evans map. This is reported early use, rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "67f14286e86480289a40d788d31c281f8b0dce725ee8d5c8eb4b0a74822db7c6",
+      "replacement": "Chintewink or Chinterwink appears in a 1654 map tradition. Its exact location and relationship to the present town remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "67f14286e86480289a40d788d31c281f8b0dce725ee8d5c8eb4b0a74822db7c6",
+      "replacement": "Chintewink or Chinterwink appears in a 1654 map tradition. Its exact location and relationship to the present town remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "aa3c872b5301d0284674d8d37e4fd696348aa5deb105e6d256b60f018d5e86be",
+      "replacement": "The later town history reports map use in 1749 and 1755. Those reports do not establish the first naming decision or settle the namesake dispute.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "editorial",
+        "2119",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "aa3c872b5301d0284674d8d37e4fd696348aa5deb105e6d256b60f018d5e86be",
+      "replacement": "The later town history reports map use in 1749 and 1755. Those reports do not establish the first naming decision or settle the namesake dispute.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "f577f842c971e84247ec32139e2da8abff6bd609012a59f52ea3ac7db083c12f",
+      "replacement": "Pohatcong Township borrowed an older Indigenous-derived creek and valley name. Pokehatkong Brook is reported for June 22, 1719 in John Reading Jr.’s journal. This attributed early form does not identify the original namer or establish one continuous spelling history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "04380d14232629f05050325a92b07ae39e84366fde3f9782b8af3041f390c56f",
+      "replacement": "Pohatcong’s creek name came before its township. Pokehatkong Brook is reported in a journal dated June 22, 1719. The reported form does not tell us who first named the creek.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "453944615fe4bbf47bd2d54800d43f11ff26d843c190ded62acd1022158f097e",
+      "replacement": "An early journal form is reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "453944615fe4bbf47bd2d54800d43f11ff26d843c190ded62acd1022158f097e",
+      "replacement": "An early journal form is reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "227c75a4f2d5eaf36902df896332a596e85f51e04dd49c8f43708ad8f18114b6",
+      "replacement": "Pokehatkong Brook is reported in John Reading Jr.’s journal for June 22, 1719. The original namer and relationship among older spellings remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "227c75a4f2d5eaf36902df896332a596e85f51e04dd49c8f43708ad8f18114b6",
+      "replacement": "Pokehatkong Brook is reported in John Reading Jr.’s journal for June 22, 1719. The original namer and relationship among older spellings remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "65e05143ddb122df07349b0fdaa2578c6b1686e1cc1c4ac70e0a930c1e5d1abb",
+      "replacement": "The index gives March 24, 1881 for act approval, separately from January 1, 1882 operation. Approval does not establish the date of actual local organization.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "65e05143ddb122df07349b0fdaa2578c6b1686e1cc1c4ac70e0a930c1e5d1abb",
+      "replacement": "The index gives March 24, 1881 for act approval, separately from January 1, 1882 operation. Approval does not establish the date of actual local organization.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1c0a9bec4f333a9e0b2437a54665269a81f660c28d0c8e02eacf88f46e9ecc8b",
+      "replacement": "Pokehatkong Brook is reported in John Reading Jr.’s journal for June 22, 1719. That attributed use does not establish the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "editorial",
+        "2120",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "5d1473a9f1b0cdb21bab3089a0d969ba24c74d3de7bda21a74cd44b479b06f07",
+      "replacement": "Pokehatkong Brook is reported in a 1719 journal. The report does not tell us when the creek was first named.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "3fc5822bd1b4dbcf8b184ffc3697f9a7f822be0626415dd4000e1232af10d0e6",
+      "replacement": "Washington Borough’s name travelled through a tavern and a village before reaching borough government. A municipal history says William McCullough opened Washington House in 1811 to honor George Washington. This later account links the presidential tribute with the community name, without identifying an exact original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "ff430a528f552cb7d07d7651210299978cdc689561924b24c4f4fe4f67236161",
+      "replacement": "Washington’s name was used locally before the borough. A later history says William McCullough opened Washington House in 1811 to honor George Washington. That is a later account of the tavern’s name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "2462579c31785bd5621513cf72d335badd0bdcc7471621736fc275c26efeadd4",
+      "replacement": "Later municipal history reports an 1811 Washington House tribute to George Washington. It does not establish the exact original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "2462579c31785bd5621513cf72d335badd0bdcc7471621736fc275c26efeadd4",
+      "replacement": "Later municipal history reports an 1811 Washington House tribute to George Washington. It does not establish the exact original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "582bf975d039923fd87e1e9d53f4a10ca0b737ac84a495407c88aff976e881a4",
+      "replacement": "April 9 was the date for most provisions to operate and for a scheduled meeting. The schedule does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "582bf975d039923fd87e1e9d53f4a10ca0b737ac84a495407c88aff976e881a4",
+      "replacement": "April 9 was the date for most provisions to operate and for a scheduled meeting. The schedule does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "64c0f1ddfeaaec83b22b56911bf0bc001400ae9affbe7ae4c8001e8395c37453",
+      "replacement": "The chronology dates borough separation to February 20, 1868. The new government inherited the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "64c0f1ddfeaaec83b22b56911bf0bc001400ae9affbe7ae4c8001e8395c37453",
+      "replacement": "The chronology dates borough separation to February 20, 1868. The new government inherited the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "4854904884e4a6de96b48122aef5741722ba364f5a3142f9b73ed05a122087ac",
+      "replacement": "Later municipal history says William McCullough opened Washington House for George Washington in 1811. The account does not identify an exact original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "editorial",
+        "2121",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "4854904884e4a6de96b48122aef5741722ba364f5a3142f9b73ed05a122087ac",
+      "replacement": "Later municipal history says William McCullough opened Washington House for George Washington in 1811. The account does not identify an exact original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "editorial",
+        "2122",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "bcbd322c51d657bf6be30f6fa16db847ceeaacd3f9a34ee05a87f32236b3f2c5",
+      "replacement": "The 1849 act passed February 28 and named the township from Mansfield territory. One section took immediate effect, with the remaining provisions operating April 9. The law scheduled a first meeting, without establishing that it occurred. Passage, operation and actual organization were different stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "editorial",
+        "2122",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "0f363d2190fa64790d072ab4c1e62b3878263e423c45e34839bcc5e4458fa2ce",
+      "replacement": "Coles dates the Mansfield-to-Washington postal change to June 25, 1852. This later postal adoption does not date the first use of Washington in the community.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "editorial",
+        "2122",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "0f363d2190fa64790d072ab4c1e62b3878263e423c45e34839bcc5e4458fa2ce",
+      "replacement": "Coles dates the Mansfield-to-Washington postal change to June 25, 1852. This later postal adoption does not date the first use of Washington in the community.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "cfdb88c15e56d688cddd3ceac746133f099eaac970ac765dcf685fe20030b820",
+      "replacement": "The township separated from Oxford in 1913. An index identifies the April 9 enabling act and reports May 1 adoption or effect, explicitly using an unofficial source for that date. The first proposer and intended family member remain unresolved; the index supplies no separate county filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "8ae3b79372d1acadb919c1dec05d80e7474e9ea44fb1b277d0cadcf38c37251c",
+      "replacement": "White separated from Oxford in 1913. An index lists the April law and a reported May 1 adoption date, but labels that date unofficial. The accounts do not settle which White family member was intended.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "151f8607b524d6c9d0e15eb83ab7a93cc17a66948f0aa003fb5282650b705906",
+      "replacement": "Later family accounts refer to a 1776 will and Revolutionary-era records. That family background does not establish the township’s later naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "151f8607b524d6c9d0e15eb83ab7a93cc17a66948f0aa003fb5282650b705906",
+      "replacement": "Later family accounts refer to a 1776 will and Revolutionary-era records. That family background does not establish the township’s later naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b5a3ab5828d1fe37cadad25b95f965b7c8a63e3fbbabdb534622db06c3acd597",
+      "replacement": "The index identifies April 9, 1913 as the enabling approval. The intended White family member remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b5a3ab5828d1fe37cadad25b95f965b7c8a63e3fbbabdb534622db06c3acd597",
+      "replacement": "The index identifies April 9, 1913 as the enabling approval. The intended White family member remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "6ad3bd9cfc024eec93b25d409859f49e838fbf03dac7cdd97185f823a9967d65",
+      "replacement": "The index attributes May 1, 1913 adoption or effect to an unofficial source. It supplies no separate county filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "6ad3bd9cfc024eec93b25d409859f49e838fbf03dac7cdd97185f823a9967d65",
+      "replacement": "The index attributes May 1, 1913 adoption or effect to an unofficial source. It supplies no separate county filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "editorial",
+        "2123",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f34045df888b9e170affc205d8b8f2c089abe7b00bdbc6f6ade0db10b65a1eef",
+      "replacement": "The index lists an April law and a reported May 1 vote or effect date. It labels that date unofficial; the completed formation chronology remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1001",
+      "path": [
+        "editorial",
+        "1001",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "bb521e33051dbc9845e6f2fc39c7cfcb97d0be958462565d996f0c114bd8dc23",
+      "replacement": "The compiled chronology dates Alexandria Township’s royal charter, from Bethlehem territory, to March 5, 1765. State law continued the township in 1798. Those government dates do not choose between father and son or establish how the earlier settlement name passed to the wider township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1001",
+      "path": [
+        "editorial",
+        "1001",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4d845424ca997d52ca1286dcf5e9acc1e2bba04304e414f0fc90cdf15a2cde4d",
+      "replacement": "The township’s charter is reported for March 5, 1765, with state continuation in 1798. A small planned settlement and a wider township could share a name without having the same naming day or one settled honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1001",
+      "path": [
+        "editorial",
+        "1001",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "273d62aec927358e2cc7d4cffd13f859095aaeccb91af8186d65f0881cd01065",
+      "replacement": "The chronology reports the charter and later continuation. Those dates do not settle the immediate honoree or how the earlier settlement name reached the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1001",
+      "path": [
+        "editorial",
+        "1001",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "273d62aec927358e2cc7d4cffd13f859095aaeccb91af8186d65f0881cd01065",
+      "replacement": "The chronology reports the charter and later continuation. Those dates do not settle the immediate honoree or how the earlier settlement name reached the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1001",
+      "path": [
+        "editorial",
+        "1001",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "aa0ac4ada3b36f9a44210b82046f3fe5bc0305e574ce22db4c75acbf57e374f8",
+      "replacement": "The compiled chronology dates the royal charter from Bethlehem territory to March 5, 1765 and state continuation to February 21, 1798. The name’s exact transfer from settlement to township remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1001",
+      "path": [
+        "editorial",
+        "1001",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "aa0ac4ada3b36f9a44210b82046f3fe5bc0305e574ce22db4c75acbf57e374f8",
+      "replacement": "The compiled chronology dates the royal charter from Bethlehem territory to March 5, 1765 and state continuation to February 21, 1798. The name’s exact transfer from settlement to township remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1002",
+      "path": [
+        "editorial",
+        "1002",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "0e5533d7f269ae796a7f4a7674e31603e6bd9a19ac8b445ac9bb0f5bc23692a2",
+      "replacement": "Anthony M. Kreis’s municipal essay reports Bethlehem Township in a 1730 Common Pleas docket. A parish history also recounts Presbyterian church organization and name use in 1730, while describing missing Presbytery minutes for 1716–1733 and later surviving session records. A separate 1724 township claim remains unconfirmed. These later accounts do not establish which institution first used the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1002",
+      "path": [
+        "editorial",
+        "1002",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "4d831eff292bd1004e13a9967c66b58332134acb86c99d0e56006177eda36a18",
+      "replacement": "A municipal essay reports the township name in a court docket from 1730. A church history also gives 1730 and says early church minutes are missing. Another account gives 1724 for the township. The different accounts do not settle which institution first used Bethlehem.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1002",
+      "path": [
+        "editorial",
+        "1002",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7365ba777a2a3e093b566fee7e512e0df345bd4debe44c2255f6ed5bad2b30e5",
+      "replacement": "Later accounts report township and church use in 1730, while a separate 1724 claim remains unconfirmed. Neither the shared biblical name nor the surviving accounts establish which institution first chose it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1002",
+      "path": [
+        "editorial",
+        "1002",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7365ba777a2a3e093b566fee7e512e0df345bd4debe44c2255f6ed5bad2b30e5",
+      "replacement": "Later accounts report township and church use in 1730, while a separate 1724 claim remains unconfirmed. Neither the shared biblical name nor the surviving accounts establish which institution first chose it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1002",
+      "path": [
+        "editorial",
+        "1002",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1b1d817b4c60a328f26ecaa545f39e068ba080d05a84ac6d283b72c21a69fc7c",
+      "replacement": "Kreis reports a 1730 court-docket use; a parish history gives church organization and name use that year. Early church records are missing, and a separate 1724 township claim remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1002",
+      "path": [
+        "editorial",
+        "1002",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1b1d817b4c60a328f26ecaa545f39e068ba080d05a84ac6d283b72c21a69fc7c",
+      "replacement": "Kreis reports a 1730 court-docket use; a parish history gives church organization and name use that year. Early church records are missing, and a separate 1724 township claim remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1002",
+      "path": [
+        "editorial",
+        "1002",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "c629452ed8d6a44518ec15d5356cebc951122c28520a74d731d48f68c0959a33",
+      "replacement": "The later accounts do not establish church-to-township or township-to-church naming. The historical-society catalogue identifies a Henry Race paper without establishing its account of the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1002",
+      "path": [
+        "editorial",
+        "1002",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "a5d703c50755bce6095946b91550e269ea4c16d42fe9e34f0883f6a1054e15b7",
+      "replacement": "The church and township shared Bethlehem, but the later histories do not show which used it first. The original local chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "c2a14dad9cb7181e43c5a0328b9ef8f35f4cb0878014d60415cc2a15f06caf8c",
+      "replacement": "Undated traditional explanation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "sources",
+        "S1167",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "sources",
+        "S1171",
+        "publication"
+      ],
+      "expected_sha256": "399ef9605b269f4b86456f6b069e285fce29275bda23f6b20eac52fff3378488",
+      "replacement": "Current local-history resource",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "sources",
+        "S1172",
+        "publication"
+      ],
+      "expected_sha256": "66d7a5b18bf3790c31a0bb0d8674e96346e39d103f633a2cd3b9065e68befecd",
+      "replacement": "Colonial legal-record reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0a500d82effbce6babc6977c0481a6cf20d45e3f214260623b972b77bc6615a1",
+      "replacement": "Knawltown (reported form); Knoll town (traditional explanation); Oxford Township (parent); Hope Township (territorial branch); Blairstown Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "views",
+        "2114",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2cdb4f5c06117bd4c599aecf312653ee4d3e827adfb5e65dd174967425ab817a",
+      "replacement": "Reported adoption and effect; the conflicting referendum dates remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "views",
+        "2114",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "views",
+        "2114",
+        "sources",
+        "S1174",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2114",
+      "path": [
+        "views",
+        "2114",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1614e8ba981f96f60c9f3a56aa9b2567c9b17648e899ea690dc3e10b21b154bb",
+      "replacement": "Great Meadows (community); Danville (community); Mountain Lake (community); Townsbury (community); Hope Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "5f9ae06423daba922a7f4651ad57af670c24d1a73ed97ec3c953cfd6b82e7730",
+      "replacement": "Laocolon is reported as a creek form in January 1719.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "4114094250ba196bb1bcb41f9f8ec3d496b5c7064d03e84fdfd0d1957b651eeb",
+      "replacement": "Reported early creek form, without an established original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "4b06838a1b8578b79953b31b145ec1845bdbcaa3ba0375aa82c4ad44a37c1747",
+      "replacement": "Reported older form; its exact relationship to modern Lopatcong remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "5e95a935ddc0cdcccbed0368e22f978d1b7868333e68732bf01ecfea6d1649a8",
+      "replacement": "The township adopted an older creek name; its original Indigenous naming remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "sources",
+        "S1175",
+        "author"
+      ],
+      "expected_sha256": "69d69d39dee23dc4583e618c1fe3efd937baad7542a119c265e269be154ca4f5",
+      "replacement": "Robert S. Grumet",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "sources",
+        "S1176",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "sources",
+        "S1184",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "30a58bd2f387d7d7b528353e2c234cbc0228455a5e2006a571ca3cd1a352c9d1",
+      "replacement": "Laocolon Creek (reported form); Lopetekong (reported form); Lopatcong Creek; Phillipsburg Township (predecessor); Town of Phillipsburg (separate neighbor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "31a2595eeb594cbf81edc137aa45a35ee14fe07137b6d57f953da22296eda86a",
+      "replacement": "Two reported peerage years",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "d78701d3af4c00f48a5fdc95eb7638637202d21c4c200ec0148222a057d22dd2",
+      "replacement": "Act passage day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "6911a54e66bc12ae5574cb8ef49185e0acad13126424a87b8e09a23a9e34f73a",
+      "replacement": "Legislative naming preceded most provisions taking effect in April.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "sources",
+        "S1178",
+        "publication"
+      ],
+      "expected_sha256": "4fd7fc53d7c60746689c2c934e587aab891ba75a0761d9102a231967a5075eb9",
+      "replacement": "Federal historic-preservation summary",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "sources",
+        "S1179",
+        "publication"
+      ],
+      "expected_sha256": "1ecdeed78dd4285f36980dfc98b5f85719c12cb2f89c3b87c786e23a1b3027e9",
+      "replacement": "Genealogical/peerage reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "sources",
+        "S1189",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f8b7a6da17b57f0e7689bd5f28bf6efb875628d0c83bc806b21dcb7028d6829d",
+      "replacement": "Mansfield-Woodhouse; Mansfield Woodhouse (English place); Greenwich Township (parent); Washington Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "35555f9c77177d77f19e067953e3651c7ccc94d0a9ac4cf6ca8f6a00cda6775e",
+      "replacement": "Morgan’s later study reports Oxford Furnace in Sven Roseen’s 1748 writing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "1b4cf1db1afa724a1eb7e019b6d435b19cc1c0b942bc695a3d7a2674f35e198c",
+      "replacement": "Attributed early text use, rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "a2aa4479b8dc4e216b5912edab6edc8d50dd77a550213ae0521fbd7879ef3454",
+      "replacement": "Reported adoption or effect; the index labels its date unofficial.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "sources",
+        "S1181",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "sources",
+        "S1182",
+        "publication"
+      ],
+      "expected_sha256": "25347cd37831bccc18f781c58433ea7e1c25fdb0cff1b7354cdd81298ba329ef",
+      "replacement": "Museum object record",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "sources",
+        "S1190",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5e1943a3ae417cc74d9c0c27226b9955890515afb3a2982c7de4d7b5ab6a197b",
+      "replacement": "Oxford Furnace (community); Greenwich Township (parent); White Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "eaaa4f49e571733eb0e2540ba02269e1f831b7ccee827db27503bce5b7eafa0f",
+      "replacement": "The municipal-hosted history reports Phillipsburg on a 1755 Lewis Evans map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "e0fa5bd6f3a3484665e51ab5cc2239ed1475252b37f13d9242d3d29a1cd4a79a",
+      "replacement": "Later account of mid-century map use; the intended namesake remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "5e95a935ddc0cdcccbed0368e22f978d1b7868333e68732bf01ecfea6d1649a8",
+      "replacement": "The township adopted an older creek name; its original Indigenous naming remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1175",
+        "author"
+      ],
+      "expected_sha256": "69d69d39dee23dc4583e618c1fe3efd937baad7542a119c265e269be154ca4f5",
+      "replacement": "Robert S. Grumet",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1176",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1183",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1184",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c38ab6d223a370e51cdae84cbe56eccd1ad30a87ad181512a0fdfdc732ff8b7e",
+      "replacement": "Chintewink (reported Indigenous locality); Chinterwink (reported form); Phillipsburg Township (parent); Lopatcong Township (separate neighbor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "b81f15cf040639de65e2188532cffd9b888a44174dd684574a952f4d25387026",
+      "replacement": "Pokehatkong Brook is reported in John Reading Jr.’s journal for June 22, 1719.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "14e44ef25a3e066144274ab4e8aed9efd2301a78ad89b0402b3e7c2792a56281",
+      "replacement": "Attributed early form; the original naming occasion remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "561a596083e5f4aed54c0fb578f404b227af0a68b1186760acf2e23c20bd25f8",
+      "replacement": "Attributed modern linguistic interpretation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "5038ad85226a5050b5d8f3238ce8cc4283cacfa568a20e1021eb72213b83f522",
+      "replacement": "A rippling or lapping river interpretation is attributed to the 2014 gazetteer. The exact translation remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "sources",
+        "S1140",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "sources",
+        "S1175",
+        "author"
+      ],
+      "expected_sha256": "69d69d39dee23dc4583e618c1fe3efd937baad7542a119c265e269be154ca4f5",
+      "replacement": "Robert S. Grumet",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "sources",
+        "S1185",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d1389738b04134809b1424d15cbf433c2ea9aeb3456f25b40ea2c38f17ef6c90",
+      "replacement": "Pokehatkong Brook (reported form); Pohatcong Creek; Greenwich Township (parent); Alpha Borough (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d78701d3af4c00f48a5fdc95eb7638637202d21c4c200ec0148222a057d22dd2",
+      "replacement": "Act passage day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6911a54e66bc12ae5574cb8ef49185e0acad13126424a87b8e09a23a9e34f73a",
+      "replacement": "Legislative naming preceded most provisions taking effect in April.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "sources",
+        "S1186",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "sources",
+        "S1188",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "sources",
+        "S1189",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a9d624433359063c16ba197ba1af05c973d3727935ee97bc3a51d937c458a6c7",
+      "replacement": "Mansfield (village and postal name); Washington House (tavern); Washington Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d78701d3af4c00f48a5fdc95eb7638637202d21c4c200ec0148222a057d22dd2",
+      "replacement": "Act passage day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6911a54e66bc12ae5574cb8ef49185e0acad13126424a87b8e09a23a9e34f73a",
+      "replacement": "Legislative naming preceded most provisions taking effect in April.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "sources",
+        "S1186",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "sources",
+        "S1188",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "sources",
+        "S1189",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e6e79fc694b6b5e663eeb2fb86d250838a0c0391cacd098851938b8946c7c378",
+      "replacement": "Washington House (tavern); Mansfield Township (parent); Mansfield (central postal name); Washington Borough (separate neighbor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "a2aa4479b8dc4e216b5912edab6edc8d50dd77a550213ae0521fbd7879ef3454",
+      "replacement": "Reported adoption or effect; the index labels its date unofficial.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "da912974ba72e282fa4f4c38b96344511427972680c85d3fa18d8791ae185b71",
+      "replacement": "Undated comparative traditions",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "4a2af9b88faba28ae92beaaab55f5a6b8df73277ae4e5a989dd707af4ef39593",
+      "replacement": "The intended individual or family-wide dedication remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "sources",
+        "S1190",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "sources",
+        "S1192",
+        "publication"
+      ],
+      "expected_sha256": "76d4632a418e19d37d8ed591d829784b82e5947977445fd85271f2b6de801a84",
+      "replacement": "20th-century family genealogy",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "sources",
+        "S1193",
+        "publication"
+      ],
+      "expected_sha256": "478d07188b6de4af973281c32250b6f03b20cc3b314da031cef4cddf001cc604",
+      "replacement": "2024 county news item",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "224aec5f5faca1626cc10043dace358ccf2b4978dba71fa368cb8eed9820bdd6",
+      "replacement": "White House (family landmark); White Hall (family landmark); Roxburg (community); Oxford Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1001",
+      "path": [
+        "views",
+        "1001",
+        "events",
+        9,
+        "actor"
+      ],
+      "expected_sha256": "06743236b4e1f6584da6b10a47ea82a8690b286e7b2681a679a714ce57ce1af2",
+      "replacement": "Plan proponents unidentified in the nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1001",
+      "path": [
+        "views",
+        "1001",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ad2c7a50a1f369f729f86bd3123cb046f3e80c6a37b24d52e7b29f908478d5d9",
+      "replacement": "Alexandria (planned river town); Calvin’s Ferry (locality); Sunbeam (separate proposed plan name); Bethlehem Township (parent); West Alexandria (unsuccessful proposal); Holland Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1002",
+      "path": [
+        "views",
+        "1002",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "cb54d3409db82af9dd696e05bb6cf01a6f53b1741c0255870d2bccda7b43989c",
+      "replacement": "Anthony M. Kreis’s municipal essay reports a 1730 docket reference to Bethlehem Township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1002",
+      "path": [
+        "views",
+        "1002",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "c99df7e53fea431edb39c76e88de156dec48b2d9e1229ddc49823096807fc2cf",
+      "replacement": "Later account of church organization and name use; local naming priority remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1002",
+      "path": [
+        "views",
+        "1002",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a2f3c1a810f70656e203c87f6e80d217587a3456ed8f3c9cd89b9a8b63c9ff1f",
+      "replacement": "Bethlehem Township; Bethlehem Presbyterian Church (institution); Union Township (territorial branch); Junction Borough (territorial branch); Bloomsbury (territorial branch); Glen Gardner (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "c2a14dad9cb7181e43c5a0328b9ef8f35f4cb0878014d60415cc2a15f06caf8c",
+      "replacement": "Undated traditional explanation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "sources",
+        "S1167",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "sources",
+        "S1171",
+        "publication"
+      ],
+      "expected_sha256": "399ef9605b269f4b86456f6b069e285fce29275bda23f6b20eac52fff3378488",
+      "replacement": "Current local-history resource",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "sources",
+        "S1172",
+        "publication"
+      ],
+      "expected_sha256": "66d7a5b18bf3790c31a0bb0d8674e96346e39d103f633a2cd3b9065e68befecd",
+      "replacement": "Colonial legal-record reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2113",
+      "path": [
+        "views",
+        "2113",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0a500d82effbce6babc6977c0481a6cf20d45e3f214260623b972b77bc6615a1",
+      "replacement": "Knawltown (reported form); Knoll town (traditional explanation); Oxford Township (parent); Hope Township (territorial branch); Blairstown Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "views",
+        "2114",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2cdb4f5c06117bd4c599aecf312653ee4d3e827adfb5e65dd174967425ab817a",
+      "replacement": "Reported adoption and effect; the conflicting referendum dates remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "views",
+        "2114",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "views",
+        "2114",
+        "sources",
+        "S1174",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2114",
+      "path": [
+        "views",
+        "2114",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1614e8ba981f96f60c9f3a56aa9b2567c9b17648e899ea690dc3e10b21b154bb",
+      "replacement": "Great Meadows (community); Danville (community); Mountain Lake (community); Townsbury (community); Hope Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "5f9ae06423daba922a7f4651ad57af670c24d1a73ed97ec3c953cfd6b82e7730",
+      "replacement": "Laocolon is reported as a creek form in January 1719.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "4114094250ba196bb1bcb41f9f8ec3d496b5c7064d03e84fdfd0d1957b651eeb",
+      "replacement": "Reported early creek form, without an established original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "4b06838a1b8578b79953b31b145ec1845bdbcaa3ba0375aa82c4ad44a37c1747",
+      "replacement": "Reported older form; its exact relationship to modern Lopatcong remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "5e95a935ddc0cdcccbed0368e22f978d1b7868333e68732bf01ecfea6d1649a8",
+      "replacement": "The township adopted an older creek name; its original Indigenous naming remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "sources",
+        "S1175",
+        "author"
+      ],
+      "expected_sha256": "69d69d39dee23dc4583e618c1fe3efd937baad7542a119c265e269be154ca4f5",
+      "replacement": "Robert S. Grumet",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "sources",
+        "S1176",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "sources",
+        "S1184",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2115",
+      "path": [
+        "views",
+        "2115",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "30a58bd2f387d7d7b528353e2c234cbc0228455a5e2006a571ca3cd1a352c9d1",
+      "replacement": "Laocolon Creek (reported form); Lopetekong (reported form); Lopatcong Creek; Phillipsburg Township (predecessor); Town of Phillipsburg (separate neighbor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "31a2595eeb594cbf81edc137aa45a35ee14fe07137b6d57f953da22296eda86a",
+      "replacement": "Two reported peerage years",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "d78701d3af4c00f48a5fdc95eb7638637202d21c4c200ec0148222a057d22dd2",
+      "replacement": "Act passage day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "6911a54e66bc12ae5574cb8ef49185e0acad13126424a87b8e09a23a9e34f73a",
+      "replacement": "Legislative naming preceded most provisions taking effect in April.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "sources",
+        "S1178",
+        "publication"
+      ],
+      "expected_sha256": "4fd7fc53d7c60746689c2c934e587aab891ba75a0761d9102a231967a5075eb9",
+      "replacement": "Federal historic-preservation summary",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "sources",
+        "S1179",
+        "publication"
+      ],
+      "expected_sha256": "1ecdeed78dd4285f36980dfc98b5f85719c12cb2f89c3b87c786e23a1b3027e9",
+      "replacement": "Genealogical/peerage reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "sources",
+        "S1189",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2116",
+      "path": [
+        "views",
+        "2116",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f8b7a6da17b57f0e7689bd5f28bf6efb875628d0c83bc806b21dcb7028d6829d",
+      "replacement": "Mansfield-Woodhouse; Mansfield Woodhouse (English place); Greenwich Township (parent); Washington Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "35555f9c77177d77f19e067953e3651c7ccc94d0a9ac4cf6ca8f6a00cda6775e",
+      "replacement": "Morgan’s later study reports Oxford Furnace in Sven Roseen’s 1748 writing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "1b4cf1db1afa724a1eb7e019b6d435b19cc1c0b942bc695a3d7a2674f35e198c",
+      "replacement": "Attributed early text use, rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "a2aa4479b8dc4e216b5912edab6edc8d50dd77a550213ae0521fbd7879ef3454",
+      "replacement": "Reported adoption or effect; the index labels its date unofficial.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "sources",
+        "S1181",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "sources",
+        "S1182",
+        "publication"
+      ],
+      "expected_sha256": "25347cd37831bccc18f781c58433ea7e1c25fdb0cff1b7354cdd81298ba329ef",
+      "replacement": "Museum object record",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "sources",
+        "S1190",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2117",
+      "path": [
+        "views",
+        "2117",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5e1943a3ae417cc74d9c0c27226b9955890515afb3a2982c7de4d7b5ab6a197b",
+      "replacement": "Oxford Furnace (community); Greenwich Township (parent); White Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "eaaa4f49e571733eb0e2540ba02269e1f831b7ccee827db27503bce5b7eafa0f",
+      "replacement": "The municipal-hosted history reports Phillipsburg on a 1755 Lewis Evans map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "e0fa5bd6f3a3484665e51ab5cc2239ed1475252b37f13d9242d3d29a1cd4a79a",
+      "replacement": "Later account of mid-century map use; the intended namesake remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "5e95a935ddc0cdcccbed0368e22f978d1b7868333e68732bf01ecfea6d1649a8",
+      "replacement": "The township adopted an older creek name; its original Indigenous naming remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1175",
+        "author"
+      ],
+      "expected_sha256": "69d69d39dee23dc4583e618c1fe3efd937baad7542a119c265e269be154ca4f5",
+      "replacement": "Robert S. Grumet",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1176",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1183",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "sources",
+        "S1184",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2119",
+      "path": [
+        "views",
+        "2119",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c38ab6d223a370e51cdae84cbe56eccd1ad30a87ad181512a0fdfdc732ff8b7e",
+      "replacement": "Chintewink (reported Indigenous locality); Chinterwink (reported form); Phillipsburg Township (parent); Lopatcong Township (separate neighbor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "b81f15cf040639de65e2188532cffd9b888a44174dd684574a952f4d25387026",
+      "replacement": "Pokehatkong Brook is reported in John Reading Jr.’s journal for June 22, 1719.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "14e44ef25a3e066144274ab4e8aed9efd2301a78ad89b0402b3e7c2792a56281",
+      "replacement": "Attributed early form; the original naming occasion remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "561a596083e5f4aed54c0fb578f404b227af0a68b1186760acf2e23c20bd25f8",
+      "replacement": "Attributed modern linguistic interpretation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "5038ad85226a5050b5d8f3238ce8cc4283cacfa568a20e1021eb72213b83f522",
+      "replacement": "A rippling or lapping river interpretation is attributed to the 2014 gazetteer. The exact translation remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "sources",
+        "S1140",
+        "publication"
+      ],
+      "expected_sha256": "be97927112b1c5ad88a4537b2b514b165a23b0b61db64698218eb0e4408cb3e8",
+      "replacement": "Legal-history reconstruction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "sources",
+        "S1175",
+        "author"
+      ],
+      "expected_sha256": "69d69d39dee23dc4583e618c1fe3efd937baad7542a119c265e269be154ca4f5",
+      "replacement": "Robert S. Grumet",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "sources",
+        "S1185",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2120",
+      "path": [
+        "views",
+        "2120",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d1389738b04134809b1424d15cbf433c2ea9aeb3456f25b40ea2c38f17ef6c90",
+      "replacement": "Pokehatkong Brook (reported form); Pohatcong Creek; Greenwich Township (parent); Alpha Borough (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d78701d3af4c00f48a5fdc95eb7638637202d21c4c200ec0148222a057d22dd2",
+      "replacement": "Act passage day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6911a54e66bc12ae5574cb8ef49185e0acad13126424a87b8e09a23a9e34f73a",
+      "replacement": "Legislative naming preceded most provisions taking effect in April.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "sources",
+        "S1186",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "sources",
+        "S1188",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "sources",
+        "S1189",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2121",
+      "path": [
+        "views",
+        "2121",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a9d624433359063c16ba197ba1af05c973d3727935ee97bc3a51d937c458a6c7",
+      "replacement": "Mansfield (village and postal name); Washington House (tavern); Washington Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d78701d3af4c00f48a5fdc95eb7638637202d21c4c200ec0148222a057d22dd2",
+      "replacement": "Act passage day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6911a54e66bc12ae5574cb8ef49185e0acad13126424a87b8e09a23a9e34f73a",
+      "replacement": "Legislative naming preceded most provisions taking effect in April.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "8aa309efe086a0226eb3b8ac7dec4151bccb30798c9bcf07f0b939ed6a9f981e",
+      "replacement": "The law passed February 28, 1849. Section 8 operated immediately; the remaining provisions took effect April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "sources",
+        "S1186",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "sources",
+        "S1188",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "sources",
+        "S1189",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Undated legal-history database",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2122",
+      "path": [
+        "views",
+        "2122",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e6e79fc694b6b5e663eeb2fb86d250838a0c0391cacd098851938b8946c7c378",
+      "replacement": "Washington House (tavern); Mansfield Township (parent); Mansfield (central postal name); Washington Borough (separate neighbor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "a2aa4479b8dc4e216b5912edab6edc8d50dd77a550213ae0521fbd7879ef3454",
+      "replacement": "Reported adoption or effect; the index labels its date unofficial.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "da912974ba72e282fa4f4c38b96344511427972680c85d3fa18d8791ae185b71",
+      "replacement": "Undated comparative traditions",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "4a2af9b88faba28ae92beaaab55f5a6b8df73277ae4e5a989dd707af4ef39593",
+      "replacement": "The intended individual or family-wide dedication remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "sources",
+        "S1131",
+        "publication"
+      ],
+      "expected_sha256": "8e1217ca0f1792d93118b851430bce49852d31d0f73c88a550edaddda3c97c83",
+      "replacement": "Current county historical project",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "sources",
+        "S1190",
+        "publication"
+      ],
+      "expected_sha256": "3528fdf72617daff75da05e7301fff08f35b5cdec1eb835ce2af9456d9572d4e",
+      "replacement": "Official municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "sources",
+        "S1192",
+        "publication"
+      ],
+      "expected_sha256": "76d4632a418e19d37d8ed591d829784b82e5947977445fd85271f2b6de801a84",
+      "replacement": "20th-century family genealogy",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "sources",
+        "S1193",
+        "publication"
+      ],
+      "expected_sha256": "478d07188b6de4af973281c32250b6f03b20cc3b314da031cef4cddf001cc604",
+      "replacement": "2024 county news item",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2123",
+      "path": [
+        "views",
+        "2123",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "224aec5f5faca1626cc10043dace358ccf2b4978dba71fa368cb8eed9820bdd6",
+      "replacement": "White House (family landmark); White Hall (family landmark); Roxburg (community); Oxford Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1001",
+      "path": [
+        "views",
+        "1001",
+        "events",
+        9,
+        "actor"
+      ],
+      "expected_sha256": "06743236b4e1f6584da6b10a47ea82a8690b286e7b2681a679a714ce57ce1af2",
+      "replacement": "Plan proponents unidentified in the nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1001",
+      "path": [
+        "views",
+        "1001",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ad2c7a50a1f369f729f86bd3123cb046f3e80c6a37b24d52e7b29f908478d5d9",
+      "replacement": "Alexandria (planned river town); Calvin’s Ferry (locality); Sunbeam (separate proposed plan name); Bethlehem Township (parent); West Alexandria (unsuccessful proposal); Holland Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1002",
+      "path": [
+        "views",
+        "1002",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "cb54d3409db82af9dd696e05bb6cf01a6f53b1741c0255870d2bccda7b43989c",
+      "replacement": "Anthony M. Kreis’s municipal essay reports a 1730 docket reference to Bethlehem Township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1002",
+      "path": [
+        "views",
+        "1002",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "c99df7e53fea431edb39c76e88de156dec48b2d9e1229ddc49823096807fc2cf",
+      "replacement": "Later account of church organization and name use; local naming priority remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1002",
+      "path": [
+        "views",
+        "1002",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a2f3c1a810f70656e203c87f6e80d217587a3456ed8f3c9cd89b9a8b63c9ff1f",
+      "replacement": "Bethlehem Township; Bethlehem Presbyterian Church (institution); Union Township (territorial branch); Junction Borough (territorial branch); Bloomsbury (territorial branch); Glen Gardner (territorial branch)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
