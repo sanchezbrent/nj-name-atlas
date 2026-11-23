@@ -2,6 +2,9 @@
 
 November 23, 2026. **Interactive local prototype; no production change.**
 
+Latest revision: **UI-1.1**, exposed horizontal legend; see the addendum below.
+The original UI-1 evidence and hashes remain recorded as that checkpoint.
+
 The interface and editorial paths remain separate. Editorial PR #5 owns copy,
 source questions and its checkpoint sequence. This UI branch owns only the
 prototype overlay, deterministic composition tool, boundary tests and its CI job.
@@ -134,3 +137,35 @@ No editorial completion or publication ETA is asserted.
 
 The [publication standard](PUBLICATION_STANDARD.md) and
 [open copy-remediation register](PUBLIC_COPY_REMEDIATION.md) continue to govern.
+
+## UI-1.1 — exposed horizontal legend
+
+November 23, 2026. The origin legend now occupies the full width below search.
+All seven categories share one row at 1280px and wrap into two columns on narrow
+screens. The overlay explicitly overrides the inherited column direction.
+The legend is a labeled section rather than a disclosure, so the original
+runtime's phone-startup disclosure reset cannot hide it. Existing IDs, category
+buttons, counts, labels and filtering handlers remain in place. The original
+four script blocks and all embedded content remain byte-identical.
+
+Content pin remains checkpoint 23. The builder SHA-256 is
+`36374493051188c9698062cb71ebf8628af05d98905880ef79292048e525f76c`;
+overlay SHA-256 is
+`a74250adc47681bcf7063a84b62dc91e0ceb8337f11b2e919cfb70f793e3318d`.
+Generated Primary SHA-256 is
+`7141e86ffd9301fedcceec73074f161406491acd2e125a3eb8c0b3a5d1646f4a`;
+its source remains
+`214ec37440200b149700208985d7b8fbb11feb07983dd26806247322c747633c`.
+
+All 22 Python tests and the composed checkpoint's own project checks, 16 fake-note
+assertions and 5,941 runtime assertions pass. Browser checks confirm seven entries
+on one desktop row, visible legend after fresh phone loads at 390px and 320px,
+two-column phone wrapping, no horizontal page overflow, working filter/reset
+and keyboard movement between category buttons. No existing notes were accessed.
+The existing GitHub integration workflow will verify main and both editorial pins
+on this revision. Published files, committed baselines and editorial work remain
+unchanged. The wider UI-1 browser/download/printing limits still apply.
+
+This bounded revision is complete and the updated preview is usable now. Next
+milestone is design review; the later integration milestone and provisional
+45–90 active-minute rehearsal estimate remain unchanged, excluding waits.

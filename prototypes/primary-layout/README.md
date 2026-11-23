@@ -33,6 +33,7 @@ review. GitHub stores the overlay/tooling and checks, not another content copy.
 - An inviting question and a single search row across the top.
 - A map and a distinct selected-town preview instead of three competing columns.
 - A prominent existing “Read the story” control and the existing reading view.
+- An exposed, horizontal origin legend that wraps on smaller screens.
 - Additional browsing controls under “More ways to explore.”
 - Existing qualifications remain with the origin explanation; dates, references,
   category colors, deep links, tours and source holds retain their existing logic.

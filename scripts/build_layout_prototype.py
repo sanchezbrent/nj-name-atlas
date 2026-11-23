@@ -145,6 +145,7 @@ def transform(source, css):
     map_panel, origin = doc.one(tag="section", cls="map-panel"), doc.one(cls="referent-block")
     require(source[map_panel["inner"]:map_panel["close"]].lstrip().startswith('<div class="map-browse-toolbar">'), "Map heading changed upstream.")
     filters = doc.one(id="atlas-filters")
+    require(filters["tag"] == "details", "Origin legend container changed upstream.")
     filter_summaries = [n for n in doc.nodes if n["tag"] == "summary" and filters["inner"] < n["start"] < filters["close"]]
     require(len(filter_summaries) == 1, "Origin filter heading changed upstream.")
     filter_summary = filter_summaries[0]
@@ -159,7 +160,11 @@ def transform(source, css):
         (root["start"], root["inner"], source[root["start"]:root["inner"]].replace('class="atlas-sheet"', 'class="atlas-sheet primary-layout-preview"')),
         (masthead["start"], masthead["end"], '<header class="masthead">\n    <p class="layout-brand">New Jersey · An Atlas of Names</p>\n    <h1>Why is your town <span>called that?</span></h1>\n    <p class="subtitle">Find a place. Follow its names. Explore the stories behind them.</p>\n  </header>'),
         (title["inner"], title["close"], "Find your town"),
-        (filter_summary["inner"], filter_label_end, "What do the map colors mean?"),
+        (filters["start"], filters["inner"], '<section class="origin-filters" id="atlas-filters" aria-label="Map colors and name origins">'),
+        (filters["close"], filters["end"], '</section>'),
+        (filter_summary["start"], filter_summary["inner"], '<h3 class="layout-legend-heading">'),
+        (filter_summary["inner"], filter_label_end, "Map colors: current-name origins"),
+        (filter_summary["close"], filter_summary["end"], '</h3>'),
         (search["start"], search["inner"], search_tag.replace('placeholder="Town or former name"', 'placeholder="Search a town or an older name"')),
         (tour["start"], explore["close"], '<details id="layout-more" class="layout-more"><summary>More ways to explore</summary><div class="layout-more-body">\n' + advanced + '\n</div></details>\n    '),
         (map_panel["inner"], map_panel["inner"], '<div class="layout-map-heading"><h2 id="layout-map-heading">Choose a place</h2><p>Select a town to discover its name story.</p></div>'),

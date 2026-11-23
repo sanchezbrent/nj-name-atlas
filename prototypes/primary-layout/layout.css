@@ -83,11 +83,19 @@
 #nj-name-atlas.primary-layout-preview #atlas-results { margin: 0; font-size: .875rem; }
 #nj-name-atlas.primary-layout-preview :is(.active-filters, .search-matches) { width: 100%; }
 #nj-name-atlas.primary-layout-preview .origin-filters {
-  flex: 1 1 calc(100% - 220px);
+  flex: 1 1 100%;
+  width: 100%;
   margin: 0;
   padding: 0;
   border: 0;
 }
+#nj-name-atlas.primary-layout-preview .layout-legend-heading {
+  margin: 10px 0 6px;
+  font-size: .9375rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+#nj-name-atlas.primary-layout-preview .origin-filter-hint { display: none; }
 #nj-name-atlas.primary-layout-preview .origin-filters > summary,
 #nj-name-atlas.primary-layout-preview .layout-more > summary {
   min-height: 44px;
@@ -100,6 +108,7 @@
 }
 #nj-name-atlas.primary-layout-preview .legend {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   gap: 8px;
   margin: 8px 0;
@@ -109,6 +118,8 @@
   align-items: center;
   gap: 7px;
   width: auto;
+  flex: 1 1 145px;
+  min-width: 0;
   min-height: 44px;
   padding: 7px 10px;
   border: 1px solid var(--soft-rule);
@@ -116,7 +127,9 @@
   background: var(--control);
   font-size: .875rem;
 }
-#nj-name-atlas.primary-layout-preview .legend .swatch { width: 17px; height: 17px; }
+#nj-name-atlas.primary-layout-preview .legend .swatch { width: 17px; height: 17px; flex: 0 0 17px; }
+#nj-name-atlas.primary-layout-preview .legend-name { min-width: 0; overflow-wrap: anywhere; }
+#nj-name-atlas.primary-layout-preview .legend-count { flex-shrink: 0; }
 #nj-name-atlas.primary-layout-preview .layout-more { flex: 0 1 auto; margin-left: auto; }
 #nj-name-atlas.primary-layout-preview .layout-more[open] { flex-basis: 100%; }
 #nj-name-atlas.primary-layout-preview .layout-more-body {
@@ -206,6 +219,7 @@
   #nj-name-atlas.primary-layout-preview .masthead h1 { font-size: 2rem; }
   #nj-name-atlas.primary-layout-preview .explore > select { flex-basis: 100%; }
   #nj-name-atlas.primary-layout-preview .origin-filters { flex-basis: 100%; }
+  #nj-name-atlas.primary-layout-preview .legend button { flex-basis: calc(50% - 4px); }
   #nj-name-atlas.primary-layout-preview .layout-more { margin-left: 0; }
   #nj-name-atlas.primary-layout-preview :is(.map-panel, .story) { padding: 16px; }
   #nj-name-atlas.primary-layout-preview .map-browse-toolbar { gap: 12px; }
