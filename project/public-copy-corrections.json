@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_9",
+  "checkpoint": "PUBLIC_COPY_10",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -90,7 +90,19 @@
     "2122",
     "2123",
     "1001",
-    "1002"
+    "1002",
+    "1003",
+    "1004",
+    "1005",
+    "1006",
+    "1007",
+    "1008",
+    "1009",
+    "1010",
+    "1011",
+    "1012",
+    "1013",
+    "1014"
   ],
   "changes": [
     {
@@ -43681,6 +43693,2445 @@
       ],
       "expected_sha256": "a2f3c1a810f70656e203c87f6e80d217587a3456ed8f3c9cd89b9a8b63c9ff1f",
       "replacement": "Bethlehem Township; Bethlehem Presbyterian Church (institution); Union Township (territorial branch); Junction Borough (territorial branch); Bloomsbury (territorial branch); Glen Gardner (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "4385546854769cf5773e227d076b00e5a8b406ab3bb1c872fc226cdd6cbc4182",
+      "replacement": "Califon’s name is tied in later histories to California and the Gold Rush. Those accounts associate the earlier California name with miller Jacob Neighbor, whose mill also gave the locality another identity. The exact community naming occasion remains unknown, and the shortened word’s origin is less secure than the broad California connection.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "3aa798ffd93cab966526647c7f2414dc4d4e19b19b8e9e9ad6a6006063f9373b",
+      "replacement": "California is part of Califon’s naming story. Later histories connect an earlier California name with the Gold Rush and miller Jacob Neighbor. The place was also known through Neighbor’s Mill. The exact time and reason for the community’s choice remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "f6c55478516a10405d7821d1be93c3a8017f9f14a6f7cf7f723e01f40184ee39",
+      "replacement": "How did California become Califon? A story about a station sign and a painter tries to explain the shortening, but remains unproved. A station reported by 1875 does not show the first day people used Califon. Both forms continued in use for a time.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "c84064835313a68e5f191be888299b44a91fb76dcb1961ea075217a194745d2e",
+      "replacement": "A specialist postal compilation reports a Lower Valley-to-Califon change or move on May 10, 1877, associated with Fredrick H. Eick. That dates a reported postal milestone, rather than the word’s first use or necessarily the office’s first operating day. The borough came much later, from Lebanon and Tewksbury territory: the chronology records a March 4, 1918 enabling act and a reported April 2 adoption vote. Those stages adopted an existing community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "14840c912b263a2d82fa3d234e00d38702a6384f49ccc1681b93a233fc8d7b2d",
+      "replacement": "Walker reports a May 10, 1877 Lower Valley-to-Califon postal change or move. That account does not establish the exact beginning of office operation or the name’s first community use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "14840c912b263a2d82fa3d234e00d38702a6384f49ccc1681b93a233fc8d7b2d",
+      "replacement": "Walker reports a May 10, 1877 Lower Valley-to-Califon postal change or move. That account does not establish the exact beginning of office operation or the name’s first community use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5d856e9bc08012ecfa7764df5395b219a452a232a58b4f6a90aa3dc756a89b15",
+      "replacement": "The boundary history reports an April 2, 1918 adoption vote after the March 4 enabling act. The community already used Califon.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5d856e9bc08012ecfa7764df5395b219a452a232a58b4f6a90aa3dc756a89b15",
+      "replacement": "The boundary history reports an April 2, 1918 adoption vote after the March 4 enabling act. The community already used Califon.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "8c7c8ad8182dd9134488f44a851082468f9ec930c0dd8eca5d1d49e39338c3a3",
+      "replacement": "Walker’s compilation reports a Lower Valley-to-Califon change or move on May 10, 1877, associated with Fredrick H. Eick. That account does not establish the exact first operating day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "48d76bbfcb795a67a6d25028a59e23175d63657fb99eff241d765bbb3ecd492b",
+      "replacement": "A postal compilation reports a change or move on May 10, 1877. That date does not establish the name’s first community use or the office’s first operating day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1004",
+      "path": [
+        "editorial",
+        "1004",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "5af15e9299d2be00d6b2be23546a9cea5b22f90a04548675e8354ea3e1b14b75",
+      "replacement": "The chronology records March 4, 1918 enabling approval and a reported April 2 vote, from Lebanon and Tewksbury territory. The older community name preceded those government stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "ece61ac1c0d999cd8a0e37882413ec40a459035dfb6412527fa0ccb50d5cf3d7",
+      "replacement": "Clinton’s name honors DeWitt Clinton, New York governor and champion of the Erie Canal. The town’s later history credits John W. Bray with choosing it for the Hunt’s Mills community in 1828. That is an attributed naming account; DeWitt Clinton was a governor, rather than a United States president.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "c2529cb1443869ca1e76b8d4cbd1bef5687f204d989b99d668da3e67a6d348c7",
+      "replacement": "Clinton’s namesake was New York Governor DeWitt Clinton, associated with the Erie Canal. Town history says John W. Bray chose the name in 1828 for the community called Hunt’s Mills. That is a later account of the community’s choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "081dc1ba6248779aac84a87bbaf132d2649e530c801eaac7d384efa67c378360",
+      "replacement": "A postal compilation gives a separate Clinton date in February 1829. The town history reports earlier Hunt’s Mills mail service and Bray’s role in 1828, leaving the full postal sequence uncertain. Town government began in 1865, with full separation from the parent townships reported in 1895. Those later stages kept an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4bbe1d2efa248b503a85bba2300a85f2c5e3d19505c9864115f57f2354808754",
+      "replacement": "Town history credits John W. Bray with a choice honoring New York Governor DeWitt Clinton in 1828. The later town and township inherited that community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4bbe1d2efa248b503a85bba2300a85f2c5e3d19505c9864115f57f2354808754",
+      "replacement": "Town history credits John W. Bray with a choice honoring New York Governor DeWitt Clinton in 1828. The later town and township inherited that community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "2311966b82311b4ff1745a5e2d193ad25e76d4487b2d4ce3a988e84e3127cab0",
+      "replacement": "A postal compilation gives February 6, 1829, and the boundary reference gives April 5, 1865 for town formation. Full separation is reported only to the year 1895. These later stages kept an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "2311966b82311b4ff1745a5e2d193ad25e76d4487b2d4ce3a988e84e3127cab0",
+      "replacement": "A postal compilation gives February 6, 1829, and the boundary reference gives April 5, 1865 for town formation. Full separation is reported only to the year 1895. These later stages kept an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ebcd1b1d37c9f2b9bca2f857a1375dae2784f7e18650cdb05dcd9c9e49c69f59",
+      "replacement": "Town history retrospectively credits Bray with the 1828 community choice. The original naming occasion and complete postal sequence remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1005",
+      "path": [
+        "editorial",
+        "1005",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d524d6c755cb549ba502c9aa8e4bce34c1aded661b5eeb4d9c66a2112f172e97",
+      "replacement": "Town history gives a later account of the 1828 choice. The community name came before the town and township governments.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "editorial",
+        "1006",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "b0731d9457f82ee159463c08cf379474a07496bae3197f07e14674b8d5390367",
+      "replacement": "Clinton Township borrowed its name from the older village. That village is said to honor DeWitt Clinton, New York’s governor. The township kept the familiar local name; its own first name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "editorial",
+        "1006",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "511eff68eec6f592b62809997ec288be309886a9a77589f7cfb4d8b969e44675",
+      "replacement": "The Legislature created the township from Lebanon territory in 1841. The act was approved March 11 and set April 12 for operation, without requiring an incorporation referendum. Its annual-meeting instruction at John C. Wert’s inn differs from the March gathering at Jones Tavern, by then associated with Wert, reported by Frank A. Curcio. The schedule does not establish an actual meeting, and the reported March gathering’s exact day and legal role remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "editorial",
+        "1006",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "981a564c26940d8301a9f30089cb60597a1fe3dcedfd2dcb6c80e676e4eb24ca",
+      "replacement": "The reported village tribute to DeWitt Clinton preceded township government. The township reused that local identity; its own first name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "editorial",
+        "1006",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "981a564c26940d8301a9f30089cb60597a1fe3dcedfd2dcb6c80e676e4eb24ca",
+      "replacement": "The reported village tribute to DeWitt Clinton preceded township government. The township reused that local identity; its own first name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "editorial",
+        "1006",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "7d09f5d98e3aa5e5881709a6646c1525131ca91331f50c29bc2a830918746625",
+      "replacement": "The act was approved March 11 and operated April 12, 1841. It directly created the township without requiring an incorporation referendum and separately prescribed an annual meeting at John C. Wert’s inn.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "editorial",
+        "1006",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "7d09f5d98e3aa5e5881709a6646c1525131ca91331f50c29bc2a830918746625",
+      "replacement": "The act was approved March 11 and operated April 12, 1841. It directly created the township without requiring an incorporation referendum and separately prescribed an annual meeting at John C. Wert’s inn.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1007",
+      "path": [
+        "editorial",
+        "1007",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "e7b94ca923d1330cd9497dd2d94fe3bdec088577dd7b264bd4bb4964901fb1cf",
+      "replacement": "Marfy Goodspeed’s later account describes opposition to the division and a March protest meeting. That reported political gathering was different from an incorporation referendum or an established first township meeting. Amwell’s older villages kept their identities as the new government adopted the familiar river name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1007",
+      "path": [
+        "editorial",
+        "1007",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "e249e2358040e3ff0a21fe6e0ba947bc89b9093dbeab9bf6f6bb08eee71e80a2",
+      "replacement": "Goodspeed’s later account describes a March protest meeting. That political gathering does not establish an incorporation referendum or the first township meeting. The individual name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1007",
+      "path": [
+        "editorial",
+        "1007",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "e249e2358040e3ff0a21fe6e0ba947bc89b9093dbeab9bf6f6bb08eee71e80a2",
+      "replacement": "Goodspeed’s later account describes a March protest meeting. That political gathering does not establish an incorporation referendum or the first township meeting. The individual name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1008",
+      "path": [
+        "editorial",
+        "1008",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c47d88ac9f0c55cc585608f32503a311ddec98e1730df780fe52c7537c77e3fb",
+      "replacement": "Marfy Goodspeed links the older root with John Reading’s Mount Amwell and ultimately Hertfordshire. A reported 1704 tract survey dates work on the land, without separately dating the estate’s naming. Goodspeed quotes the June 8, 1708 township patent through a 1929 transcription. The territory was then in Burlington County, before Hunterdon existed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1008",
+      "path": [
+        "editorial",
+        "1008",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "6a0c84d89906d82600f27edeee29a6eaa8e1edeeb2733031a3d842b1ed477d95",
+      "replacement": "Goodspeed connects Amwell with John Reading’s Mount Amwell and England. A 1704 survey dates work on land, rather than necessarily its naming. The township’s 1708 patent is quoted through a later published copy; the land was then in Burlington County.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1008",
+      "path": [
+        "editorial",
+        "1008",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "4c382978510afd24b11a35bdb33f7262223996809838599c37bab4fe0385cb69",
+      "replacement": "Goodspeed links Amwell with John Reading’s Mount Amwell and Hertfordshire. The original name transfer and first proposer remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1008",
+      "path": [
+        "editorial",
+        "1008",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "4c382978510afd24b11a35bdb33f7262223996809838599c37bab4fe0385cb69",
+      "replacement": "Goodspeed links Amwell with John Reading’s Mount Amwell and Hertfordshire. The original name transfer and first proposer remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1008",
+      "path": [
+        "editorial",
+        "1008",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "7f7bf6bb9923dea8e168c532bea7200f12ba13328edbbf22a061626a2892021a",
+      "replacement": "The law’s prescribed start does not establish when residents actually held their first meeting. The first name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1008",
+      "path": [
+        "editorial",
+        "1008",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "7f7bf6bb9923dea8e168c532bea7200f12ba13328edbbf22a061626a2892021a",
+      "replacement": "The law’s prescribed start does not establish when residents actually held their first meeting. The first name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "742ce4cfb0748e6b62445cddabd8f8969f6a0e17c11aab06e2beda3f0c4d535e",
+      "replacement": "The surviving Samuel Fleming House cannot settle every part of the naming story. The museum says the tavern’s location is unknown. A modern assessment suggests the standing building may be later than 1756 and may have had a different function. Those qualified findings do not establish that it never served as a tavern or that a reported Washington visit was impossible.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7050b188e237b5e465f928b95dd385b69d0341fe38d7f44fc9d5c30e62bbbab0",
+      "replacement": "County history reports the county-seat stage in 1785. It does not establish the first use of Flemington.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7050b188e237b5e465f928b95dd385b69d0341fe38d7f44fc9d5c30e62bbbab0",
+      "replacement": "County history reports the county-seat stage in 1785. It does not establish the first use of Flemington.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "804e65ea9f40e40060002c54eb0abbd0b6938ae349ae5a36d1cbf057e62cc625",
+      "replacement": "The civil-boundary chronology dates the town stage to March 14, 1870, after the community name was already established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "804e65ea9f40e40060002c54eb0abbd0b6938ae349ae5a36d1cbf057e62cc625",
+      "replacement": "The civil-boundary chronology dates the town stage to March 14, 1870, after the community name was already established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c567819469c74823e8fca916b3f1c77ff41087379c5a552c6713f65fd7777de0",
+      "replacement": "The reference dates village formation to June 11, 1894, a different stage from the later borough vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c567819469c74823e8fca916b3f1c77ff41087379c5a552c6713f65fd7777de0",
+      "replacement": "The reference dates village formation to June 11, 1894, a different stage from the later borough vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "3b18eefac4fa00d025f9713b8f2a6548767a0aa8ad45b7f442393120ed185106",
+      "replacement": "The compilation reports an April 26, 1910 borough vote. That government stage is separate from the older community name and questions about the standing house.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "3b18eefac4fa00d025f9713b8f2a6548767a0aa8ad45b7f442393120ed185106",
+      "replacement": "The compilation reports an April 26, 1910 borough vote. That government stage is separate from the older community name and questions about the standing house.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "0777201675596b575a38c10d7393105d0f8703e9c7f5d50414bc6a2bb779b8fb",
+      "replacement": "The boundary reference reports borough confirmation in 1931, without an exact day. Confirmation was a later legal stage, rather than a new naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "0777201675596b575a38c10d7393105d0f8703e9c7f5d50414bc6a2bb779b8fb",
+      "replacement": "The boundary reference reports borough confirmation in 1931, without an exact day. Confirmation was a later legal stage, rather than a new naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "28bef4111aedf27f88bcd14036b447d71c567e17300055a4ca68143743597273",
+      "replacement": "The civil-boundary reference reports borough confirmation in 1931, without an exact day. The community name was older than that legal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "ab6fa2f14dc836669de3c462990bcfe420d75c2fc2201678e25846e5419b11fb",
+      "replacement": "A state history reports borough confirmation in 1931, without an exact day. The community already had its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "editorial",
+        "1009",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "261e17a00f0c58ca52a1fa05bec528759aa125a3d95357e82732e28f9d43ca00",
+      "replacement": "The compilation records a town in 1870, village in 1894 and borough vote in 1910. These were different government stages, rather than repeated choices of the community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1010",
+      "path": [
+        "editorial",
+        "1010",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "dafa7bb88a523322658a34a38e602b47d3ab8c2974ba088de113a81b92ab1e90",
+      "replacement": "Approval came March 21, 1845, with operation April 7. The law directly created the township and prescribed a meeting at Samuel Trimmer’s Quakertown inn, without requiring an incorporation referendum. Quakertown’s older Friends meetinghouse parcel supplies community background. The schedule does not establish an actual organization meeting or identify the first name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1010",
+      "path": [
+        "editorial",
+        "1010",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "f81dc2340252aa933a5bab6fe809a260d807334aea001a1ea1052ad7cc318435",
+      "replacement": "The 1845 act names the land north of the dividing line Franklin, without stating an intended honoree or first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1010",
+      "path": [
+        "editorial",
+        "1010",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "f81dc2340252aa933a5bab6fe809a260d807334aea001a1ea1052ad7cc318435",
+      "replacement": "The 1845 act names the land north of the dividing line Franklin, without stating an intended honoree or first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1010",
+      "path": [
+        "editorial",
+        "1010",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "a32bb66c7c3f00a6636cfc3458cee0b273b90d2c9b5571778e8fa151238f8cd2",
+      "replacement": "The law prescribes a meeting at Samuel Trimmer’s Quakertown inn. That schedule does not establish that the meeting happened, and the older Friends parcel does not establish an 1845 naming vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1010",
+      "path": [
+        "editorial",
+        "1010",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "a32bb66c7c3f00a6636cfc3458cee0b273b90d2c9b5571778e8fa151238f8cd2",
+      "replacement": "The law prescribes a meeting at Samuel Trimmer’s Quakertown inn. That schedule does not establish that the meeting happened, and the older Friends parcel does not establish an 1845 naming vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1011",
+      "path": [
+        "editorial",
+        "1011",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "b8dfbf0d5a295c1938ed25bb87107dd07e019a6a5bd4b6a3883a6bbbb3b72d20",
+      "replacement": "French-speaking neighbors helped give Frenchtown its name. A later history connects the community with Paul Henri Mallet-Prevost, who was Swiss and spoke French. It reports his purchase in 1794 and Frenchtown use by the late 1790s, without establishing the exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1011",
+      "path": [
+        "editorial",
+        "1011",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "1846ec919142172026c46b6afe9501c08933168fc30e804e25a42bd2f80a40b8",
+      "replacement": "Municipal and specialist accounts report a Frenchtown post office in 1839. The compiled chronology dates borough government from Alexandria Township to April 4, 1867. Those institutions adopted a name already associated with the community; the postal report does not establish the exact first operating day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1011",
+      "path": [
+        "editorial",
+        "1011",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "07d8dd3df504c42049c185dd9677cc4af16f904b81851490c0cf7820c0317f31",
+      "replacement": "Mallet-Prevost was Swiss and French-speaking. The nomination reports his 1794 purchase and Frenchtown use by the late 1790s, without establishing one exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1011",
+      "path": [
+        "editorial",
+        "1011",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "07d8dd3df504c42049c185dd9677cc4af16f904b81851490c0cf7820c0317f31",
+      "replacement": "Mallet-Prevost was Swiss and French-speaking. The nomination reports his 1794 purchase and Frenchtown use by the late 1790s, without establishing one exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1011",
+      "path": [
+        "editorial",
+        "1011",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0e438e97c34dcfa8657e184cb7c909cd8b652e7511295957d9d570c5e51bb59b",
+      "replacement": "The nomination reports a 1794 purchase and Frenchtown use by the late 1790s. Buying the land does not establish a municipal rename or an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1011",
+      "path": [
+        "editorial",
+        "1011",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0e438e97c34dcfa8657e184cb7c909cd8b652e7511295957d9d570c5e51bb59b",
+      "replacement": "The nomination reports a 1794 purchase and Frenchtown use by the late 1790s. Buying the land does not establish a municipal rename or an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1011",
+      "path": [
+        "editorial",
+        "1011",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "98371ff919cc86fe1f3609e38a8c39c3ddc6dda77e80208ff34b80f8b3a580ea",
+      "replacement": "Later accounts report a post office in 1839 using the older community name. They do not establish its exact first operating day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1011",
+      "path": [
+        "editorial",
+        "1011",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "98371ff919cc86fe1f3609e38a8c39c3ddc6dda77e80208ff34b80f8b3a580ea",
+      "replacement": "Later accounts report a post office in 1839 using the older community name. They do not establish its exact first operating day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "723177858a729ed78131383c5fcb88d3b6bd82b1c63fefe18296bb325109b147",
+      "replacement": "The March 26, 1919 enabling law required favorable majorities separately in Bethlehem and Lebanon districts, followed by recording and certified copies. The civil-boundary chronology reports voting on April 22. That report does not establish both required favorable results or completion of recording; approval and completed incorporation were different stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "0e829b53ee96f8edb2ce07c844b6b6c16b70ebced0ca92a8e1bf3b8d985c9855",
+      "replacement": "The 1919 law required more yes than no votes separately in two parent districts, followed by recorded results. A chronology reports an April 22 vote. The report does not establish that both districts approved or that every recording step was completed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "857e962e65c4f38d6eee6031a2088318ba5be81d81a5d212c4be914cc6a09f22",
+      "replacement": "The newsletter reports factory development in 1864 and village naming in 1871. The separate postal compilation gives January 3 for the Clarksville-to-Glen Gardner change, without establishing that the village chose its name that day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "857e962e65c4f38d6eee6031a2088318ba5be81d81a5d212c4be914cc6a09f22",
+      "replacement": "The newsletter reports factory development in 1864 and village naming in 1871. The separate postal compilation gives January 3 for the Clarksville-to-Glen Gardner change, without establishing that the village chose its name that day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "f9141a91f2b566aecfdfbef1dedecb11532e55f8102a61572736157209612de4",
+      "replacement": "The postal compilation gives January 3, 1871 for the Clarksville-to-Glen Gardner change. That does not establish the day of the community’s name choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "f9141a91f2b566aecfdfbef1dedecb11532e55f8102a61572736157209612de4",
+      "replacement": "The postal compilation gives January 3, 1871 for the Clarksville-to-Glen Gardner change. That does not establish the day of the community’s name choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "0ae8a6bb48d089f85aafacdb44429d816ccc63be0837f8e71f18936427590947",
+      "replacement": "The March 26, 1919 law required favorable majorities separately in Bethlehem and Lebanon districts. The reported April 22 voting does not establish both required favorable results.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "00787eb4dd79a10114ce79c5a21d2e57aebd32cd6fd108be2631e43ce9ecf0e8",
+      "replacement": "The law required each parent district to vote yes. Voting is reported for April 22, but the report does not establish both required results.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c35d1097cce681b653ddf396509f9098854a10aaf6e9f7b0d076ba0d806196b8",
+      "replacement": "The law required results in township minutes and certified copies sent to the county. Enabling approval and the reported vote do not establish completion of every required step.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "editorial",
+        "1012",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f64ad32d6a623fd88114a202f08be7c70785d4611d2da2340c73933177077248",
+      "replacement": "The law required recorded results as well as votes. Permission to form the borough and a report of voting do not establish that every required step was completed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1013",
+      "path": [
+        "editorial",
+        "1013",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4e3b485d1cccf39db854af6259bd2fce25e2f6a5551f1f4b08ff587a2f6f7ead",
+      "replacement": "The index lists a council resolution on February 11, 1909 and a later Hampton name stage on February 15, without establishing the latter’s exact procedural role. A specialist postal account separately reports March 25 adoption. These institutions reused a name with an older neighborhood history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1013",
+      "path": [
+        "editorial",
+        "1013",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "e814a857a180fd9694d079d9d30345e188c6806e9351e5172ead8e7658f766c0",
+      "replacement": "The council acted on a Hampton title in February 1909, with another name stage listed later that month. Postal use is separately reported in March. These were different steps that reused an older name, without settling its first meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1013",
+      "path": [
+        "editorial",
+        "1013",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "7131e16c87150462514c0a9d41c96a87f4220c7496b44bc6bf54cc17560d180d",
+      "replacement": "The index lists the February 11 resolution and February 15 name stage, without establishing that the latter was a filing day. The postal chronology separately reports March 25 adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1013",
+      "path": [
+        "editorial",
+        "1013",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "7131e16c87150462514c0a9d41c96a87f4220c7496b44bc6bf54cc17560d180d",
+      "replacement": "The index lists the February 11 resolution and February 15 name stage, without establishing that the latter was a filing day. The postal chronology separately reports March 25 adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1013",
+      "path": [
+        "editorial",
+        "1013",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "0f0b852a21c9c08b37da4ecef2efa85d41fd5e10a6139405b82768b75c4fec20",
+      "replacement": "The postal chronology reports March 25, 1909 for adoption of Hampton. This was a separate stage from the borough council’s action.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1013",
+      "path": [
+        "editorial",
+        "1013",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "0f0b852a21c9c08b37da4ecef2efa85d41fd5e10a6139405b82768b75c4fec20",
+      "replacement": "The postal chronology reports March 25, 1909 for adoption of Hampton. This was a separate stage from the borough council’s action.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1013",
+      "path": [
+        "editorial",
+        "1013",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cf42650dce28de7da571226af1cf84221fdb3dd2b3f0db0d77afaac3eb7b5380",
+      "replacement": "The index lists a February 11 resolution and February 15 name stage. The latter’s exact procedural role remains unresolved, separately from the reported postal change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1013",
+      "path": [
+        "editorial",
+        "1013",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cf42650dce28de7da571226af1cf84221fdb3dd2b3f0db0d77afaac3eb7b5380",
+      "replacement": "The index lists a February 11 resolution and February 15 name stage. The latter’s exact procedural role remains unresolved, separately from the reported postal change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c3c2b406c100e57b1a0c90916c375b1bf08c47542560754c17ac74bd53522ed0",
+      "replacement": "Accounts of the bridge need several dates kept apart. A reported 1852 construction year remains unconfirmed by the municipal passage, which instead dates the start of embankment work to 1859. A later essay describes an 1850 map without a High Bridge label; that absence does not establish that nobody used the name. Postal establishment is separately reported for February 19, 1855.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "14270587c5769f0a63084a246568aa2f66b113b337c7e96a7f8b20b5df035fb1",
+      "replacement": "The bridge’s reported 1852 construction year remains uncertain. The municipal history instead dates embankment work to 1859, rather than the bridge’s first completion. An absent label on an 1850 map does not show that nobody used the name. A postal account gives a separate 1855 beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ee34f6e1ad83c6714f9fb4d3c3806d3a957e5bd1404125854e54b42e1931879d",
+      "replacement": "The index dates High Bridge Township’s creation to March 29, 1871. The borough is reported for February 19, 1898, while dissolution of the remaining township is indexed February 24. Exact parent and returned parcels remain unresolved. These changes did not name the bridge anew or settle its construction chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "2a38121c33dff43dabb9eb9abc774a7ff3ce6db59be8855c217b0e86d824a3cf",
+      "replacement": "The township followed in 1871. The borough and the remaining township’s dissolution have different February 1898 dates. The exact parcels involved remain uncertain. Those government stages do not settle every older bridge-naming question.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "984a951d7b02587d2264134db921c52bc1fdcff09322121623570e67b9156fa7",
+      "replacement": "The index records township creation on March 29, 1871. Exact parent parcels remain unresolved; a same-day Tewksbury-to-Clinton transfer was a separate change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "984a951d7b02587d2264134db921c52bc1fdcff09322121623570e67b9156fa7",
+      "replacement": "The index records township creation on March 29, 1871. Exact parent parcels remain unresolved; a same-day Tewksbury-to-Clinton transfer was a separate change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "673fcbde8fd31854890ba6bd625d81118814bf7b6b6322ad82e6aace1c49ee3a",
+      "replacement": "Borough formation and dissolution of the remaining township were separate stages in February 1898. The exact returned parcels remain unresolved; neither stage was a new community naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "673fcbde8fd31854890ba6bd625d81118814bf7b6b6322ad82e6aace1c49ee3a",
+      "replacement": "Borough formation and dissolution of the remaining township were separate stages in February 1898. The exact returned parcels remain unresolved; neither stage was a new community naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "6a45fbf068fbfed8795ca56d1ca1ec8740121e3a8c1df08c71e54470a4668148",
+      "replacement": "The reported 1852 bridge year remains unconfirmed by the municipal passage. Its 1859 date concerns starting embankment work, rather than the bridge’s first completion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "6a5166217527cb080ee99677d19478b2ef01b4614e743a10d76d872538172600",
+      "replacement": "The postal chronology reports establishment on February 19, 1855. That does not independently establish the exact first operating day or the name’s first community use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "editorial",
+        "1014",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "6a5166217527cb080ee99677d19478b2ef01b4614e743a10d76d872538172600",
+      "replacement": "The postal chronology reports establishment on February 19, 1855. That does not independently establish the exact first operating day or the name’s first community use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1003",
+      "path": [
+        "views",
+        "1003",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "eb2fa62fd4651d9d5f2abc75687d097bb9570082299eae59353052833eacd653",
+      "replacement": "Reported colonial map spelling; the original naming occasion and family-versus-ironworking explanation remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1003",
+      "path": [
+        "views",
+        "1003",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "f8d574e164e912a3ffd3fd7c81f14fad0f70d03054f761fbd377ab3065a8c370",
+      "replacement": "The compilation reports postal use of Bloomsbury before borough government, rather than first community naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1003",
+      "path": [
+        "views",
+        "1003",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "343af90de99eb6bb3615fbecc21d763bf46aca8e1059e28355964871a64e256b",
+      "replacement": "Johnson’s Iron Works (locality); Bloomsburg (reported form); Bloomsburgh (reported form); Bethlehem Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1004",
+      "path": [
+        "views",
+        "1004",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "739e9d84d1e3f6c6242723cab5715c707f8fb4f8ce23d354bd0180242faffcc3",
+      "replacement": "Neighbor’s Mill (locality); California (community name); Lower Valley (postal identity); Lebanon Township (parent); Tewksbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1005",
+      "path": [
+        "views",
+        "1005",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "65a552ec84a94eb6b106632d140d8cb2a4408c6cec891069e8803640a36e605a",
+      "replacement": "The later account places the village identity before the township’s reuse of Clinton.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1005",
+      "path": [
+        "views",
+        "1005",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b22ff68b37f9d32df60aa22e9aa5dc2642dfb0fb84fa54036bc6f4639e9cb672",
+      "replacement": "Hunt’s Mills; Clinton village; Reagan (withdrawn proposal); Clinton Township (parent); Franklin Township (parent); Union Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "65a552ec84a94eb6b106632d140d8cb2a4408c6cec891069e8803640a36e605a",
+      "replacement": "The later account places the village identity before the township’s reuse of Clinton.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "c61d9fccb4e9934800826f1df396502e13847c67445d533ced7d9ef5c52c43c1",
+      "replacement": "Year of statutory annual-meeting schedule; exact scheduled day unresolved",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "14e8a8be54095d2efe0309afcb7dd4759dec847d1c353578bcc0282253d8a12f",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "2d8a060e98b1999ecc50cc7877c87d52ee985d00d6bcc61e4fa87ec4269ea33d",
+      "replacement": "Statutorily prescribed operation day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "a6c4eecd88f037dcc537e0c9b4b3e5a02ca257825161fa22e5dabaa24d97e6b5",
+      "replacement": "Curcio reports a March gathering at Jones Tavern concerning the township; its exact day and legal role remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e88e776a68160ae306559b9fce5a4687d6e83a18ad0422ca81fe260163f6825e",
+      "replacement": "Clinton village (name source); Hunt’s Mills (older village); Lebanon Township (parent); Town of Clinton (separate municipality); Clinton Station (locality); Annandale (locality); Reagan (withdrawn proposal)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "dc16d54c7f2aa9095f44bd2fe4fe5579eebc595ec06d917396ee324b2dc832f8",
+      "replacement": "Legislative naming and passage",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "80298d2aace492d63d1ef759de0a5e76220f4f51d8c48725a1eccd74f44deac3",
+      "replacement": "The division act naming Raritan passed February 23, 1838.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "e525dfac646de7191fa6f4b9252473e2528d9f3507d2c90d064812d099a9c5e5",
+      "replacement": "Statutory operation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "634bab914d59217e2ab309f747b6deb2d0ca6c34c2e22ec43a621bae793c487a",
+      "replacement": "The township adopted the older Delaware River name, traditionally associated with Baron De La Warr in later place-name accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0af108dde10754326358f0d2ea1bb0f25ebbaab6b27d426678022b9ec3611424",
+      "replacement": "Delaware River (name source); Amwell Township (parent); Raritan Township (sibling division); Stockton Borough (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1008",
+      "path": [
+        "views",
+        "1008",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "06c388bdb2cc41774010bb7aa580067891010103d9da52dab148cbd9089a652d",
+      "replacement": "Goodspeed quotes the June 8, 1708 Amwell patent through a 1929 published transcription.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1008",
+      "path": [
+        "views",
+        "1008",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "304dda51d825e3fbc901083e04294f94f267941b8da4f62cb7ac2ac5beabc087",
+      "replacement": "Statutorily prescribed operation day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1008",
+      "path": [
+        "views",
+        "1008",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a431dde14f87be8c00f4670ac0659480625a85ae8cdd01d59e3cfef46e4063b8",
+      "replacement": "Amwell Township (parent); Mount Amwell (estate); West Amwell Township (sibling division)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "views",
+        "1009",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "7fa43fd29e5adc07a894dd0e4aa42ed5e030a6c39eb331128db64760434c647f",
+      "replacement": "The civil-boundary reference reports borough confirmation in 1931.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "views",
+        "1009",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "dcdd8c8b3b5bb2aabf539df336fa1d9d090c46922334ed9edfd4b7ea582c4eaf",
+      "replacement": "Later local history associates the community with Samuel Fleming. The first use of the name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1009",
+      "path": [
+        "views",
+        "1009",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3e6dfb40642bef4e3599ab279c8bd38101441bcbffa5ed863bd4166354b7a92f",
+      "replacement": "Fleming’s (reported locality name); Flemington Town (earlier government form); Flemington Village (earlier government form); Raritan Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1010",
+      "path": [
+        "views",
+        "1010",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "afb8d235ea0384f14c158b5ad6000148a4139416f48ffd99a982633994cc2876",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1010",
+      "path": [
+        "views",
+        "1010",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0a9d8fd149976fc3d5e34676b3f7891dc410d3ba3a1676977f7c49f7d8747efd",
+      "replacement": "Kingwood Township (parent); Quakertown (community); Pittstown (community); Cherryville (community); Dogtown (community form)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1011",
+      "path": [
+        "views",
+        "1011",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "06743236b4e1f6584da6b10a47ea82a8690b286e7b2681a679a714ce57ce1af2",
+      "replacement": "Plan proponents unidentified in the nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1011",
+      "path": [
+        "views",
+        "1011",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "012f95860689b709a84191fce9423b9fdc5414b37ace9e7a308b606c470cd0de",
+      "replacement": "Calvin’s Ferry; Sherrard’s Ferry; Alexandria (projected town); Alexandriaville (reported locality form); Sunbeam (separate proposed plan name); Alexandria Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "77550c1dc24a34954f9f800ec9eeebd4288490a04717f722ccd58501c3dd731c",
+      "replacement": "Later postal and genealogical accounts report the Clarksville office in 1827.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d480701cb6ee1bf2df175c5204d2e68a9386e10c957f778ca431f733d4e7f1fb",
+      "replacement": "The 1971 newsletter reports village naming as Glen Gardner in 1871 in connection with the Gardner industries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "15fd4d26237093063d598a9f3c0679e132ca660225eacbbba71dcc6cb6736e99",
+      "replacement": "Walker’s postal compilation reports the change to Glen Gardner on January 3, 1871.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "events",
+        5,
+        "after"
+      ],
+      "expected_sha256": "84e9386dabe60f752ee5f349b8e8dd3d73e16ebaefb65900d34fd4edd18ee8b3",
+      "replacement": "District adoption votes reported; completed results unresolved",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "sources",
+        "S1353",
+        "author"
+      ],
+      "expected_sha256": "9802ef2164fa6b8f3806bed613d53104de977fb41b9a729c312d5b3f457da743",
+      "replacement": "Once Removed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "sources",
+        "S1353",
+        "title"
+      ],
+      "expected_sha256": "54200f9de14f572fdeea0aed3e393e0bebe908d798b44a9a90ebe42e3dbbd61b",
+      "replacement": "Eveland's Tavern, Sodom, Clarksville and Glen Gardner",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f2afa54d72fc984f9b97d2b5425847a43458a9ccee3a410ada59ee66eca98837",
+      "replacement": "Eveland’s Tavern (locality); Spruce Run Mills (locality); Sodom (reported locality); Clarksville (postal predecessor); Bethlehem Township (parent); Lebanon Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1013",
+      "path": [
+        "views",
+        "1013",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "023a311b4a1bc7057ca8dee5b652ae1f1fa90b45c180d3c366a7cf691654d04b",
+      "replacement": "Post Office Department, as reported by the postal chronology",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1013",
+      "path": [
+        "views",
+        "1013",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "06dfbda6246389eb2c8b83453d7bdb76c0854fcfbf135ff9c6bd1047db441d86",
+      "replacement": "Junction Borough (former name); Hampton Junction (railway community); New Hampton (distinct nearby village); Bethlehem Township (parent); Lebanon Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "39a85c9c85b5dc299d06a9ea72136259f4967fb7be75a2f138989bb67b90657b",
+      "replacement": "Reported construction year; exact date unresolved",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "22f2c186d9fac6be339fb9be12eddc43d55f781a5c19e50f4cc4d9376f78a2f8",
+      "replacement": "Reported bridge-construction year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a9a9710cedb00ddd28e0ef0fcdbe3c7db25f1df2861ee7b8a09d3c54884fdb64",
+      "replacement": "An 1852 bridge-construction year is reported, but the municipal history does not supply that date. It instead dates the start of embankment work to 1859.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "21342b8d046dda538bd6a4f289314993e61e83386f5c993e96c486aa9e5c4f12",
+      "replacement": "The landmark explains the community name; exact construction and first name-use dates remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "0c6569f8cb8cad2f1d27eb403a5fbb818c51b193fcfc0aae19d93848d421d2fe",
+      "replacement": "Post Office Department, as reported by the postal compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "10dedbca3a2d45c06c70598a97270dc6fd80574ce1f567984335660ab88ee77b",
+      "replacement": "High Bridge Township (earlier government); South Branch (river); Clinton Township (parent context); Lebanon Township (parent context)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1003",
+      "path": [
+        "views",
+        "1003",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "eb2fa62fd4651d9d5f2abc75687d097bb9570082299eae59353052833eacd653",
+      "replacement": "Reported colonial map spelling; the original naming occasion and family-versus-ironworking explanation remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1003",
+      "path": [
+        "views",
+        "1003",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "f8d574e164e912a3ffd3fd7c81f14fad0f70d03054f761fbd377ab3065a8c370",
+      "replacement": "The compilation reports postal use of Bloomsbury before borough government, rather than first community naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1003",
+      "path": [
+        "views",
+        "1003",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "343af90de99eb6bb3615fbecc21d763bf46aca8e1059e28355964871a64e256b",
+      "replacement": "Johnson’s Iron Works (locality); Bloomsburg (reported form); Bloomsburgh (reported form); Bethlehem Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1004",
+      "path": [
+        "views",
+        "1004",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "739e9d84d1e3f6c6242723cab5715c707f8fb4f8ce23d354bd0180242faffcc3",
+      "replacement": "Neighbor’s Mill (locality); California (community name); Lower Valley (postal identity); Lebanon Township (parent); Tewksbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1005",
+      "path": [
+        "views",
+        "1005",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "65a552ec84a94eb6b106632d140d8cb2a4408c6cec891069e8803640a36e605a",
+      "replacement": "The later account places the village identity before the township’s reuse of Clinton.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1005",
+      "path": [
+        "views",
+        "1005",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b22ff68b37f9d32df60aa22e9aa5dc2642dfb0fb84fa54036bc6f4639e9cb672",
+      "replacement": "Hunt’s Mills; Clinton village; Reagan (withdrawn proposal); Clinton Township (parent); Franklin Township (parent); Union Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "65a552ec84a94eb6b106632d140d8cb2a4408c6cec891069e8803640a36e605a",
+      "replacement": "The later account places the village identity before the township’s reuse of Clinton.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "c61d9fccb4e9934800826f1df396502e13847c67445d533ced7d9ef5c52c43c1",
+      "replacement": "Year of statutory annual-meeting schedule; exact scheduled day unresolved",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "14e8a8be54095d2efe0309afcb7dd4759dec847d1c353578bcc0282253d8a12f",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "2d8a060e98b1999ecc50cc7877c87d52ee985d00d6bcc61e4fa87ec4269ea33d",
+      "replacement": "Statutorily prescribed operation day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "a6c4eecd88f037dcc537e0c9b4b3e5a02ca257825161fa22e5dabaa24d97e6b5",
+      "replacement": "Curcio reports a March gathering at Jones Tavern concerning the township; its exact day and legal role remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1006",
+      "path": [
+        "views",
+        "1006",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e88e776a68160ae306559b9fce5a4687d6e83a18ad0422ca81fe260163f6825e",
+      "replacement": "Clinton village (name source); Hunt’s Mills (older village); Lebanon Township (parent); Town of Clinton (separate municipality); Clinton Station (locality); Annandale (locality); Reagan (withdrawn proposal)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "dc16d54c7f2aa9095f44bd2fe4fe5579eebc595ec06d917396ee324b2dc832f8",
+      "replacement": "Legislative naming and passage",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "80298d2aace492d63d1ef759de0a5e76220f4f51d8c48725a1eccd74f44deac3",
+      "replacement": "The division act naming Raritan passed February 23, 1838.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "e525dfac646de7191fa6f4b9252473e2528d9f3507d2c90d064812d099a9c5e5",
+      "replacement": "Statutory operation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "634bab914d59217e2ab309f747b6deb2d0ca6c34c2e22ec43a621bae793c487a",
+      "replacement": "The township adopted the older Delaware River name, traditionally associated with Baron De La Warr in later place-name accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1007",
+      "path": [
+        "views",
+        "1007",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0af108dde10754326358f0d2ea1bb0f25ebbaab6b27d426678022b9ec3611424",
+      "replacement": "Delaware River (name source); Amwell Township (parent); Raritan Township (sibling division); Stockton Borough (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1008",
+      "path": [
+        "views",
+        "1008",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "06c388bdb2cc41774010bb7aa580067891010103d9da52dab148cbd9089a652d",
+      "replacement": "Goodspeed quotes the June 8, 1708 Amwell patent through a 1929 published transcription.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1008",
+      "path": [
+        "views",
+        "1008",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "304dda51d825e3fbc901083e04294f94f267941b8da4f62cb7ac2ac5beabc087",
+      "replacement": "Statutorily prescribed operation day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1008",
+      "path": [
+        "views",
+        "1008",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a431dde14f87be8c00f4670ac0659480625a85ae8cdd01d59e3cfef46e4063b8",
+      "replacement": "Amwell Township (parent); Mount Amwell (estate); West Amwell Township (sibling division)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "views",
+        "1009",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "7fa43fd29e5adc07a894dd0e4aa42ed5e030a6c39eb331128db64760434c647f",
+      "replacement": "The civil-boundary reference reports borough confirmation in 1931.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "views",
+        "1009",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "dcdd8c8b3b5bb2aabf539df336fa1d9d090c46922334ed9edfd4b7ea582c4eaf",
+      "replacement": "Later local history associates the community with Samuel Fleming. The first use of the name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1009",
+      "path": [
+        "views",
+        "1009",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3e6dfb40642bef4e3599ab279c8bd38101441bcbffa5ed863bd4166354b7a92f",
+      "replacement": "Fleming’s (reported locality name); Flemington Town (earlier government form); Flemington Village (earlier government form); Raritan Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1010",
+      "path": [
+        "views",
+        "1010",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "afb8d235ea0384f14c158b5ad6000148a4139416f48ffd99a982633994cc2876",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1010",
+      "path": [
+        "views",
+        "1010",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0a9d8fd149976fc3d5e34676b3f7891dc410d3ba3a1676977f7c49f7d8747efd",
+      "replacement": "Kingwood Township (parent); Quakertown (community); Pittstown (community); Cherryville (community); Dogtown (community form)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1011",
+      "path": [
+        "views",
+        "1011",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "06743236b4e1f6584da6b10a47ea82a8690b286e7b2681a679a714ce57ce1af2",
+      "replacement": "Plan proponents unidentified in the nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1011",
+      "path": [
+        "views",
+        "1011",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "012f95860689b709a84191fce9423b9fdc5414b37ace9e7a308b606c470cd0de",
+      "replacement": "Calvin’s Ferry; Sherrard’s Ferry; Alexandria (projected town); Alexandriaville (reported locality form); Sunbeam (separate proposed plan name); Alexandria Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "77550c1dc24a34954f9f800ec9eeebd4288490a04717f722ccd58501c3dd731c",
+      "replacement": "Later postal and genealogical accounts report the Clarksville office in 1827.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d480701cb6ee1bf2df175c5204d2e68a9386e10c957f778ca431f733d4e7f1fb",
+      "replacement": "The 1971 newsletter reports village naming as Glen Gardner in 1871 in connection with the Gardner industries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "15fd4d26237093063d598a9f3c0679e132ca660225eacbbba71dcc6cb6736e99",
+      "replacement": "Walker’s postal compilation reports the change to Glen Gardner on January 3, 1871.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "events",
+        5,
+        "after"
+      ],
+      "expected_sha256": "84e9386dabe60f752ee5f349b8e8dd3d73e16ebaefb65900d34fd4edd18ee8b3",
+      "replacement": "District adoption votes reported; completed results unresolved",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "sources",
+        "S1353",
+        "author"
+      ],
+      "expected_sha256": "9802ef2164fa6b8f3806bed613d53104de977fb41b9a729c312d5b3f457da743",
+      "replacement": "Once Removed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "sources",
+        "S1353",
+        "title"
+      ],
+      "expected_sha256": "54200f9de14f572fdeea0aed3e393e0bebe908d798b44a9a90ebe42e3dbbd61b",
+      "replacement": "Eveland's Tavern, Sodom, Clarksville and Glen Gardner",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1012",
+      "path": [
+        "views",
+        "1012",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f2afa54d72fc984f9b97d2b5425847a43458a9ccee3a410ada59ee66eca98837",
+      "replacement": "Eveland’s Tavern (locality); Spruce Run Mills (locality); Sodom (reported locality); Clarksville (postal predecessor); Bethlehem Township (parent); Lebanon Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1013",
+      "path": [
+        "views",
+        "1013",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "023a311b4a1bc7057ca8dee5b652ae1f1fa90b45c180d3c366a7cf691654d04b",
+      "replacement": "Post Office Department, as reported by the postal chronology",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1013",
+      "path": [
+        "views",
+        "1013",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "06dfbda6246389eb2c8b83453d7bdb76c0854fcfbf135ff9c6bd1047db441d86",
+      "replacement": "Junction Borough (former name); Hampton Junction (railway community); New Hampton (distinct nearby village); Bethlehem Township (parent); Lebanon Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "39a85c9c85b5dc299d06a9ea72136259f4967fb7be75a2f138989bb67b90657b",
+      "replacement": "Reported construction year; exact date unresolved",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "22f2c186d9fac6be339fb9be12eddc43d55f781a5c19e50f4cc4d9376f78a2f8",
+      "replacement": "Reported bridge-construction year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a9a9710cedb00ddd28e0ef0fcdbe3c7db25f1df2861ee7b8a09d3c54884fdb64",
+      "replacement": "An 1852 bridge-construction year is reported, but the municipal history does not supply that date. It instead dates the start of embankment work to 1859.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "21342b8d046dda538bd6a4f289314993e61e83386f5c993e96c486aa9e5c4f12",
+      "replacement": "The landmark explains the community name; exact construction and first name-use dates remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "0c6569f8cb8cad2f1d27eb403a5fbb818c51b193fcfc0aae19d93848d421d2fe",
+      "replacement": "Post Office Department, as reported by the postal compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1014",
+      "path": [
+        "views",
+        "1014",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "10dedbca3a2d45c06c70598a97270dc6fd80574ce1f567984335660ab88ee77b",
+      "replacement": "High Bridge Township (earlier government); South Branch (river); Clinton Township (parent context); Lebanon Township (parent context)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]

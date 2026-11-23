@@ -19,8 +19,8 @@
     },
     {
       "path": "primary/index.html",
-      "bytes": 7442118,
-      "sha256": "592b9038a8b29353f315454ba892a6fa09407a84930a456acc52442c904b1943"
+      "bytes": 7441750,
+      "sha256": "242421a364d35175daf6da3a5f6f9b96a26ba1773f6af695279b46cc9f81a8b1"
     },
     {
       "path": "robots.txt",
@@ -34,8 +34,8 @@
     },
     {
       "path": "young-explorers/index.html",
-      "bytes": 7509492,
-      "sha256": "dd65bfca81b4f383c4b5aa5ebf8a05555b66bb06b1e9e949cf41ae6d559d03a3"
+      "bytes": 7509432,
+      "sha256": "46b7a42538c73b202181e291722c02ab9f200e23a3b98d37ce8eaccfb2aa01ec"
     }
   ]
 }
