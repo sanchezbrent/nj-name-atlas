@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_13",
+  "checkpoint": "PUBLIC_COPY_14",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -138,7 +138,19 @@
     "1821",
     "1201",
     "1202",
-    "1203"
+    "1203",
+    "1204",
+    "1205",
+    "1206",
+    "1207",
+    "1208",
+    "1209",
+    "1210",
+    "1211",
+    "1212",
+    "1213",
+    "1214",
+    "1215"
   ],
   "changes": [
     {
@@ -58461,6 +58473,3811 @@
       ],
       "expected_sha256": "ddcd9810346f154131c62485dec8cb42cb2656cd283699c10234c291537e7fc5",
       "replacement": "New Market (earlier station identity); Piscataway Township (parent); Borough Commission of Dunellen (earlier government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "efe06957a8e63cec7d9a90b8e44e211bda0209fe56ae342829cb5f104a11e7d4",
+      "replacement": "The inherited Brunswick root reaches through New Brunswick into an older royal naming tradition. That background does not establish a separate direct dedication to a German place in 1860. The township name applied to territory containing older communities, including historical Old Bridge village, Washington/South River, Spotswood, Helmetta and part of Milltown. That Old Bridge village differs from the later municipality called Old Bridge Township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "8a508184eeafdae0c38a0fc5e61540c0787416ab5e0a8b1c856a7b0b672a400c",
+      "replacement": "East Brunswick’s 1860 creation was one government stage. Later borough stages for Helmetta, South River and Spotswood changed the government and boundaries of constituent communities. They were separate developments, rather than new first adoptions of East Brunswick’s name. No separately dated community naming occasion is established beyond the legal creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "be7ca1aa0f33b77e106927aab8ee085261299609fa91832916fc3b4740280f4f",
+      "replacement": "Some communities later had separate borough histories, including Helmetta, South River and Spotswood. Those changes affected local government and boundaries while East Brunswick kept its name. The township’s 1860 creation was one event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "716f4dfcc9f751748e317364b9c4ad2df6130625869bc136951e6f6ef55a29e7",
+      "replacement": "The indexed February 28, 1860 act creates the township from North Brunswick and Monroe. It applies a directional Brunswick name to the new township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "716f4dfcc9f751748e317364b9c4ad2df6130625869bc136951e6f6ef55a29e7",
+      "replacement": "The indexed February 28, 1860 act creates the township from North Brunswick and Monroe. It applies a directional Brunswick name to the new township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        1,
+        "label"
+      ],
+      "expected_sha256": "2806d8b0ebdb6f72465141eb8f3f1214a401393d58a48fa82a644c2613a29a79",
+      "replacement": "The same law establishes township government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        1,
+        "label"
+      ],
+      "expected_sha256": "2806d8b0ebdb6f72465141eb8f3f1214a401393d58a48fa82a644c2613a29a79",
+      "replacement": "The same law establishes township government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "212577568a58af8d982f73649fa9b1696ea063aba0438ef9cd07e2a89df7eea3",
+      "replacement": "The February 28, 1860 law names and creates East Brunswick. This is the same creation act, rather than a second incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "212577568a58af8d982f73649fa9b1696ea063aba0438ef9cd07e2a89df7eea3",
+      "replacement": "The February 28, 1860 law names and creates East Brunswick. This is the same creation act, rather than a second incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "7c744fd7c08412dd1cf027912370bf056f7869438750101b67b55fdedcae34ba",
+      "replacement": "The index applies the general 1896 separation to Helmetta. This was a later government stage, rather than the first adoption of its community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "7c744fd7c08412dd1cf027912370bf056f7869438750101b67b55fdedcae34ba",
+      "replacement": "The index applies the general 1896 separation to Helmetta. This was a later government stage, rather than the first adoption of its community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "7fd37d509ba030291fbea9578d6020af877068e4e88226461a76594275b4be0f",
+      "replacement": "The index gives May 12 for adoption after April enabling legislation. A separate May 18 reference does not establish filing or a first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "7fd37d509ba030291fbea9578d6020af877068e4e88226461a76594275b4be0f",
+      "replacement": "The index gives May 12 for adoption after April enabling legislation. A separate May 18 reference does not establish filing or a first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "a803891838a7b3f7c81aa7ee5e78fef9eb059927328bc263a101a56003781a68",
+      "replacement": "The index dates township creation to February 28, 1860. The law applied a directional name to territory from North Brunswick and Monroe.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cd1c9c4b13e236316beb694935c52cf9a8eaf4001b001ae59b36efd5481656f8",
+      "replacement": "The index dates township creation to February 28, 1860. The law applied a directional name to territory from North Brunswick and Monroe.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "0e282680ac78b40c31545cd58ac6b3c2a6f27165a1eb12aa7515373b991ec18a",
+      "replacement": "Helmetta’s commission and later separation, South River’s borough creation and Spotswood’s adoption were different legal stages. Inferred filing dates and reported votes do not establish completion of every local procedure.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "editorial",
+        "1204",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "2a569d47b090476ca87c72436897c394b91cbd687a222292263476503b3e5562",
+      "replacement": "The new township took land from North Brunswick and Monroe. Its inherited Brunswick name does not establish a separate new dedication overseas.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "004180cb3274677bc47f177694bd7350b28931ac1b988e86f9f6f4fd8fe69120",
+      "replacement": "A printed notice reports voting on November 2, 1954 and a state filing on November 16. Edison prevailed; Nixon did not become an adopted intermediate name. Exact vote totals and a claimed November 10 council transition remain unconfirmed. The supported outcome does not establish those separate details.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "2490185bcf5512443621d108e3ee8f90bd38de140092a3ca8b654a9acad1050a",
+      "replacement": "The index separately lists a December 8 seal resolution and December 13 record. Their precise relationship remains uncertain. The campaigns, vote, filing and seal were parts of one changing public identity, rather than interchangeable dates for the name taking effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "824496b8255db604ef327f65cc76ab9054866f6c75f9d4ea50a6e2643c2cbec5",
+      "replacement": "Exact vote numbers and a claimed November 10 start remain unconfirmed. Later December records concern a seal and filing, whose relationship is uncertain. Those details do not establish another name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "97718a29479120da48c8d07b0fc5f2169eb53ed67c94746de05c034b29e0ff57",
+      "replacement": "The printed notice reports the November 2 vote, and the museum account describes Edison prevailing over Nixon. Exact vote totals remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "97718a29479120da48c8d07b0fc5f2169eb53ed67c94746de05c034b29e0ff57",
+      "replacement": "The printed notice reports the November 2 vote, and the museum account describes Edison prevailing over Nixon. Exact vote totals remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0ee432a25e58403f32e5374daf70d7b66c7b7bc7a8b069b21741b66b01b71b4b",
+      "replacement": "The printed notice reports November 16 filing, following the November 2 vote. A claimed November 10 operational transition remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0ee432a25e58403f32e5374daf70d7b66c7b7bc7a8b069b21741b66b01b71b4b",
+      "replacement": "The printed notice reports November 16 filing, following the November 2 vote. A claimed November 10 operational transition remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "80b0cf76ac3aae54074ffb3a47afcb6bd71d3902ca0436bcec4b1182775909af",
+      "replacement": "The museum account describes the 1954 campaign. Exact proposal dates and vote totals remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "80b0cf76ac3aae54074ffb3a47afcb6bd71d3902ca0436bcec4b1182775909af",
+      "replacement": "The museum account describes the 1954 campaign. Exact proposal dates and vote totals remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "5d351e312a6b98cb23ac732c1256f1537a7cc92ed1bff86dbba388cd0a9a6657",
+      "replacement": "The printed notice reports November 2, 1954 voting and November 16 filing. A claimed November 10 operational transition remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "5d351e312a6b98cb23ac732c1256f1537a7cc92ed1bff86dbba388cd0a9a6657",
+      "replacement": "The printed notice reports November 2, 1954 voting and November 16 filing. A claimed November 10 operational transition remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "23d3adb40182bf3343da8b7e0a24d3653e8117e744e2978e4c22a3d3a148dbbd",
+      "replacement": "The index lists December 8 seal action and December 13 filing. Their precise relationship, exact vote totals and a claimed November start day remain unconfirmed; these do not establish another rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "editorial",
+        "1205",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "e72c20b72ff898a7971ab72d705770b4b9900db332f6835e0128faf3524394c4",
+      "replacement": "The index lists December 8 seal action and December 13 filing. Their precise relationship, exact vote totals and a claimed November start day remain unconfirmed; these do not establish another rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1206",
+      "path": [
+        "editorial",
+        "1206",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d4cba44e7ad73eb2e276801fb1e6f966921a09665afce0d622cd3b86a01f3369",
+      "replacement": "Helme and Etta seem to fit together in Helmetta, but the precise word construction and first name chooser remain unknown. Railroad Mills was another identity associated with the industrial settlement. No exact year is established for Helmetta replacing or joining that usage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1206",
+      "path": [
+        "editorial",
+        "1206",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e32f9df9fb67aebdd53cc473acb27b701f187bb0508884c208171f7f54574e4d",
+      "replacement": "The index lists March 10 voting separately from an inferred March 20 filing and effect. The inference does not establish a special local act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1206",
+      "path": [
+        "editorial",
+        "1206",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e32f9df9fb67aebdd53cc473acb27b701f187bb0508884c208171f7f54574e4d",
+      "replacement": "The index lists March 10 voting separately from an inferred March 20 filing and effect. The inference does not establish a special local act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1206",
+      "path": [
+        "editorial",
+        "1206",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c03018a3beeee28ad41917bd97cb3e37a114b0e73b59cfe8a7fb0ac4721455a3",
+      "replacement": "The guide lists a March 10 vote and an inferred March 20 filing and start. Those were different stages; March 20 does not establish a separate special law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1207",
+      "path": [
+        "editorial",
+        "1207",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "9fa99f71ade25794313c0053c85ada155fe71e6ee9dfb1e47c35a52d268bd82a",
+      "replacement": "Highland Park’s name presents an image of high ground and an attractive residential setting. Municipal history describes a development around 1870, followed by promotion emphasizing elevation and views. The exact developer, individual coiner and first naming date remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1207",
+      "path": [
+        "editorial",
+        "1207",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "5fc4669a4047f788d02b8295398a8f13875a4333abb4e0becef7a8a1e1fa3246",
+      "replacement": "High ground and a park-like setting help explain Highland Park. Local history describes a residential development around 1870 and later advertising about its views. The exact first name chooser and naming day remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1207",
+      "path": [
+        "editorial",
+        "1207",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "1af61750f5debb70f621280c32f7ce26df01435dd176adf309c52e342c79a415",
+      "replacement": "Local history reports 1870s promotion, including a possible 1872 advertisement. That broad account does not establish an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1207",
+      "path": [
+        "editorial",
+        "1207",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "1af61750f5debb70f621280c32f7ce26df01435dd176adf309c52e342c79a415",
+      "replacement": "Local history reports 1870s promotion, including a possible 1872 advertisement. That broad account does not establish an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1207",
+      "path": [
+        "editorial",
+        "1207",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "91485ab8b24dab36627c2246b36e46768399991dc9cda25d11f9aed99027aa69",
+      "replacement": "The local account describes East New Brunswick station in 1836 and a service change in 1838. Those transport stages do not establish a single official rename to Highland Park.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1207",
+      "path": [
+        "editorial",
+        "1207",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "91485ab8b24dab36627c2246b36e46768399991dc9cda25d11f9aed99027aa69",
+      "replacement": "The local account describes East New Brunswick station in 1836 and a service change in 1838. Those transport stages do not establish a single official rename to Highland Park.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "457d543d385dfc98a0df4f5deb0680691cd1eea4113effb08dcde5e3073ef0f3",
+      "replacement": "Buckelew’s Mills and West’s Turnout belong to the area’s older local identities. Jamesburgh is another reported spelling. A “James B.” abbreviation story, precise 1849–1850 railway or postal dates and a claimed 1893 removal of the final h remain unconfirmed. They do not establish a single exact sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "0a3d3b2d1b8c919b628c5bb2614e9dc5e642e711a5bc563addb58ce34e77fea6",
+      "replacement": "The dates do not quite line up. The account places school construction in 1846 but community use after 1847, without a separate dedication date. Older local names include Buckelew’s Mills and West’s Turnout. A “James B.” story and some railway and spelling-change dates remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "484c9a55bc2873e93d4411ca97dfd2fbe8696db30fc9f9634e6d913ee0ae4fda",
+      "replacement": "The nomination reports 1846 school construction and community use after 1847, without separately dating the dedication. These do not establish two dedication days.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "484c9a55bc2873e93d4411ca97dfd2fbe8696db30fc9f9634e6d913ee0ae4fda",
+      "replacement": "The nomination reports 1846 school construction and community use after 1847, without separately dating the dedication. These do not establish two dedication days.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "36d1f5e49608fee94e1fa36a3b94f52a64f8c8ca1657424f55b2c818c02667fe",
+      "replacement": "The index separates March 19 filing from March 15 voting under general commission law. The vote and filing were later stages for an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "36d1f5e49608fee94e1fa36a3b94f52a64f8c8ca1657424f55b2c818c02667fe",
+      "replacement": "The index separates March 19 filing from March 15 voting under general commission law. The vote and filing were later stages for an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cc34b430d7c36545c60931946f5300c4cb9d0ae9d7dfd45b40d57d9d26e859e0",
+      "replacement": "The index lists March 15, 1887 voting, March 19 filing and effect, and an April 15, 1915 revival. These were different government stages, without an established exact first meeting date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cc34b430d7c36545c60931946f5300c4cb9d0ae9d7dfd45b40d57d9d26e859e0",
+      "replacement": "The index lists March 15, 1887 voting, March 19 filing and effect, and an April 15, 1915 revival. These were different government stages, without an established exact first meeting date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "editorial",
+        "1208",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "5f17ee791f35bb751ad938e1d97c011377e5bbb09d4e3b51176d11d11cd4b17a",
+      "replacement": "The nomination reports railway construction in 1851–1853. Earlier train or mail naming dates and a reported removal of the final h remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "272de34bd80510d198eda287c99760935978d83fd4b27c6c02dc8c89c5f3d21c",
+      "replacement": "Metuchen’s name survives in several spellings of an older Indigenous place-name. Robert S. Grumet’s gazetteer reports Matockshoning in a deed dated September 14, 1677, marking a Woodbridge–Piscataway boundary point. Later forms include Matuchen, Mettuchinge and Metuchin. This attributed deed use does not establish the name’s first spoken beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0e49ff509d513ef72a4f1f026da5348458d4fc9c477b20efcd0a26cb592c8c6d",
+      "replacement": "Metuchen has travelled through several spellings. Robert S. Grumet’s gazetteer reports Matockshoning in a 1677 deed and later forms such as Matuchen and Metuchin. A reported written use does not establish when people first spoke the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "2003378d33b6316dfec1475bc8d721fce0ef70fae93fde674bb320ef0c2e912a",
+      "replacement": "Grumet reports the name at a Woodbridge–Piscataway boundary point in the September 14, 1677 deed. That attributed written use does not establish first spoken use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "2003378d33b6316dfec1475bc8d721fce0ef70fae93fde674bb320ef0c2e912a",
+      "replacement": "Grumet reports the name at a Woodbridge–Piscataway boundary point in the September 14, 1677 deed. That attributed written use does not establish first spoken use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "9b52b576795201af884954dcb3a76b1e78caa8681899e117606de806dffd160e",
+      "replacement": "The borough act used an older place-name for territory from historical Raritan Township, later Edison. The original proposer and details of a failed 1889 proposal remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "9b52b576795201af884954dcb3a76b1e78caa8681899e117606de806dffd160e",
+      "replacement": "The borough act used an older place-name for territory from historical Raritan Township, later Edison. The original proposer and details of a failed 1889 proposal remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "84cc86b4453f96b553ca5f62ada0710589c6efb417a2cbe2959eab6fdf48f30d",
+      "replacement": "Grumet reports Matockshoning at a Woodbridge–Piscataway boundary point on September 14, 1677. That attributed use does not establish the first spoken beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "84cc86b4453f96b553ca5f62ada0710589c6efb417a2cbe2959eab6fdf48f30d",
+      "replacement": "Grumet reports Matockshoning at a Woodbridge–Piscataway boundary point on September 14, 1677. That attributed use does not establish the first spoken beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "afeb6df4ae695e5411c4c7a349a23e54d628cce7a477a943fb89768b1eb56363",
+      "replacement": "The gazetteer reports Matockshoning, Matuchen, Mettuchinge and Metuchin. These written forms do not establish a sequence of official borough renames.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "dfa7611f31c60880bc4da5b80839fa8d12cc7adc28ecf050a6fff164ebad7c21",
+      "replacement": "The index separates March 20, 1900 legislation from March 29 county recording. An earlier 1889 proposal reportedly failed; its exact circumstances remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "editorial",
+        "1209",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "dfa7611f31c60880bc4da5b80839fa8d12cc7adc28ecf050a6fff164ebad7c21",
+      "replacement": "The index separates March 20, 1900 legislation from March 29 county recording. An earlier 1889 proposal reportedly failed; its exact circumstances remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2b57fb4ea5e4f896ab14dce57d8a706dcfa77a3f411abfdfaeb90c96a7f6ade4",
+      "replacement": "Lincoln was an earlier locality identity in the area. A reported 1898 monument dedication remains unconfirmed and does not establish the whole community’s naming date. The borough grew out of Piscataway Township territory.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a06166db2eac59265312f3a71438ea5f4221cf0de100047308f2f3eca55293e9",
+      "replacement": "Lincoln was an older locality name here. A reported 1898 monument dedication remains unconfirmed and does not establish when the whole community received its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "8838136d4af06e321dde7823fcfe571f1a0cc669455a75bd4685ce67022fe2d7",
+      "replacement": "The borough came from Piscataway territory. Its law, approved April 9, 1913, already says Middlesex, before local adoption. A guide gives May 6 for the vote and start, using an unofficial source for that date. A separate county-book reference does not establish a second start or a direct filing day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ae1f8180a6c01f79a4452341c95be048f530a416abc864a3be68dccaac04f37e",
+      "replacement": "The name Middlesex was already written into the law approved April 9, 1913, before local adoption. A later account of officials choosing it afterward does not fit that chronology. The index gives May 6 for voting and effect, expressly using an unofficial source for that date. Its separate May 24 county-book reference does not establish another start or a direct filing day. The original naming discussion remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "176b7e595774b2eaa1ca9ddde71665c87b5c0afcc1249badc65a770494ff1e5c",
+      "replacement": "The April 9 law uses Middlesex before local adoption. The individual proposer and exact intention in borrowing the county name remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "176b7e595774b2eaa1ca9ddde71665c87b5c0afcc1249badc65a770494ff1e5c",
+      "replacement": "The April 9 law uses Middlesex before local adoption. The individual proposer and exact intention in borrowing the county name remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "734360c7050b77a9a52cfbf5a2faa976beea03bad6dc1e31e0c07b86707d0ceb",
+      "replacement": "The index gives May 6 for voting and effect, expressly attributing the date to an unofficial source. This remains a qualified report.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "734360c7050b77a9a52cfbf5a2faa976beea03bad6dc1e31e0c07b86707d0ceb",
+      "replacement": "The index gives May 6 for voting and effect, expressly attributing the date to an unofficial source. This remains a qualified report.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "eecf5fd0e63024349990b5fa2d4a0862dce78be9e0c8209e9bd937206bd95187",
+      "replacement": "The law was approved April 9, 1913. The index gives May 6 voting and effect using an unofficial source. Its May 24 county entry is reference-only, rather than an established direct filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "editorial",
+        "1210",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "6884ded3a229dca8f6d553a7e1911ee613ea6c02252acfa341d3a776935bd3ab",
+      "replacement": "The law was approved April 9, 1913. The index gives May 6 voting and effect using an unofficial source. Its May 24 county entry is reference-only, rather than an established direct filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "9e6b567c70eff8d2e7987154e2170b6f33e2f95c9c938298585dc76822302fab",
+      "replacement": "Milltown’s name grew out of the mill settlement on Lawrence Brook. A local history credited to the Milltown Historical Society reports Jacob Bergen’s purchase in 1811, followed by an advertisement using Milltown in 1812. Buying property and using a place-name were different events; that attributed advertisement does not establish an exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "de20a4a0acb02546e78fd6907b803395a7a7d45237ba42639a951a1f2592e308",
+      "replacement": "Mills helped give Milltown both its work and its name. Local history reports Jacob Bergen’s purchase of mill property in 1811 and an advertisement using Milltown in 1812. Buying the property did not itself name the place, and the report does not establish the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "92ae39f8308f7bd4a1e1df464cacb128913ce4f4bba7cabca8a0f316a2914aa2",
+      "replacement": "Bergen’s Mill was another local identity. Some later accounts place the rise of Milltown in the 1840s. The earlier advertisement report makes a single clean change in that decade uncertain. Property and settlement names may have overlapped, but their exact relationship remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "236497f51954c09cf9f14746e93adc243635ca565c426a194e8a8ff5d1713a08",
+      "replacement": "Local history reports an 1812 advertisement using Milltown after Bergen’s 1811 purchase. The purchase was a separate property event, rather than an established naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "236497f51954c09cf9f14746e93adc243635ca565c426a194e8a8ff5d1713a08",
+      "replacement": "Local history reports an 1812 advertisement using Milltown after Bergen’s 1811 purchase. The purchase was a separate property event, rather than an established naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d3eed97da7543d53f5f1769de60b5f6579ce3f5efb9426570366c27e10b6ee4e",
+      "replacement": "The index reports January 26 voting before the January 29 county filing. Those were separate stages in creating a commission within North Brunswick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d3eed97da7543d53f5f1769de60b5f6579ce3f5efb9426570366c27e10b6ee4e",
+      "replacement": "The index reports January 26 voting before the January 29 county filing. Those were separate stages in creating a commission within North Brunswick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ee731f2a6aab886d73512a3debe7afe604f9e97e3f79ed5142832fc8dcfce910",
+      "replacement": "Local history reports an 1812 advertisement using Milltown after Bergen’s 1811 purchase. Other histories place a transition in the 1840s. The exact overlap or replacement of the older names remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ee731f2a6aab886d73512a3debe7afe604f9e97e3f79ed5142832fc8dcfce910",
+      "replacement": "Local history reports an 1812 advertisement using Milltown after Bergen’s 1811 purchase. Other histories place a transition in the 1840s. The exact overlap or replacement of the older names remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "a016d82826503cad3f63ad082038a286130e5a4290ddc0d64da863b771ab5177",
+      "replacement": "The commission initially remained within North Brunswick. Later reorganization and territorial changes concerned government, rather than the first adoption of the mill-based name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1211",
+      "path": [
+        "editorial",
+        "1211",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "a016d82826503cad3f63ad082038a286130e5a4290ddc0d64da863b771ab5177",
+      "replacement": "The commission initially remained within North Brunswick. Later reorganization and territorial changes concerned government, rather than the first adoption of the mill-based name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b1f16af57459de16db280b7a218a0c7425c0b6ff15f4b75566fc883a108e1aa7",
+      "replacement": "The township grew from the older South Amboy jurisdiction during a wider reorganization. A later legal chronology also links that period with East Windsor. The exact territorial sequence remains uncertain; those relationships do not establish a new name for every place involved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "1b4135638d7ebc7f99ecff52a626a88e51b2d16bdcfcbf08473b461ca36d62ff",
+      "replacement": "The township came through the older South Amboy area during a wider government reorganization. Its exact boundary relationships remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ad49d0fe4b3c5baa9b80ff01f2f43fef41e7f6428f75231ac310b1b21fce7590",
+      "replacement": "The law scheduled operation and a first town meeting for April 9, 1838. A county history instead reports an April 2 first meeting. The statutory schedule and later report leave the actual meeting date unresolved. Later separations involving East Brunswick, Cranbury and Jamesburg changed the territory while Monroe continued under its own name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "a3aa3be5e97e4edb3f1dcacc003ff9a7faefbe2971cdcb37e9eb1cb9346ae5c9",
+      "replacement": "The law planned a first meeting and operation for April 9. A later county history reports a first meeting on April 2 instead. A planned date and a reported occurrence are different kinds of evidence, leaving the actual meeting date unresolved. Later municipalities separated from Monroe territory, while Monroe kept its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c55da7da2ca8b5c341dd131089ac33266b6b6044e2d214049b95175290e829ba",
+      "replacement": "The law prescribed April 9. A county history reports April 2 for the first meeting. The actual meeting date remains unresolved; the accounts do not establish two meetings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c55da7da2ca8b5c341dd131089ac33266b6b6044e2d214049b95175290e829ba",
+      "replacement": "The law prescribed April 9. A county history reports April 2 for the first meeting. The actual meeting date remains unresolved; the accounts do not establish two meetings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "a1d67f2e6a3d5bf5a5dc60e493d0296c4faf478169ee72a85ce6a410809c36b3",
+      "replacement": "Municipal history identifies President James Monroe. The creating law names Monroe without explaining the dedication or identifying an individual proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "a1d67f2e6a3d5bf5a5dc60e493d0296c4faf478169ee72a85ce6a410809c36b3",
+      "replacement": "Municipal history identifies President James Monroe. The creating law names Monroe without explaining the dedication or identifying an individual proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "73cba6e1e13901f43e72f1a03bc757a179d80b9e5d208129cf7cfbc48dffb523",
+      "replacement": "The law planned April 9 operation and a meeting. The 1921 county history reports an April 2 first meeting. The actual meeting date remains unresolved; no second meeting or different legal role is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "editorial",
+        "1212",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "a05820ad8c2a4276e4bc89830b88d401dc38cd6655ccf97c99faf600e29db302",
+      "replacement": "The law planned April 9 operation and a meeting. The 1921 county history reports an April 2 first meeting. The actual meeting date remains unresolved; no second meeting or different legal role is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1213",
+      "path": [
+        "editorial",
+        "1213",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "bc8b7f9c7306f5a130ebcb0e02f55d8ded99faf8f558f26d78def6ee3f100ba7",
+      "replacement": "New Brunswick’s name connects with the royal House of Brunswick. Later histories tell the choice differently: one gives 1724 and George I, while another gives 1730 and the royal house. The exact naming year and original royal dedication remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1213",
+      "path": [
+        "editorial",
+        "1213",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "04e903f4893bbe726cc5f82fba1065d9a43759c6f6fbe5d8ea3d136e9a356a1c",
+      "replacement": "The 1730 charter, 1763 reconfiguration and 1784 state reincorporation were different stages. They do not establish an exact original naming day or resolve every early boundary question.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "034750d88eb45197341af590ef879540c72a7abfc65fcaa2e77159d85b5b20dc",
+      "replacement": "A historical society describes a 1779 county decree as township incorporation, without establishing the reported February 28 day. The decree’s exact date and the relationship between territorial usage and legal status remain uncertain. An archival tax-ratable guide provides later labels for older records; those labels do not establish when every original heading changed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "7970d8f275870645d32d8baa9f6179c8f63cea0231c07ff38170e7b5f97c455e",
+      "replacement": "A historical society also reports a county decree in 1779. Its exact day remains unconfirmed. That qualified report is separate from the township’s 1798 law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "168898fe829cefefc88cdbbda5b284895c579c1d7e1d27aef14c7a3926a03d88",
+      "replacement": "The February 12, 1763 patent index identifies New Brunswick’s North Ward. Its later recorded copy is a separate stage, rather than another charter or name adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "168898fe829cefefc88cdbbda5b284895c579c1d7e1d27aef14c7a3926a03d88",
+      "replacement": "The February 12, 1763 patent index identifies New Brunswick’s North Ward. Its later recorded copy is a separate stage, rather than another charter or name adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "922390c1b749292a3de77fded830e9905a22ad203f5b6aa1289bff93dabbf886",
+      "replacement": "The society describes a 1779 county decree as incorporation. The reported February 28 day remains unconfirmed, leaving the exact date and legal relationship uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "922390c1b749292a3de77fded830e9905a22ad203f5b6aa1289bff93dabbf886",
+      "replacement": "The society describes a 1779 county decree as incorporation. The reported February 28 day remains unconfirmed, leaving the exact date and legal relationship uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "15dfc70de2b07c59b77dd01157fa186c1888c9da1c5e50dab362e204b7366b0d",
+      "replacement": "The society reports a county decree in 1779. The reported February 28 day remains unconfirmed; its exact date and relationship to later township status remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "28aa627d0c6274a8fb7b8b3ccf3a84ebc0f7046b63ac8d889887c162aad4d00d",
+      "replacement": "The 1798 law formalizes township status. This statutory stage is distinct from earlier ward identity and the reported 1779 decree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "28aa627d0c6274a8fb7b8b3ccf3a84ebc0f7046b63ac8d889887c162aad4d00d",
+      "replacement": "The 1798 law formalizes township status. This statutory stage is distinct from earlier ward identity and the reported 1779 decree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "716f4dfcc9f751748e317364b9c4ad2df6130625869bc136951e6f6ef55a29e7",
+      "replacement": "The index reports East Brunswick’s creation from North Brunswick and Monroe in 1860. The same act established the new township and its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "716f4dfcc9f751748e317364b9c4ad2df6130625869bc136951e6f6ef55a29e7",
+      "replacement": "The index reports East Brunswick’s creation from North Brunswick and Monroe in 1860. The same act established the new township and its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "212577568a58af8d982f73649fa9b1696ea063aba0438ef9cd07e2a89df7eea3",
+      "replacement": "The February 28, 1860 law created East Brunswick. This is the same creation act, rather than a second incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "212577568a58af8d982f73649fa9b1696ea063aba0438ef9cd07e2a89df7eea3",
+      "replacement": "The February 28, 1860 law created East Brunswick. This is the same creation act, rather than a second incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "675417837804f2cc6b6048440f6bf744e9b15ad39eed2a52477398907b08838f",
+      "replacement": "The government history lists a distinct New Brunswick Township in 1860. That later framework does not establish another original naming of North Brunswick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "675417837804f2cc6b6048440f6bf744e9b15ad39eed2a52477398907b08838f",
+      "replacement": "The government history lists a distinct New Brunswick Township in 1860. That later framework does not establish another original naming of North Brunswick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "d86794757067b7dc247916d8ba01e9e39f7289b73eff4ac59c68614795daebd9",
+      "replacement": "The index gives March 15, 1861 approval with May 13 effect. Approval and later operation were different legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "d86794757067b7dc247916d8ba01e9e39f7289b73eff4ac59c68614795daebd9",
+      "replacement": "The index gives March 15, 1861 approval with May 13 effect. Approval and later operation were different legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "editorial",
+        "1214",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "71242e96d010159b8ba145babf2b8ed8e54abfdcf292bb3f3f2209726c3f3922",
+      "replacement": "The February 21, 1798 statutory township stage is separate from earlier ward identity and the reported 1779 decree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1215",
+      "path": [
+        "editorial",
+        "1215",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "eb8b39c55b6e43ac434eb8a4941f14af7cd69167273e7c54cab396f583e6c74d",
+      "replacement": "The exact first coiner of the village name remains unknown. Postal clarity, stronger local identity and avoiding confusion with Madison Borough are reported explanations for the twentieth-century campaign. Its precise actors and original motives remain unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1215",
+      "path": [
+        "editorial",
+        "1215",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "b3594319a887e4623ab0b63f2d5b5a35a3bd2191e909e794679c2290cc3fc95a",
+      "replacement": "A records guide gives November 4, 1975 for voting and November 17 for effect, drawing the latter date from an unofficial source. A direct filing date remains unestablished. Avoiding postal or Madison-name confusion remains a possible campaign explanation, rather than a proved motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1215",
+      "path": [
+        "editorial",
+        "1215",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "2a93ca3d5d9d48e4b8970157c5e0f681dd783dc21159b1d04c8db0432b36f1dc",
+      "replacement": "The campaign belongs to the 1970s township. Its precise participants and reported postal or identity motives remain unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1215",
+      "path": [
+        "editorial",
+        "1215",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "2a93ca3d5d9d48e4b8970157c5e0f681dd783dc21159b1d04c8db0432b36f1dc",
+      "replacement": "The campaign belongs to the 1970s township. Its precise participants and reported postal or identity motives remain unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1215",
+      "path": [
+        "editorial",
+        "1215",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "e0e278be156577c6f60a9f04fe659782974238827203a329af6fb801ab4210d8",
+      "replacement": "Postal clarity, local identity and avoiding Madison confusion are reported explanations for the campaign. The precise original motives remain unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1215",
+      "path": [
+        "editorial",
+        "1215",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "e0e278be156577c6f60a9f04fe659782974238827203a329af6fb801ab4210d8",
+      "replacement": "Postal clarity, local identity and avoiding Madison confusion are reported explanations for the campaign. The precise original motives remain unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "dd8cd56de4e43d6b8a7af1747771310c08c0083399bdc68ade52347bcf1739d3",
+      "replacement": "Approval date of the same 1860 creation act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "50f17fb1f614437c1c375aad1b013401e5ed148f2f7c5c26b1118b3ea9d9def1",
+      "replacement": "Township creation under the same 1860 act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "51f8335ffb8f36ee4e9c3ad96cb78f9734d4653c1b52ce0ef9adf5af5911b366",
+      "replacement": "The February 28, 1860 law names and creates East Brunswick from North Brunswick and Monroe. This is the same township creation described elsewhere in the timeline.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "sources",
+        "S1319",
+        "title"
+      ],
+      "expected_sha256": "c006bc41f81198e32dcc7265411806f8964d3e14bd03956324e084d8f129c6ab",
+      "replacement": "South River History Timeline",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "sources",
+        "S2078",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "sources",
+        "S2094",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "sources",
+        "S2095",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "309e3c1dbd3bfb720ac4ad88d5640c7e9f3ee640f8540d2b075d152ab9bd95b6",
+      "replacement": "North Brunswick Township (parent); Monroe Township (parent); Old Bridge village (older community); Washington (older South River community); South River (territorial branch); Spotswood (territorial branch); Helmetta (territorial branch); Milltown (community context)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "a42945813926a4e89da6130ea14fe654ee82e0529103aa3948cb76f5f544bec2",
+      "replacement": "Reported council-transition day; unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "e676699c4c727968505c9d6940dc7de10a9af3161405891eb6536c0d0e766ed2",
+      "replacement": "Unconfirmed council-transition claim",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "e50af7e9dad30548e1c8ee377d157fc02853ca2d8e8df4474bbec34cafb08de1",
+      "replacement": "Township council, as reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "c8474f7ce1133e494f23b5a132653daa49a032a59944bf915b3f263559c40dcc",
+      "replacement": "A November 10 council transition has been reported but remains unconfirmed. The supported vote and filing dates do not establish that separate event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "b3dac5f6bd1360c66665c585db883c03e15bc8f52268e2d9a90f31b73917461c",
+      "replacement": "A qualified transition claim, rather than an established actual event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "0d34f01cd9e329dc523dcb684b037f7a5dbc28dcd2a5bd4049d4a4b3937c8be7",
+      "replacement": "Election date reported in the printed notice",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "df4ce42ca158249c8e5e4b5cad167ed01d7be60463e7e2f12df84fb2fa13fc3b",
+      "replacement": "The printed notice reports November 2 voting; the museum narrative describes Edison prevailing over Nixon.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "b2c8c777c10f64eb2eab6be5cf3ce8d1407956d861341fc19e8db95280676120",
+      "replacement": "Filing date reported in the printed notice",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "33b5a7fbf51af1252f219a0c53eab5db21215db2a0b13b69433186eb9fa30b29",
+      "replacement": "The printed notice dates filing to November 16, following the November 2 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "aeb862c65275db91ef9ddb956ea010c8d26ed21c345cb86dba38aa680e4e9e79",
+      "replacement": "The filing date does not establish a claimed November 10 operational transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "sources",
+        "S2079",
+        "publication"
+      ],
+      "expected_sha256": "98924829695292bbf7e365b01e95af760fe6c4b9873abdee642dcb4bb96e8112",
+      "replacement": "Undated government summary",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "sources",
+        "S2082",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5f5b90bae2465a64906f62373b569ee598e727f6a20ce29e7b847a91c1c68fbe",
+      "replacement": "Raritan Township (former legal name); Edison (adopted proposal); Nixon (competing proposal); Menlo Park (laboratory community)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1206",
+      "path": [
+        "views",
+        "1206",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ba3cd4fac5642c62b9ee6cd1ceb63412aac94ec50562ad5102636dea236edc49",
+      "replacement": "The 1921 county history attributes Helmetta to Etta Helme in the growing industrial community.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1206",
+      "path": [
+        "views",
+        "1206",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "4a7df279594e0e7e23e2784276d6bfda4137a7d567067fe74e8075a9225a1992",
+      "replacement": "Community-name use before municipal government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1206",
+      "path": [
+        "views",
+        "1206",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ffea97b8cb421b282aa5e1cf9630fd5ac9887042fe7c81e99f2aa4d9dbcf8faa",
+      "replacement": "Railroad Mills (older industrial locality); Etta Helme (attributed honoree); East Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1207",
+      "path": [
+        "views",
+        "1207",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "955d4b37f91b88820d830e9e3c2f91cb048707ba716f3ada3ead32c52cf2d9ee",
+      "replacement": "Local history reports 1870s promotion, including a possible 1872 advertisement. That specific advertising date remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1207",
+      "path": [
+        "views",
+        "1207",
+        "sources",
+        "S2079",
+        "publication"
+      ],
+      "expected_sha256": "98924829695292bbf7e365b01e95af760fe6c4b9873abdee642dcb4bb96e8112",
+      "replacement": "Undated government summary",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1207",
+      "path": [
+        "views",
+        "1207",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "671ccdd0095afe73710767968c8cde6312f205475caa22eecc8b44b6a8db8070",
+      "replacement": "East New Brunswick (older station and locality); Raritan Township (parent, later Edison); Highland Park (development name)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "0349e1f8739135e5d20e75b24636c8cab4aa7dfe94f22fdc4ce65a860bb513df",
+      "replacement": "Broad period; reported 1849–1850 timing remains unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "fe196624660d6a2ed127bcf1405397232678bf76aa6b1e1467fb93c8ab6f0d71",
+      "replacement": "Reported rail and postal name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "97b1a9e37f87cb8414926e8b0fdbf3c577978e3b922c8824f2d46b283d4021cc",
+      "replacement": "Reported 1849–1850 railway or postal use and an 1893 removal of the final h remain unconfirmed. The nomination reports railway construction in 1851–1853.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "sources",
+        "S1295",
+        "publication"
+      ],
+      "expected_sha256": "00689718947cfe355adf8b46f7036793c9ccc2ad98321adc5884c7a9483b28e8",
+      "replacement": "February 1979",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "sources",
+        "S2080",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c664812427e16c6069bc04a535e254ef44e0144533fdaab37f387365d3b91273",
+      "replacement": "Buckelew’s Mills (older locality); Buckalew’s Mills (alternate spelling); West’s Turnout (older locality); Jamesburgh (reported spelling); Monroe Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "views",
+        "1209",
+        "sources",
+        "S1296",
+        "author"
+      ],
+      "expected_sha256": "9cd857afa35a5bb44c087ab7075190340041aed480ea60e160fb5ade92025893",
+      "replacement": "Author unidentified; New York State Museum cited",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "views",
+        "1209",
+        "sources",
+        "S1296",
+        "publication"
+      ],
+      "expected_sha256": "c7397f807cb90169097a6d8e4dd5640cbc1d78760c2b5b308316234eb13c0bcb",
+      "replacement": "Modern scholarly account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "views",
+        "1209",
+        "sources",
+        "S2082",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1209",
+      "path": [
+        "views",
+        "1209",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f6848a094b8efda8c2aaec7a2711779c2ad3ae53dfe2d585d68080a78f462c92",
+      "replacement": "Matockshoning (reported deed form); Matuchen (reported form); Mettuchinge (reported form); Metuchin (reported form); Chief Matouchin (later tradition); Raritan Township (parent, later Edison)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "e2d220cf0c93476ba25e886e1936bc96c3818e578cdd53075382545811f7022b",
+      "replacement": "Approval date of the printed enabling law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "4a5c0a528f39c5119a2b6dc8eda42170bca32f23f926b5c73ca9c80b7c8094f7",
+      "replacement": "Undated locality context; reported monument date unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "73e65d160f77a2b963f5e4a323b09ed4dd1b75795ba7138b1d84e15846ebe848",
+      "replacement": "Earlier locality and reported monument dedication",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "3add14f42af07f8154cd261895e528e1d58f19fc41d439eb4c31249647bde4d1",
+      "replacement": "Local residents and monument organizers; precise participants unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "fe7205df66ba161508b4f6d706e77ad8dd5da423afd3f5177fbd0562e3db2c99",
+      "replacement": "The municipal narrative refers to Lincoln locality. A reported 1898 monument dedication remains unconfirmed and does not establish the whole locality’s naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "sources",
+        "S2083",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b69ef9733f1d2a7c7114b1288a3384a03dc9f84ab6648671a58ad875aea022e5",
+      "replacement": "Lincoln (older locality); Middlesex County (probable name source); Piscataway Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "views",
+        "1211",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "5a215b559bafa96dc76c9f72e447c6c5708a5c6f4e5a3ff3ebc8e59eca6c3320",
+      "replacement": "Broad century; exact community adoption date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "views",
+        "1211",
+        "sources",
+        "S2084",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1211",
+      "path": [
+        "views",
+        "1211",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d57c755c0c2f8b82e756f7ff9060dc9f705ab9da56a9908dc6df85af03094a65",
+      "replacement": "Bergen’s Mill (older property and locality name); Lawrence Brook (mill setting); North Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "11496a61847177f7e3f8f9566c0a1b215e4233bcad1864902903939216535543",
+      "replacement": "Act approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "e1b6c6c74c4068695f4c7dc0b8d2fc675191eab5da3e82b7c253b719b589fc3a",
+      "replacement": "The act approved February 23, 1838 uses Monroe. Later municipal history identifies James Monroe as the honoree; the act does not explain the original naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "4683ed759cbe7b3f40b4f076b479d94f4f1cb827f2769edc86b5947d8e1e7d95",
+      "replacement": "The act prescribes operation on the second Monday in April, April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "dbcef371141966ec7271952048ea9cba489925ac9e3c14c0a8eea98fbd983ae5",
+      "replacement": "Legal operation is separate from the scheduled meeting and its actual occurrence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "dd8cd56de4e43d6b8a7af1747771310c08c0083399bdc68ade52347bcf1739d3",
+      "replacement": "Approval date of the same 1860 creation act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "50f17fb1f614437c1c375aad1b013401e5ed148f2f7c5c26b1118b3ea9d9def1",
+      "replacement": "Township creation under the same 1860 act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "51f8335ffb8f36ee4e9c3ad96cb78f9734d4653c1b52ce0ef9adf5af5911b366",
+      "replacement": "The February 28, 1860 law names and creates East Brunswick from North Brunswick and Monroe. This is the same township creation described elsewhere in the timeline.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "18949918fba7ec4b1e5c1c9b3028361e1722d11b90fe99db3876620691ff1e90",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "sources",
+        "S2078",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "sources",
+        "S2080",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5452bab5fb16c3a537f8aaa0d1528c57e88f9f401d62db93f2b6f00801115ecc",
+      "replacement": "South Amboy Township (older jurisdiction); East Windsor (wider reorganization context); James Monroe (traditional honoree); East Brunswick (territorial branch); Cranbury (territorial branch); Jamesburg (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "events",
+        7,
+        "actor"
+      ],
+      "expected_sha256": "f0613d532a928d943b136f700566d2eac48224f24c6493fbd7818d87f5a61e48",
+      "replacement": "New Jersey Legislature",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "0803d64e8a54e61be8c9e8cc9bb660b4308e7f8b0ef06a1632111b82799d76ff",
+      "replacement": "The temporary township ended through the indexed 1861 change, separately from the 1863 charter amendment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "sources",
+        "S2085",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "sources",
+        "S2086",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f86f929703921e67d8b6ca30a0b8017b56903dee02a450f80f920db4177f8048",
+      "replacement": "Prigmore’s Swamp (older locality); Inian’s Ferry (older locality); House of Brunswick (dynastic association); North Ward (historical jurisdiction); South Ward (historical jurisdiction); New Brunswick Township (separate 1860–1861 framework)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "cb82b7ddecee9eb48d54c9cdabdf84b09a05a3c42cdbeccd547d919a5e8ce0da",
+      "replacement": "Decree year reported by later history; exact day unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "d117a044b9a13ef8a050b54b527cbefd03b20673e1acfe35388e61ef29e7fc4c",
+      "replacement": "A reported county decree, distinct from an established first naming occasion and the later township law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "dd8cd56de4e43d6b8a7af1747771310c08c0083399bdc68ade52347bcf1739d3",
+      "replacement": "Approval date of the same 1860 creation act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        5,
+        "type"
+      ],
+      "expected_sha256": "50f17fb1f614437c1c375aad1b013401e5ed148f2f7c5c26b1118b3ea9d9def1",
+      "replacement": "Township creation under the same 1860 act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "51f8335ffb8f36ee4e9c3ad96cb78f9734d4653c1b52ce0ef9adf5af5911b366",
+      "replacement": "The February 28, 1860 law names and creates East Brunswick from North Brunswick and Monroe. This is the same township creation described elsewhere in the timeline.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        8,
+        "actor"
+      ],
+      "expected_sha256": "f0613d532a928d943b136f700566d2eac48224f24c6493fbd7818d87f5a61e48",
+      "replacement": "New Jersey Legislature",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "0803d64e8a54e61be8c9e8cc9bb660b4308e7f8b0ef06a1632111b82799d76ff",
+      "replacement": "The temporary township ended through the indexed 1861 change, separately from the 1863 charter amendment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        9,
+        "precision"
+      ],
+      "expected_sha256": "e2d220cf0c93476ba25e886e1936bc96c3818e578cdd53075382545811f7022b",
+      "replacement": "Approval date of the printed enabling law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "sources",
+        "S2078",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "sources",
+        "S2085",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "sources",
+        "S2086",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "sources",
+        "S2087",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "8ecab9512d6745e8940f2e9c2feee5456ad2347a2e8062114607950aefc624fe",
+      "replacement": "North Ward of New Brunswick (predecessor); New Brunswick (parent administrative identity); East Brunswick Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1215",
+      "path": [
+        "views",
+        "1215",
+        "sources",
+        "S2088",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1215",
+      "path": [
+        "views",
+        "1215",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7c8e66863e5bc94e5ebe52d08ff68231d3e8317ff800f45405a0d15cd364c469",
+      "replacement": "Madison Township (former legal name); Old Bridge village (name source in East Brunswick); South Amboy Township (older jurisdiction)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "dd8cd56de4e43d6b8a7af1747771310c08c0083399bdc68ade52347bcf1739d3",
+      "replacement": "Approval date of the same 1860 creation act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "50f17fb1f614437c1c375aad1b013401e5ed148f2f7c5c26b1118b3ea9d9def1",
+      "replacement": "Township creation under the same 1860 act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "51f8335ffb8f36ee4e9c3ad96cb78f9734d4653c1b52ce0ef9adf5af5911b366",
+      "replacement": "The February 28, 1860 law names and creates East Brunswick from North Brunswick and Monroe. This is the same township creation described elsewhere in the timeline.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "sources",
+        "S1319",
+        "title"
+      ],
+      "expected_sha256": "c006bc41f81198e32dcc7265411806f8964d3e14bd03956324e084d8f129c6ab",
+      "replacement": "South River History Timeline",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "sources",
+        "S2078",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "sources",
+        "S2094",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "sources",
+        "S2095",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1204",
+      "path": [
+        "views",
+        "1204",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "309e3c1dbd3bfb720ac4ad88d5640c7e9f3ee640f8540d2b075d152ab9bd95b6",
+      "replacement": "North Brunswick Township (parent); Monroe Township (parent); Old Bridge village (older community); Washington (older South River community); South River (territorial branch); Spotswood (territorial branch); Helmetta (territorial branch); Milltown (community context)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "a42945813926a4e89da6130ea14fe654ee82e0529103aa3948cb76f5f544bec2",
+      "replacement": "Reported council-transition day; unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "e676699c4c727968505c9d6940dc7de10a9af3161405891eb6536c0d0e766ed2",
+      "replacement": "Unconfirmed council-transition claim",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "e50af7e9dad30548e1c8ee377d157fc02853ca2d8e8df4474bbec34cafb08de1",
+      "replacement": "Township council, as reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "c8474f7ce1133e494f23b5a132653daa49a032a59944bf915b3f263559c40dcc",
+      "replacement": "A November 10 council transition has been reported but remains unconfirmed. The supported vote and filing dates do not establish that separate event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "b3dac5f6bd1360c66665c585db883c03e15bc8f52268e2d9a90f31b73917461c",
+      "replacement": "A qualified transition claim, rather than an established actual event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "0d34f01cd9e329dc523dcb684b037f7a5dbc28dcd2a5bd4049d4a4b3937c8be7",
+      "replacement": "Election date reported in the printed notice",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "df4ce42ca158249c8e5e4b5cad167ed01d7be60463e7e2f12df84fb2fa13fc3b",
+      "replacement": "The printed notice reports November 2 voting; the museum narrative describes Edison prevailing over Nixon.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "b2c8c777c10f64eb2eab6be5cf3ce8d1407956d861341fc19e8db95280676120",
+      "replacement": "Filing date reported in the printed notice",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "33b5a7fbf51af1252f219a0c53eab5db21215db2a0b13b69433186eb9fa30b29",
+      "replacement": "The printed notice dates filing to November 16, following the November 2 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "aeb862c65275db91ef9ddb956ea010c8d26ed21c345cb86dba38aa680e4e9e79",
+      "replacement": "The filing date does not establish a claimed November 10 operational transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "sources",
+        "S2079",
+        "publication"
+      ],
+      "expected_sha256": "98924829695292bbf7e365b01e95af760fe6c4b9873abdee642dcb4bb96e8112",
+      "replacement": "Undated government summary",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "sources",
+        "S2082",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1205",
+      "path": [
+        "views",
+        "1205",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5f5b90bae2465a64906f62373b569ee598e727f6a20ce29e7b847a91c1c68fbe",
+      "replacement": "Raritan Township (former legal name); Edison (adopted proposal); Nixon (competing proposal); Menlo Park (laboratory community)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1206",
+      "path": [
+        "views",
+        "1206",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ba3cd4fac5642c62b9ee6cd1ceb63412aac94ec50562ad5102636dea236edc49",
+      "replacement": "The 1921 county history attributes Helmetta to Etta Helme in the growing industrial community.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1206",
+      "path": [
+        "views",
+        "1206",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "4a7df279594e0e7e23e2784276d6bfda4137a7d567067fe74e8075a9225a1992",
+      "replacement": "Community-name use before municipal government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1206",
+      "path": [
+        "views",
+        "1206",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ffea97b8cb421b282aa5e1cf9630fd5ac9887042fe7c81e99f2aa4d9dbcf8faa",
+      "replacement": "Railroad Mills (older industrial locality); Etta Helme (attributed honoree); East Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1207",
+      "path": [
+        "views",
+        "1207",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "955d4b37f91b88820d830e9e3c2f91cb048707ba716f3ada3ead32c52cf2d9ee",
+      "replacement": "Local history reports 1870s promotion, including a possible 1872 advertisement. That specific advertising date remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1207",
+      "path": [
+        "views",
+        "1207",
+        "sources",
+        "S2079",
+        "publication"
+      ],
+      "expected_sha256": "98924829695292bbf7e365b01e95af760fe6c4b9873abdee642dcb4bb96e8112",
+      "replacement": "Undated government summary",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1207",
+      "path": [
+        "views",
+        "1207",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "671ccdd0095afe73710767968c8cde6312f205475caa22eecc8b44b6a8db8070",
+      "replacement": "East New Brunswick (older station and locality); Raritan Township (parent, later Edison); Highland Park (development name)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "0349e1f8739135e5d20e75b24636c8cab4aa7dfe94f22fdc4ce65a860bb513df",
+      "replacement": "Broad period; reported 1849–1850 timing remains unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "fe196624660d6a2ed127bcf1405397232678bf76aa6b1e1467fb93c8ab6f0d71",
+      "replacement": "Reported rail and postal name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "97b1a9e37f87cb8414926e8b0fdbf3c577978e3b922c8824f2d46b283d4021cc",
+      "replacement": "Reported 1849–1850 railway or postal use and an 1893 removal of the final h remain unconfirmed. The nomination reports railway construction in 1851–1853.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "sources",
+        "S1295",
+        "publication"
+      ],
+      "expected_sha256": "00689718947cfe355adf8b46f7036793c9ccc2ad98321adc5884c7a9483b28e8",
+      "replacement": "February 1979",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "sources",
+        "S2080",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1208",
+      "path": [
+        "views",
+        "1208",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c664812427e16c6069bc04a535e254ef44e0144533fdaab37f387365d3b91273",
+      "replacement": "Buckelew’s Mills (older locality); Buckalew’s Mills (alternate spelling); West’s Turnout (older locality); Jamesburgh (reported spelling); Monroe Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "views",
+        "1209",
+        "sources",
+        "S1296",
+        "author"
+      ],
+      "expected_sha256": "9cd857afa35a5bb44c087ab7075190340041aed480ea60e160fb5ade92025893",
+      "replacement": "Author unidentified; New York State Museum cited",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "views",
+        "1209",
+        "sources",
+        "S1296",
+        "publication"
+      ],
+      "expected_sha256": "c7397f807cb90169097a6d8e4dd5640cbc1d78760c2b5b308316234eb13c0bcb",
+      "replacement": "Modern scholarly account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "views",
+        "1209",
+        "sources",
+        "S2082",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1209",
+      "path": [
+        "views",
+        "1209",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f6848a094b8efda8c2aaec7a2711779c2ad3ae53dfe2d585d68080a78f462c92",
+      "replacement": "Matockshoning (reported deed form); Matuchen (reported form); Mettuchinge (reported form); Metuchin (reported form); Chief Matouchin (later tradition); Raritan Township (parent, later Edison)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "e2d220cf0c93476ba25e886e1936bc96c3818e578cdd53075382545811f7022b",
+      "replacement": "Approval date of the printed enabling law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "4a5c0a528f39c5119a2b6dc8eda42170bca32f23f926b5c73ca9c80b7c8094f7",
+      "replacement": "Undated locality context; reported monument date unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "73e65d160f77a2b963f5e4a323b09ed4dd1b75795ba7138b1d84e15846ebe848",
+      "replacement": "Earlier locality and reported monument dedication",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "3add14f42af07f8154cd261895e528e1d58f19fc41d439eb4c31249647bde4d1",
+      "replacement": "Local residents and monument organizers; precise participants unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "fe7205df66ba161508b4f6d706e77ad8dd5da423afd3f5177fbd0562e3db2c99",
+      "replacement": "The municipal narrative refers to Lincoln locality. A reported 1898 monument dedication remains unconfirmed and does not establish the whole locality’s naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "sources",
+        "S2083",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1210",
+      "path": [
+        "views",
+        "1210",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b69ef9733f1d2a7c7114b1288a3384a03dc9f84ab6648671a58ad875aea022e5",
+      "replacement": "Lincoln (older locality); Middlesex County (probable name source); Piscataway Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1211",
+      "path": [
+        "views",
+        "1211",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "5a215b559bafa96dc76c9f72e447c6c5708a5c6f4e5a3ff3ebc8e59eca6c3320",
+      "replacement": "Broad century; exact community adoption date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1211",
+      "path": [
+        "views",
+        "1211",
+        "sources",
+        "S2084",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1211",
+      "path": [
+        "views",
+        "1211",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d57c755c0c2f8b82e756f7ff9060dc9f705ab9da56a9908dc6df85af03094a65",
+      "replacement": "Bergen’s Mill (older property and locality name); Lawrence Brook (mill setting); North Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "11496a61847177f7e3f8f9566c0a1b215e4233bcad1864902903939216535543",
+      "replacement": "Act approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "e1b6c6c74c4068695f4c7dc0b8d2fc675191eab5da3e82b7c253b719b589fc3a",
+      "replacement": "The act approved February 23, 1838 uses Monroe. Later municipal history identifies James Monroe as the honoree; the act does not explain the original naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "4683ed759cbe7b3f40b4f076b479d94f4f1cb827f2769edc86b5947d8e1e7d95",
+      "replacement": "The act prescribes operation on the second Monday in April, April 9.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "dbcef371141966ec7271952048ea9cba489925ac9e3c14c0a8eea98fbd983ae5",
+      "replacement": "Legal operation is separate from the scheduled meeting and its actual occurrence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "dd8cd56de4e43d6b8a7af1747771310c08c0083399bdc68ade52347bcf1739d3",
+      "replacement": "Approval date of the same 1860 creation act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "50f17fb1f614437c1c375aad1b013401e5ed148f2f7c5c26b1118b3ea9d9def1",
+      "replacement": "Township creation under the same 1860 act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "51f8335ffb8f36ee4e9c3ad96cb78f9734d4653c1b52ce0ef9adf5af5911b366",
+      "replacement": "The February 28, 1860 law names and creates East Brunswick from North Brunswick and Monroe. This is the same township creation described elsewhere in the timeline.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "18949918fba7ec4b1e5c1c9b3028361e1722d11b90fe99db3876620691ff1e90",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "sources",
+        "S2078",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "sources",
+        "S2080",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1212",
+      "path": [
+        "views",
+        "1212",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5452bab5fb16c3a537f8aaa0d1528c57e88f9f401d62db93f2b6f00801115ecc",
+      "replacement": "South Amboy Township (older jurisdiction); East Windsor (wider reorganization context); James Monroe (traditional honoree); East Brunswick (territorial branch); Cranbury (territorial branch); Jamesburg (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "events",
+        7,
+        "actor"
+      ],
+      "expected_sha256": "f0613d532a928d943b136f700566d2eac48224f24c6493fbd7818d87f5a61e48",
+      "replacement": "New Jersey Legislature",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "0803d64e8a54e61be8c9e8cc9bb660b4308e7f8b0ef06a1632111b82799d76ff",
+      "replacement": "The temporary township ended through the indexed 1861 change, separately from the 1863 charter amendment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "sources",
+        "S2085",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "sources",
+        "S2086",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1213",
+      "path": [
+        "views",
+        "1213",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f86f929703921e67d8b6ca30a0b8017b56903dee02a450f80f920db4177f8048",
+      "replacement": "Prigmore’s Swamp (older locality); Inian’s Ferry (older locality); House of Brunswick (dynastic association); North Ward (historical jurisdiction); South Ward (historical jurisdiction); New Brunswick Township (separate 1860–1861 framework)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "cb82b7ddecee9eb48d54c9cdabdf84b09a05a3c42cdbeccd547d919a5e8ce0da",
+      "replacement": "Decree year reported by later history; exact day unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "d117a044b9a13ef8a050b54b527cbefd03b20673e1acfe35388e61ef29e7fc4c",
+      "replacement": "A reported county decree, distinct from an established first naming occasion and the later township law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "dd8cd56de4e43d6b8a7af1747771310c08c0083399bdc68ade52347bcf1739d3",
+      "replacement": "Approval date of the same 1860 creation act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        5,
+        "type"
+      ],
+      "expected_sha256": "50f17fb1f614437c1c375aad1b013401e5ed148f2f7c5c26b1118b3ea9d9def1",
+      "replacement": "Township creation under the same 1860 act",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "51f8335ffb8f36ee4e9c3ad96cb78f9734d4653c1b52ce0ef9adf5af5911b366",
+      "replacement": "The February 28, 1860 law names and creates East Brunswick from North Brunswick and Monroe. This is the same township creation described elsewhere in the timeline.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        8,
+        "actor"
+      ],
+      "expected_sha256": "f0613d532a928d943b136f700566d2eac48224f24c6493fbd7818d87f5a61e48",
+      "replacement": "New Jersey Legislature",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "0803d64e8a54e61be8c9e8cc9bb660b4308e7f8b0ef06a1632111b82799d76ff",
+      "replacement": "The temporary township ended through the indexed 1861 change, separately from the 1863 charter amendment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "events",
+        9,
+        "precision"
+      ],
+      "expected_sha256": "e2d220cf0c93476ba25e886e1936bc96c3818e578cdd53075382545811f7022b",
+      "replacement": "Approval date of the printed enabling law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "sources",
+        "S2078",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "sources",
+        "S2085",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "sources",
+        "S2086",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "sources",
+        "S2087",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1214",
+      "path": [
+        "views",
+        "1214",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "8ecab9512d6745e8940f2e9c2feee5456ad2347a2e8062114607950aefc624fe",
+      "replacement": "North Ward of New Brunswick (predecessor); New Brunswick (parent administrative identity); East Brunswick Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1215",
+      "path": [
+        "views",
+        "1215",
+        "sources",
+        "S2088",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1215",
+      "path": [
+        "views",
+        "1215",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7c8e66863e5bc94e5ebe52d08ff68231d3e8317ff800f45405a0d15cd364c469",
+      "replacement": "Madison Township (former legal name); Old Bridge village (name source in East Brunswick); South Amboy Township (older jurisdiction)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
