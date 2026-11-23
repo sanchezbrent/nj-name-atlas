@@ -1,15 +1,15 @@
 {
-  "stage": "COPY_PROPOSALS_CHECKPOINT_18",
+  "stage": "COPY_PROPOSALS_CHECKPOINT_19",
   "release_status": "BLOCKED",
   "editions": {
     "primary": {
-      "expanded_canonical_sha256": "af70bc17f1c7f6c0eae1e85196b7f01d508ef8c0044cf735d646d2d7c501469e",
-      "payload_sha256": "53796e4379e8e8d9abb1de435b233bacc82534679cfa2356aa36b13daa7e0180",
-      "editorial_sha256": "e5fca3b25f85bff21775e1ed079b4a8ee907635e37059c5898ea626435e5c656",
-      "reader_copy_sha256": "686c685a375c83e653e41b1c18f6e0eb5c6827026156d6d6125325e41e8e213f",
+      "expanded_canonical_sha256": "f8608e474bd518fa450ea50ef2e7d6c9916223c6d2c57b790e1fab076b66f575",
+      "payload_sha256": "288497336dbf3a86376c7540e3dd48ddd95f96a102cd49a39b29ccf6dce1a12a",
+      "editorial_sha256": "0f23f372cd6c3b1c6ea7c037da52245c5b03cde53a1200a8e8d12a5023863024",
+      "reader_copy_sha256": "f900708ab569755ffb1eb034bb8034c772d19d05f1667940e6edb8370ffe21ae",
       "frozen_reader_copy_sha256": "63c58945a15e7144d4d7ff57996c7daaf4e7aa632ee3c8d0a26d578226c98e48",
       "before_editorial_sha256": "8abb42999949bcfc874bddc85e3a28f9f9ba95782eb9555884d9516f1fb0d53c",
-      "overlay_sha256": "371c50a4495ef4e24f257b4f8d358cdfb559a7bd85f76b2418f4a8f0880e3ff5",
+      "overlay_sha256": "fe3fd4f6509676347edc5919d4611fd4b7ca00eff175a438270512f15270ecc1",
       "overlay_semantics_sha256": "5a1b0cfd7ba3ad2cdd9fc3f8666abb564be687f814f4faf8170be13eb11ada6b",
       "municipalities": {
         "0327": "NJM-0198",
@@ -580,22 +580,22 @@
       "events": 4919,
       "sources": 4117,
       "source_input_writes": 0,
-      "copy_correction_fields": 2708,
-      "exact_C57_reader_records": 375,
+      "copy_correction_fields": 2841,
+      "exact_C57_reader_records": 363,
       "contextual_review_complete": false,
       "before_asset_sha256": "56d590582a0d67a08e6a9d0f071a4f88ecd1b68e4f43e55d50fbb1b0e07c2ef2",
-      "after_asset_sha256": "cd0a8c4b75653b6c927635bbb12e391783b08d011dcd43bc824820f8b935016c",
+      "after_asset_sha256": "bd54f68e7c69de41a28c0a02acab53ccf0e19ce64b2cb3559746b9f3dc07f940",
       "before_bytes": 11667921,
-      "after_bytes": 7432754
+      "after_bytes": 7435678
     },
     "young-explorers": {
-      "expanded_canonical_sha256": "458d0d1c21a360b339181f041bd9a90c74e7e5e76ce41b0dca9c110eda8b11c1",
-      "payload_sha256": "66975b525bbb4eb90998aa70710444921ff489d9665448c1c344c91e617040e1",
-      "editorial_sha256": "bf15a11fea243621fae36c3db98d50723f9aa91ff211286c5e469133e41ac758",
-      "reader_copy_sha256": "1f1c4bcbfbf60495c20012f29db8fbdd6f6677e192cd9aba77542446300d01c7",
+      "expanded_canonical_sha256": "e91d08c7dffb49bc55603610969597aaee8863b45683be4cbb0a00d674a95c7f",
+      "payload_sha256": "c56f14bbb745037b52c0caaac60cbe752895208576c713792482440623001f66",
+      "editorial_sha256": "bf482c83eb2a2b20b14d80d5f6215cbf1e9c3502b78e9e29eaaa635041d5a333",
+      "reader_copy_sha256": "b2396fb891217fa44ca6116ed0827f69864844e46740d133d217a880d37ce671",
       "frozen_reader_copy_sha256": "7e687ea1bff12044444e102fc7be36fb7249c792e4a2c8aa040ae69a3c1ef568",
       "before_editorial_sha256": "8295e310e91d1385174e645677cc57027656fae1ac2331d26ed2e5eddbf8a6ba",
-      "overlay_sha256": "36ef9cef0626a2553c2ea487e29506abd7ea7285d445d9a64e72867259eebeea",
+      "overlay_sha256": "9cba73a01c3500dfee533439cccbc4e98ff44cbd17b85e4f4d6882edb442a290",
       "overlay_semantics_sha256": "5a1b0cfd7ba3ad2cdd9fc3f8666abb564be687f814f4faf8170be13eb11ada6b",
       "municipalities": {
         "0327": "NJM-0198",
@@ -1166,15 +1166,15 @@
       "events": 4919,
       "sources": 4117,
       "source_input_writes": 0,
-      "copy_correction_fields": 2651,
-      "exact_C57_reader_records": 374,
+      "copy_correction_fields": 2783,
+      "exact_C57_reader_records": 362,
       "contextual_review_complete": false,
       "before_asset_sha256": "5e28671d49921dd6f986d020ef18678848192d2b0a02b361688ada4cdfb7fb60",
-      "after_asset_sha256": "e3edc24e0bed22e9e5bcf7c187aa6403cb39170a675dfae62d45fb2c750f967f",
+      "after_asset_sha256": "2e0b1847956ace6e70d953246c6af4f9e66951d6c62c6c5a6ecb7b7c45ce0f9a",
       "before_bytes": 11797861,
-      "after_bytes": 7503676
+      "after_bytes": 7506240
     }
   },
-  "corrections_sha256": "76b0adcdffb2e598da589d5c5aad740cab481ab0dc5d1157e121676adf556cc6",
+  "corrections_sha256": "679018c60d5bd855d8b86b6492d9210f513f001c2dabc9cb4972af66db2330f0",
   "owner_approval": false
 }

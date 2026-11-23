@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_18",
+  "checkpoint": "PUBLIC_COPY_19",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -198,7 +198,19 @@
     "1335",
     "1336",
     "1337",
-    "1338"
+    "1338",
+    "1339",
+    "1340",
+    "1341",
+    "1342",
+    "1343",
+    "1344",
+    "1345",
+    "1346",
+    "1347",
+    "1348",
+    "1349",
+    "1350"
   ],
   "changes": [
     {
@@ -75070,6 +75082,3700 @@
       ],
       "expected_sha256": "3910b0437457a26ee644edb8c9b40889e9477da02934e491f0581a2defcbf2b6",
       "replacement": "Peggy’s Point and Eatontown Dock (older landing names); Port-au-Peck (older section); Oceanport Steamboat Company (reported institutional use); Ocean and Eatontown Townships (parent jurisdictions)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "4e8117e2a23b0034b5e626b0fc6027de5a2a1dc2b773b41d0c6d940a9760c763",
+      "replacement": "Red Bank takes its identity from the reddish bank along the Navesink. A later account reports the words the red bank in a 1736 deed associated with Morford and French. That attributed wording suggests an already recognized place, while the exact original wording and earlier use remain unconfirmed. Neither person is established as the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "3d902d0dc60a32cdce2f08cb20b8ac14606d56d4231a8bfd4121f8b42c89cf5d",
+      "replacement": "The municipal history describes a brief change to Shrewsbury City. Ellis says the name remained as before, and the legal index classifies the proposal as unsuccessful, giving a February 14 enabling act and May 5 election. Whether the alternative ever operated temporarily remains unresolved. Borough government replaced the town form on March 10, 1908, using Red Bank.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "b592fa660e457841cfaeb846a0518ebf82f74615494b92203474340d838b44d4",
+      "replacement": "The municipal history describes a brief change to Shrewsbury City. Another history says Red Bank kept its name, and a legal guide calls the proposal unsuccessful. Whether the alternative ever operated temporarily remains unresolved. In 1908 borough government replaced the town form and kept Red Bank.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "6f6c16872109094e2deb41a0c2233ab5ab1eb28c004cfe767bc7c6a024faa128",
+      "replacement": "A later account reports the red bank in a 1736 deed. That attributed use does not establish the original wording or first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "6f6c16872109094e2deb41a0c2233ab5ab1eb28c004cfe767bc7c6a024faa128",
+      "replacement": "A later account reports the red bank in a 1736 deed. That attributed use does not establish the original wording or first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "671f9aa58a1fbbb9c2337cf5f9d0e9fa251b1a172d0e4069c9aa2f14fdcc9ad8",
+      "replacement": "The index calls the proposal unsuccessful; municipal history describes a brief change. Whether Shrewsbury City ever operated temporarily remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "671f9aa58a1fbbb9c2337cf5f9d0e9fa251b1a172d0e4069c9aa2f14fdcc9ad8",
+      "replacement": "The index calls the proposal unsuccessful; municipal history describes a brief change. Whether Shrewsbury City ever operated temporarily remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "d9fa9e0962047580bff5cae36c78355c9ed6c4effcab3b6884989ae2b979b763",
+      "replacement": "The name describes the reddish riverbank along the Navesink.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "d9fa9e0962047580bff5cae36c78355c9ed6c4effcab3b6884989ae2b979b763",
+      "replacement": "The name describes the reddish riverbank along the Navesink.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1ffe3868ba09e60a8564368bdd7aaf6f975dd496fc7f7291e03e940723b80998",
+      "replacement": "A later account associates Morford and French with a 1736 deed. Its exact original wording remains unconfirmed, and neither person is established as the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1ffe3868ba09e60a8564368bdd7aaf6f975dd496fc7f7291e03e940723b80998",
+      "replacement": "A later account associates Morford and French with a 1736 deed. Its exact original wording remains unconfirmed, and neither person is established as the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "editorial",
+        "1339",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "2c2db541c6ae6dcb086643dceafa06d3ba4d6d11472f2449017ae1040c4b634d",
+      "replacement": "Histories disagree about whether Shrewsbury City ever operated temporarily as the legal name. The proposed change and its reported outcome remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1340",
+      "path": [
+        "editorial",
+        "1340",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d66f36abb0458df767d42518e3cec263cef144948e3bfadc3be8b3be7fe0295f",
+      "replacement": "The corporation used Jersey Homesteads by December 1933. Residents began occupying homes in 1936, and a garment factory opened as the community’s industrial center. A legal-history guide gives May 29, 1937 for the borough act, while a Rutgers collection history says April. That month discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1340",
+      "path": [
+        "editorial",
+        "1340",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "6361d0356592d6b0e8d287c31f2afc83b82e26fb36f80ef60e6641b206d9def2",
+      "replacement": "After Franklin D. Roosevelt’s death, residents chose his name as a memorial in 1945. The legal guide gives November 6 for voting and reported effect, November 8 for a council resolution, and November 9 for state filing. These were separate steps, without an independently established exact operative date. Ben Shahn’s memorial work belongs to the cultural history but does not establish that he proposed the municipal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1340",
+      "path": [
+        "editorial",
+        "1340",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "fded6f301dbe800efa6bb66a48780e64ec66da7420f0961e0e8f800e01aa1488",
+      "replacement": "The November 6, 1945 vote honored Franklin D. Roosevelt. The index reports immediate effect; the exact operative date remains qualified, separate from later resolution and filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1340",
+      "path": [
+        "editorial",
+        "1340",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "fded6f301dbe800efa6bb66a48780e64ec66da7420f0961e0e8f800e01aa1488",
+      "replacement": "The November 6, 1945 vote honored Franklin D. Roosevelt. The index reports immediate effect; the exact operative date remains qualified, separate from later resolution and filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1340",
+      "path": [
+        "editorial",
+        "1340",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "a35544bd510d797c295dc4ffdbbcf10e1b6a4fff0c7d101c62b8addcef6cc859",
+      "replacement": "The index gives May 29, 1937 for borough creation from Millstone, while a Rutgers chronology says April. That month discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1340",
+      "path": [
+        "editorial",
+        "1340",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "a35544bd510d797c295dc4ffdbbcf10e1b6a4fff0c7d101c62b8addcef6cc859",
+      "replacement": "The index gives May 29, 1937 for borough creation from Millstone, while a Rutgers chronology says April. That month discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1340",
+      "path": [
+        "editorial",
+        "1340",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "01bdcf955024a3c2e531d43ae2972f38730a297e244723189b8f3067ea9e6be6",
+      "replacement": "The 1945 vote, council resolution and state filing were separate steps. The exact operative date remains qualified, rather than automatically following the filing date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1341",
+      "path": [
+        "editorial",
+        "1341",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "d5457eef77d346bbb69c20c087c0a3b2487c608b4593324219000245c8429d08",
+      "replacement": "Chapter 213, approved May 15, 1907, authorized Rumson subject to voter approval. The act was separate from the later election and filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1341",
+      "path": [
+        "editorial",
+        "1341",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "d5457eef77d346bbb69c20c087c0a3b2487c608b4593324219000245c8429d08",
+      "replacement": "Chapter 213, approved May 15, 1907, authorized Rumson subject to voter approval. The act was separate from the later election and filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1341",
+      "path": [
+        "editorial",
+        "1341",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "4961f026833cd025f178b5a32e2ba66cdd3801d572c1615ecadf16d782d79880",
+      "replacement": "Ellis’s later history reports related forms in a 1664 deed tradition. The exact original wording and first name chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1341",
+      "path": [
+        "editorial",
+        "1341",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "4961f026833cd025f178b5a32e2ba66cdd3801d572c1615ecadf16d782d79880",
+      "replacement": "Ellis’s later history reports related forms in a 1664 deed tradition. The exact original wording and first name chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "editorial",
+        "1342",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "8632d31adee986e67e6c3f4fc6004138ef758083ddf791a21dc2e4a135747123",
+      "replacement": "The index reports a March 20, 1889 vote and infers March 21 filing and effect from unofficial chronology. Full separation followed in 1896. A reported March 10, 1897 municipal stage has an unresolved procedural role. These were separate government stages, rather than repeated first namings of Sea Bright.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "editorial",
+        "1342",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "22b4246ff42bd097c16ade905730e300deb895d21283010a98c2b01cd20b87d7",
+      "replacement": "An April 1871 newspaper form, Seabright, is reported but remains unconfirmed. It does not establish the exact first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "editorial",
+        "1342",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "22b4246ff42bd097c16ade905730e300deb895d21283010a98c2b01cd20b87d7",
+      "replacement": "An April 1871 newspaper form, Seabright, is reported but remains unconfirmed. It does not establish the exact first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "editorial",
+        "1342",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "c9200a96c8c9db15568c124be6dc31319428744b651b344cececee5ce515c526",
+      "replacement": "The index infers March 21, 1889 filing and effect from unofficial chronology, after the March 20 vote. The exact legal effect remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "editorial",
+        "1342",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "c9200a96c8c9db15568c124be6dc31319428744b651b344cececee5ce515c526",
+      "replacement": "The index infers March 21, 1889 filing and effect from unofficial chronology, after the March 20 vote. The exact legal effect remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "editorial",
+        "1342",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "7089e01c30fbc0f0c3dda22afc219eb9ee15c29c66d0d52836f6b4113ab43f3d",
+      "replacement": "An April 1871 newspaper form, Seabright, is reported but remains unconfirmed. The exact first use remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "editorial",
+        "1342",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "7089e01c30fbc0f0c3dda22afc219eb9ee15c29c66d0d52836f6b4113ab43f3d",
+      "replacement": "An April 1871 newspaper form, Seabright, is reported but remains unconfirmed. The exact first use remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "editorial",
+        "1342",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "e75bbbf7d56dd404dd3f854a302407427a0f2f8654f1d6a1c7d190b0bc22bda4",
+      "replacement": "The 1889 vote and inferred filing were separate steps. Full separation followed in 1896; the procedural role of the reported 1897 event remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1343",
+      "path": [
+        "editorial",
+        "1343",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "148e392db87416298e47c1257a4bd95ef391c63915c54600145d473c595edae9",
+      "replacement": "One account gives Stockton’s acquisition as 1853; another says about 1835. A name reference is reported in an 1866 deed, but its exact day and full parties remain unconfirmed. The word’s meaning does not establish the exact local naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1343",
+      "path": [
+        "editorial",
+        "1343",
+        "journey",
+        1,
+        "label"
+      ],
+      "expected_sha256": "7bd5e78e113427047de9c9227a365da88e4cbeae625348a29cafe5cc799d0042",
+      "replacement": "A name reported in a deed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1343",
+      "path": [
+        "editorial",
+        "1343",
+        "journey",
+        1,
+        "label"
+      ],
+      "expected_sha256": "7bd5e78e113427047de9c9227a365da88e4cbeae625348a29cafe5cc799d0042",
+      "replacement": "A name reported in a deed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1343",
+      "path": [
+        "editorial",
+        "1343",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "df7c8e8d5626e9ea281de26921b7be5c083a1d5ac4ac547db3a0ba432893b23e",
+      "replacement": "The later court opinion reports February 1878 filing of the revised map. This is separate from its reported preparation in 1877 and the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1343",
+      "path": [
+        "editorial",
+        "1343",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "df7c8e8d5626e9ea281de26921b7be5c083a1d5ac4ac547db3a0ba432893b23e",
+      "replacement": "The later court opinion reports February 1878 filing of the revised map. This is separate from its reported preparation in 1877 and the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "editorial",
+        "1344",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "bf676d2bf7a38cc25a57385a687015e9eb1e7756cec1a1e7c63453d2326beda0",
+      "replacement": "Later preservation accounts report civic use of Shrewsbury by 1667. They also cite a map associated with 1682, whose production date remains unconfirmed. A depicted historical year does not establish when the map was made or make it a contemporary naming record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "editorial",
+        "1344",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "f6422d27123dd92fcafe433b1e043ca286ab704c7964bc39a30418588b8e70d9",
+      "replacement": "Later histories report Shrewsbury civic activity by 1667. Courts, congregations, roads and taverns helped the crossroads village grow. A map associated with 1682 has an uncertain production date; it may have been made later than the period it depicts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "editorial",
+        "1344",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "a6a84b9f0067f726f11e7c33594f20296d929366230d1923907fef56063f785d",
+      "replacement": "The later preservation history reports civic activity in 1667. That attributed use does not establish the exact original wording or first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "editorial",
+        "1344",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "a6a84b9f0067f726f11e7c33594f20296d929366230d1923907fef56063f785d",
+      "replacement": "The later preservation history reports civic activity in 1667. That attributed use does not establish the exact original wording or first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "editorial",
+        "1344",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "86eed93a034396ff3c4d7d214347323d84dc1862cfa4a33338ad91ad278d2af4",
+      "replacement": "Later history reports civic use by 1667. The map associated with 1682 has an uncertain production date; its depicted year does not establish when it was made.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "editorial",
+        "1344",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "7b02907fca1655af284db1e0af09afbfbaff2dac1033da83d0bfc6263ab1170c",
+      "replacement": "Later history reports civic use by 1667. The map associated with 1682 has an uncertain production date; its depicted year does not establish when it was made.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "editorial",
+        "1344",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "755d32a256ee618852867f537193ee2a99231076eb442a14024416822f50b331",
+      "replacement": "The index gives March 22, 1926 enabling legislation and May 11 voting and effect from unofficial chronology. The exact legal effect remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "editorial",
+        "1344",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "755d32a256ee618852867f537193ee2a99231076eb442a14024416822f50b331",
+      "replacement": "The index gives March 22, 1926 enabling legislation and May 11 voting and effect from unofficial chronology. The exact legal effect remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "editorial",
+        "1345",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ba56a4f0c31113e540350a5bda036b37ddc64c75d48bd5bc15746400f5cf159f",
+      "replacement": "The historic village core became Shrewsbury Borough in 1926. New Shrewsbury, later Tinton Falls, was a separate 1950 government development. Their shared ancestry does not make the municipalities interchangeable. The first New Jersey name chooser remains unknown. A map associated with 1682 has an uncertain production date, so it does not establish contemporary name use in that year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "editorial",
+        "1345",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "012f6dc7e6c08eb5725a4457f2012b89c8b076d79adccf01bdae43fc62071dcf",
+      "replacement": "The February 21, 1798 township law continued the older jurisdiction. Later annexations and divisions were separate boundary stages, rather than new naming decisions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "editorial",
+        "1345",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "012f6dc7e6c08eb5725a4457f2012b89c8b076d79adccf01bdae43fc62071dcf",
+      "replacement": "The February 21, 1798 township law continued the older jurisdiction. Later annexations and divisions were separate boundary stages, rather than new naming decisions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "57fbbbfb290393f12e01c8fbfb9887ebdaf7d15694212f70e963d346267b0876",
+      "replacement": "Lake Como is reported as a lake and development name before it became the borough title. An account attributed to Ellis’s 1885 history describes a tract associated with Henry H. Yard and William M. Force and identifies Three-Cornered Pond as Lake Como; those details remain unconfirmed. Older local history also preserves Polly Pond Bog, without establishing that every label covered exactly the same feature.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "18ffda9b1ab2c8dca85826eb5b7506bc3dd859965261eaaa200874625527d842",
+      "replacement": "The borough later adopted an older local lake and development name. An account attributed to an 1885 history describes Lake Como as both a tract and a lake; those details remain unconfirmed. The exact first naming occasion remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4ed09289fbe13c7e3f048544c8716163fe81ec0ad668922e004aa136964f8d78",
+      "replacement": "The borough began as South Belmar in 1924. The legal index gives November 2, 2004 voter approval of Lake Como, followed by a January 4, 2005 resolution and January 10 state filing. These were separate steps; the exact operative date remains unconfirmed. The modern change adopted a local landscape name with a reported nineteenth-century history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "fb9406070ecee7cca32b7e57eb02b2876adfc9147f253ea843052fc2c86e2c36",
+      "replacement": "Three-Cornered Pond and Polly Pond Bog are older landscape names in local history. An Italian Lake Como connection remains possible but unproved. Yard and Force are associated with the reported development account; neither is established as the original name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "preview"
+      ],
+      "expected_sha256": "0b4122a5e9f2a7d7fd48f9dde09a41d4371c0606d2938b1e9f98bc33fd763912",
+      "replacement": "Lake Como replaced South Belmar after a 2004 vote and 2005 resolution and filing. An earlier local lake and development name is reported.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8111262fd3661de82939e1fbc6a5b7bc840b1c27b06820e8ec66e4c25fb315a4",
+      "replacement": "An account attributed to Ellis’s 1885 history describes a Lake Como tract and lake; those details remain unconfirmed. It does not establish an Italian allusion or individual name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8111262fd3661de82939e1fbc6a5b7bc840b1c27b06820e8ec66e4c25fb315a4",
+      "replacement": "An account attributed to Ellis’s 1885 history describes a Lake Como tract and lake; those details remain unconfirmed. It does not establish an Italian allusion or individual name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1f63179872221e1cd6e6142c0eec191cd4ed2b80fa52a3ba0ac25535fbd6f520",
+      "replacement": "A Lake Como tract and lake are reported in an account attributed to Ellis’s 1885 history; those details remain unconfirmed. Yard and Force are associated developers, without an established first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "editorial",
+        "1346",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1f63179872221e1cd6e6142c0eec191cd4ed2b80fa52a3ba0ac25535fbd6f520",
+      "replacement": "A Lake Como tract and lake are reported in an account attributed to Ellis’s 1885 history; those details remain unconfirmed. Yard and Force are associated developers, without an established first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1347",
+      "path": [
+        "editorial",
+        "1347",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0805f901ff1663d381e67fa448876093df329fb0f290a72b602a8178564c1ae9",
+      "replacement": "Spring Lake takes its immediate name from the resort’s freshwater lake. The words suggest a connection with springs, but the original naming intention remains unknown. Older Fresh Pond and Fresh Creek Pond references may concern different features; their exact relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1347",
+      "path": [
+        "editorial",
+        "1347",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "bb97f45739e75cdd5df59542ce74dc1f6362d65aa7d27e240cc731ecd90bf003",
+      "replacement": "Spring Lake grew around a freshwater lake. Its name suggests a connection with springs, but the original naming intention remains unknown. Older pond names may concern different features; their exact relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1347",
+      "path": [
+        "editorial",
+        "1347",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "292e6a61e8751c4ae735134a6171c2025028d793f578b7f43cbbb1dd4c96e1b7",
+      "replacement": "The immediate namesake is the local freshwater lake. The exact intention behind Spring remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1347",
+      "path": [
+        "editorial",
+        "1347",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "292e6a61e8751c4ae735134a6171c2025028d793f578b7f43cbbb1dd4c96e1b7",
+      "replacement": "The immediate namesake is the local freshwater lake. The exact intention behind Spring remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1348",
+      "path": [
+        "editorial",
+        "1348",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "c498a93fca5a12eb6d786c4a3f8c3b2209d8146214ae77fa65ed8a59f2f0190d",
+      "replacement": "The borough’s legal beginning has an unresolved date conflict. An index gives a March 19, 1927 enabling act and reports May 3 election and effect from unofficial chronology. Ann Noonan’s later history instead gives April 30 for a borough election. These remain competing accounts, without an established procedural distinction that reconciles them.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1348",
+      "path": [
+        "editorial",
+        "1348",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "5ef06470e4892c4832b2efd9199242ea0569aeece83909f5455f83e1dc31ec5b",
+      "replacement": "The 1927 borough election has two reported dates. An index gives May 3; a later community history gives April 30. The difference remains unresolved. The accounts do not establish separate procedures that would make both dates fit one settled chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1348",
+      "path": [
+        "editorial",
+        "1348",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "6fb65f579485b5aa519a8f48b2b17c2e0c60c3ab00f4684d9ec89c29306ae3f3",
+      "replacement": "The index reports May 3 election and effect from unofficial chronology. Noonan’s April 30 election account remains a conflict, without an established procedural distinction.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1348",
+      "path": [
+        "editorial",
+        "1348",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "6fb65f579485b5aa519a8f48b2b17c2e0c60c3ab00f4684d9ec89c29306ae3f3",
+      "replacement": "The index reports May 3 election and effect from unofficial chronology. Noonan’s April 30 election account remains a conflict, without an established procedural distinction.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1348",
+      "path": [
+        "editorial",
+        "1348",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "14ddd1f0ce236f970c283f95909dd5ac3635309231de7ef2182ddfe1b2335ee4",
+      "replacement": "The index gives May 3 election and effect from unofficial chronology; Noonan’s later account gives April 30. The conflict and exact procedural relationship remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1348",
+      "path": [
+        "editorial",
+        "1348",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "36cf4e6519bcb7e8d7efb756c94a75a27a076155cf1710fb7963f64044a7a63b",
+      "replacement": "The index gives May 3 election and effect from unofficial chronology; Noonan’s later account gives April 30. The conflict and exact procedural relationship remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5593355c112c6681416cf1d75779f983774c35eab3661a832143d236e9a9dab8",
+      "replacement": "The falls powered mills and ironworking. A modern article describes a 1676 survey as Tinton manor and quotes a 1679 account of enslaved workers on the Morris property. These are attributed descriptions of a landscape shaped by forced labor and industrial development. Revolutionary raids add later locality context without establishing first use of the full name Tinton Falls.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "5024c3a904d2d58112a47898f6f2fbb454f465d10aa4b6e906e09cea738c5ced",
+      "replacement": "Modern historian Rick Geffken quotes a 1679 account describing enslaved workers on the Morris property. This attributed account is part of the industrial and farming history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "5024c3a904d2d58112a47898f6f2fbb454f465d10aa4b6e906e09cea738c5ced",
+      "replacement": "Modern historian Rick Geffken quotes a 1679 account describing enslaved workers on the Morris property. This attributed account is part of the industrial and farming history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "40be802652806dc082aeb12e02cf797afdfeda377038c332b08e6178ceca2077",
+      "replacement": "The index gives November 4, 1975 for the vote and reported immediate effect. The exact operative date remains qualified, separate from resolution and filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "40be802652806dc082aeb12e02cf797afdfeda377038c332b08e6178ceca2077",
+      "replacement": "The index gives November 4, 1975 for the vote and reported immediate effect. The exact operative date remains qualified, separate from resolution and filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "589dbddc0ac1e9f3192a3bb73d948b18c140a888fe19c8b0dd57023f24be23c2",
+      "replacement": "The index gives November 6, 1975 for the certifying resolution. That is separate from the November 4 vote and November 18 filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "589dbddc0ac1e9f3192a3bb73d948b18c140a888fe19c8b0dd57023f24be23c2",
+      "replacement": "The index gives November 6, 1975 for the certifying resolution. That is separate from the November 4 vote and November 18 filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "90874972b7a31637c53a0a310c98813c8de9f3972d998b3b8b51eac8a644c568",
+      "replacement": "Rick Geffken’s modern history quotes a 1679 account of enslaved people on the Morris property. His description also identifies a 1676 survey as Tinton manor.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "02d1b33381d96ef36ae3f5c4d414e82c8c9225bef43ae2ffc6867a0f8e8af5b6",
+      "replacement": "Revolutionary raids are locality context, without establishing first exact-name use. A circa-1840 post office with Pierson Hendrickson is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "editorial",
+        "1349",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "02d1b33381d96ef36ae3f5c4d414e82c8c9225bef43ae2ffc6867a0f8e8af5b6",
+      "replacement": "Revolutionary raids are locality context, without establishing first exact-name use. A circa-1840 post office with Pierson Hendrickson is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "editorial",
+        "1350",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a436bcfbadae30605585d094c07d06a9421847cdf03cee28ed3530a26c76e489",
+      "replacement": "A dealer’s catalog describes a Richard Heuser promotional map dated 1920, with thousands of lots and a proposed borough. These are attributed catalog details, without independent confirmation of the full map and reverse-side advertisement. Carr’s promotion and Heuser’s mapmaking do not establish which person first chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "editorial",
+        "1350",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "406be37f7522e47d88781601617a6dfada98ae8040d780f39f510e4a31e0bbcd",
+      "replacement": "A map dealer describes a 1920 plan by Richard Heuser with many lots and a proposed borough. Those are attributed catalog details, without independent confirmation of the full map. Drawing the plan and promoting the community do not establish who first chose Union Beach.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "editorial",
+        "1350",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d94a3873965d67ea7b005e11391925fd2b45396e132408333cfc1fee22f14950",
+      "replacement": "A dealer’s catalog describes a 1920 Heuser map with many lots and a planned borough. Those attributed details remain unconfirmed, separate from the later municipal creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "editorial",
+        "1350",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d94a3873965d67ea7b005e11391925fd2b45396e132408333cfc1fee22f14950",
+      "replacement": "A dealer’s catalog describes a 1920 Heuser map with many lots and a planned borough. Those attributed details remain unconfirmed, separate from the later municipal creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "editorial",
+        "1350",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e3cf59f59684459a1c6c6db767e3c2a02bf74ef7253749c763d8225fbce79299",
+      "replacement": "A dealer’s catalog describes a 1920 Heuser map with a large lot plan and proposed borough. These attributed details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "editorial",
+        "1350",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "64de4281e246938c9a86c094f757c23875f2f8db04df541dd511d196911277e6",
+      "replacement": "A dealer’s catalog describes a 1920 Heuser map with a large lot plan and proposed borough. These attributed details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "editorial",
+        "1350",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "285056046bb46279c69492b6b31f3e22890eca942cde408705abfc380f9d9ffe",
+      "replacement": "Poole farm, Union Subdivision and East Point Beach Estates belong to the earlier tract history. Their exact geographic and ownership relationships remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "editorial",
+        "1350",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "285056046bb46279c69492b6b31f3e22890eca942cde408705abfc380f9d9ffe",
+      "replacement": "Poole farm, Union Subdivision and East Point Beach Estates belong to the earlier tract history. Their exact geographic and ownership relationships remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "20fc8fc1a1046fbae90a642f107602c2d891d7b0fbb3533ecb8466d9d8c127d1",
+      "replacement": "Year reported in a later deed account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "043aed0e82a973f3521cce4a7197ade233e1b933e79149dad89e31a4558f1c8c",
+      "replacement": "A later account reports the red bank in a 1736 deed; its exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "ec1eeb548d5a396001c32a7577aaeebcba9c97a7a6cb64972239a36f1ec5263b",
+      "replacement": "An attributed early use, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "8d4c26d1b96a89d881b737abd0458a12497c41365bf83814ab9704c0e6b93127",
+      "replacement": "An indexed unsuccessful proposal; the separate account of temporary Shrewsbury City use remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "32275a60ecb3f0c89e853160effdf2d883c1d2c33a2f0d5a0238cd02f843cb09",
+      "replacement": "the red bank (reported deed wording); Navesink River (landmark setting); Shrewsbury City (disputed proposed title); Town of Red Bank (earlier government); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1340",
+      "path": [
+        "views",
+        "1340",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "48c71dcb791f0cb1100384c2dc964a09e98b56bb9a5380863f1dcf24f4c688bb",
+      "replacement": "The index reports a November 6, 1945 vote and immediate effect. The exact operative date remains qualified, separate from later resolution and filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1340",
+      "path": [
+        "views",
+        "1340",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "0afb529ab4b21e96dba06dbe19b1fee55e558299e49f22aac1d3d4d416811da5",
+      "replacement": "The index reports a November 8, 1945 council resolution, separate from the vote and later state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1340",
+      "path": [
+        "views",
+        "1340",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "abbd4295246277811fd64f52e42f732cf68d6fe8ad2473c05e0dc215ad673f6d",
+      "replacement": "Hightstown Project (planning name); Jersey Homesteads (former municipal name); Jersey Homesteads Corporation (project body); Franklin D. Roosevelt (honoree); Millstone Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "c612d28cf61f6db69dc92302e53f86f24f2e9e505848a77137c7e6cfba079cbc",
+      "replacement": "Ellis’s 1885 history reports related Navarumunk, Narumsunk and Narumson forms in a 1664 deed tradition. Exact original wording and meaning remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "7ce17eb0793f2eeced5b010faec39e26c15abea15ce39dc7648250de55df583e",
+      "replacement": "An attributed Indigenous name history; the later rum-purchase explanation remains unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "ac633f6eeb9a9c6cce1b1af950fd67fe02d652e435622732545988b018e7d513",
+      "replacement": "The act gives May 15 approval, distinct from the March 15 date repeated in other accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "0e4a29f47b138c9776e455e95b98496bfeb82104d7dd5d84680163174b4b06e9",
+      "replacement": "An indexed corporation-paper date after the June 18 vote, without an established receipt date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "sources",
+        "S1930",
+        "title"
+      ],
+      "expected_sha256": "14c94ed99bae7763a0956b6efa73cc817be36255dbaa830d352528ab25143513",
+      "replacement": "1907 session laws, pages 469–471",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6f41223e3a11b11aa3083b3497e1a33158086518ffbe6c65c2d2f1d74da6e114",
+      "replacement": "Navarumunk, Narumsunk and Narumson (reported older forms); Rumson Neck (peninsula); Port Washington, Oceanic and Black Point (component localities); Rumson Nurseries (business); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "d1b19fad556f7b332028d3561393e022555c534a05219b7f02979170f3142dbd",
+      "replacement": "Later tradition associated with Leonard’s history credits Martha Bayard Stevens with Sea Bright. Her exact original naming statement and rationale remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "3bb60a2fab9e7b5e162b18516e4e4bbc0f5a0e1e2d8861455d4ffa571d8ec7ec",
+      "replacement": "Month reported by a later newspaper account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "f47a6a37ad3279cb769661c68ede632769269a65342ada25ab4712157efe389a",
+      "replacement": "A reported Seabright form, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        11,
+        "precision"
+      ],
+      "expected_sha256": "8b604fb4f4965a4e2c3d1b6c211b86676cfe2a6b1d3fd63314a5cae9cb510d26",
+      "replacement": "Reported municipal date; procedural role unresolved",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        11,
+        "actor"
+      ],
+      "expected_sha256": "a806b1020f81875da504c67c16471b1e60b3c7c96033f031d99b74ed6fc2da59",
+      "replacement": "Local and state participants unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "f21e8a54f8bf3a341402b3887c3ac5d970f48b96bc5578e155c7c43dfaa70d26",
+      "replacement": "A March 10, 1897 municipal stage is reported, but its instrument and exact procedural role remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "1f7dfff06736f4bb2604b7663bc11538a3aa93c9059907e0c9b9c9441a9b0a72",
+      "replacement": "A reported later stage with unresolved procedure, separate from the 1889 formation and 1896 separation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "sources",
+        "S484",
+        "title"
+      ],
+      "expected_sha256": "e9ff8a801e31ff22a236b32fc247b9bec61fa9c5db2caec35829637e0a26115e",
+      "replacement": "Concerning Summer Homes Along the Shores of Monmouth County, New Jersey",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e85069642922c5304dd1c6128f137a5825489eee0150d9ec201c5b63f5bbe8eb",
+      "replacement": "Nauvoo (older fishing settlement); Ocean House (resort landmark); Seabright (reported printed form); Martha Bayard Stevens (attributed name chooser); Mifflin Paul (developer); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ae311e9ebadc8625d779ab0a92c5a9e8e2874cbfeef9e3fa89cf88f4a4c688a6",
+      "replacement": "One acquisition account gives 1853; another local history gives about 1835. That discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d9f45c262074cdbd5cdaa46e9d36c6397d9b71cb703e576c4867b7b0fee080b8",
+      "replacement": "Later histories associate the estate name with Stockton; the exact original naming date and intention remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "439f88bacecd35e1c2899d934aaff29a0f310a904a160d967fdcac662cac4569",
+      "replacement": "An attributed estate naming tradition, without an established exact naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "a2fc5db951f5231861be4e8eab3a3a3dc56f33642c2ecfb5ecf698b5b8a6d40c",
+      "replacement": "A later local history reports Sea Girt in an 1866 deed, without establishing July 9 as its day or identifying an estate grantor.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c856bc31268794b6d4c7e2cde7fb5e68d87b24984e34f8bca60cde3148f2ec23",
+      "replacement": "Ocean Side (older property context); Sea Girt estate (attributed Stockton name); Robert F. Stockton (estate owner); Sea Girt Land Improvement Company (developer); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "b05e18f2dca1f1e5824531dd6253798f91fb36a472a21bd449b88748c88e7706",
+      "replacement": "Civic date reported by later preservation history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ae7a08e3bd73401de7c9b1e4d86d4fa838df3c45d69059e4b82e11fb471f25fc",
+      "replacement": "The later preservation history reports Shrewsbury civic activity in 1667.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "6e428841b3635ca4dfa7f1ecef37fad7268fcd209545dc9bc6c6fcc9905512f9",
+      "replacement": "Attributed early civic use, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "a5df41ef66bc30d50c7a04f41bb98787af53ad7d152dd9a9f232a8f827b060e4",
+      "replacement": "Depicted historical year; map production date uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "f2fb6ac7cb391c3938156e7864c5ba609186f8cefd0e991f1c4bf3c8a0260e96",
+      "replacement": "Reported map reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "2c6f34eef402cda70bfeac41284292596de6e99a4b3ad00b660104a07dde5d0a",
+      "replacement": "Map compiler and lithographer unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "0b61257243c6a6fd223d7cb11e71f463d84369a8b698213873fde7378fdf6b32",
+      "replacement": "A map reference with an uncertain production date; it does not establish contemporary use in the depicted year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ef3ba79a808d023200f886aeccf997f5ca2432ae2122c679b6ee8230e590cb65",
+      "replacement": "Shrousbury and Schrousbury (reported older spellings); Four Corners (historic village); Shrewsbury, England (namesake); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "ae7a08e3bd73401de7c9b1e4d86d4fa838df3c45d69059e4b82e11fb471f25fc",
+      "replacement": "The later preservation history reports Shrewsbury civic activity in 1667.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "cf304ad10affe1b613038fddea504f39de354bb9be34db330cb03cd07e665425",
+      "replacement": "Attributed early civic use before the statutory township boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "a5df41ef66bc30d50c7a04f41bb98787af53ad7d152dd9a9f232a8f827b060e4",
+      "replacement": "Depicted historical year; map production date uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "f2fb6ac7cb391c3938156e7864c5ba609186f8cefd0e991f1c4bf3c8a0260e96",
+      "replacement": "Reported map reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "2c6f34eef402cda70bfeac41284292596de6e99a4b3ad00b660104a07dde5d0a",
+      "replacement": "Map compiler and lithographer unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "a54ad937dc6016b54e5c39dba05bf3fd87ed903658c2e49dcf27ccd844f82dff",
+      "replacement": "A map reference with an uncertain production date; it does not establish contemporary use in the depicted year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "sources",
+        "S1935",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "sources",
+        "S1938",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5c10e6e834913bf069bc2b97a159a6cf3dc6a6d64d19602fef36e846f4d4f1df",
+      "replacement": "Shrewsbury, England (namesake); Shrewsbury Borough (separate village government); New Shrewsbury and Tinton Falls (separate successor); Upper Freehold (boundary neighbor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "e7c7ec8b47a33a9eb1707958e3280d4265ea8084fb8016ce0e37ff983547e4e8",
+      "replacement": "Undated; circa-1881 account unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "6471367733c0b16c8f56737dd47b0d0e683c9485d12d7c4f5ba31547622f7445",
+      "replacement": "Exact date unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "d60cbc16420d43c1d190cb67496630b40c2f72c4d92d1a3feb5fce4bbecde1a8",
+      "replacement": "Reported development-name change",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "447d9f4a81f4c122a07007b29c180dc71263ad00ee28941a1a1f69fd60db9abb",
+      "replacement": "A Keith-to-Como development change around 1881 is reported but remains unconfirmed. The exact original naming occasion and first chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "3023c7f8e6f7b2cd8772dc15184da3f00594b62266350f140d92a0d496f5ba5a",
+      "replacement": "An unconfirmed development account, without an established first public use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "579aca204618cd9e94f179cb436d69329fcc62d7bbdb1af5bc07b706ba4fef5a",
+      "replacement": "Reported historical name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "5ea6682086e49526c08df11963046cb94891a118ea425ec83ca846183fb4f361",
+      "replacement": "A Lake Como tract and lake are reported in an account attributed to Ellis’s 1885 history; the exact details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "3e67ef065fa23cf357724a66bcb4d0cb2c3d7b8e5ecaf8e2d2061572d6f75fb1",
+      "replacement": "An attributed earlier local identity, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "sources",
+        "S1923",
+        "publication"
+      ],
+      "expected_sha256": "f9de5a8b67b081c380c87e4da3c92f135ce397beb3300cefc1091c7d7c3b2c8c",
+      "replacement": "Undated event and filing index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "89a188e08e9894ff1ef1457452789e17e77b3143886951954abe06455077cdb5",
+      "replacement": "Three-Cornered Pond and Polly Pond Bog (older landscape names); Keith (unconfirmed development account); Lake Como (reported lake and tract name); South Belmar (former borough name); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1347",
+      "path": [
+        "views",
+        "1347",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "b92c66ed43d8bafb404daaf7d5e4bc1fbdd92fef21325ec4777a3e10cee34fb0",
+      "replacement": "Fresh Pond and Fresh Creek Pond are reported older hydronyms; their exact relationship to the later Spring Lake feature remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1347",
+      "path": [
+        "views",
+        "1347",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "0a15fedfa94c5cff71bbdbfc862519e9585c8dc2c13b7108941fc2dce787fc39",
+      "replacement": "Reported map use of a name already present in the company title, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1347",
+      "path": [
+        "views",
+        "1347",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "088924f7ebb711ff52b30d4d9f6340e7951e7c39adfd976bd7be5bda015aeb9c",
+      "replacement": "Fresh Pond and Fresh Creek Pond (older hydronyms, relationship uncertain); Spring Lake Beach (resort); Spring Lake Beach Improvement Company (developer); North Spring Lake (annexed borough); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1348",
+      "path": [
+        "views",
+        "1348",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "b5fa9cb2ca8dca35ba5ab943093a1561349365960f10a20d6f4db3047fd00d34",
+      "replacement": "An indexed creation account with an unresolved election-date conflict.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1348",
+      "path": [
+        "views",
+        "1348",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "b90bfc28b8c369908f11300f1174004adf44a4fff9af9ed1f1ad0ad5141420fa",
+      "replacement": "A competing election-date account; the exact procedural relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1348",
+      "path": [
+        "views",
+        "1348",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c4944bf4433c7d57d6d569b72828cd85f7b171db0df5d2d08c4a9d53b826a0f2",
+      "replacement": "Villa Park and Reid’s Villa Park (component development); Lake Como section (component area); Spring Lake (neighboring namesake); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ff10446ece382771c331899e4be5aba8434c401e2391aa3b21eb60eb54f9e632",
+      "replacement": "Falls of Shrewsbury is reported as an older geographic name. Its exact first use remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "9b3b08d6db95df0a22c7144e6526a3c363e75a1a7cf2aff1d4ee863d540637cf",
+      "replacement": "Reported naming period; exact original occasion unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "765d15d2a5f46b76690a37307b75581edeef5e602f56e783f12943facb509cbb",
+      "replacement": "Geffken’s modern article describes a 1676 Vanquellin survey as Tinton manor. The exact original map wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "7e02e00ffa565cc8349bb4e998fd7febd7a5a176d5774d03912cc172fc6c3f43",
+      "replacement": "An attributed survey description, without an established earliest spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "24920356994f28466c671033b7c76a0c7f845b17f0d569ae38d6b14472007d2d",
+      "replacement": "Rick Geffken’s modern history quotes a 1679 account describing enslaved workers on the Morris property.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "162bd3be0a607c1b5e85373e280722036a2fbbc602fa7bf6d691dbfa831aa970",
+      "replacement": "Modern histories describe raids at the locality in 1779–1780. Those accounts do not establish first use or exact contemporary spelling of the full name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "b64ab57fd057f06065bf4b8852c99d671166d7362046997f60d68f6abf491703",
+      "replacement": "Approximate reported postal year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "99ceacf9bfa95def79f12a562e3ce3582c58b24fb01ceac3b077ffd3b8891573",
+      "replacement": "An Ellis-derived account reports a circa-1840 post office with Pierson Hendrickson, but its exact date and original naming role remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "b119bbb17c5c8eccb9879cfbc437c7e8d1371942dbd3b1728b647f9532dd4eed",
+      "replacement": "A qualified postal account, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "35f7772804aaea9cc5a041759bbadc0697a0ade9abccb2792b4e28bad2d745ef",
+      "replacement": "The exhibition guide describes a March 1950 newspaper discussion of Old Shrewsbury as a proposed name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "ae8a6c64a0ab839c837582839dea3ed2ac84fc0a4f92f33702a6a86a72cdf6fa",
+      "replacement": "An attributed alternative proposal, without an established official rejection vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        10,
+        "precision"
+      ],
+      "expected_sha256": "e9f7b22075e79ee9989d0fe92c7a0f53bcfbd5e38da4f44cc2fdd41df95f1a29",
+      "replacement": "Vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        13,
+        "action"
+      ],
+      "expected_sha256": "bd490b055bec2deb16aaf516b28d7b3730309f3808ea7a8e898fc55b00271ebb",
+      "replacement": "The index reports a November 4, 1975 vote adopting Tinton Falls and immediate effect. The exact operative date remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        14,
+        "action"
+      ],
+      "expected_sha256": "a065fcb1f6d9cb5f59ebc3e6277a4a96604d0a30a58f1b1dd4deb1f2bf256b55",
+      "replacement": "The index gives November 6, 1975 for the resolution certifying Tinton Falls, separate from the vote and later state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "sources",
+        "S1935",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "sources",
+        "S1936",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7e15683e57257b9c24115e9f1f1abae02dfedbcbec49c1ceebe5f282111db05c",
+      "replacement": "Falls of Shrewsbury (reported older name); Tintern and Tinton Manor (historic forms); Tintern, Wales (qualified origin connection); Old Shrewsbury (reported proposal); New Shrewsbury (former borough name); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "41a51c4d0d72f715e6750d1071f0a796ee0d2332216f58ac67ae28411ab5d366",
+      "replacement": "Monmouth Timeline associates the Poole farm with the earlier development tract; its exact duration and boundaries remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "bcf7eb62da1f68f4dc4d14331a75eb313d46f45cebca877f335adbf32eefbbf5",
+      "replacement": "An 1846 Florence & Keyport Company land offering is attributed to Burket but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "16f39094547044f128d882a04c96d8e3de06b2f918ed4998257d5e300e4620b8",
+      "replacement": "A qualified tract-history account, without an established Union Beach naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "4f3ec39f906a94134caf7a77c0d32d44563d9cbeda019cda5082faaea766e30f",
+      "replacement": "Reported development year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "1f44ffc0a1a70ebc99ab784b60dbf600f3fbe6d893516395ea0b12be5f55b5ce",
+      "replacement": "East Point Beach Estates is reported in 1915, but the exact dated development account remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "f61be966a5a4933f317c3fe07c6a141ffaba3644d3850781ea1a820bad35c3f0",
+      "replacement": "A dealer’s catalog describes a 1920 Richard Heuser map with nearly 3,000 lots and a planned borough. Those attributed map and reverse-side details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "a0fc33a1d46a46e9850dc4ceadf95c90d3e15ae1c3c27a7b2fed4705c8245c35",
+      "replacement": "An attributed catalog description of earlier name use, without independent confirmation of every map detail.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "ee4e8fec6fdde1b74c3d22cedcfcc2b499a2837c74241eb145a8021e421768e4",
+      "replacement": "An indexed April election and effect account that conflicts with a publisher’s May account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "sources",
+        "S1937",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "sources",
+        "S520",
+        "author"
+      ],
+      "expected_sha256": "92a55a0bd456f54499bf3eef548b121f903b36ad52dd63138b2bcc3d8263b967",
+      "replacement": "William H. Burket; Arcadia Publishing",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "sources",
+        "S520",
+        "publication"
+      ],
+      "expected_sha256": "b614f967e7f06b50fff2949cc6f4649da8b4245a6e13e6f72e755df414b5b05f",
+      "replacement": "Retail catalog gives October 16, 1998; reported 2011 year remains unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "4d3e4774a0610bc71aa0cdf12b5ecc4e40a0245969c0ee68af6a48b08d55249b",
+      "replacement": "Poole farm (older tract); Union Subdivision (reported development); East Point Beach Estates (reported earlier development); Charles Carr (promoter); Richard Heuser (mapmaker); Raritan Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "20fc8fc1a1046fbae90a642f107602c2d891d7b0fbb3533ecb8466d9d8c127d1",
+      "replacement": "Year reported in a later deed account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "043aed0e82a973f3521cce4a7197ade233e1b933e79149dad89e31a4558f1c8c",
+      "replacement": "A later account reports the red bank in a 1736 deed; its exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "ec1eeb548d5a396001c32a7577aaeebcba9c97a7a6cb64972239a36f1ec5263b",
+      "replacement": "An attributed early use, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "8d4c26d1b96a89d881b737abd0458a12497c41365bf83814ab9704c0e6b93127",
+      "replacement": "An indexed unsuccessful proposal; the separate account of temporary Shrewsbury City use remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1339",
+      "path": [
+        "views",
+        "1339",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "32275a60ecb3f0c89e853160effdf2d883c1d2c33a2f0d5a0238cd02f843cb09",
+      "replacement": "the red bank (reported deed wording); Navesink River (landmark setting); Shrewsbury City (disputed proposed title); Town of Red Bank (earlier government); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1340",
+      "path": [
+        "views",
+        "1340",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "48c71dcb791f0cb1100384c2dc964a09e98b56bb9a5380863f1dcf24f4c688bb",
+      "replacement": "The index reports a November 6, 1945 vote and immediate effect. The exact operative date remains qualified, separate from later resolution and filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1340",
+      "path": [
+        "views",
+        "1340",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "0afb529ab4b21e96dba06dbe19b1fee55e558299e49f22aac1d3d4d416811da5",
+      "replacement": "The index reports a November 8, 1945 council resolution, separate from the vote and later state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1340",
+      "path": [
+        "views",
+        "1340",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "abbd4295246277811fd64f52e42f732cf68d6fe8ad2473c05e0dc215ad673f6d",
+      "replacement": "Hightstown Project (planning name); Jersey Homesteads (former municipal name); Jersey Homesteads Corporation (project body); Franklin D. Roosevelt (honoree); Millstone Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "c612d28cf61f6db69dc92302e53f86f24f2e9e505848a77137c7e6cfba079cbc",
+      "replacement": "Ellis’s 1885 history reports related Navarumunk, Narumsunk and Narumson forms in a 1664 deed tradition. Exact original wording and meaning remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "7ce17eb0793f2eeced5b010faec39e26c15abea15ce39dc7648250de55df583e",
+      "replacement": "An attributed Indigenous name history; the later rum-purchase explanation remains unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "ac633f6eeb9a9c6cce1b1af950fd67fe02d652e435622732545988b018e7d513",
+      "replacement": "The act gives May 15 approval, distinct from the March 15 date repeated in other accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "0e4a29f47b138c9776e455e95b98496bfeb82104d7dd5d84680163174b4b06e9",
+      "replacement": "An indexed corporation-paper date after the June 18 vote, without an established receipt date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "sources",
+        "S1930",
+        "title"
+      ],
+      "expected_sha256": "14c94ed99bae7763a0956b6efa73cc817be36255dbaa830d352528ab25143513",
+      "replacement": "1907 session laws, pages 469–471",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1341",
+      "path": [
+        "views",
+        "1341",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6f41223e3a11b11aa3083b3497e1a33158086518ffbe6c65c2d2f1d74da6e114",
+      "replacement": "Navarumunk, Narumsunk and Narumson (reported older forms); Rumson Neck (peninsula); Port Washington, Oceanic and Black Point (component localities); Rumson Nurseries (business); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "d1b19fad556f7b332028d3561393e022555c534a05219b7f02979170f3142dbd",
+      "replacement": "Later tradition associated with Leonard’s history credits Martha Bayard Stevens with Sea Bright. Her exact original naming statement and rationale remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "3bb60a2fab9e7b5e162b18516e4e4bbc0f5a0e1e2d8861455d4ffa571d8ec7ec",
+      "replacement": "Month reported by a later newspaper account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "f47a6a37ad3279cb769661c68ede632769269a65342ada25ab4712157efe389a",
+      "replacement": "A reported Seabright form, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        11,
+        "precision"
+      ],
+      "expected_sha256": "8b604fb4f4965a4e2c3d1b6c211b86676cfe2a6b1d3fd63314a5cae9cb510d26",
+      "replacement": "Reported municipal date; procedural role unresolved",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        11,
+        "actor"
+      ],
+      "expected_sha256": "a806b1020f81875da504c67c16471b1e60b3c7c96033f031d99b74ed6fc2da59",
+      "replacement": "Local and state participants unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "f21e8a54f8bf3a341402b3887c3ac5d970f48b96bc5578e155c7c43dfaa70d26",
+      "replacement": "A March 10, 1897 municipal stage is reported, but its instrument and exact procedural role remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "1f7dfff06736f4bb2604b7663bc11538a3aa93c9059907e0c9b9c9441a9b0a72",
+      "replacement": "A reported later stage with unresolved procedure, separate from the 1889 formation and 1896 separation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "sources",
+        "S484",
+        "title"
+      ],
+      "expected_sha256": "e9ff8a801e31ff22a236b32fc247b9bec61fa9c5db2caec35829637e0a26115e",
+      "replacement": "Concerning Summer Homes Along the Shores of Monmouth County, New Jersey",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1342",
+      "path": [
+        "views",
+        "1342",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e85069642922c5304dd1c6128f137a5825489eee0150d9ec201c5b63f5bbe8eb",
+      "replacement": "Nauvoo (older fishing settlement); Ocean House (resort landmark); Seabright (reported printed form); Martha Bayard Stevens (attributed name chooser); Mifflin Paul (developer); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ae311e9ebadc8625d779ab0a92c5a9e8e2874cbfeef9e3fa89cf88f4a4c688a6",
+      "replacement": "One acquisition account gives 1853; another local history gives about 1835. That discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d9f45c262074cdbd5cdaa46e9d36c6397d9b71cb703e576c4867b7b0fee080b8",
+      "replacement": "Later histories associate the estate name with Stockton; the exact original naming date and intention remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "439f88bacecd35e1c2899d934aaff29a0f310a904a160d967fdcac662cac4569",
+      "replacement": "An attributed estate naming tradition, without an established exact naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "a2fc5db951f5231861be4e8eab3a3a3dc56f33642c2ecfb5ecf698b5b8a6d40c",
+      "replacement": "A later local history reports Sea Girt in an 1866 deed, without establishing July 9 as its day or identifying an estate grantor.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1343",
+      "path": [
+        "views",
+        "1343",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c856bc31268794b6d4c7e2cde7fb5e68d87b24984e34f8bca60cde3148f2ec23",
+      "replacement": "Ocean Side (older property context); Sea Girt estate (attributed Stockton name); Robert F. Stockton (estate owner); Sea Girt Land Improvement Company (developer); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "b05e18f2dca1f1e5824531dd6253798f91fb36a472a21bd449b88748c88e7706",
+      "replacement": "Civic date reported by later preservation history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ae7a08e3bd73401de7c9b1e4d86d4fa838df3c45d69059e4b82e11fb471f25fc",
+      "replacement": "The later preservation history reports Shrewsbury civic activity in 1667.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "6e428841b3635ca4dfa7f1ecef37fad7268fcd209545dc9bc6c6fcc9905512f9",
+      "replacement": "Attributed early civic use, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "a5df41ef66bc30d50c7a04f41bb98787af53ad7d152dd9a9f232a8f827b060e4",
+      "replacement": "Depicted historical year; map production date uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "f2fb6ac7cb391c3938156e7864c5ba609186f8cefd0e991f1c4bf3c8a0260e96",
+      "replacement": "Reported map reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "2c6f34eef402cda70bfeac41284292596de6e99a4b3ad00b660104a07dde5d0a",
+      "replacement": "Map compiler and lithographer unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "0b61257243c6a6fd223d7cb11e71f463d84369a8b698213873fde7378fdf6b32",
+      "replacement": "A map reference with an uncertain production date; it does not establish contemporary use in the depicted year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1344",
+      "path": [
+        "views",
+        "1344",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ef3ba79a808d023200f886aeccf997f5ca2432ae2122c679b6ee8230e590cb65",
+      "replacement": "Shrousbury and Schrousbury (reported older spellings); Four Corners (historic village); Shrewsbury, England (namesake); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "ae7a08e3bd73401de7c9b1e4d86d4fa838df3c45d69059e4b82e11fb471f25fc",
+      "replacement": "The later preservation history reports Shrewsbury civic activity in 1667.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "cf304ad10affe1b613038fddea504f39de354bb9be34db330cb03cd07e665425",
+      "replacement": "Attributed early civic use before the statutory township boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "a5df41ef66bc30d50c7a04f41bb98787af53ad7d152dd9a9f232a8f827b060e4",
+      "replacement": "Depicted historical year; map production date uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "f2fb6ac7cb391c3938156e7864c5ba609186f8cefd0e991f1c4bf3c8a0260e96",
+      "replacement": "Reported map reference",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "2c6f34eef402cda70bfeac41284292596de6e99a4b3ad00b660104a07dde5d0a",
+      "replacement": "Map compiler and lithographer unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "a54ad937dc6016b54e5c39dba05bf3fd87ed903658c2e49dcf27ccd844f82dff",
+      "replacement": "A map reference with an uncertain production date; it does not establish contemporary use in the depicted year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "sources",
+        "S1935",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "sources",
+        "S1938",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1345",
+      "path": [
+        "views",
+        "1345",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5c10e6e834913bf069bc2b97a159a6cf3dc6a6d64d19602fef36e846f4d4f1df",
+      "replacement": "Shrewsbury, England (namesake); Shrewsbury Borough (separate village government); New Shrewsbury and Tinton Falls (separate successor); Upper Freehold (boundary neighbor)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "e7c7ec8b47a33a9eb1707958e3280d4265ea8084fb8016ce0e37ff983547e4e8",
+      "replacement": "Undated; circa-1881 account unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "6471367733c0b16c8f56737dd47b0d0e683c9485d12d7c4f5ba31547622f7445",
+      "replacement": "Exact date unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "d60cbc16420d43c1d190cb67496630b40c2f72c4d92d1a3feb5fce4bbecde1a8",
+      "replacement": "Reported development-name change",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "447d9f4a81f4c122a07007b29c180dc71263ad00ee28941a1a1f69fd60db9abb",
+      "replacement": "A Keith-to-Como development change around 1881 is reported but remains unconfirmed. The exact original naming occasion and first chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "3023c7f8e6f7b2cd8772dc15184da3f00594b62266350f140d92a0d496f5ba5a",
+      "replacement": "An unconfirmed development account, without an established first public use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "579aca204618cd9e94f179cb436d69329fcc62d7bbdb1af5bc07b706ba4fef5a",
+      "replacement": "Reported historical name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "5ea6682086e49526c08df11963046cb94891a118ea425ec83ca846183fb4f361",
+      "replacement": "A Lake Como tract and lake are reported in an account attributed to Ellis’s 1885 history; the exact details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "3e67ef065fa23cf357724a66bcb4d0cb2c3d7b8e5ecaf8e2d2061572d6f75fb1",
+      "replacement": "An attributed earlier local identity, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "sources",
+        "S1923",
+        "publication"
+      ],
+      "expected_sha256": "f9de5a8b67b081c380c87e4da3c92f135ce397beb3300cefc1091c7d7c3b2c8c",
+      "replacement": "Undated event and filing index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "89a188e08e9894ff1ef1457452789e17e77b3143886951954abe06455077cdb5",
+      "replacement": "Three-Cornered Pond and Polly Pond Bog (older landscape names); Keith (unconfirmed development account); Lake Como (reported lake and tract name); South Belmar (former borough name); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1346",
+      "path": [
+        "views",
+        "1346",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "0b4122a5e9f2a7d7fd48f9dde09a41d4371c0606d2938b1e9f98bc33fd763912",
+      "replacement": "Lake Como replaced South Belmar after a 2004 vote and 2005 resolution and filing. An earlier local lake and development name is reported.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1347",
+      "path": [
+        "views",
+        "1347",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "b92c66ed43d8bafb404daaf7d5e4bc1fbdd92fef21325ec4777a3e10cee34fb0",
+      "replacement": "Fresh Pond and Fresh Creek Pond are reported older hydronyms; their exact relationship to the later Spring Lake feature remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1347",
+      "path": [
+        "views",
+        "1347",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "0a15fedfa94c5cff71bbdbfc862519e9585c8dc2c13b7108941fc2dce787fc39",
+      "replacement": "Reported map use of a name already present in the company title, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1347",
+      "path": [
+        "views",
+        "1347",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "088924f7ebb711ff52b30d4d9f6340e7951e7c39adfd976bd7be5bda015aeb9c",
+      "replacement": "Fresh Pond and Fresh Creek Pond (older hydronyms, relationship uncertain); Spring Lake Beach (resort); Spring Lake Beach Improvement Company (developer); North Spring Lake (annexed borough); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1348",
+      "path": [
+        "views",
+        "1348",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "b5fa9cb2ca8dca35ba5ab943093a1561349365960f10a20d6f4db3047fd00d34",
+      "replacement": "An indexed creation account with an unresolved election-date conflict.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1348",
+      "path": [
+        "views",
+        "1348",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "b90bfc28b8c369908f11300f1174004adf44a4fff9af9ed1f1ad0ad5141420fa",
+      "replacement": "A competing election-date account; the exact procedural relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1348",
+      "path": [
+        "views",
+        "1348",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c4944bf4433c7d57d6d569b72828cd85f7b171db0df5d2d08c4a9d53b826a0f2",
+      "replacement": "Villa Park and Reid’s Villa Park (component development); Lake Como section (component area); Spring Lake (neighboring namesake); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ff10446ece382771c331899e4be5aba8434c401e2391aa3b21eb60eb54f9e632",
+      "replacement": "Falls of Shrewsbury is reported as an older geographic name. Its exact first use remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "9b3b08d6db95df0a22c7144e6526a3c363e75a1a7cf2aff1d4ee863d540637cf",
+      "replacement": "Reported naming period; exact original occasion unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "765d15d2a5f46b76690a37307b75581edeef5e602f56e783f12943facb509cbb",
+      "replacement": "Geffken’s modern article describes a 1676 Vanquellin survey as Tinton manor. The exact original map wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "7e02e00ffa565cc8349bb4e998fd7febd7a5a176d5774d03912cc172fc6c3f43",
+      "replacement": "An attributed survey description, without an established earliest spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "24920356994f28466c671033b7c76a0c7f845b17f0d569ae38d6b14472007d2d",
+      "replacement": "Rick Geffken’s modern history quotes a 1679 account describing enslaved workers on the Morris property.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "162bd3be0a607c1b5e85373e280722036a2fbbc602fa7bf6d691dbfa831aa970",
+      "replacement": "Modern histories describe raids at the locality in 1779–1780. Those accounts do not establish first use or exact contemporary spelling of the full name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "b64ab57fd057f06065bf4b8852c99d671166d7362046997f60d68f6abf491703",
+      "replacement": "Approximate reported postal year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "99ceacf9bfa95def79f12a562e3ce3582c58b24fb01ceac3b077ffd3b8891573",
+      "replacement": "An Ellis-derived account reports a circa-1840 post office with Pierson Hendrickson, but its exact date and original naming role remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "b119bbb17c5c8eccb9879cfbc437c7e8d1371942dbd3b1728b647f9532dd4eed",
+      "replacement": "A qualified postal account, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "35f7772804aaea9cc5a041759bbadc0697a0ade9abccb2792b4e28bad2d745ef",
+      "replacement": "The exhibition guide describes a March 1950 newspaper discussion of Old Shrewsbury as a proposed name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "ae8a6c64a0ab839c837582839dea3ed2ac84fc0a4f92f33702a6a86a72cdf6fa",
+      "replacement": "An attributed alternative proposal, without an established official rejection vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        10,
+        "precision"
+      ],
+      "expected_sha256": "e9f7b22075e79ee9989d0fe92c7a0f53bcfbd5e38da4f44cc2fdd41df95f1a29",
+      "replacement": "Vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        13,
+        "action"
+      ],
+      "expected_sha256": "bd490b055bec2deb16aaf516b28d7b3730309f3808ea7a8e898fc55b00271ebb",
+      "replacement": "The index reports a November 4, 1975 vote adopting Tinton Falls and immediate effect. The exact operative date remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "events",
+        14,
+        "action"
+      ],
+      "expected_sha256": "a065fcb1f6d9cb5f59ebc3e6277a4a96604d0a30a58f1b1dd4deb1f2bf256b55",
+      "replacement": "The index gives November 6, 1975 for the resolution certifying Tinton Falls, separate from the vote and later state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "sources",
+        "S1935",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "sources",
+        "S1936",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1349",
+      "path": [
+        "views",
+        "1349",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7e15683e57257b9c24115e9f1f1abae02dfedbcbec49c1ceebe5f282111db05c",
+      "replacement": "Falls of Shrewsbury (reported older name); Tintern and Tinton Manor (historic forms); Tintern, Wales (qualified origin connection); Old Shrewsbury (reported proposal); New Shrewsbury (former borough name); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "41a51c4d0d72f715e6750d1071f0a796ee0d2332216f58ac67ae28411ab5d366",
+      "replacement": "Monmouth Timeline associates the Poole farm with the earlier development tract; its exact duration and boundaries remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "bcf7eb62da1f68f4dc4d14331a75eb313d46f45cebca877f335adbf32eefbbf5",
+      "replacement": "An 1846 Florence & Keyport Company land offering is attributed to Burket but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "16f39094547044f128d882a04c96d8e3de06b2f918ed4998257d5e300e4620b8",
+      "replacement": "A qualified tract-history account, without an established Union Beach naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "4f3ec39f906a94134caf7a77c0d32d44563d9cbeda019cda5082faaea766e30f",
+      "replacement": "Reported development year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "1f44ffc0a1a70ebc99ab784b60dbf600f3fbe6d893516395ea0b12be5f55b5ce",
+      "replacement": "East Point Beach Estates is reported in 1915, but the exact dated development account remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "f61be966a5a4933f317c3fe07c6a141ffaba3644d3850781ea1a820bad35c3f0",
+      "replacement": "A dealer’s catalog describes a 1920 Richard Heuser map with nearly 3,000 lots and a planned borough. Those attributed map and reverse-side details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "a0fc33a1d46a46e9850dc4ceadf95c90d3e15ae1c3c27a7b2fed4705c8245c35",
+      "replacement": "An attributed catalog description of earlier name use, without independent confirmation of every map detail.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "ee4e8fec6fdde1b74c3d22cedcfcc2b499a2837c74241eb145a8021e421768e4",
+      "replacement": "An indexed April election and effect account that conflicts with a publisher’s May account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "sources",
+        "S1937",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "sources",
+        "S520",
+        "author"
+      ],
+      "expected_sha256": "92a55a0bd456f54499bf3eef548b121f903b36ad52dd63138b2bcc3d8263b967",
+      "replacement": "William H. Burket; Arcadia Publishing",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "sources",
+        "S520",
+        "publication"
+      ],
+      "expected_sha256": "b614f967e7f06b50fff2949cc6f4649da8b4245a6e13e6f72e755df414b5b05f",
+      "replacement": "Retail catalog gives October 16, 1998; reported 2011 year remains unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1350",
+      "path": [
+        "views",
+        "1350",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "4d3e4774a0610bc71aa0cdf12b5ecc4e40a0245969c0ee68af6a48b08d55249b",
+      "replacement": "Poole farm (older tract); Union Subdivision (reported development); East Point Beach Estates (reported earlier development); Charles Carr (promoter); Richard Heuser (mapmaker); Raritan Township (parent)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
