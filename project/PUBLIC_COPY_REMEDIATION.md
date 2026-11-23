@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 15 — November 23, 2026
+## Current checkpoint 16 — November 23, 2026
+
+[Checkpoint 16](PUBLIC_COPY_CHECKPOINT_16.md) completes twelve towns in Monmouth County
+in both editions, adding 232 proposals for 4,925 cumulative. All
+4,693 earlier rows and prior 159 reviewed reader/view records remain exact.
+Agent text review is **171/564 per edition**, with 393 remaining and zero human
+sign-offs. Strict candidates: 1,701 primary and 1,564 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Stop after this completed 24-town run. The next 24 towns are queued but unstarted; resume under standing authorization when instructed.
+
+## Historical checkpoint 15 — November 23, 2026
 
 [Checkpoint 15](PUBLIC_COPY_CHECKPOINT_15.md) completes twelve towns in Middlesex and Monmouth counties
 in both editions, adding 248 proposals for 4,693 cumulative. All

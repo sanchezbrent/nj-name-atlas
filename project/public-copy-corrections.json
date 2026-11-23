@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_15",
+  "checkpoint": "PUBLIC_COPY_16",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -162,7 +162,19 @@
     "1224",
     "1225",
     "1301",
-    "1302"
+    "1302",
+    "1303",
+    "1304",
+    "1305",
+    "1306",
+    "1307",
+    "1308",
+    "1309",
+    "1310",
+    "1311",
+    "1312",
+    "1313",
+    "1314"
   ],
   "changes": [
     {
@@ -65752,6 +65764,3232 @@
       ],
       "expected_sha256": "166d045bd68feb11f2a7d562759671421304212f46ecaf8496fab9add5598b60",
       "replacement": "Abner Allen’s farm (family association); Allenhurst (resort development); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "editorial",
+        "1303",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "3c47bb99abee895ea82298a107f7ca33fbb03b685b04e388df318d9cabc0a6c2",
+      "replacement": "The Allentown Village Initiative reports Allenstown on Lewis Evans’s 1749 map. That attributed use does not establish first naming or an official spelling change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "editorial",
+        "1303",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "3c47bb99abee895ea82298a107f7ca33fbb03b685b04e388df318d9cabc0a6c2",
+      "replacement": "The Allentown Village Initiative reports Allenstown on Lewis Evans’s 1749 map. That attributed use does not establish first naming or an official spelling change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "editorial",
+        "1303",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "91d0de83b0e8e91f3e2e39e6b20aa1ffa067bac317b5372183dba86f5f94981c",
+      "replacement": "Local history reports Allenstown in 1749, Allens Town Street on a 1785 inset and Allentown by 1795. These attributed map labels do not establish official spelling changes. Nathan Allen is the leading local namesake tradition; a William Allen of Pennsylvania attribution remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "editorial",
+        "1303",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1c8d0bbe2ee3929564191d41d6bf8b9a3c863e387eb29674033bd909e716320e",
+      "replacement": "The Allentown Village Initiative reports 1749 Allenstown, a 1785 Allens Town Street inset and 1795 Allentown. These attributed forms do not establish exact first use or a sequence of legal renames.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "1a7e71c028cbc0cbcd78abb3df9734df1dc8cff8cb53bc514c3bd9fbffec2f49",
+      "replacement": "Asbury Park began as a planned resort bearing a religious honorific. The local historical-society account credits James A. Bradley with purchasing and developing the tract in 1871 and naming it for Methodist bishop Francis Asbury. The exact original naming statement remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a1e5995402d4a5e36f17eb75d2387d12e9463b2313264d2397d7f080f98a6dca",
+      "replacement": "Francis Asbury was a Methodist bishop. The local historical-society account credits James A. Bradley with using his name for a resort developed in 1871. The exact words of the original naming choice remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a7eb3d03d8e25f86ef38897762856a923ed034987d3cfbd77ecaabb91979cd02",
+      "replacement": "Park helped give the development a resort identity, while Bradley’s exact reason for choosing that word remains unknown. Streets, visitors, trains and mail helped make the growing community’s name familiar.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "d3e369f85dd7d1d7b526cfcb0e554139eba9f31b52fa437f0138e19b5021f8f5",
+      "replacement": "The March 25, 1897 act created the city under the established Asbury Park name. This was a later stage than the borough and its charter revival.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "d3e369f85dd7d1d7b526cfcb0e554139eba9f31b52fa437f0138e19b5021f8f5",
+      "replacement": "The March 25, 1897 act created the city under the established Asbury Park name. This was a later stage than the borough and its charter revival.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "9ee58972533bbe891ed785a958599d5edd6060df5a762b88151ba4ea8db33692",
+      "replacement": "The 1893 revival has a February 27 vote and February 28 filing. The March 25, 1897 city act was a different legal stage retaining the established name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "461140ab2b3aa5e45a4a05dcd3f1e4406346dc67d12a2a55e0d3c0abae2a1721",
+      "replacement": "The 1893 revival has a February 27 vote and February 28 filing. The March 25, 1897 city act was a different legal stage retaining the established name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "2e9e3ccde1b6cf5667ad3bce7bcb0094431eb8106bd2d23a24ecddc4ed40d7ba",
+      "replacement": "Mail and railway travel spread an existing resort identity. A postal beginning in 1874 is reported, without an established exact first postal naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "editorial",
+        "1304",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "2e9e3ccde1b6cf5667ad3bce7bcb0094431eb8106bd2d23a24ecddc4ed40d7ba",
+      "replacement": "Mail and railway travel spread an existing resort identity. A postal beginning in 1874 is reported, without an established exact first postal naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1305",
+      "path": [
+        "editorial",
+        "1305",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "7f50dd0db99652e31078ebb15cffb021815e78ef2a94a11f4d384f7052b00f26",
+      "replacement": "The association and Methodist development interests promoted Atlantic Highlands in the early 1880s. The exact first naming day and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1305",
+      "path": [
+        "editorial",
+        "1305",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "7f50dd0db99652e31078ebb15cffb021815e78ef2a94a11f4d384f7052b00f26",
+      "replacement": "The association and Methodist development interests promoted Atlantic Highlands in the early 1880s. The exact first naming day and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "editorial",
+        "1306",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d52389997c074ec23c31d4ddb565158cab35659cd1b494e3648b52a9a1922e42",
+      "replacement": "A historical-society display reports Avon-by-the-Sea on an 1892 railway ticket. That attributed use predates borough government without establishing the first naming day. On March 23, 1900, the borough was created from Neptune City. By-the-Sea made the resort’s coastal identity explicit in its municipal name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "editorial",
+        "1306",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "f0bf6859bbeb198fdc742968660aa01573a8449459a8fc2f543c3ce83bee77db",
+      "replacement": "A historical display reports an 1892 railway ticket using Avon-by-the-Sea, before the borough was created in 1900. That attributed wording describes an earlier public identity, rather than the exact first naming day or a municipal naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "editorial",
+        "1306",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "8bfbc9e4be5db857cd48c1256b422a7f4b82017e9caf4be91c6d8173dead2ad1",
+      "replacement": "The historical display describes an 1892 railway ticket with Avon-by-the-Sea. That reported use does not establish first naming or municipal incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "editorial",
+        "1306",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "8bfbc9e4be5db857cd48c1256b422a7f4b82017e9caf4be91c6d8173dead2ad1",
+      "replacement": "The historical display describes an 1892 railway ticket with Avon-by-the-Sea. That reported use does not establish first naming or municipal incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "editorial",
+        "1306",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "f7dc90151ffc78ad4c36c8f6b1edc4e81dca8c824f954329fd669eb7c70e7a34",
+      "replacement": "A historical display reports Avon-by-the-Sea on an 1892 ticket. That attributed wording predates borough creation without establishing municipal adoption in 1892.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "editorial",
+        "1306",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "f7dc90151ffc78ad4c36c8f6b1edc4e81dca8c824f954329fd669eb7c70e7a34",
+      "replacement": "A historical display reports Avon-by-the-Sea on an 1892 ticket. That attributed wording predates borough creation without establishing municipal adoption in 1892.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "editorial",
+        "1307",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "851955db1baf23557860dcaa4d83f2244fc5b0750322351a63de64e6eea4ef0b",
+      "replacement": "The index gives February election and filing dates; another account gives April. These are conflicting accounts of one Ocean Beach formation, rather than two incorporations.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "editorial",
+        "1307",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "851955db1baf23557860dcaa4d83f2244fc5b0750322351a63de64e6eea4ef0b",
+      "replacement": "The index gives February election and filing dates; another account gives April. These are conflicting accounts of one Ocean Beach formation, rather than two incorporations.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "editorial",
+        "1308",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "1fdeef03082b43e826d424c64277383144d56d3935d58ad021feb3a9b9433e54",
+      "replacement": "The postal-naming story survives in conflicting versions. Borough history says Ocean Park caused confusion with Oceanport and describes an 1880 post office. The historical society instead names Ocean Beach as the confusing place and describes an 1893 office as the first. Both link Bradley Beach with a distinct postal identity, while the conflicting place and date details remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "editorial",
+        "1308",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "1c381c56910951a0b330f9418a080563d4122855558f7c39aab36437b67e1efd",
+      "replacement": "Later histories describe postal confusion but disagree on details. One names Oceanport as the confusing place and reports an office in 1880. Another names Ocean Beach and calls an 1893 office the first. These remain conflicting accounts; the exact postal sequence is unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "editorial",
+        "1308",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d88aa307406c968af15fed546f33028dc2f0ff527d7ea638dd41b7acb099a795",
+      "replacement": "Borough history gives Oceanport and an 1880 office; the historical society gives Ocean Beach and an 1893 first office. These are conflicting reports of the postal naming sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "editorial",
+        "1308",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d88aa307406c968af15fed546f33028dc2f0ff527d7ea638dd41b7acb099a795",
+      "replacement": "Borough history gives Oceanport and an 1880 office; the historical society gives Ocean Beach and an 1893 first office. These are conflicting reports of the postal naming sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1309",
+      "path": [
+        "editorial",
+        "1309",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "9b18b82f2b135b06df8d029cd1cd18c0f3cb345caacb83103ad5e27e6bce0f84",
+      "replacement": "Belding’s account says an association member who visited Brielle in Holland suggested borrowing the Dutch town’s name. The member and exact original naming occasion remain unknown. The association provided the development setting in which Brielle became a public community identity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1309",
+      "path": [
+        "editorial",
+        "1309",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "9bfdc80ca06f8372f0c4a4fca0417844e8e9a107e05716731820bd4cf1566681",
+      "replacement": "The member’s name and exact first naming occasion remain unknown. The account credits the development association with adopting the name, before borough government existed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1309",
+      "path": [
+        "editorial",
+        "1309",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "dfcb3d5825632a55a993427548230e8448896b2715ddeaee77ff840f4464a5e7",
+      "replacement": "An unnamed association member reportedly suggested Brielle after visiting Holland. The exact original choice day and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1309",
+      "path": [
+        "editorial",
+        "1309",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "dfcb3d5825632a55a993427548230e8448896b2715ddeaee77ff840f4464a5e7",
+      "replacement": "An unnamed association member reportedly suggested Brielle after visiting Holland. The exact original choice day and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1309",
+      "path": [
+        "editorial",
+        "1309",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "e7ab78bffcfc1084a8579b39febcb436e691a73aed24820e7bddb1d0b2528ef7",
+      "replacement": "The association adopted the development identity collectively. The individual proposer and exact naming occasion remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1309",
+      "path": [
+        "editorial",
+        "1309",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "e7ab78bffcfc1084a8579b39febcb436e691a73aed24820e7bddb1d0b2528ef7",
+      "replacement": "The association adopted the development identity collectively. The individual proposer and exact naming occasion remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "editorial",
+        "1310",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "4e782d30bad465274e2197c7da5ce6fe9a9949131747e824d3539d9d6970c523",
+      "replacement": "Colts Neck is much older as a locality name than as a township title. A later natural-resources inventory reports it in a proprietary record dated June 15, 1676. That is an attributed early use, without an established exact first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "editorial",
+        "1310",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "1a646e23c0c4e1c563368d7cac19aede05504235d5549e07c74371d9e1066920",
+      "replacement": "A later report describes Colts Neck in a record dated June 15, 1676. That is an attributed early use, rather than the first established naming day. The village kept its older identity inside Atlantic Township, created in 1847.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "editorial",
+        "1310",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "62bbfbed74a87bcf34c6b4193038148ee08537c79b320f9b3517c34c18ffb3da",
+      "replacement": "The legal index reports a November 6, 1962 vote to adopt Colts Neck for the township, followed by November 15 filing. A natural-resources inventory instead gives 1961. The year conflict remains unresolved; these are competing accounts of one rename, separate from the older village name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "editorial",
+        "1310",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "10a993c9bbd511812c115f8f3d7959852e60d278a1721440e7ea08fafa0695e8",
+      "replacement": "The natural-resources inventory reports Colts Neck in a June 15, 1676 record. That attributed use does not establish first coinage or settle the meaning of Colts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "editorial",
+        "1310",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "10a993c9bbd511812c115f8f3d7959852e60d278a1721440e7ea08fafa0695e8",
+      "replacement": "The natural-resources inventory reports Colts Neck in a June 15, 1676 record. That attributed use does not establish first coinage or settle the meaning of Colts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "editorial",
+        "1310",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e68701f4527544ea2d4520cc591c19c609dabfcf835d611f9a22471ceb680dc5",
+      "replacement": "The natural-resources inventory reports Colts Neck in a June 15, 1676 proprietary record. That attributed reference does not establish the exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "editorial",
+        "1310",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e68701f4527544ea2d4520cc591c19c609dabfcf835d611f9a22471ceb680dc5",
+      "replacement": "The natural-resources inventory reports Colts Neck in a June 15, 1676 proprietary record. That attributed reference does not establish the exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1311",
+      "path": [
+        "editorial",
+        "1311",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "bce644b8661e0b120bb54adcfa521be4648ac60818f1203256bdff240b2d8f08",
+      "replacement": "The property and nearby locality became associated with the English port’s name. That is the main local tradition. The first chooser and exact naming date remain unknown; owning the property does not establish that Whyte chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1311",
+      "path": [
+        "editorial",
+        "1311",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "066b1b4dadf5b53b048b37a4dfe515a159aec99a0c3ee2aac59c637fb0ee9960",
+      "replacement": "The first written local form and exact naming year remain unknown. The broad colonial account is an origin tradition rather than a dated naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1311",
+      "path": [
+        "editorial",
+        "1311",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "066b1b4dadf5b53b048b37a4dfe515a159aec99a0c3ee2aac59c637fb0ee9960",
+      "replacement": "The first written local form and exact naming year remain unknown. The broad colonial account is an origin tradition rather than a dated naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "editorial",
+        "1312",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d33e59f2328daf9add6039b4003f3219aaa4e25f66fb8f7033b1b7355abb4adb",
+      "replacement": "The reported mill date and the first use of Eaton’s Town are different questions. The earliest written form and individual who first combined the words remain unknown. A namesake need not be the person who chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1313",
+      "path": [
+        "editorial",
+        "1313",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "d680e25a71857fac1bc9ffdf1802b831c3006a160f3b39a4000081f7448288f5",
+      "replacement": "Later histories link Englishtown with James English, an early settler and substantial landholder. English’s Town and Englishtown are reported settlement forms. The surname is the leading explanation, while the exact earliest dates and transition between the forms remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1313",
+      "path": [
+        "editorial",
+        "1313",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "464a26d15e16f83b0f2abd56fe10c29d024c8be6c807db325ca16cfdf0c5f698",
+      "replacement": "Later histories connect Englishtown with James English, an early settler and substantial landholder. They report English’s Town as well as Englishtown. The first use and exact transition between those forms remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "fb2f3e4a69d4d78107732e5761cdd6b75ee548fd2cd954267c0f030e9cdf216a",
+      "replacement": "Fair Haven was a riverside community name in the nineteenth century, before borough government. Village, landing, road and postal uses belonged to that history. No particular landing operator, steamboat concern, post office or developer is established as the first adopter, and the exact naming year remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "3752c51d72541acfb5d023bba7fa28d0390e55503fe3e6142b231ea8be552a4c",
+      "replacement": "People used Fair Haven as a community name in the nineteenth century. A landing, steamboat, post office or development may have helped spread it. No one of those is established as the first name chooser, and the exact naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4ccaaeb8c4768b402f8d016fe26c25a66a077563255e3cfb370c0f98a55fb97b",
+      "replacement": "The descriptive words fit the riverside setting, while the exact first use and original intention remain unknown. The broad nineteenth-century period does not establish a particular naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4ccaaeb8c4768b402f8d016fe26c25a66a077563255e3cfb370c0f98a55fb97b",
+      "replacement": "The descriptive words fit the riverside setting, while the exact first use and original intention remain unknown. The broad nineteenth-century period does not establish a particular naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "4cc65f8ac803bf7305a9c147b07063642b3965621c397c953380b542de704446",
+      "replacement": "The index gives March 28, 1912 for approval of the enabling act. The later referendum was a separate government stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "4cc65f8ac803bf7305a9c147b07063642b3965621c397c953380b542de704446",
+      "replacement": "The index gives March 28, 1912 for approval of the enabling act. The later referendum was a separate government stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "52900729ce1bbb98b60242c68c286ec109cbe3b379510b507655050ef74ed738",
+      "replacement": "The index gives April 23 for the vote and reported effect, after approval of the enabling law. These stages adopted an already established community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "52900729ce1bbb98b60242c68c286ec109cbe3b379510b507655050ef74ed738",
+      "replacement": "The index gives April 23 for the vote and reported effect, after approval of the enabling law. These stages adopted an already established community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "80d72640f1c129feba84ec7d983761879b4d23236b3156784773baa867dc3c55",
+      "replacement": "The index gives March 28, 1912 approval and April 23 voting and reported effect. Those are different borough-formation stages, separate from the older community’s first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "abd4c1910e4245276e47f20a92567db7861bac86de0c67fecd048fd58c9404e6",
+      "replacement": "The index gives March 28, 1912 approval and April 23 voting and reported effect. Those are different borough-formation stages, separate from the older community’s first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "42eda380346b205a8979b22a5b0e10f7f6ac3622a640e6e4a97c3b36dbffccfe",
+      "replacement": "Transport and postal use helped carry the community identity. No landing, steamboat or postal institution is established as its first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1314",
+      "path": [
+        "editorial",
+        "1314",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "9c38055710d2a9a34a69b0985c152149881dca3d2fa292da0c0f168cc0d57a08",
+      "replacement": "Transport and postal use helped carry the community identity. No landing, steamboat or postal institution is established as its first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cbacf5d08a6999943c70e33818fd10d5b6e4a9d39d43d6d5116e77867f5dc458",
+      "replacement": "Approximate settlement period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "74463febe02c129e3ecb8fb9e1c09c584b8e1a87a43699020e1b3461d07c981a",
+      "replacement": "Map year reported by local history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "fe61f75bd30aad82b174cbf51c91c5e5c7c8543236169352533d507a72010f6e",
+      "replacement": "The Allentown Village Initiative reports Allenstown on Lewis Evans’s 1749 map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "45ac907e027680e8ab493d24b5df04dc26d1837c1b12e6851427c210b40b4bb6",
+      "replacement": "An attributed mapped form, rather than an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "2fb2439dcf5d2d83ea5efa4d54ffe8fbc66e1328f75b29fd8411f8d62a5509e5",
+      "replacement": "Map-inset year reported by local history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "cc7aa8b4cf8c44393d52cf0076c589f3b2fcf80a419bdca25127374d9c7d0a25",
+      "replacement": "Reported use by this year; exact first use unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "b4d9462658c22968c3e5b78acf4cdc7b77ed4d7149bf04c3b1718f529a23dc59",
+      "replacement": "Election date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Resolution date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "sources",
+        "S1939",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated ordinance index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "sources",
+        "S1943",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "sources",
+        "S1944",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9f9d265bc62226ce29643344501d9c859d802fd45b8f6b4432cdeb36dfd902a6",
+      "replacement": "Allen’s Town (reported form); Allenstown (reported map form); Allens Town Street (reported inset label); Nathan Allen (probable honoree); William Allen (alternative attribution); Upper Freehold Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "6a4a28583f4235aa59980aedf8eaaca81add4af2e45963184441b2c9abb5bae3",
+      "replacement": "Postal year reported by later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e1e41266ea76c470ba45e05be46c46744bbba770a71e063939196fd22654c5f9",
+      "replacement": "The historical-society account reports an Asbury Park postal identity in 1874, with Bradley an early postmaster.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Charter-revival vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Charter-revival filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "ee2e26e97e58843ccdce12ba989dc3a2649fd05fcdb8a28920629a6112241b3e",
+      "replacement": "City-act approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "513245256f77566fdbc375e11efd1054082f8f38ec95765980565d52cfcae070",
+      "replacement": "The March 25, 1897 act, chapter 40, page 108, created the city under the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "sources",
+        "S1945",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "sources",
+        "S1946",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3470bb6498ee09aa8eb9c01d3d33a0dc9bf61606612bf69cd3b93461a41bb627",
+      "replacement": "Asbury Park (planned resort); Francis Asbury (honoree); James A. Bradley (developer); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Older locality use before this year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Reported resort-development period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "01f6578284807656fcc9f7d225d64d5c075d1eb23ca4be2480f807c34d903ab1",
+      "replacement": "Charter-revival vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "sources",
+        "S1947",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5607e528885802e46454247bac19560359eac301cebb62ab6febededc008e3bb",
+      "replacement": "Portland Point (older locality); Atlantic Highlands (resort development); Middletown Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cbacf5d08a6999943c70e33818fd10d5b6e4a9d39d43d6d5116e77867f5dc458",
+      "replacement": "Approximate locality period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Broad development period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Reported construction and opening years are distinct stages",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "cc6852104c26f250dfd6da37cf7daefff526096f3c03a8e23c669bce6e56ed0f",
+      "replacement": "Ticket year reported by the historical display",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "43fa58b01d366372251a70d13401e0d92c3f93def60e7ae1bae42224ad112bb1",
+      "replacement": "Reported pre-borough use of the full name, rather than an established first naming occasion or municipal adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "sources",
+        "S1952",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated historical display",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c3eb48f5e3bc9c3100cc83306ab39b402985c2e4676b24064300022a26a26673",
+      "replacement": "New Branch (older locality); Key East (development name); Avon Inn (hotel); Avon (community name); Neptune City (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Formation vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Formation filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "b804828833587062283ada03404690871e6ea86103f3efbce4fb724ea865a30f",
+      "replacement": "Competing reported vote date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ca4b6d7aac4ce2a08c5b997b3cc2bcd1c229d2fc487a630bb5bd7f0f0893cc5c",
+      "replacement": "One formation account reports April 7, 1885 approval of Ocean Beach Borough. The index gives a different February chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "e377de7af01ff52bb3d0c2b8967bfd07b950c02f81db86b40c2d0c51fde1fea1",
+      "replacement": "An alternative date account of the same formation, rather than another incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "b804828833587062283ada03404690871e6ea86103f3efbce4fb724ea865a30f",
+      "replacement": "Competing reported creation date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "25287348c6c414831c1923bb446beab383b30f2a2d285f8fdfdfe6d739fee282",
+      "replacement": "One account gives April 9, 1885 for Ocean Beach creation. The index gives a different February chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "0950678e4b902e07a25fcab350abd2c9e5a41ccb7f1f1c7af032379ba9f26244",
+      "replacement": "An alternative account of the same first municipal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "08bfa142031edd261ca5be0c26a2df38814e15bbd2e2427160e5ad20b98d5949",
+      "replacement": "A briefly adopted intermediate civic title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Title-adoption vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "County filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        9,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "State filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        10,
+        "precision"
+      ],
+      "expected_sha256": "ee56514ac93526f6a0929fcc8c52c7daa0e76f2f25b60cf809c6f64ee3535baf",
+      "replacement": "State filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "sources",
+        "S1948",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "sources",
+        "S1949",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3531259135d61abc5ec3d61be563c8a4e8ae9a67cc5eaf2c1938d506bde47051",
+      "replacement": "Ocean Beach (former municipal name); Elcho (brief former civic name); City of Elcho (former title); City of Belmar (former title); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "cbacf5d08a6999943c70e33818fd10d5b6e4a9d39d43d6d5116e77867f5dc458",
+      "replacement": "Approximate naming period in conflicting later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "9eaaab247b79e2a19f5e8a703a0cd14d283967b4ca61ccb5a9244142e8233595",
+      "replacement": "Later histories link the Bradley name with postal disambiguation, but disagree over the other place involved and the office’s first date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "824fcddd792c1e3692e1c9584b08f878f4c8561a4fc66d77fc02340740811478",
+      "replacement": "Formation vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Formation filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "b804828833587062283ada03404690871e6ea86103f3efbce4fb724ea865a30f",
+      "replacement": "Competing reported creation date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "c8f1bd6847971b6ff3b8239c984aaf6f241c9fd6b9fbe2818dad0d5593493e9e",
+      "replacement": "One chronology gives March 13, 1893; the index gives March 8 filing and effect, while borough history gives March 28.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "sources",
+        "S1950",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5e0ab027abe70ae710898e74e6d32e253275f918d177f28cc0d301995e146ef0",
+      "replacement": "Ocean Park (older development); James A. Bradley (honoree); William B. Bradner (developer); Ocean Township (1871 geography); Neptune Township (borough parent); Oceanport (one postal-confusion account); Ocean Beach (alternative postal-confusion account)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1309",
+      "path": [
+        "views",
+        "1309",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Older locality use before this year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1309",
+      "path": [
+        "views",
+        "1309",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "7f64f793ed140a8b0fe3312dfdd8b0953fb94ebef66247ac3897bc51508994aa",
+      "replacement": "Newspaper issue date quoted by a later account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1309",
+      "path": [
+        "views",
+        "1309",
+        "sources",
+        "S1953",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "July 2005",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1309",
+      "path": [
+        "views",
+        "1309",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "718e48a7a1515de9b63228dd17cc96e26093355fec497f4e4b6450cbe89952ec",
+      "replacement": "Landing (older locality); Union Landing (older locality); Brielle, Netherlands (name source); Brielle Land Association (developer); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "02f238cad7ab87f1a0ab0992f32ea242fcc55c2298f43103aa3907d2b672140a",
+      "replacement": "Proprietary record date reported by the later inventory",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "8a5a0768c24fe3aca5e8c1f0b89ed87fca26db09b99d05551f05cbf9e801c212",
+      "replacement": "An attributed colonial locality-name use, long before the township adopted it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "01f6578284807656fcc9f7d225d64d5c075d1eb23ca4be2480f807c34d903ab1",
+      "replacement": "Vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "sources",
+        "S1951",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c9ea5c756133feac46b8f38476f0805b93bc790f05e01a3945a04ddd11a3879a",
+      "replacement": "Atlantic Township (former legal name); Colts Neck village (older locality); Yellow Brook (geographic setting); Mine Brook (geographic setting)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Broad colonial period; exact naming date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "48f2373bccac3900a6099d9e225f922e240ff3abc2472bb1c23ece5e75653c78",
+      "replacement": "A later account associates the locality name with Whyte’s property and Deal in Kent. The individual name chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "sources",
+        "S1954",
+        "author"
+      ],
+      "expected_sha256": "df4bf02500e0208832d15fba52e3fbb9099d0493845c39237aff52514ca09b34",
+      "replacement": "Monmouth Timeline Inc.; individual author unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "sources",
+        "S1954",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated history page",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "26fc2955c82cd9f0f6e40ec5defa4da33bc65f8f518da3906a19448e2637327f",
+      "replacement": "Deal, Kent (name source); Thomas Whyte’s tract (property association); Shrewsbury (colonial geography); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cbacf5d08a6999943c70e33818fd10d5b6e4a9d39d43d6d5116e77867f5dc458",
+      "replacement": "Approximate mill-settlement period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Broad period; exact spelling-transition dates unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "2ca8371b97047db069b304fecd9429afcb64bdab106dae8fb6adf6c44262699b",
+      "replacement": "City-act approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ac3da96d311794da642495778149e79b2bf4fc179bb37adc8a6ac547810be1c9",
+      "replacement": "Chapter 214 creates the City of Long Branch and takes immediate effect on approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "353a2750e616950d75947bff2731f053d0687a6be7919aa1fa1f5038163d52e8",
+      "replacement": "The city stage was distinct from the earlier 1902–1903 proposed conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "sources",
+        "S1924",
+        "title"
+      ],
+      "expected_sha256": "143d6f079b5e4250382c35dab19d230536a410fb693720f122ffa64f730136c0",
+      "replacement": "Long Branch city act — 1904, chapter 214",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "sources",
+        "S1924",
+        "publication"
+      ],
+      "expected_sha256": "f9de5a8b67b081c380c87e4da3c92f135ce397beb3300cefc1091c7d7c3b2c8c",
+      "replacement": "Approved March 29, 1904",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "sources",
+        "S1955",
+        "author"
+      ],
+      "expected_sha256": "df4bf02500e0208832d15fba52e3fbb9099d0493845c39237aff52514ca09b34",
+      "replacement": "Monmouth Timeline Inc.; individual author unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "sources",
+        "S1955",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated history page",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b424d56fff17b443170859bec6454d3c8f1d2772c6970e17a3516fa1f48ff68e",
+      "replacement": "Eaton’s Town (older form); Thomas Eaton (namesake); Ocean Township (territorial parent); Shrewsbury Township (territorial parent); Eatontown Township (earlier government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1313",
+      "path": [
+        "views",
+        "1313",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad period; exact first use unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1313",
+      "path": [
+        "views",
+        "1313",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2d41f175d1508e5115173b253ecef752bd86f5505482a9f73a9ef7d1915bbd8b",
+      "replacement": "English’s Town (older form); James English (attributed namesake); Manalapan Township (parent); Borough Commission of Englishtown (earlier government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1314",
+      "path": [
+        "views",
+        "1314",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad century; exact naming year unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1314",
+      "path": [
+        "views",
+        "1314",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "04ab4768591a8f78ca35db7d96b8b238a50c8169fd04053e33fe249ef86658f5",
+      "replacement": "Fair Haven (older riverside community); Navesink River (geographic setting); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cbacf5d08a6999943c70e33818fd10d5b6e4a9d39d43d6d5116e77867f5dc458",
+      "replacement": "Approximate settlement period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "74463febe02c129e3ecb8fb9e1c09c584b8e1a87a43699020e1b3461d07c981a",
+      "replacement": "Map year reported by local history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "fe61f75bd30aad82b174cbf51c91c5e5c7c8543236169352533d507a72010f6e",
+      "replacement": "The Allentown Village Initiative reports Allenstown on Lewis Evans’s 1749 map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "45ac907e027680e8ab493d24b5df04dc26d1837c1b12e6851427c210b40b4bb6",
+      "replacement": "An attributed mapped form, rather than an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "2fb2439dcf5d2d83ea5efa4d54ffe8fbc66e1328f75b29fd8411f8d62a5509e5",
+      "replacement": "Map-inset year reported by local history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "cc7aa8b4cf8c44393d52cf0076c589f3b2fcf80a419bdca25127374d9c7d0a25",
+      "replacement": "Reported use by this year; exact first use unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "b4d9462658c22968c3e5b78acf4cdc7b77ed4d7149bf04c3b1718f529a23dc59",
+      "replacement": "Election date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Resolution date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "sources",
+        "S1939",
+        "publication"
+      ],
+      "expected_sha256": "d7995b9a9d67e6990ee4d24cf90a751d46bf2daf0b96468e637b539934d77a58",
+      "replacement": "Undated ordinance index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "sources",
+        "S1943",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "sources",
+        "S1944",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1303",
+      "path": [
+        "views",
+        "1303",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9f9d265bc62226ce29643344501d9c859d802fd45b8f6b4432cdeb36dfd902a6",
+      "replacement": "Allen’s Town (reported form); Allenstown (reported map form); Allens Town Street (reported inset label); Nathan Allen (probable honoree); William Allen (alternative attribution); Upper Freehold Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "6a4a28583f4235aa59980aedf8eaaca81add4af2e45963184441b2c9abb5bae3",
+      "replacement": "Postal year reported by later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e1e41266ea76c470ba45e05be46c46744bbba770a71e063939196fd22654c5f9",
+      "replacement": "The historical-society account reports an Asbury Park postal identity in 1874, with Bradley an early postmaster.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Charter-revival vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Charter-revival filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "ee2e26e97e58843ccdce12ba989dc3a2649fd05fcdb8a28920629a6112241b3e",
+      "replacement": "City-act approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "513245256f77566fdbc375e11efd1054082f8f38ec95765980565d52cfcae070",
+      "replacement": "The March 25, 1897 act, chapter 40, page 108, created the city under the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "sources",
+        "S1945",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "sources",
+        "S1946",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1304",
+      "path": [
+        "views",
+        "1304",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3470bb6498ee09aa8eb9c01d3d33a0dc9bf61606612bf69cd3b93461a41bb627",
+      "replacement": "Asbury Park (planned resort); Francis Asbury (honoree); James A. Bradley (developer); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Older locality use before this year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Reported resort-development period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "01f6578284807656fcc9f7d225d64d5c075d1eb23ca4be2480f807c34d903ab1",
+      "replacement": "Charter-revival vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "sources",
+        "S1947",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1305",
+      "path": [
+        "views",
+        "1305",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5607e528885802e46454247bac19560359eac301cebb62ab6febededc008e3bb",
+      "replacement": "Portland Point (older locality); Atlantic Highlands (resort development); Middletown Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cbacf5d08a6999943c70e33818fd10d5b6e4a9d39d43d6d5116e77867f5dc458",
+      "replacement": "Approximate locality period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Broad development period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Reported construction and opening years are distinct stages",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "cc6852104c26f250dfd6da37cf7daefff526096f3c03a8e23c669bce6e56ed0f",
+      "replacement": "Ticket year reported by the historical display",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "43fa58b01d366372251a70d13401e0d92c3f93def60e7ae1bae42224ad112bb1",
+      "replacement": "Reported pre-borough use of the full name, rather than an established first naming occasion or municipal adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "sources",
+        "S1952",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated historical display",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1306",
+      "path": [
+        "views",
+        "1306",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c3eb48f5e3bc9c3100cc83306ab39b402985c2e4676b24064300022a26a26673",
+      "replacement": "New Branch (older locality); Key East (development name); Avon Inn (hotel); Avon (community name); Neptune City (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Formation vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Formation filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "b804828833587062283ada03404690871e6ea86103f3efbce4fb724ea865a30f",
+      "replacement": "Competing reported vote date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ca4b6d7aac4ce2a08c5b997b3cc2bcd1c229d2fc487a630bb5bd7f0f0893cc5c",
+      "replacement": "One formation account reports April 7, 1885 approval of Ocean Beach Borough. The index gives a different February chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "e377de7af01ff52bb3d0c2b8967bfd07b950c02f81db86b40c2d0c51fde1fea1",
+      "replacement": "An alternative date account of the same formation, rather than another incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "b804828833587062283ada03404690871e6ea86103f3efbce4fb724ea865a30f",
+      "replacement": "Competing reported creation date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "25287348c6c414831c1923bb446beab383b30f2a2d285f8fdfdfe6d739fee282",
+      "replacement": "One account gives April 9, 1885 for Ocean Beach creation. The index gives a different February chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "0950678e4b902e07a25fcab350abd2c9e5a41ccb7f1f1c7af032379ba9f26244",
+      "replacement": "An alternative account of the same first municipal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "08bfa142031edd261ca5be0c26a2df38814e15bbd2e2427160e5ad20b98d5949",
+      "replacement": "A briefly adopted intermediate civic title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Title-adoption vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "County filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        9,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "State filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "events",
+        10,
+        "precision"
+      ],
+      "expected_sha256": "ee56514ac93526f6a0929fcc8c52c7daa0e76f2f25b60cf809c6f64ee3535baf",
+      "replacement": "State filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "sources",
+        "S1948",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "sources",
+        "S1949",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1307",
+      "path": [
+        "views",
+        "1307",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3531259135d61abc5ec3d61be563c8a4e8ae9a67cc5eaf2c1938d506bde47051",
+      "replacement": "Ocean Beach (former municipal name); Elcho (brief former civic name); City of Elcho (former title); City of Belmar (former title); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "cbacf5d08a6999943c70e33818fd10d5b6e4a9d39d43d6d5116e77867f5dc458",
+      "replacement": "Approximate naming period in conflicting later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "9eaaab247b79e2a19f5e8a703a0cd14d283967b4ca61ccb5a9244142e8233595",
+      "replacement": "Later histories link the Bradley name with postal disambiguation, but disagree over the other place involved and the office’s first date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "824fcddd792c1e3692e1c9584b08f878f4c8561a4fc66d77fc02340740811478",
+      "replacement": "Formation vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Formation filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "b804828833587062283ada03404690871e6ea86103f3efbce4fb724ea865a30f",
+      "replacement": "Competing reported creation date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "c8f1bd6847971b6ff3b8239c984aaf6f241c9fd6b9fbe2818dad0d5593493e9e",
+      "replacement": "One chronology gives March 13, 1893; the index gives March 8 filing and effect, while borough history gives March 28.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "sources",
+        "S1950",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1308",
+      "path": [
+        "views",
+        "1308",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5e0ab027abe70ae710898e74e6d32e253275f918d177f28cc0d301995e146ef0",
+      "replacement": "Ocean Park (older development); James A. Bradley (honoree); William B. Bradner (developer); Ocean Township (1871 geography); Neptune Township (borough parent); Oceanport (one postal-confusion account); Ocean Beach (alternative postal-confusion account)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1309",
+      "path": [
+        "views",
+        "1309",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Older locality use before this year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1309",
+      "path": [
+        "views",
+        "1309",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "7f64f793ed140a8b0fe3312dfdd8b0953fb94ebef66247ac3897bc51508994aa",
+      "replacement": "Newspaper issue date quoted by a later account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1309",
+      "path": [
+        "views",
+        "1309",
+        "sources",
+        "S1953",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "July 2005",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1309",
+      "path": [
+        "views",
+        "1309",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "718e48a7a1515de9b63228dd17cc96e26093355fec497f4e4b6450cbe89952ec",
+      "replacement": "Landing (older locality); Union Landing (older locality); Brielle, Netherlands (name source); Brielle Land Association (developer); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "02f238cad7ab87f1a0ab0992f32ea242fcc55c2298f43103aa3907d2b672140a",
+      "replacement": "Proprietary record date reported by the later inventory",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "8a5a0768c24fe3aca5e8c1f0b89ed87fca26db09b99d05551f05cbf9e801c212",
+      "replacement": "An attributed colonial locality-name use, long before the township adopted it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "01f6578284807656fcc9f7d225d64d5c075d1eb23ca4be2480f807c34d903ab1",
+      "replacement": "Vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "sources",
+        "S1951",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1310",
+      "path": [
+        "views",
+        "1310",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c9ea5c756133feac46b8f38476f0805b93bc790f05e01a3945a04ddd11a3879a",
+      "replacement": "Atlantic Township (former legal name); Colts Neck village (older locality); Yellow Brook (geographic setting); Mine Brook (geographic setting)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Broad colonial period; exact naming date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "48f2373bccac3900a6099d9e225f922e240ff3abc2472bb1c23ece5e75653c78",
+      "replacement": "A later account associates the locality name with Whyte’s property and Deal in Kent. The individual name chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "sources",
+        "S1954",
+        "author"
+      ],
+      "expected_sha256": "df4bf02500e0208832d15fba52e3fbb9099d0493845c39237aff52514ca09b34",
+      "replacement": "Monmouth Timeline Inc.; individual author unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "sources",
+        "S1954",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated history page",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1311",
+      "path": [
+        "views",
+        "1311",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "26fc2955c82cd9f0f6e40ec5defa4da33bc65f8f518da3906a19448e2637327f",
+      "replacement": "Deal, Kent (name source); Thomas Whyte’s tract (property association); Shrewsbury (colonial geography); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cbacf5d08a6999943c70e33818fd10d5b6e4a9d39d43d6d5116e77867f5dc458",
+      "replacement": "Approximate mill-settlement period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "fa33768cb5aa686cbb12621ce94e9d09b7eccfbbaa06809224818e45d091ca6c",
+      "replacement": "Broad period; exact spelling-transition dates unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "2ca8371b97047db069b304fecd9429afcb64bdab106dae8fb6adf6c44262699b",
+      "replacement": "City-act approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ac3da96d311794da642495778149e79b2bf4fc179bb37adc8a6ac547810be1c9",
+      "replacement": "Chapter 214 creates the City of Long Branch and takes immediate effect on approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "353a2750e616950d75947bff2731f053d0687a6be7919aa1fa1f5038163d52e8",
+      "replacement": "The city stage was distinct from the earlier 1902–1903 proposed conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "sources",
+        "S1924",
+        "title"
+      ],
+      "expected_sha256": "143d6f079b5e4250382c35dab19d230536a410fb693720f122ffa64f730136c0",
+      "replacement": "Long Branch city act — 1904, chapter 214",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "sources",
+        "S1924",
+        "publication"
+      ],
+      "expected_sha256": "f9de5a8b67b081c380c87e4da3c92f135ce397beb3300cefc1091c7d7c3b2c8c",
+      "replacement": "Approved March 29, 1904",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "sources",
+        "S1955",
+        "author"
+      ],
+      "expected_sha256": "df4bf02500e0208832d15fba52e3fbb9099d0493845c39237aff52514ca09b34",
+      "replacement": "Monmouth Timeline Inc.; individual author unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "sources",
+        "S1955",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated history page",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1312",
+      "path": [
+        "views",
+        "1312",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b424d56fff17b443170859bec6454d3c8f1d2772c6970e17a3516fa1f48ff68e",
+      "replacement": "Eaton’s Town (older form); Thomas Eaton (namesake); Ocean Township (territorial parent); Shrewsbury Township (territorial parent); Eatontown Township (earlier government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1313",
+      "path": [
+        "views",
+        "1313",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad period; exact first use unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1313",
+      "path": [
+        "views",
+        "1313",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2d41f175d1508e5115173b253ecef752bd86f5505482a9f73a9ef7d1915bbd8b",
+      "replacement": "English’s Town (older form); James English (attributed namesake); Manalapan Township (parent); Borough Commission of Englishtown (earlier government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1314",
+      "path": [
+        "views",
+        "1314",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad century; exact naming year unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1314",
+      "path": [
+        "views",
+        "1314",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "04ab4768591a8f78ca35db7d96b8b238a50c8169fd04053e33fe249ef86658f5",
+      "replacement": "Fair Haven (older riverside community); Navesink River (geographic setting); Shrewsbury Township (parent)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
