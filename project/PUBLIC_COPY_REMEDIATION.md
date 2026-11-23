@@ -4,7 +4,61 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 17 — November 23, 2026
+## Current checkpoint 18 — November 23, 2026
+
+[Checkpoint 18](PUBLIC_COPY_CHECKPOINT_18.md) completes twelve towns in Monmouth County
+in both editions, adding 207 proposals for 5,358 cumulative. All
+5,151 earlier rows and prior 183 reviewed reader/view records remain exact.
+Agent text review is **195/564 per edition**, with 369 remaining and zero human
+sign-offs. Strict candidates: 1,646 primary and 1,513 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Stop after the completed 24-town run. The next 24-town metadata queue is saved but NOT_STARTED; resume it only on continuation.
+
+## Current checkpoint 18 — November 23, 2026
+
+[Checkpoint 18](PUBLIC_COPY_CHECKPOINT_18.md) completes twelve towns in Monmouth County
+in both editions, adding 208 proposals for 5,359 cumulative. All
+5,151 earlier rows and prior 183 reviewed reader/view records remain exact.
+Agent text review is **195/564 per edition**, with 369 remaining and zero human
+sign-offs. Strict candidates: 1,646 primary and 1,513 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Stop after the completed 24-town run. The next 24-town metadata queue is saved but NOT_STARTED; resume it only on continuation.
+
+## Current checkpoint 18 — November 23, 2026
+
+[Checkpoint 18](PUBLIC_COPY_CHECKPOINT_18.md) completes twelve towns in Monmouth County
+in both editions, adding 208 proposals for 5,359 cumulative. All
+5,151 earlier rows and prior 183 reviewed reader/view records remain exact.
+Agent text review is **195/564 per edition**, with 369 remaining and zero human
+sign-offs. Strict candidates: 1,646 primary and 1,513 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Stop after the completed 24-town run. The next 24-town metadata queue is saved but NOT_STARTED; resume it only on continuation.
+
+## Historical checkpoint 17 — November 23, 2026
 
 [Checkpoint 17](PUBLIC_COPY_CHECKPOINT_17.md) completes twelve towns in Monmouth County
 in both editions, adding 226 proposals for 5,151 cumulative. All

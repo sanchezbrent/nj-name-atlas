@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_17",
+  "checkpoint": "PUBLIC_COPY_18",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -186,7 +186,19 @@
     "1323",
     "1324",
     "1325",
-    "1326"
+    "1326",
+    "1327",
+    "1328",
+    "1329",
+    "1330",
+    "1331",
+    "1332",
+    "1333",
+    "1334",
+    "1335",
+    "1336",
+    "1337",
+    "1338"
   ],
   "changes": [
     {
@@ -72166,6 +72178,2898 @@
       ],
       "expected_sha256": "d5b1a1071497c865fdd19a943614af5d100f8c96c9630584ff30d3600e4017a6",
       "replacement": "Loch Arbour (subdivision); Lochaber, Scotland (usual origin explanation); Stout and Johnson (landowners); Herman Lehlbach (surveyor); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "13fba754f8468cebe78bd0e259dc70169fc1c7731c7bb48d1ef64fe005318cd5",
+      "replacement": "Long Branch is reported in correspondence from 1776–1777. An advertisement quoted by Ellis has a May 19, 1792 dateline, although his surrounding text describes publication in May 1793. That year discrepancy remains unresolved. These attributed references do not establish the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d768fc0174b6d83bc928585e95c6c725f8513725fa3d1c1adeee8226ddbffbb8",
+      "replacement": "A museum account describes Long Branch in letters from 1776–1777. Another history quotes a sea-bathing advertisement with two different years: a 1792 dateline and a 1793 publication description. The discrepancy remains unresolved. An early mention does not establish when a name was invented.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "1c63968e5e6bbc41eca36f737f57a4f0c4e3ed1c81a562d5b19464c5b19b9623",
+      "replacement": "A modern museum article discusses the October 22, 1776 letter. This is an attributed name use, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "1c63968e5e6bbc41eca36f737f57a4f0c4e3ed1c81a562d5b19464c5b19b9623",
+      "replacement": "A modern museum article discusses the October 22, 1776 letter. This is an attributed name use, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "9733015e719270ccd31264eb52b6b87596b880b649ced4d5dc3ab688b47d388b",
+      "replacement": "The March 29, 1904 act created the city with immediate effect. That successful city stage was distinct from the unsuccessful earlier proposal.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "9733015e719270ccd31264eb52b6b87596b880b649ced4d5dc3ab688b47d388b",
+      "replacement": "The March 29, 1904 act created the city with immediate effect. That successful city stage was distinct from the unsuccessful earlier proposal.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "508743817f7097d4b2ff1f86a402e68f272d4bb72ca7cb7dac4fcc82fbf0dc60",
+      "replacement": "The museum account discusses Long Branch in correspondence from 1776–1777. These are attributed early uses, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "508743817f7097d4b2ff1f86a402e68f272d4bb72ca7cb7dac4fcc82fbf0dc60",
+      "replacement": "The museum account discusses Long Branch in correspondence from 1776–1777. These are attributed early uses, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "1c7bc290525b2c4d76ca8b5ca6a0493f2112d358a2ff36fefbac8c3ec5431595",
+      "replacement": "Ellis separates the 1834 village office from a later office. The advertisement’s 1792 dateline conflicts with its 1793 publication description; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d28a76ac4ef90f464ab18d09a130783217665e5ddc60a389cf84a12ef6207917",
+      "replacement": "Ellis separates the 1834 village office from a later office. The advertisement’s 1792 dateline conflicts with its 1793 publication description; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "8a37e8063eb3293cc49ad8feb5420403dc9b13e418886d969414c7a201442ca8",
+      "replacement": "The unsuccessful 1902–1903 proposal did not create the city. The city act was approved March 29, 1904 and took immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "editorial",
+        "1327",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "8a37e8063eb3293cc49ad8feb5420403dc9b13e418886d969414c7a201442ca8",
+      "replacement": "The unsuccessful 1902–1903 proposal did not create the city. The city act was approved March 29, 1904 and took immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "35cace8626375ead59e530938abbf00d62cf92297effefffab31f9ca7f228b06",
+      "replacement": "Manalapan belongs to an older Lenape-named landscape of valleys and waterways. Colonial forms, a hamlet and a post office preceded the township’s adoption of the name in 1848. Landscape-name forms between 1696 and 1741 are reported through a later gazetteer; their exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "59a77f0d4595fba833c39bf273b7c681c9a367146f8604a9065b7eac8a039230",
+      "replacement": "The meaning remains unresolved. Wild-onion, food or fertile-land, and swamp or root explanations appear in different later interpretations. These are distinct attributed proposals, without an established original translation. The original Lenape namers are unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "32e63c9b1660516f2928b0f7d55c717edd9fddbd67e7d735466581c565893d6a",
+      "replacement": "Later writers offer different explanations involving wild onions, food or land, and swamp or root ideas. These are separate proposals, without one proved original meaning. The original Lenape namers and the exact early wording remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "e38284466b304f4854522f6400564b7b4e06b339f19537103f510c46f80bd0a4",
+      "replacement": "A later gazetteer reports landscape-name forms between 1696 and 1741. Their exact original wording and meaning remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "e38284466b304f4854522f6400564b7b4e06b339f19537103f510c46f80bd0a4",
+      "replacement": "A later gazetteer reports landscape-name forms between 1696 and 1741. Their exact original wording and meaning remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "6d16d1237b3f608a9d7316bee396d97eb38ab0cdba8bb259d505eec13836dd6d",
+      "replacement": "Wild-onion, food or fertile-land, and swamp or root explanations remain distinct attributed proposals. The original meaning is unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "6d16d1237b3f608a9d7316bee396d97eb38ab0cdba8bb259d505eec13836dd6d",
+      "replacement": "Wild-onion, food or fertile-land, and swamp or root explanations remain distinct attributed proposals. The original meaning is unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ea41113de5bb1837435a54f918724ee9fd93bf63c2790191ff36fa856f8540fe",
+      "replacement": "A later gazetteer reports forms between 1696 and 1741. Their exact original wording and meaning remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "editorial",
+        "1328",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ea41113de5bb1837435a54f918724ee9fd93bf63c2790191ff36fa856f8540fe",
+      "replacement": "A later gazetteer reports forms between 1696 and 1741. Their exact original wording and meaning remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "40d98094015ed1b6f05c14799f8587b99896726b036208aaedf549f687ae1794",
+      "replacement": "Manasquan’s borough name reaches back to the river and a much older Lenape-named region. A July 9, 1685 purchase license is reported with differing forms, Manisquan and Manasquan; its exact original spelling remains unconfirmed. Other reported forms include Mannusquan and Manasquam, without an established sequence of formal spelling changes.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "f48e7a7257dd7262d78d3a9dfa0de22d5f195b92d4a5c43e7b45ea0c0fed76e2",
+      "replacement": "The river had a name long before the borough. A July 9, 1685 record is reported with differing spellings, Manisquan and Manasquan. Its exact original wording remains unconfirmed. Other early forms are reported too, without an established sequence of official spelling changes.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "19b4f4bdde8b671fcd24778410aea9a38ccd806d0f98621959b7c107940a5ee5",
+      "replacement": "The original meaning remains unresolved. Grass or reeds is attributed to a tribal dictionary, while scholarly and older glossary accounts offer other explanations. The exact dictionary interpretation remains unconfirmed, and no original translation is established. Timothy J. Bloomfield is credited with the later Squan Village name, rather than the original Indigenous name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c55ec3401fed7360f159a1f995a6061414cd4d7f5c8cb8ad3a08bbe5fc419ecd",
+      "replacement": "The name’s exact meaning is unresolved. Grass or reeds is one attributed dictionary explanation, but its exact interpretation remains unconfirmed and other explanations differ. Timothy J. Bloomfield is credited with the much later name Squan Village, rather than the older Indigenous name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8279568517fa45c51aa05e121841313b8aa81cb509997862c346092ad9b973cc",
+      "replacement": "The July 9, 1685 license is reported with Manisquan and Manasquan as differing forms. Its exact original spelling remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8279568517fa45c51aa05e121841313b8aa81cb509997862c346092ad9b973cc",
+      "replacement": "The July 9, 1685 license is reported with Manisquan and Manasquan as differing forms. Its exact original spelling remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "56c626f9c435e22a368c8042ef991c61b91362a01420465d84b9ab857b5c647a",
+      "replacement": "Later accounts give February 15 and February 25, 1819. The exact establishment day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "56c626f9c435e22a368c8042ef991c61b91362a01420465d84b9ab857b5c647a",
+      "replacement": "Later accounts give February 15 and February 25, 1819. The exact establishment day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "9c429ca31f7b4c185b5856848ea3e539e6a0c4b8895c5a03e1033776d95a5657",
+      "replacement": "Grass or reeds is an attributed dictionary explanation whose exact interpretation remains unconfirmed. Other proposals differ; the original meaning remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "eedbb5f1c6b396c40b427f429a35ef57811b5a4d24124c699404e994c244e6b6",
+      "replacement": "Grass or reeds is an attributed dictionary explanation whose exact interpretation remains unconfirmed. Other proposals differ; the original meaning remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "5838e13e5b730c9c34ecd3b546a20d5a71ef82d14cf20b628bd0c9876de44203",
+      "replacement": "The July 9, 1685 license is reported with differing Manisquan and Manasquan forms. Its exact original spelling remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "5838e13e5b730c9c34ecd3b546a20d5a71ef82d14cf20b628bd0c9876de44203",
+      "replacement": "The July 9, 1685 license is reported with differing Manisquan and Manasquan forms. Its exact original spelling remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "editorial",
+        "1329",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "bd6611ebf4f697f1a626796127bf6070b5a0741e46819c10bee0b8f79e824289",
+      "replacement": "A later history reports an 1819 office, later moved to Squan Village around 1840. Accounts differ between February 15 and 25; the exact establishment day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "c49494082877c6f7f40331ac2e4d5c29814733f034b3d2d6473b79645252c55f",
+      "replacement": "Matawan preserves a Lenape waterway and district name. A later gazetteer reports Mattawane Creek in 1688 and Matewan Creek in 1690. A possible 1625 antecedent has uncertain geography. The original namers and precise meaning remain unresolved; river-bank, hill, fog, confluence and path interpretations are distinct attributed proposals.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "7bdda93e683e6057350f7fa5e4d7decff9c03893e1477cdb7b61087150b0063f",
+      "replacement": "Matawan was a waterway name before it became a borough title. A later gazetteer reports Mattawane Creek in 1688 and Matewan Creek in 1690. Its Lenape roots are part of the older landscape, while the exact original meaning and earliest written form remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "309ae21e08831d3e435bb5dbc90a26dd016dfcd1807114ee57227cb0b5a81209",
+      "replacement": "The later gazetteer reports Mattawane Creek in a May 12, 1688 record. Its exact original wording and meaning remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "309ae21e08831d3e435bb5dbc90a26dd016dfcd1807114ee57227cb0b5a81209",
+      "replacement": "The later gazetteer reports Mattawane Creek in a May 12, 1688 record. Its exact original wording and meaning remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "2055f960840cc07cb75c3c1ef21b3efc1d790534cb8545e07e236892336aea5f",
+      "replacement": "An 1865 postal change is reported. The exact original order remains unconfirmed, separate from the later borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "2055f960840cc07cb75c3c1ef21b3efc1d790534cb8545e07e236892336aea5f",
+      "replacement": "An 1865 postal change is reported. The exact original order remains unconfirmed, separate from the later borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "8cec6092a301ac63dbf3ebe48e5d4bd300f930679415323c04340ec5fea36696",
+      "replacement": "A later gazetteer reports Mattawane in 1688 and Matewan in 1690. A possible 1625 antecedent has uncertain geography.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "8cec6092a301ac63dbf3ebe48e5d4bd300f930679415323c04340ec5fea36696",
+      "replacement": "A later gazetteer reports Mattawane in 1688 and Matewan in 1690. A possible 1625 antecedent has uncertain geography.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "6f40ecd711a971343a3578f76a743d1dda6c936d1bfad5646022970cdc4b75bb",
+      "replacement": "An 1865 postal change and later newspaper helped spread Matawan. A first Journal issue on July 25, 1869 is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "editorial",
+        "1331",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "6f40ecd711a971343a3578f76a743d1dda6c936d1bfad5646022970cdc4b75bb",
+      "replacement": "An 1865 postal change and later newspaper helped spread Matawan. A first Journal issue on July 25, 1869 is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1332",
+      "path": [
+        "editorial",
+        "1332",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "258bbf45b91d68f885c3fc69c31719b834291a8754e5ecd2e6fdaf537b402e54",
+      "replacement": "Early written use appears in a published Town Book transcription. A December 30, 1667 entry names Middleton and describes 36 laid-out lots. The following January court entry has a 1667 year label under the older calendar convention, represented as January 1667/68. These are distinct entries with different date forms.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1332",
+      "path": [
+        "editorial",
+        "1332",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "25b5b5a0b0614662f1ead61948e8379ddd6713f03ca37c76e1a5e52a2af30088",
+      "replacement": "A published copy of the Town Book names Middleton on December 30, 1667 and describes 36 lots. A following January court entry uses the old year label 1667. January 1667/68 expresses that older calendar convention; it is a separate entry from the December record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1332",
+      "path": [
+        "editorial",
+        "1332",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "a18acb33d4f1d4ce3581f28b796cfac9cc47bfa9f80d23be0b2c514d8514d706",
+      "replacement": "The published Town Book transcription names Middleton and describes 36 lots in the December 30, 1667 entry. It does not establish the original name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1332",
+      "path": [
+        "editorial",
+        "1332",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "a18acb33d4f1d4ce3581f28b796cfac9cc47bfa9f80d23be0b2c514d8514d706",
+      "replacement": "The published Town Book transcription names Middleton and describes 36 lots in the December 30, 1667 entry. It does not establish the original name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1332",
+      "path": [
+        "editorial",
+        "1332",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "7c1e4f653a18a03269d8af60464200a5bbae6567a63d923e17ebbc0846f7adb5",
+      "replacement": "The following January court entry uses a 1667 year label under the older calendar convention. January 1667/68 expresses that distinction from the preceding December entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1332",
+      "path": [
+        "editorial",
+        "1332",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "7c1e4f653a18a03269d8af60464200a5bbae6567a63d923e17ebbc0846f7adb5",
+      "replacement": "The following January court entry uses a 1667 year label under the older calendar convention. January 1667/68 expresses that distinction from the preceding December entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1332",
+      "path": [
+        "editorial",
+        "1332",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "6b1a0cbb906e9eb1962c708ab0f5dd473d442658fda32c152344776eea574f9e",
+      "replacement": "The published transcription names Middleton and 36 lots on December 30, 1667. The following January court entry’s older year label is expressed as 1667/68.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1333",
+      "path": [
+        "editorial",
+        "1333",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "f652a281db421517d35db9083fc635dd6380237b9cb5cc0d8b07dc19771336d4",
+      "replacement": "A gazetteer reports Mattawomung in an April 7, 1665 deed and Mattawamung in a separate June 5 deed. Another reported deed, August 22, 1681, pairs Matawong with Milstone River. These are attributed documentary forms; the exact original wording and the tracts’ positions within modern boundaries remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1333",
+      "path": [
+        "editorial",
+        "1333",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "40f52f6f5c0d29be3868276c796461d04779d4d2287ba3e2e30ef12614940899",
+      "replacement": "A gazetteer reports two separate deeds in 1665, using Mattawomung and Mattawamung. Another reported deed in 1681 pairs Matawong with Milstone River. The exact original wording and the land’s relationship to today’s township boundaries remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1333",
+      "path": [
+        "editorial",
+        "1333",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "bfb057588da34251d74ab99d61e33d5c4b901517fa35ec7605cce182f1b93c32",
+      "replacement": "The gazetteer reports April 7 Mattawomung and June 5 Mattawamung as separate 1665 deeds, plus Matawong alias Milstone River on August 22, 1681. Their exact original wording and modern tract locations remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1333",
+      "path": [
+        "editorial",
+        "1333",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ad0d7d43e567d2c28ccae004f6c8770c4a2706fc6335b6ec5fd7ccee56b940c1",
+      "replacement": "The gazetteer reports April 7 Mattawomung and June 5 Mattawamung as separate 1665 deeds, plus Matawong alias Milstone River on August 22, 1681. Their exact original wording and modern tract locations remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "editorial",
+        "1334",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c47eedd1782e295b952c383efd23810b823eb2c9966e2e25a8ecb755e3a9b273",
+      "replacement": "Ellis’s later history reports association planning and acquisition in 1871, followed by survey, subdivision and resort work in 1872. These development details remain unconfirmed. Anthony Q. Keasbey, Cortland Parker, John Torrey Jr. and the Monmouth Beach Association are identified as promoters. A reported public-name use by 1870 also remains unconfirmed; none of these dates establishes first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "editorial",
+        "1334",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "f5acaeeae194676b7386b2bd3076b823398ac1b4053c6c477346604131dca043",
+      "replacement": "A later account reports association planning and land purchases in 1871, then surveying and resort work in 1872. Those details remain unconfirmed, along with a claim that the name was used by 1870. These are reported development stages, without a proved first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "editorial",
+        "1334",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c53d1adf82994365541ae518e172a3f6dddd562318cb77d30a1c81e582c1b159",
+      "replacement": "Association planning and acquisition in 1871 are reported but remain unconfirmed. That development account does not establish first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "editorial",
+        "1334",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c53d1adf82994365541ae518e172a3f6dddd562318cb77d30a1c81e582c1b159",
+      "replacement": "Association planning and acquisition in 1871 are reported but remain unconfirmed. That development account does not establish first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "editorial",
+        "1334",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "cfaf4d31b0f0fad076e987f32623c09ff71a31bd0ea3fdf147d529ae096d9750",
+      "replacement": "Survey, subdivision and conversion of the Wardell house to the Casino in 1872 are reported but remain unconfirmed. These are separate development stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "editorial",
+        "1334",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "cfaf4d31b0f0fad076e987f32623c09ff71a31bd0ea3fdf147d529ae096d9750",
+      "replacement": "Survey, subdivision and conversion of the Wardell house to the Casino in 1872 are reported but remain unconfirmed. These are separate development stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "editorial",
+        "1334",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b3c93960985f9f6b6170a2e309e32d83731b6c9e8deed3f46e235d66aea8eb0e",
+      "replacement": "Association planning and acquisition in 1871, survey and resort work in 1872, and an earlier by-1870 name use are reported but remain unconfirmed. The exact first naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "editorial",
+        "1334",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b3c93960985f9f6b6170a2e309e32d83731b6c9e8deed3f46e235d66aea8eb0e",
+      "replacement": "Association planning and acquisition in 1871, survey and resort work in 1872, and an earlier by-1870 name use are reported but remain unconfirmed. The exact first naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1335",
+      "path": [
+        "editorial",
+        "1335",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a03eb980a7e49bd224f89955d6c7f697939c095cf9b7faac5d7be78542b2fe98",
+      "replacement": "Neptune Township’s name points to Neptune, the Roman god of the sea, in its municipal history. Ellis’s 1885 county history also reports an earlier Neptune village and post office at Shark River in 1875, with William Devereaux as postmaster. That is a retrospective account, without an established original postal naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1335",
+      "path": [
+        "editorial",
+        "1335",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f8166379d9afd2f1ef6b58c5edf3a9eb63e8776083bf70f13a7691f3e3601f6e",
+      "replacement": "The later history reports a Neptune office in 1875 and William Devereaux as postmaster. That attributed account does not establish who first chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1335",
+      "path": [
+        "editorial",
+        "1335",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f8166379d9afd2f1ef6b58c5edf3a9eb63e8776083bf70f13a7691f3e3601f6e",
+      "replacement": "The later history reports a Neptune office in 1875 and William Devereaux as postmaster. That attributed account does not establish who first chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1335",
+      "path": [
+        "editorial",
+        "1335",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "4cca2584277f9034a2f999272df76b7e3db0eff95f956418018358f70045358f",
+      "replacement": "The index infers October 4, 1881 filing and effect from an unofficial source. The exact legal effect remains qualified; full separation came later.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1335",
+      "path": [
+        "editorial",
+        "1335",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "4cca2584277f9034a2f999272df76b7e3db0eff95f956418018358f70045358f",
+      "replacement": "The index infers October 4, 1881 filing and effect from an unofficial source. The exact legal effect remains qualified; full separation came later.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1335",
+      "path": [
+        "editorial",
+        "1335",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "b85f94300454dfdaabb3df9c9883ce8ffcf5fb2732df29b4a6c6821aaf2c38d3",
+      "replacement": "A later county history reports a Neptune village and post office in 1875. The exact original postal naming decision remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1335",
+      "path": [
+        "editorial",
+        "1335",
+        "sidebar",
+        "fields",
+        "mechanism",
+        "text"
+      ],
+      "expected_sha256": "d187c168a58835f814f1a47b8a040d41ea48c26627e58c3fd6de9fc079fec2f9",
+      "replacement": "Reuse of the village name for the 1879 township is a plausible inference, without a known original naming declaration. A planned Ocean-to-Neptune theme is also unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1336",
+      "path": [
+        "editorial",
+        "1336",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "de52d3a9c2ce5be37cdfb0ab2997b67984bed8b1a901d0e955942afa208ac1c0",
+      "replacement": "The legal index cites a March 12, 1881 notice naming the proposed borough and a March 19 vote. Its October 4 filing and effect date is inferred from an unofficial source; the exact legal effect remains qualified. Full separation followed in 1895. Creation of Avon-by-the-Sea in 1900 removed Atlantic-front territory, a boundary change distinct from choosing Neptune City’s name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1336",
+      "path": [
+        "editorial",
+        "1336",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "aab229d03cefcfd2f7738814f7909c43aef9b60c7d3cb1f2982034ca5907fd37",
+      "replacement": "An index describes an 1881 notice and vote for the borough. Its October 4 filing and effect date is inferred from an unofficial source, so the exact legal effect remains qualified. Later separation and loss of oceanfront land to Avon-by-the-Sea changed government and boundaries without explaining the original name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "editorial",
+        "1337",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "6043444c0c869ee0f6e9396d9558bec0670ee180ee2dd8c3d422d45686bb5ff1",
+      "replacement": "The creation act gives February 24, 1849 approval and immediate effect; a municipal webpage’s February 21 remains a conflicting account. The law scheduled an annual meeting at James Anderson’s house in Eatontown and a March 24 division meeting at John L. Doty’s house. Those instructions do not establish that either meeting occurred. This is Monmouth County’s Ocean Township, distinct from Ocean County’s township of the same name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1337",
+      "path": [
+        "editorial",
+        "1337",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "55d34217233c42e9d36bc0f55724a5293570b740675b5b9cbe0b0c3886fdef1d",
+      "replacement": "The creation law gives February 24, 1849, while a municipal webpage gives a conflicting date. The law planned early meetings at residents’ houses, without establishing that they happened. This Ocean Township is in Monmouth County; Ocean County has a different township with the same name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "editorial",
+        "1337",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "54c3c6497f158f6e5900e52b80d7241dcde4fb58c7fa4c50d594710d0f3409dc",
+      "replacement": "The act gives February 24, 1849 approval and immediate effect. The municipal webpage’s different date remains a conflicting account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1337",
+      "path": [
+        "editorial",
+        "1337",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "54c3c6497f158f6e5900e52b80d7241dcde4fb58c7fa4c50d594710d0f3409dc",
+      "replacement": "The act gives February 24, 1849 approval and immediate effect. The municipal webpage’s different date remains a conflicting account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "editorial",
+        "1337",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "47dfc8ee6406bddc2130f55d878b464532074ed4fb07ce65e00edc9f4fa69138",
+      "replacement": "The law scheduled a March 24 meeting at John L. Doty’s house to divide property and obligations. That instruction does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1337",
+      "path": [
+        "editorial",
+        "1337",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "47dfc8ee6406bddc2130f55d878b464532074ed4fb07ce65e00edc9f4fa69138",
+      "replacement": "The law scheduled a March 24 meeting at John L. Doty’s house to divide property and obligations. That instruction does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "editorial",
+        "1337",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "47c09ba0574d55336c2a7b2fe789bb4fe2fa9f9425816043508995e08bec9679",
+      "replacement": "The act gives February 24, 1849, conflicting with a February 21 webpage date. It scheduled Anderson’s annual meeting and Doty’s March 24 division meeting without establishing that either occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1338",
+      "path": [
+        "editorial",
+        "1338",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "29842e74526e998423a7118666e8767cb4df0aa0bfc2753171c6c19d1ae4c581",
+      "replacement": "The May 11, 1920 vote approved separation from Eatontown Township after the April 6 enabling act. These are distinct borough-formation stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1338",
+      "path": [
+        "editorial",
+        "1338",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "29842e74526e998423a7118666e8767cb4df0aa0bfc2753171c6c19d1ae4c581",
+      "replacement": "The May 11, 1920 vote approved separation from Eatontown Township after the April 6 enabling act. These are distinct borough-formation stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1335",
+      "path": [
+        "editorial",
+        "1335",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "8bda3c1a051f95354c7c1a35b486e6e3759f9ebd1eb15f306deaddf31a9ca90d",
+      "replacement": "The original township covered communities with distinct histories. Neptune City’s internal borough stage and later full separation were different events. Bradley Beach also had an internal formation before full separation, with conflicting March 1893 reports still unresolved. These legal and boundary stages reduced territory without repeatedly creating Neptune Township’s name or settling its older first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "9c923697ca5136b208c676f37be1db606e6e608c54e76060cbeab7b286f33bb6",
+      "replacement": "An attributed early name use, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "fb9cbbbb1fa17c3dc7586274e18257d69ac3cbbeb17a245894c9bf6618ae01ba",
+      "replacement": "Reported resort-name use with an unresolved discrepancy between dateline and publication year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "2ca8371b97047db069b304fecd9429afcb64bdab106dae8fb6adf6c44262699b",
+      "replacement": "City-act approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "ac3da96d311794da642495778149e79b2bf4fc179bb37adc8a6ac547810be1c9",
+      "replacement": "Chapter 214 creates the City of Long Branch and takes immediate effect on approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "353a2750e616950d75947bff2731f053d0687a6be7919aa1fa1f5038163d52e8",
+      "replacement": "The city stage was distinct from the earlier 1902–1903 proposed conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "sources",
+        "S1924",
+        "title"
+      ],
+      "expected_sha256": "143d6f079b5e4250382c35dab19d230536a410fb693720f122ffa64f730136c0",
+      "replacement": "Long Branch city act — 1904, chapter 214",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "sources",
+        "S1924",
+        "publication"
+      ],
+      "expected_sha256": "f9de5a8b67b081c380c87e4da3c92f135ce397beb3300cefc1091c7d7c3b2c8c",
+      "replacement": "Approved March 29, 1904",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "sources",
+        "S1925",
+        "publication"
+      ],
+      "expected_sha256": "f9de5a8b67b081c380c87e4da3c92f135ce397beb3300cefc1091c7d7c3b2c8c",
+      "replacement": "Undated proposal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "sources",
+        "S426",
+        "publication"
+      ],
+      "expected_sha256": "98b3f52b1a08b13a8e2e2555b55fd54248ebea88773e8b369e1dd1b37d4cd950",
+      "replacement": "Undated museum account concerning 1776–1777 correspondence",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "49c6818a25fb451935f3c282edaffef24c991a01522c9ac4852bb5da6a347d1b",
+      "replacement": "Long Branch (stream, hamlet and resort); Shrewsbury River (waterway system); Long Branch Commission (earlier government); Ocean and Eatontown Townships (parents)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "0ca1c12e91cc5e259d628b1b07da91969ea22b5e37667cad243f278021499273",
+      "replacement": "A later gazetteer reports Manalapan landscape-name forms between 1696 and 1741. Their exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "ac287cb1f05fe313c0b174d2a154ba5e612f90b8981e04f0d9367037bd2a77ef",
+      "replacement": "Reported colonial landscape use, without an established original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "b004f47a2b6bef38bcad8d3fb7ad61e0bdab7e5f039c37dafa68f07f8ff09db8",
+      "replacement": "A later gazetteer associates Manalapan with a colonial hamlet and watercourse.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "59670d1309cca3ccc3ed4b20cda98a92a9c512c56624011c3ec5f97aa19859b5",
+      "replacement": "Reported pre-municipal landscape and settlement uses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "a326e4134c33964b1baa66372015c2b0734e0a42c29c91b86c66a59cf202d15b",
+      "replacement": "A later gazetteer reports Manalapan postal use before 1848.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "d12402d66893f7165c57c54c6b1143fbcd8eee690973f59e77a4133b63aac43c",
+      "replacement": "Reported postal use predating the township, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "bb6c8fd21e3078195d24311c46a8e07b36e5b5fa64d8dcc6b84a0e02223218bf",
+      "replacement": "Local participants; individual names unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "e5ae828c24411f730d4d7d99a69e6e3a131161e9876d6a51cd08e0d1e9cec595",
+      "replacement": "Later accounts attribute food or fertile-land explanations to nineteenth-century writers; the municipal history repeats such traditions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "9c4ee18713f9b62af88d76799d30e627111545ca3ae7e5f92badfd680dfa2262",
+      "replacement": "A wild-onion interpretation is attributed to the gazetteer; its exact linguistic explanation remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "a3209ffb2eb32f4ab4a764b3353dd560d3d2eee998bf2099abe965fd5e924ab7",
+      "replacement": "An attributed scholarly proposal, without an established original translation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0be5a5ce32abbc87fde7c25da5b6ee225f665f5f4b006789ef9ee5f36d9e2fd3",
+      "replacement": "Manalapan (older valley and watercourse); Tennent (later community association); Phebe Perrine’s tavern (reported organizing meeting); Freehold Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a4b8822610601adf84d1823eed15e99b986559c3ea0901f832444fd0811510ae",
+      "replacement": "A July 9, 1685 purchase license is reported with differing Manisquan and Manasquan forms. The exact original spelling remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "108b505c620ae8401bd0a9a2f4e3703895368c163ff22aada996f0947ee393ec",
+      "replacement": "A later gazetteer reports Mannusquan River and Squancum in a 1689 deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "1980a87263dbe3ad54cdc72036f485e7c0af11775e35bf01344bff4c97b6d0ac",
+      "replacement": "Reported full and shortened forms, without an established sequence of formal spelling changes.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d60ecdcf43240247fd30788acc18d61dd8ac006a75e643ed7cebd6de90970ffd",
+      "replacement": "A later gazetteer reports Manasquam River on a 1696 map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "c8619fd82ca4a57a919b97ab8b049fa5effb165c085fd40dd8c71283347fa173",
+      "replacement": "February 15, 1819 is reported for the Manasquan office, while another account gives February 25. The exact establishment day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "416b1fcd2803ec2c79c5f32c94c617c8e0a9c8e4e422dcfe26a17bff63688e4e",
+      "replacement": "Reported postal adoption with an unresolved day discrepancy.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "93f3f1f35e67efc2f219f766fab7157886822510063954e40e7e367d7e30e1e1",
+      "replacement": "Manisquan (reported form); Mannusquan River and Squancum (reported forms); Manasquam River (reported map form); Squan Village (later community); Timothy J. Bloomfield (attributed village-name chooser); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1330",
+      "path": [
+        "views",
+        "1330",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "7f576769e7b2381272f2ead90b6f073f1554f2ee4f7a4c256d9c0387ec5cebde",
+      "replacement": "Reported postal use before 1840, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1330",
+      "path": [
+        "views",
+        "1330",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "339a1d547d3ef9c451cd83c71b6f1094b21e5f623b059202e9b3ac8adefb2b12",
+      "replacement": "Bucktown (older village); Marlborough (earlier spelling); Marlborough Hotel (community landmark); Freehold Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "c9490889caadba5663d3847efec6da9c97c6fe6d2950955c8bfb97bc5b55ee74",
+      "replacement": "A later gazetteer identifies a possibly related 1625 form, with uncertain geographic location.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "5dfce6b0d3109a440e1f00862c7213c70fe5045cac89440c5f638fe8660ee9e1",
+      "replacement": "A later gazetteer reports Mattawane Creek in a May 12, 1688 record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c2362ad538cdef458db36404ed1f2705160320aa79f2c668a1736672e90c59d0",
+      "replacement": "An attributed early creek form; the exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "0ffc5a3a4237a746b0a975bd1980dbb78f71c05e4894588de455d178a0337ca5",
+      "replacement": "A later gazetteer reports Matewan Creek in an October 10, 1690 deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "7e0311f57811f8ae3f0f3ead6bb46e213d17bd02d5f0f34cae0622dbbeed4640",
+      "replacement": "Recognition of New Aberdeen in 1701 is reported in later accounts; the exact original record remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "faf88a2bac927511d0fa166e0808cd1dc27a6a1e1a07aa147954cc400ba537fd",
+      "replacement": "Later accounts report an 1865 postal change from Middletown Point to Matawan. The exact original order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "f3685ea5bd5d256c0d53620db92233f7eaa51777154b29172f6175d2d90a2184",
+      "replacement": "A first Matawan Journal issue on July 25, 1869 is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "302003277994b15f3ac20d1e5736a6ca0d8ef9ae50f0dff5a7cc4d90637bfead",
+      "replacement": "Reported public use before the township’s legal spelling change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7cf6ac71abf5347fd10862e6d48786aaa0480d1a8e95ce7d5b1a7decdda040f0",
+      "replacement": "Matouvancon (possible antecedent, location uncertain); Mattawane and Matewan Creeks (reported forms); New Aberdeen and Mount Pleasant (older settlements); Middletown Point (later center); Matavan Township (separate parent history)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1332",
+      "path": [
+        "views",
+        "1332",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "3376a1f6a05780a6d72782ac78d3b67f9d680d1068d392b55ecafebaf74ced11",
+      "replacement": "A dated Middleton entry in the published Town Book transcription, without an established original name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1332",
+      "path": [
+        "views",
+        "1332",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ec1d55678281e2e8adee6fa22601743be5de02f2814c885aefffdb75208bc9aa",
+      "replacement": "Middleton (published Town Book form); Chaquasitt and Chaguasitt (associated locality); Portland Point and Shrewsbury (other planned communities); Monmouth Patent (settlement framework)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1333",
+      "path": [
+        "views",
+        "1333",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "b83c26690fb97e3fadf19243ea3fe69395de6c4507d580e22abc511888a38e2d",
+      "replacement": "The gazetteer reports Mattawomung in an April 7, 1665 deed and Mattawamung in a separate June 5 deed. Exact original wording and modern tract locations remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1333",
+      "path": [
+        "views",
+        "1333",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "f2e90d0dde23f13ecb8f64b88dc791ad2841dedef26d0855c98bdfe9359db3fb",
+      "replacement": "The gazetteer reports an August 22, 1681 deed pairing Matawong with Milstone River. The exact original wording and modern tract location remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1333",
+      "path": [
+        "views",
+        "1333",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "d3c19aeb169c338e7f776764820b7ac0b391565df44c58907309761fe12f0610",
+      "replacement": "The index separately lists a March 21, 1845 reduction to Monroe, March 6, 1846 expansion from Jackson and February 24, 1847 expansion from Monroe.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1333",
+      "path": [
+        "views",
+        "1333",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "74d45aeceba17571a69712999f811d98cd1288ea4a257570b65697b21fe6af9b",
+      "replacement": "Mattawomung and Mattawamung (separate reported deed forms); Matawong alias Milstone River (reported deed pair); Millstone River (namesake); Freehold, Monroe and Upper Freehold (parents)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "05f60f0da2a5bb3e55d9c42909bb123639b910815dd45d97d9ad66548314d002",
+      "replacement": "Public use of Monmouth Beach by 1870 is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "7cc26d3a9e72feb08dc56148cb4c6a34e4e46f7a2e2fc45f82b2f0f3e63f2a68",
+      "replacement": "A qualified early-use account, without an established first naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "c489350c311f10a03d86d0cb0e2bbb4b44cf4618f6ee455fe8161cd522a4d612",
+      "replacement": "Association planning in spring 1871 and acquisition by June 17 are reported but remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "bb6982c5e922dc250636a790d7e07813dbe75ed23156d9e895736df45f10604f",
+      "replacement": "Survey, subdivision and conversion of the Wardell house to the Casino in 1872 are reported but remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "8b0bf92fc0fc2f9d79f876564edb7392de067fb430e7d559a8c09f533e63409f",
+      "replacement": "Wardell’s Beach (older coastal tract); Fresh Pond and Galilee (sections); Monmouth Beach Association (resort developer); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1335",
+      "path": [
+        "views",
+        "1335",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e47cf6dd3361759723d8f66a0f97da67bc897307d13dbd87aba066bbf6a1a8e5",
+      "replacement": "Neptune village and post office (reported earlier uses); Shark River (setting); Neptune (Roman sea god); Ocean Grove (community); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "d2cb4d6dbd95f6392d8e3eefbe3d9af7e8326944ba5255291c7d52e6bfae38a0",
+      "replacement": "Reported local institutional use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "f57d695450c6818fa452ddcfb45d53def3e386fd26d1b3ee2a9a346a79657222",
+      "replacement": "A later account reports Devereaux’s store and appointment to a Neptune office established in 1875.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "e74da6e35db5282f8b272ffbea36ca0562b44f452a95e4c474ff623ca73c741e",
+      "replacement": "Reported local and postal use before the borough, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "3538e0a4579fb6587bd6d539616fd4a044b4db9fc3aba99d4653b841bf1b6cc1",
+      "replacement": "A notice cited by the index, rather than an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "70da1d37a358d9cc9397f6e3e309c3434c2fca526e12ae468cecf2064eca7d91",
+      "replacement": "Neptune village and post office (reported earlier uses); Neptune (Roman sea god); Neptune Township (parent); Avon-by-the-Sea (later separated territory)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "9b1741c4d115b73ceb0a0542413d41282a0ee0c14708d94fae5fdaec3859cd59",
+      "replacement": "Statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "ce4c5da07a2c21a1c43425df61f8941b40f08846f4a6dded0332e49b6621a31b",
+      "replacement": "A scheduled civic stage under the statutory name; occurrence is not established by the instruction.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "db9270c87510f4cf00e4bdff2277d90280814e7eb5c5f16a6b0442d784aa0861",
+      "replacement": "A scheduled division of property and obligations; the instruction does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "sources",
+        "S1926",
+        "title"
+      ],
+      "expected_sha256": "2d0406b8252bcc7e8574ec92b5eec725ead4c306c42fad42e3c982c134284351",
+      "replacement": "1849 session laws, pages 115–117",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9cee58c96461c296615713462b0e396ef74196e6947540f8d3b614e5722f86de",
+      "replacement": "Ocean Township, Monmouth County (original coastal jurisdiction); Shrewsbury Township (parent); Lincoln Township (short-lived division); Neptune Township (later division)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1338",
+      "path": [
+        "views",
+        "1338",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "b54b8a4b3d6b48da2a076db91c3ac1f7e6d7f818d5880394b105b7faca8d537e",
+      "replacement": "An attributed institutional name use in 1855, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1338",
+      "path": [
+        "views",
+        "1338",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3910b0437457a26ee644edb8c9b40889e9477da02934e491f0581a2defcbf2b6",
+      "replacement": "Peggy’s Point and Eatontown Dock (older landing names); Port-au-Peck (older section); Oceanport Steamboat Company (reported institutional use); Ocean and Eatontown Townships (parent jurisdictions)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "9c923697ca5136b208c676f37be1db606e6e608c54e76060cbeab7b286f33bb6",
+      "replacement": "An attributed early name use, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "fb9cbbbb1fa17c3dc7586274e18257d69ac3cbbeb17a245894c9bf6618ae01ba",
+      "replacement": "Reported resort-name use with an unresolved discrepancy between dateline and publication year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "2ca8371b97047db069b304fecd9429afcb64bdab106dae8fb6adf6c44262699b",
+      "replacement": "City-act approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "ac3da96d311794da642495778149e79b2bf4fc179bb37adc8a6ac547810be1c9",
+      "replacement": "Chapter 214 creates the City of Long Branch and takes immediate effect on approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "353a2750e616950d75947bff2731f053d0687a6be7919aa1fa1f5038163d52e8",
+      "replacement": "The city stage was distinct from the earlier 1902–1903 proposed conversion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "sources",
+        "S1924",
+        "title"
+      ],
+      "expected_sha256": "143d6f079b5e4250382c35dab19d230536a410fb693720f122ffa64f730136c0",
+      "replacement": "Long Branch city act — 1904, chapter 214",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "sources",
+        "S1924",
+        "publication"
+      ],
+      "expected_sha256": "f9de5a8b67b081c380c87e4da3c92f135ce397beb3300cefc1091c7d7c3b2c8c",
+      "replacement": "Approved March 29, 1904",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "sources",
+        "S1925",
+        "publication"
+      ],
+      "expected_sha256": "f9de5a8b67b081c380c87e4da3c92f135ce397beb3300cefc1091c7d7c3b2c8c",
+      "replacement": "Undated proposal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "sources",
+        "S426",
+        "publication"
+      ],
+      "expected_sha256": "98b3f52b1a08b13a8e2e2555b55fd54248ebea88773e8b369e1dd1b37d4cd950",
+      "replacement": "Undated museum account concerning 1776–1777 correspondence",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1327",
+      "path": [
+        "views",
+        "1327",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "49c6818a25fb451935f3c282edaffef24c991a01522c9ac4852bb5da6a347d1b",
+      "replacement": "Long Branch (stream, hamlet and resort); Shrewsbury River (waterway system); Long Branch Commission (earlier government); Ocean and Eatontown Townships (parents)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "0ca1c12e91cc5e259d628b1b07da91969ea22b5e37667cad243f278021499273",
+      "replacement": "A later gazetteer reports Manalapan landscape-name forms between 1696 and 1741. Their exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "ac287cb1f05fe313c0b174d2a154ba5e612f90b8981e04f0d9367037bd2a77ef",
+      "replacement": "Reported colonial landscape use, without an established original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "b004f47a2b6bef38bcad8d3fb7ad61e0bdab7e5f039c37dafa68f07f8ff09db8",
+      "replacement": "A later gazetteer associates Manalapan with a colonial hamlet and watercourse.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "59670d1309cca3ccc3ed4b20cda98a92a9c512c56624011c3ec5f97aa19859b5",
+      "replacement": "Reported pre-municipal landscape and settlement uses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "a326e4134c33964b1baa66372015c2b0734e0a42c29c91b86c66a59cf202d15b",
+      "replacement": "A later gazetteer reports Manalapan postal use before 1848.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "d12402d66893f7165c57c54c6b1143fbcd8eee690973f59e77a4133b63aac43c",
+      "replacement": "Reported postal use predating the township, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "bb6c8fd21e3078195d24311c46a8e07b36e5b5fa64d8dcc6b84a0e02223218bf",
+      "replacement": "Local participants; individual names unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "e5ae828c24411f730d4d7d99a69e6e3a131161e9876d6a51cd08e0d1e9cec595",
+      "replacement": "Later accounts attribute food or fertile-land explanations to nineteenth-century writers; the municipal history repeats such traditions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "9c4ee18713f9b62af88d76799d30e627111545ca3ae7e5f92badfd680dfa2262",
+      "replacement": "A wild-onion interpretation is attributed to the gazetteer; its exact linguistic explanation remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "a3209ffb2eb32f4ab4a764b3353dd560d3d2eee998bf2099abe965fd5e924ab7",
+      "replacement": "An attributed scholarly proposal, without an established original translation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1328",
+      "path": [
+        "views",
+        "1328",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0be5a5ce32abbc87fde7c25da5b6ee225f665f5f4b006789ef9ee5f36d9e2fd3",
+      "replacement": "Manalapan (older valley and watercourse); Tennent (later community association); Phebe Perrine’s tavern (reported organizing meeting); Freehold Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a4b8822610601adf84d1823eed15e99b986559c3ea0901f832444fd0811510ae",
+      "replacement": "A July 9, 1685 purchase license is reported with differing Manisquan and Manasquan forms. The exact original spelling remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "108b505c620ae8401bd0a9a2f4e3703895368c163ff22aada996f0947ee393ec",
+      "replacement": "A later gazetteer reports Mannusquan River and Squancum in a 1689 deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "1980a87263dbe3ad54cdc72036f485e7c0af11775e35bf01344bff4c97b6d0ac",
+      "replacement": "Reported full and shortened forms, without an established sequence of formal spelling changes.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d60ecdcf43240247fd30788acc18d61dd8ac006a75e643ed7cebd6de90970ffd",
+      "replacement": "A later gazetteer reports Manasquam River on a 1696 map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "c8619fd82ca4a57a919b97ab8b049fa5effb165c085fd40dd8c71283347fa173",
+      "replacement": "February 15, 1819 is reported for the Manasquan office, while another account gives February 25. The exact establishment day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "416b1fcd2803ec2c79c5f32c94c617c8e0a9c8e4e422dcfe26a17bff63688e4e",
+      "replacement": "Reported postal adoption with an unresolved day discrepancy.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1329",
+      "path": [
+        "views",
+        "1329",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "93f3f1f35e67efc2f219f766fab7157886822510063954e40e7e367d7e30e1e1",
+      "replacement": "Manisquan (reported form); Mannusquan River and Squancum (reported forms); Manasquam River (reported map form); Squan Village (later community); Timothy J. Bloomfield (attributed village-name chooser); Wall Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1330",
+      "path": [
+        "views",
+        "1330",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "7f576769e7b2381272f2ead90b6f073f1554f2ee4f7a4c256d9c0387ec5cebde",
+      "replacement": "Reported postal use before 1840, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1330",
+      "path": [
+        "views",
+        "1330",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "339a1d547d3ef9c451cd83c71b6f1094b21e5f623b059202e9b3ac8adefb2b12",
+      "replacement": "Bucktown (older village); Marlborough (earlier spelling); Marlborough Hotel (community landmark); Freehold Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "c9490889caadba5663d3847efec6da9c97c6fe6d2950955c8bfb97bc5b55ee74",
+      "replacement": "A later gazetteer identifies a possibly related 1625 form, with uncertain geographic location.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "5dfce6b0d3109a440e1f00862c7213c70fe5045cac89440c5f638fe8660ee9e1",
+      "replacement": "A later gazetteer reports Mattawane Creek in a May 12, 1688 record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c2362ad538cdef458db36404ed1f2705160320aa79f2c668a1736672e90c59d0",
+      "replacement": "An attributed early creek form; the exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "0ffc5a3a4237a746b0a975bd1980dbb78f71c05e4894588de455d178a0337ca5",
+      "replacement": "A later gazetteer reports Matewan Creek in an October 10, 1690 deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "7e0311f57811f8ae3f0f3ead6bb46e213d17bd02d5f0f34cae0622dbbeed4640",
+      "replacement": "Recognition of New Aberdeen in 1701 is reported in later accounts; the exact original record remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "faf88a2bac927511d0fa166e0808cd1dc27a6a1e1a07aa147954cc400ba537fd",
+      "replacement": "Later accounts report an 1865 postal change from Middletown Point to Matawan. The exact original order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "f3685ea5bd5d256c0d53620db92233f7eaa51777154b29172f6175d2d90a2184",
+      "replacement": "A first Matawan Journal issue on July 25, 1869 is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "302003277994b15f3ac20d1e5736a6ca0d8ef9ae50f0dff5a7cc4d90637bfead",
+      "replacement": "Reported public use before the township’s legal spelling change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1331",
+      "path": [
+        "views",
+        "1331",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7cf6ac71abf5347fd10862e6d48786aaa0480d1a8e95ce7d5b1a7decdda040f0",
+      "replacement": "Matouvancon (possible antecedent, location uncertain); Mattawane and Matewan Creeks (reported forms); New Aberdeen and Mount Pleasant (older settlements); Middletown Point (later center); Matavan Township (separate parent history)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1332",
+      "path": [
+        "views",
+        "1332",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "3376a1f6a05780a6d72782ac78d3b67f9d680d1068d392b55ecafebaf74ced11",
+      "replacement": "A dated Middleton entry in the published Town Book transcription, without an established original name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1332",
+      "path": [
+        "views",
+        "1332",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ec1d55678281e2e8adee6fa22601743be5de02f2814c885aefffdb75208bc9aa",
+      "replacement": "Middleton (published Town Book form); Chaquasitt and Chaguasitt (associated locality); Portland Point and Shrewsbury (other planned communities); Monmouth Patent (settlement framework)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1333",
+      "path": [
+        "views",
+        "1333",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "b83c26690fb97e3fadf19243ea3fe69395de6c4507d580e22abc511888a38e2d",
+      "replacement": "The gazetteer reports Mattawomung in an April 7, 1665 deed and Mattawamung in a separate June 5 deed. Exact original wording and modern tract locations remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1333",
+      "path": [
+        "views",
+        "1333",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "f2e90d0dde23f13ecb8f64b88dc791ad2841dedef26d0855c98bdfe9359db3fb",
+      "replacement": "The gazetteer reports an August 22, 1681 deed pairing Matawong with Milstone River. The exact original wording and modern tract location remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1333",
+      "path": [
+        "views",
+        "1333",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "d3c19aeb169c338e7f776764820b7ac0b391565df44c58907309761fe12f0610",
+      "replacement": "The index separately lists a March 21, 1845 reduction to Monroe, March 6, 1846 expansion from Jackson and February 24, 1847 expansion from Monroe.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1333",
+      "path": [
+        "views",
+        "1333",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "74d45aeceba17571a69712999f811d98cd1288ea4a257570b65697b21fe6af9b",
+      "replacement": "Mattawomung and Mattawamung (separate reported deed forms); Matawong alias Milstone River (reported deed pair); Millstone River (namesake); Freehold, Monroe and Upper Freehold (parents)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "05f60f0da2a5bb3e55d9c42909bb123639b910815dd45d97d9ad66548314d002",
+      "replacement": "Public use of Monmouth Beach by 1870 is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "7cc26d3a9e72feb08dc56148cb4c6a34e4e46f7a2e2fc45f82b2f0f3e63f2a68",
+      "replacement": "A qualified early-use account, without an established first naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "c489350c311f10a03d86d0cb0e2bbb4b44cf4618f6ee455fe8161cd522a4d612",
+      "replacement": "Association planning in spring 1871 and acquisition by June 17 are reported but remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "bb6982c5e922dc250636a790d7e07813dbe75ed23156d9e895736df45f10604f",
+      "replacement": "Survey, subdivision and conversion of the Wardell house to the Casino in 1872 are reported but remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1334",
+      "path": [
+        "views",
+        "1334",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "8b0bf92fc0fc2f9d79f876564edb7392de067fb430e7d559a8c09f533e63409f",
+      "replacement": "Wardell’s Beach (older coastal tract); Fresh Pond and Galilee (sections); Monmouth Beach Association (resort developer); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1335",
+      "path": [
+        "views",
+        "1335",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "e47cf6dd3361759723d8f66a0f97da67bc897307d13dbd87aba066bbf6a1a8e5",
+      "replacement": "Neptune village and post office (reported earlier uses); Shark River (setting); Neptune (Roman sea god); Ocean Grove (community); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "d2cb4d6dbd95f6392d8e3eefbe3d9af7e8326944ba5255291c7d52e6bfae38a0",
+      "replacement": "Reported local institutional use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "f57d695450c6818fa452ddcfb45d53def3e386fd26d1b3ee2a9a346a79657222",
+      "replacement": "A later account reports Devereaux’s store and appointment to a Neptune office established in 1875.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "e74da6e35db5282f8b272ffbea36ca0562b44f452a95e4c474ff623ca73c741e",
+      "replacement": "Reported local and postal use before the borough, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "3538e0a4579fb6587bd6d539616fd4a044b4db9fc3aba99d4653b841bf1b6cc1",
+      "replacement": "A notice cited by the index, rather than an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1336",
+      "path": [
+        "views",
+        "1336",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "70da1d37a358d9cc9397f6e3e309c3434c2fca526e12ae468cecf2064eca7d91",
+      "replacement": "Neptune village and post office (reported earlier uses); Neptune (Roman sea god); Neptune Township (parent); Avon-by-the-Sea (later separated territory)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "9b1741c4d115b73ceb0a0542413d41282a0ee0c14708d94fae5fdaec3859cd59",
+      "replacement": "Statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "ce4c5da07a2c21a1c43425df61f8941b40f08846f4a6dded0332e49b6621a31b",
+      "replacement": "A scheduled civic stage under the statutory name; occurrence is not established by the instruction.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "db9270c87510f4cf00e4bdff2277d90280814e7eb5c5f16a6b0442d784aa0861",
+      "replacement": "A scheduled division of property and obligations; the instruction does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "sources",
+        "S1926",
+        "title"
+      ],
+      "expected_sha256": "2d0406b8252bcc7e8574ec92b5eec725ead4c306c42fad42e3c982c134284351",
+      "replacement": "1849 session laws, pages 115–117",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1337",
+      "path": [
+        "views",
+        "1337",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "9cee58c96461c296615713462b0e396ef74196e6947540f8d3b614e5722f86de",
+      "replacement": "Ocean Township, Monmouth County (original coastal jurisdiction); Shrewsbury Township (parent); Lincoln Township (short-lived division); Neptune Township (later division)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1338",
+      "path": [
+        "views",
+        "1338",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "b54b8a4b3d6b48da2a076db91c3ac1f7e6d7f818d5880394b105b7faca8d537e",
+      "replacement": "An attributed institutional name use in 1855, without an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1338",
+      "path": [
+        "views",
+        "1338",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3910b0437457a26ee644edb8c9b40889e9477da02934e491f0581a2defcbf2b6",
+      "replacement": "Peggy’s Point and Eatontown Dock (older landing names); Port-au-Peck (older section); Oceanport Steamboat Company (reported institutional use); Ocean and Eatontown Townships (parent jurisdictions)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
