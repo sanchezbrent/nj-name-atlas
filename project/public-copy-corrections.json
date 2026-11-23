@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_14",
+  "checkpoint": "PUBLIC_COPY_15",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -150,7 +150,19 @@
     "1212",
     "1213",
     "1214",
-    "1215"
+    "1215",
+    "1216",
+    "1217",
+    "1218",
+    "1219",
+    "1220",
+    "1221",
+    "1222",
+    "1223",
+    "1224",
+    "1225",
+    "1301",
+    "1302"
   ],
   "changes": [
     {
@@ -62278,6 +62290,3468 @@
       ],
       "expected_sha256": "7c8e66863e5bc94e5ebe52d08ff68231d3e8317ff800f45405a0d15cd364c469",
       "replacement": "Madison Township (former legal name); Old Bridge village (name source in East Brunswick); South Amboy Township (older jurisdiction)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1216",
+      "path": [
+        "editorial",
+        "1216",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "422145b442c12fd595cc436386ef4f7de175a35e49543e1a71c57ec724f33120",
+      "replacement": "City history reports Ompoge in a 1651 transaction and Gawen Lawrie’s instructions to use Perth in 1684. An auction catalogue quotes a memorandum dated August 5, 1683 using Perth Towne at Ambo Point and describes a May 1684 plan with City of Perth. The unsigned plan is attributed to Philip Wells, apparently as a copy based on Samuel Groome’s survey. These are attributed documentary accounts and different political and mapmaking roles, without an established sole name coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1216",
+      "path": [
+        "editorial",
+        "1216",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d4558271d58398dcfef0032c7bb8d08afa060423fcc2b03cfa5942d933b89a01",
+      "replacement": "The exact sequence leading to Perth Amboy remains uncertain. A city charter in 1718 formally used the combined name, after the older place-name and the effort to promote Perth.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1216",
+      "path": [
+        "editorial",
+        "1216",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8d3145c604220460359bf258d3c5bb4d5abe958c9b74055a49e156572bd85f17",
+      "replacement": "City history reports Ompoge in a 1651 transaction; the catalogue uses a different summary spelling. These attributed forms do not establish a certain literal meaning or first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1216",
+      "path": [
+        "editorial",
+        "1216",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8d3145c604220460359bf258d3c5bb4d5abe958c9b74055a49e156572bd85f17",
+      "replacement": "City history reports Ompoge in a 1651 transaction; the catalogue uses a different summary spelling. These attributed forms do not establish a certain literal meaning or first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1216",
+      "path": [
+        "editorial",
+        "1216",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "753dd3fced52efe28981964f6ab38058b4580c1a77c51aadde6f96411e4e5b04",
+      "replacement": "The catalogue quotes Perth Towne at Ambo Point in an August 5, 1683 memorandum. That reported wording predates the 1684 plan and does not establish municipal incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1216",
+      "path": [
+        "editorial",
+        "1216",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "753dd3fced52efe28981964f6ab38058b4580c1a77c51aadde6f96411e4e5b04",
+      "replacement": "The catalogue quotes Perth Towne at Ambo Point in an August 5, 1683 memorandum. That reported wording predates the 1684 plan and does not establish municipal incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1216",
+      "path": [
+        "editorial",
+        "1216",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "c09cc088004e6b5d2a78512e659438d7eb8798aa222af8130b4436d24edb7250",
+      "replacement": "The catalogue quotes Perth Towne at Ambo Point in an August 5, 1683 memorandum and describes City of Perth on a May 1684 plan. These are attributed early uses, without an established exact first composite naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1216",
+      "path": [
+        "editorial",
+        "1216",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "c09cc088004e6b5d2a78512e659438d7eb8798aa222af8130b4436d24edb7250",
+      "replacement": "The catalogue quotes Perth Towne at Ambo Point in an August 5, 1683 memorandum and describes City of Perth on a May 1684 plan. These are attributed early uses, without an established exact first composite naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "editorial",
+        "1217",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "eb93a3af6b86c5d2098d9bed08b3d879c010528d4fd69cef6ea4cbbfa5d943df",
+      "replacement": "Joseph R. Klett’s archival guide describes settlement in 1666 and the wider land-transfer process during 1666–1667. This later synthesis credits the New Hampshire purchaser group with carrying the Piscataqua regional name. It does not establish every early spelling date or the individual who first proposed the New Jersey name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "editorial",
+        "1217",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "76e4d5c26d84f243d979a4298e8de8bb2c9fb6b55027cd092b7045ba0713686a",
+      "replacement": "A guide to colonial records describes settlement in 1666 and land transfers during 1666–1667. It reports forms including Piscataqua, New Piscataqua and New Piscataway. Their exact spelling sequence and first local name chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "editorial",
+        "1217",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b4f01a15b757178caa855b72f0dede0a99a33edfc8e12d399cd23ddd641ebfa3",
+      "replacement": "The early grant and purchaser relationships belong to East Jersey’s land and settlement history. The New England source region was a naming connection, rather than a former New Jersey government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "editorial",
+        "1217",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b4f01a15b757178caa855b72f0dede0a99a33edfc8e12d399cd23ddd641ebfa3",
+      "replacement": "The early grant and purchaser relationships belong to East Jersey’s land and settlement history. The New England source region was a naming connection, rather than a former New Jersey government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "2ba611bb6b9b0675c675e1ca71b5bba3ffca152a7a3458870361c727b25413f0",
+      "replacement": "The index separates April 1 approval of the law, a May 6 vote and May 8 state filing. A historic-house nomination’s May 29 account distinguishes campaign advocates, a seven-member advisory council and the official three-member township committee. These were different roles; the account does not establish one first official meeting or assign every participant a legal office.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "7e5ba003b431457bdd549b5b546f2262a164046994b6b65cfcf07f76f58954f6",
+      "replacement": "A guide lists an April 1 law, May 6 vote and May 8 filing. Another account describes campaigners, an advisory council and the official township committee in late May. Supporting a campaign or advising the government did not give everyone the same official job. The exact first meeting of the official committee remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "32b9ec4018782da1a94e4fcce520b4d24519b3dc9bf83cac56da549b2154fc3b",
+      "replacement": "The Plains and Plane or Planes Tavern are competing origin traditions. Neither is established as the original source of the name, and they were not successive legal township titles.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "32b9ec4018782da1a94e4fcce520b4d24519b3dc9bf83cac56da549b2154fc3b",
+      "replacement": "The Plains and Plane or Planes Tavern are competing origin traditions. Neither is established as the original source of the name, and they were not successive legal township titles.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "a84503318552e656c8e830302e44026ff50f3149087a4a4f5af5c58f57e7c07f",
+      "replacement": "The index reports April 1 approval, before the separately reported May 6 adoption vote. Approval and acceptance were different steps.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "a84503318552e656c8e830302e44026ff50f3149087a4a4f5af5c58f57e7c07f",
+      "replacement": "The index reports April 1 approval, before the separately reported May 6 adoption vote. Approval and acceptance were different steps.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "2680a2a1a60a34b79abdca1521b3e6c60db0d27a18a3da2b0f851edc7ef2a30b",
+      "replacement": "The nomination distinguishes advocates, a seven-member advisory council and the official three-member township committee. Its account does not establish a first meeting of the official committee or identical roles for everyone.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "2680a2a1a60a34b79abdca1521b3e6c60db0d27a18a3da2b0f851edc7ef2a30b",
+      "replacement": "The nomination distinguishes advocates, a seven-member advisory council and the official three-member township committee. Its account does not establish a first meeting of the official committee or identical roles for everyone.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "2a837caf448d36490c796cf33393b3488920a487934783862266ea1e9389c687",
+      "replacement": "Plainsboro was a community name before 1919. A reported 1894 shortening from Plainsborough remains unconfirmed; no exact original spelling-change day is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "2a837caf448d36490c796cf33393b3488920a487934783862266ea1e9389c687",
+      "replacement": "Plainsboro was a community name before 1919. A reported 1894 shortening from Plainsborough remains unconfirmed; no exact original spelling-change day is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "46e68fa9d5ec2ea7936c11527d21158ae59d327d378bdbbb05f98821dafd046c",
+      "replacement": "The index lists April 1, 1919 approval, May 6 voting and effect, and May 8 state filing. A separate April 26 county-book entry does not establish an earlier vote; its exact role remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "5edd63b9b53d464e5720f6620ad64117a36df23fffe134d3174578320383507f",
+      "replacement": "The index lists April 1, 1919 approval, May 6 voting and effect, and May 8 state filing. A separate April 26 county-book entry does not establish an earlier vote; its exact role remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "d8c9aa5039424550fdd2816100dd6421eeea81d02da97c9221a7706cdf1c93ed",
+      "replacement": "The late-May account distinguishes campaigners, a seven-member advisory council and a three-member official committee. Their roles differed, and the exact first meeting of the official committee remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "aa1345d15085dfa2a38d683aa7c8a5d874cd0d6714a235fbb2b5bbc35e0eb343",
+      "replacement": "The late-May account distinguishes campaigners, a seven-member advisory council and a three-member official committee. Their roles differed, and the exact first meeting of the official committee remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "editorial",
+        "1218",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "b038e7734bfc067e56c08175d241c7fdd36c014df37d9ccf9d6d659628a0c31b",
+      "replacement": "The Plains, Plane or Planes Tavern, Planesborough and Plainsborough are reported forms or traditions. Their exact relationships and an alleged 1894 shortening remain unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1219",
+      "path": [
+        "editorial",
+        "1219",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "d7177b514cec309009ec1a89167389d2889f317e5a3a746986ecc681d7eb7625",
+      "replacement": "Sayreville’s name recalls James R. Sayre Jr., co-founder of the Sayre & Fisher brick enterprise. An 1882 county history reports that Roundabout became Sayreville in 1872 and that the village later supplied the township’s name. This near-period account attributes the tribute without identifying the individual proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1219",
+      "path": [
+        "editorial",
+        "1219",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "e5d198bf97b7d4ab9816ef14f2348ee5c6a05d01f198eac8084c6694ae2930e6",
+      "replacement": "Roundabout Landing belongs to the older local setting. Wood’s Landing is another reported name whose exact place in the sequence remains uncertain. The first individual name chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1219",
+      "path": [
+        "editorial",
+        "1219",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "3acf5512dedfe3efb91c9fc120a0923d86b3336f10130b6d8a3dea226dbaa538",
+      "replacement": "The borough dates do not all agree. A guide lists an April 1919 vote, while library history says May. The library also reports government starting January 1, 1920. These remain conflicting reports of the vote month and a separate reported government start; they do not establish two elections or an actual first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1219",
+      "path": [
+        "editorial",
+        "1219",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "9d27f5d48e7206a4cfab5cc16e7db1353bfbe79e05278a9e75bf2bd2056f1585",
+      "replacement": "The index gives April 2, 1919 approval, April 29 voting and May 3 filing. Library history gives May voting and January 1, 1920 government commencement. The vote month remains unresolved; the later start report does not establish an actual first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1219",
+      "path": [
+        "editorial",
+        "1219",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "7c9a857128e4f3c2b00e040ad908d23f7cd5a9f7cb1dd4115d7057b099673cbb",
+      "replacement": "The index gives April 2, 1919 approval, April 29 voting and May 3 filing. Library history gives May voting and January 1, 1920 government commencement. The vote month remains unresolved; the later start report does not establish an actual first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1219",
+      "path": [
+        "editorial",
+        "1219",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e5b6fe194765e9a977693c5a762de4a26bb949cdf60f6fd53feafe16dfab4649",
+      "replacement": "The 1882 county history says the village changed from Roundabout in 1872 and supplied the township name in 1876. Continued community use does not establish another naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1219",
+      "path": [
+        "editorial",
+        "1219",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e5b6fe194765e9a977693c5a762de4a26bb949cdf60f6fd53feafe16dfab4649",
+      "replacement": "The 1882 county history says the village changed from Roundabout in 1872 and supplied the township name in 1876. Continued community use does not establish another naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1220",
+      "path": [
+        "editorial",
+        "1220",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "e01f93e1f54e0ce0c54174a7629c4b85a95eebf34779edbc3458ed7b69357adc",
+      "replacement": "A later report links the southern ward story to 1753. That is an attributed government account, rather than an established first naming occasion. An edited transcript of John Cadwalader’s December 27, 1776 letter to George Washington uses South Amboy as an existing place-name. The letter establishes dated use without identifying a first coiner or an adoption ceremony.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1220",
+      "path": [
+        "editorial",
+        "1220",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "f0264d25d57484107d01f9082288c277c711dfed6e6bf0fb9f2ae9b3dcddc5a7",
+      "replacement": "The index separates February 24 voting from the next day’s filing and effect. Its conflicting tribunal county labels leave the precise court identification unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1220",
+      "path": [
+        "editorial",
+        "1220",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "f0264d25d57484107d01f9082288c277c711dfed6e6bf0fb9f2ae9b3dcddc5a7",
+      "replacement": "The index separates February 24 voting from the next day’s filing and effect. Its conflicting tribunal county labels leave the precise court identification unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1220",
+      "path": [
+        "editorial",
+        "1220",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "6cba6823ab168a0d3ae6f4b6d4848041c2173ab7c9c5162b324eeed92c428d9e",
+      "replacement": "The index reports July 21 adoption after April 11 approval of the city law. These were separate stages; the exact first city meeting remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1220",
+      "path": [
+        "editorial",
+        "1220",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "6cba6823ab168a0d3ae6f4b6d4848041c2173ab7c9c5162b324eeed92c428d9e",
+      "replacement": "The index reports July 21 adoption after April 11 approval of the city law. These were separate stages; the exact first city meeting remains unestablished.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1220",
+      "path": [
+        "editorial",
+        "1220",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "52bfd0a09ab94b37fc04b025797e38bcf6084a08d9d09028367ba2370ad6122b",
+      "replacement": "A later account reports a South Ward in 1753. Township recognition in 1798 was a separate stage, rather than the first established use of South Amboy.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1220",
+      "path": [
+        "editorial",
+        "1220",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "52bfd0a09ab94b37fc04b025797e38bcf6084a08d9d09028367ba2370ad6122b",
+      "replacement": "A later account reports a South Ward in 1753. Township recognition in 1798 was a separate stage, rather than the first established use of South Amboy.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1220",
+      "path": [
+        "editorial",
+        "1220",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "63400fdfa895bd509db8a30eaa28d653907a4a5dc9cd9e75af8d50887da674f4",
+      "replacement": "The guide separates an 1888 vote from next-day filing and a 1908 city law from later adoption. Conflicting county labels leave the court’s precise identification unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "editorial",
+        "1221",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "21c061c45418fd1b6e3910204b9c981702a37a71eee4e9b660d155bb298088b2",
+      "replacement": "South Brunswick is reported in 1779, while the exact first use and transition from the ward name remain uncertain. Modern archival catalogue labels identify records without establishing what every original heading said. The individual who first used the shorter name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "editorial",
+        "1221",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d150471627f771dcec380802f1815a13c024f76ade8d2be8420511fbd6d09312",
+      "replacement": "South Brunswick is reported in 1779. Its exact first use and the transition from the older ward name remain uncertain. A modern catalogue label does not establish the words written on every older page.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "editorial",
+        "1221",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0edd6b879245d49c9ffbb116f504e8898813464d955821a64064d733c30ef000",
+      "replacement": "The reported 1779 use does not establish the first shorter form or a dated spelling-change decision. A modern archival title does not establish every original heading.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "editorial",
+        "1221",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0edd6b879245d49c9ffbb116f504e8898813464d955821a64064d733c30ef000",
+      "replacement": "The reported 1779 use does not establish the first shorter form or a dated spelling-change decision. A modern archival title does not establish every original heading.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "editorial",
+        "1221",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "606743c789a9773d1b6b12d4f0281bc72011f26c844e6792068b9f12d4df5d12",
+      "replacement": "The South Ward charter is indexed to February 12, 1763. The shorter South Brunswick form is reported in 1779, without an established first use or exact spelling transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "editorial",
+        "1221",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "606743c789a9773d1b6b12d4f0281bc72011f26c844e6792068b9f12d4df5d12",
+      "replacement": "The South Ward charter is indexed to February 12, 1763. The shorter South Brunswick form is reported in 1779, without an established first use or exact spelling transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "3e8e82446f63ce55dcee9b1162511959912596df336a5476d5a867b989abb5e0",
+      "replacement": "Postal, railway, map and church use helped establish the broader community identity before the borough existed. The exact sequence remains uncertain: a reported 1877 New Brooklyn post office and an 1888 South Plainfield map do not establish a first naming day. The deeper connection between Plainfield and John Barclay’s seventeenth-century Plainfield Plantation also remains incomplete.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "f84ac2608ca466bf3a4a5b2880ad94c3f4735b90631a24dc33202b423c8b234e",
+      "replacement": "South Plainfield was used before there was a borough. Mail service, trains, maps and community institutions belong to that story. Reports of an 1877 post office and an 1888 map leave the exact early sequence and first naming day uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d99b078af7621ceb11cb0be8c1d8c86940724a2950b6802959e6c964adcd8052",
+      "replacement": "Samptown and New Brooklyn belong to the older local landscape. Reported postal and map dates do not establish the first use of the broader South Plainfield name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d99b078af7621ceb11cb0be8c1d8c86940724a2950b6802959e6c964adcd8052",
+      "replacement": "Samptown and New Brooklyn belong to the older local landscape. Reported postal and map dates do not establish the first use of the broader South Plainfield name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "3b6dbcae320cf6dff462f7bf3d9e5b2e13503ceb1099eb7d5967cf4670d761db",
+      "replacement": "The law was approved March 10. Local adoption and a later officer election were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "3b6dbcae320cf6dff462f7bf3d9e5b2e13503ceb1099eb7d5967cf4670d761db",
+      "replacement": "The law was approved March 10. Local adoption and a later officer election were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "f3ac7847ae42ba871386d93e51ce6e76d6c9caca62497398ad58543271a32c28",
+      "replacement": "The reference chronology reports April 6 adoption. That vote was distinct from March approval and the separate election of officers.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "f3ac7847ae42ba871386d93e51ce6e76d6c9caca62497398ad58543271a32c28",
+      "replacement": "The reference chronology reports April 6 adoption. That vote was distinct from March approval and the separate election of officers.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b056efd3ebdafd2b344eb3f6195fbd814d6fe5bed5f04a0671ba6c81b04edf1c",
+      "replacement": "The broader name predates the borough. Reported 1877 postal and 1888 map uses leave its exact first naming day uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "79a7dcd0f26ea48c97d8b4f0f272540972b2f647deabf6a741d8447608553a48",
+      "replacement": "The broader name predates the borough. Reported 1877 postal and 1888 map uses leave its exact first naming day uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "fcec13c01028db3bae11936453f0f9838094e445baa4909102d19a39cab59b7a",
+      "replacement": "The law was approved March 10, 1926; adoption is reported April 6. A subsequent officer election was separate. A reported 2022 seal-date action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "editorial",
+        "1222",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "d9494dbc428041afced59ecbf211490583d69aa71f81802417eede9895cf04ab",
+      "replacement": "The law was approved March 10, 1926; adoption is reported April 6. A subsequent officer election was separate. A reported 2022 seal-date action remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "editorial",
+        "1223",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "48cb6744da2d3c5f3f61e01f0d8a8df646cc45437479463126d0935053dbce6d",
+      "replacement": "The historical timeline reports an 1844 advertisement pairing Washington and South River. That attributed use does not establish the date of the postal change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "editorial",
+        "1223",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "48cb6744da2d3c5f3f61e01f0d8a8df646cc45437479463126d0935053dbce6d",
+      "replacement": "The historical timeline reports an 1844 advertisement pairing Washington and South River. That attributed use does not establish the date of the postal change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1224",
+      "path": [
+        "editorial",
+        "1224",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b9fee1c8311b10e4bcbd31c1f0fb369c7bb3394dfbc667ebbd8388903f35e7f0",
+      "replacement": "The 1921 history quotes a November 23, 1773 church charter referring to the town of Spotswood. That attributed use does not identify the original 1680s name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1224",
+      "path": [
+        "editorial",
+        "1224",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b9fee1c8311b10e4bcbd31c1f0fb369c7bb3394dfbc667ebbd8388903f35e7f0",
+      "replacement": "The 1921 history quotes a November 23, 1773 church charter referring to the town of Spotswood. That attributed use does not identify the original 1680s name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1224",
+      "path": [
+        "editorial",
+        "1224",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2b93eb9e88ea4e7febcb234cf833996d19efd7ac7b853ccb05828ecae8f4bc7e",
+      "replacement": "An old published record summary mentions Spotswood Middle Brook and Spotswood Creek on March 15, 1685–86. That double year belongs to the record’s old dating system. The places were described as being in Monmouth County then; their exact relationship to today’s borough remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "editorial",
+        "1225",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0d83870c001df2f0d1ba3848f55c8f48fa0ad4d2ff82dd584edde22e877e657b",
+      "replacement": "Woodbridge was already a town name before its reported June 1, 1669 charter. William A. Whitehead’s 1846 history transcribes a December 3, 1667 deed endorsement referring to Woodbridge. This published transcription supplies an attributed early dated use, rather than an established exact first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "editorial",
+        "1225",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "de8d72f5f79ef1293cc38bc5eb6a23ed42d7602ea4765602a1e39745c6851ec2",
+      "replacement": "Whitehead’s 1846 transcription reports Woodbridge in a December 3, 1667 deed endorsement. This attributed use predates the reported charter without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "editorial",
+        "1225",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "de8d72f5f79ef1293cc38bc5eb6a23ed42d7602ea4765602a1e39745c6851ec2",
+      "replacement": "Whitehead’s 1846 transcription reports Woodbridge in a December 3, 1667 deed endorsement. This attributed use predates the reported charter without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "editorial",
+        "1225",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "530a2ef004fd705b9a241c61b137c48f0bb49be6c09920e8b0d847280f3bcedc",
+      "replacement": "Whitehead’s 1846 transcription reports Woodbridge in a December 3, 1667 deed endorsement. That attributed use predates the reported 1669 charter.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "editorial",
+        "1225",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "530a2ef004fd705b9a241c61b137c48f0bb49be6c09920e8b0d847280f3bcedc",
+      "replacement": "Whitehead’s 1846 transcription reports Woodbridge in a December 3, 1667 deed endorsement. That attributed use predates the reported 1669 charter.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1301",
+      "path": [
+        "editorial",
+        "1301",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "ef4c37f2ca4a8a1b77bd5135edf465b521c9ae461710da29d6cc8734227f1132",
+      "replacement": "The index reports November 30 state filing after the vote and certification. Those were separate stages of one name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1301",
+      "path": [
+        "editorial",
+        "1301",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "ef4c37f2ca4a8a1b77bd5135edf465b521c9ae461710da29d6cc8734227f1132",
+      "replacement": "The index reports November 30 state filing after the vote and certification. Those were separate stages of one name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1301",
+      "path": [
+        "editorial",
+        "1301",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "63378118bd839bd3e56314d8be1c0d6e72e31a49a59cde4d7bf0ea63b1f62920",
+      "replacement": "The index separates November 8, 1977 voting, November 22 certification and November 30 filing. The exact relationship between these records and the name’s operative date remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1301",
+      "path": [
+        "editorial",
+        "1301",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "63378118bd839bd3e56314d8be1c0d6e72e31a49a59cde4d7bf0ea63b1f62920",
+      "replacement": "The index separates November 8, 1977 voting, November 22 certification and November 30 filing. The exact relationship between these records and the name’s operative date remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1302",
+      "path": [
+        "editorial",
+        "1302",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "cc3a3a8d713ba628aee829f977ab38291571a86035f35423c1e84e32f98eab54",
+      "replacement": "Allenhurst carries an older farm association into a Shore resort name. Borough history links the community to Abner Allen’s roughly 120-acre farm. A later account places the Coast Land Improvement Company’s acquisition and development in 1895, when the Allenhurst identity reportedly came into use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1302",
+      "path": [
+        "editorial",
+        "1302",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "1508c569e1e0993f0d01b6ed2c56f5fbbe523229347124954a73eef72d5ab02c",
+      "replacement": "Before Allenhurst was a borough, its story included a farm. Borough history links the place with Abner Allen and about 120 acres. A later account reports the development company’s acquisition and use of Allenhurst in 1895.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1302",
+      "path": [
+        "editorial",
+        "1302",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "cdbc0c1ca600e8fe5931e7216fcf4e52fca88b8f79e4ce237a5f797e36b7d2ed",
+      "replacement": "A later account reports development in 1895. The individual name chooser, exact first naming day and intended sense of hurst remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1302",
+      "path": [
+        "editorial",
+        "1302",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "cdbc0c1ca600e8fe5931e7216fcf4e52fca88b8f79e4ce237a5f797e36b7d2ed",
+      "replacement": "A later account reports development in 1895. The individual name chooser, exact first naming day and intended sense of hurst remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1302",
+      "path": [
+        "editorial",
+        "1302",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d8f07ac33a0dfa4aec5e5ad4750e843ccb952b6b3945734445c270d7e63bb892",
+      "replacement": "A later account links Allenhurst with Coast Land Improvement Company development in 1895. The exact first use and individual who selected the complete name remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1302",
+      "path": [
+        "editorial",
+        "1302",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d8f07ac33a0dfa4aec5e5ad4750e843ccb952b6b3945734445c270d7e63bb892",
+      "replacement": "A later account links Allenhurst with Coast Land Improvement Company development in 1895. The exact first use and individual who selected the complete name remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1216",
+      "path": [
+        "views",
+        "1216",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "b53c0b5fd231db2ac07d5551278ce432b123b6169574c9d8de9771d23cb62714",
+      "replacement": "Early transaction-name account reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1216",
+      "path": [
+        "views",
+        "1216",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "81238b5faf34c8eb694ea5902b2b05ff7f8f158f2b3c3f71d2dd30c9d5041d47",
+      "replacement": "A reported plan title, rather than an established naming order or exact first combination of Perth and Amboy.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1216",
+      "path": [
+        "views",
+        "1216",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d98788e507d5f5088b0aa085510718230938f94d1bfba109cd2fb202c49a9b40",
+      "replacement": "Ompoge (reported Indigenous-derived form); Ompage (catalogue spelling); Emboyle (historical form); Amboyle (historical form); Ambo (historical form); Ambo Point (older geography); Amboy Point (older geography); Perth Towne (reported wording); City of Perth (reported plan title); Amboy Perth (historical form); Perth-Amboy (charter form)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "96b8e2526e7638717136d88c519a7663655f8ca3145d08c1832879be8271ecaa",
+      "replacement": "Klett’s guide describes settlement in 1666 and a transfer of the Piscataqua regional name by the New Hampshire purchaser group. The wider land-transfer process extends through 1666–1667 in that account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "1703517a81b2e0601120dcae0f66cbbe7a4f47bb57add6f05a6a529b5e1e7b41",
+      "replacement": "The reference chronology reports April 6, 1926 adoption. The enabling law provides for a separate subsequent officer election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "9fece4537ab40ec59f09b4d7cfc5c44cfd1ebff31f9b35dbfaa4dd56ad71328b",
+      "replacement": "Undated spelling history; no single transition day established",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "57d5574a9c1cccc55a8486bee64ca83069304344b2d6b5a51f586247e6cdaf78",
+      "replacement": "Reported colonial variants do not establish a uniform sequence or an exact name change in 1700.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "sources",
+        "S1308",
+        "publication"
+      ],
+      "expected_sha256": "f560667bb805701b647f4f70cb45bc5c91854d3bcb320c84e16e00a2e8011d9a",
+      "replacement": "2014, revised edition",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "sources",
+        "S2077",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "sources",
+        "S2082",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "28a80dc408f40d8f9dbb6bb892c75d2aaba19a539b61c2337833d4dbd292bd4e",
+      "replacement": "Piscataqua (New England source region and reported form); New Piscataqua (reported colonial form); New Piscataway (reported colonial form)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "898ae25738d4d5cf6d0738c2068098d49af128029e79808fab3e91a78bd8fd27",
+      "replacement": "Reported shortening year; unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "737b4a4b7d7623661eb7ae544f3ad0c8bba3e2ddf011e8dbe40a60ad32994451",
+      "replacement": "Unconfirmed spelling-change claim",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "bfd7179360770e44a8928727b403e9249b31fb5d0e0f7ee0483b926c602dc1cd",
+      "replacement": "Individual proposer and adopting authority unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "f57985fad0039a310dbe9694a5b969b05a23120564318d20cd254b8630d94ce9",
+      "replacement": "A shortening from Plainsborough to Plainsboro in 1894 has been reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "b5bdceb8d6d1e58f516a926662bac42d062dda509b3ee5a00df6a67f9d064f40",
+      "replacement": "A qualified spelling-change claim, rather than an established exact adoption date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "4685be6592d57ae23c843101ca265908e1dfab244b2e0571c8019fb633aca314",
+      "replacement": "The Plains and Plane or Planes Tavern remain competing explanations. Their exact relationship to the community name and original naming date remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "sources",
+        "S2089",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1c31c2c0a47e9bb126d7f1b872528a6acc285e153e6c676b8cb60c4f71b3c2e9",
+      "replacement": "The Plains (origin tradition); Plane Tavern (origin tradition); Planes Tavern (origin tradition); Planesborough (reported form); Plainsborough (older spelling); Cranbury Township (parent); South Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1219",
+      "path": [
+        "views",
+        "1219",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "e37b621cb0d7a0d87c223a5ab570cab73116d1013f1656ef7957ec60b9ad7582",
+      "replacement": "Community-name use before township adoption",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1219",
+      "path": [
+        "views",
+        "1219",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "f5cd211b96cb504eec852a8bc15be6686711f056a651c10ed171b2a952141a8a",
+      "replacement": "The established Sayreville village name preceded township adoption. Continued community use does not establish a second naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1219",
+      "path": [
+        "views",
+        "1219",
+        "sources",
+        "S2090",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1219",
+      "path": [
+        "views",
+        "1219",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "572db609efaba167bea832d6c4ea3458fbaadbb8c38f00234f1d83834bebb065",
+      "replacement": "Roundabout (older village name); Roundabout Landing (older locality); Wood’s Landing (qualified local tradition); Sayreville Township (earlier government); South Amboy Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1220",
+      "path": [
+        "views",
+        "1220",
+        "sources",
+        "S2092",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1220",
+      "path": [
+        "views",
+        "1220",
+        "sources",
+        "S2093",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1220",
+      "path": [
+        "views",
+        "1220",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "21d1ba24740c8b78bc2c3bee56552aae949de0966cf431c7ceb55701923d4cde",
+      "replacement": "Radford’s Ferry (older locality); Redford’s Ferry (alternate form); Long Ferry (older locality); Perth Amboy South Ward (reported predecessor); South Amboy Township (earlier government); South Amboy Borough (earlier government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "2c485384fc750480ce57bd6368b682b11ce88852dea061efe4bd69260972f12a",
+      "replacement": "Reported year of short-form use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "f69a2067cc25ea54cfaa749a2b53c451e2eef4c84ea39b52a1394cc1eab27661",
+      "replacement": "Reported territorial-name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ac510f472aad0090e39be0c8b3e765fc177545f1a3c1444612a725df979bf903",
+      "replacement": "South Brunswick is reported in 1779. That attributed use does not establish the original coiner or exact spelling transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "sources",
+        "S2085",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "sources",
+        "S2087",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "sources",
+        "S2089",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "52597be15346cc69117fc3ceb4c9ed6ea34d3127cc81d8d6920424ed8776c428",
+      "replacement": "South Ward of New Brunswick (predecessor); New Brunswick (parent administrative identity); Cranbury (territorial branch); Plainsboro (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "6e5e963fa41d4976464198c505da0f7c333abc273f7a7fc0ddd6ab9483437179",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "2c5ac7463e2e18572a84ce2202465d1815af9ef570d2172c4eaa2d7005a236fd",
+      "replacement": "Chapter 7, pp.27–31 was approved March 10 and provides for adoption followed by a separate officer election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "1703517a81b2e0601120dcae0f66cbbe7a4f47bb57add6f05a6a529b5e1e7b41",
+      "replacement": "The reference chronology reports April 6, 1926 adoption. The enabling law provides for a separate subsequent officer election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "date"
+      ],
+      "expected_sha256": "26d49697e13e6d64402745c2792607708b9387211eb1630ba74a0bd043e54e92",
+      "replacement": "2022-06-06 (reported seal-date action; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "a9d331be3d1c0f9db64a1aebc0f8fbeb05afaec44660b2900db849fb63ec023d",
+      "replacement": "Reported council-action day; unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "672ba6bfc76ac483159f8988717fc690e275ab56c8c9e178c392057f71c40a45",
+      "replacement": "Unconfirmed seal-date action",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "e98c5459c3eb5cc990fb51aaaa0baed6595b36531b107f6d8e391585544f0a7d",
+      "replacement": "Borough council, as reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ab21ad6dc9f9644052e33965008aa1f42491cd48381623c195f153b36fb08bc8",
+      "replacement": "A June 6 seal-date review or correction has been reported but remains unconfirmed. Review, removal and implementation are not established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "016c17f583aedacd763382a2976ab95b258890b8d161adbfcbaa1c7c32591bc7",
+      "replacement": "A qualified later administrative claim, separate from the borough’s 1926 approval and adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "741427ff216194977468c886701e6074c8b611a01b698ea55b7558e1a037c5f6",
+      "replacement": "Broad period; reported postal and map dates unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "be3c13a09bef643d8277d2a679fd31e75286ae3aed2446cdb2e092a689c6cdac",
+      "replacement": "Reported early locality, postal and map use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3d93b33137883853c4e70fbf50aa351445e27a79e51418c702747a35e91ad315",
+      "replacement": "A New Brooklyn post office in 1877 and a South Plainfield map use by 1888 have been reported. Their exact roles in the broader name’s adoption remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "fb6ed0ca787b188e0e5005d6decc15298a6f81cd3f8a373567ca91c9d36f8793",
+      "replacement": "Community-name use before borough government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "20ace6073974e0319260b928ead12bfa6a74109756c3cb4be3d701908eaef380",
+      "replacement": "An 1890s religious or community identity is reported, without an established exact naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "1c81d3dc5a54c3cf8e0b2deb02f13e2e94c96e1600c10593604ba187864eafb2",
+      "replacement": "The law provides for a subsequent officer election, separately from the adoption vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "sources",
+        "S1317",
+        "title"
+      ],
+      "expected_sha256": "cf4ee0c74c34008e0e7c91000f53e1d6f342e70849dbb13793103b3db368e760",
+      "replacement": "Borough Council minutes — June 6, 2022",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "bf8799e1f41451750fb8a13022fd6941a9497a90ceea97083935034913bffc12",
+      "replacement": "Samptown (older locality); Brooklyn (older locality); New Brooklyn (older locality); Plainfield (regional naming connection); Piscataway Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "d9620ca78d4eb002cea9baf147604ba9d44f32d5269697f6c6febc87f6e555c1",
+      "replacement": "Reported coexisting locality labels before the 1870 improvement jurisdiction.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        5,
+        "date"
+      ],
+      "expected_sha256": "5c605431fe3854771c0eaada29d0dff4ac72f637529d2ac26fd93047465b9a49",
+      "replacement": "Around the 1720s; reported 1739 river-name use unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        5,
+        "type"
+      ],
+      "expected_sha256": "881b1320107b30a54dfdede589c24111b20ced75317178954c58e4c9755ca172",
+      "replacement": "Reported settlement and river-name history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "676b4100056b6420f09a82686b513a743814ddfab35688f75711ef27ad45496c",
+      "replacement": "The society reports settlement around the 1720s and a disputed Willett association. A reported 1739 river-name use remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "c8deeb042f2f4e8c49928c5783f984a7d0698c0367b04c047efac2fa3b498a16",
+      "replacement": "The 1921 account gives no year for the postal change",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "sources",
+        "S1319",
+        "title"
+      ],
+      "expected_sha256": "c006bc41f81198e32dcc7265411806f8964d3e14bd03956324e084d8f129c6ab",
+      "replacement": "South River History Timeline",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "sources",
+        "S2094",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "decd77f80add500e1df3234f58e3117ab233b19887f0d709d5a4ce5f151efd33",
+      "replacement": "Willettstown (older locality); Washington (civic and community name); Town of Washington (earlier improvement jurisdiction); South River (waterway and postal name); East Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "448ccb497fa377607ee1ebdbaa9dbe711ee2946e3a5f53562d8325c314765baf",
+      "replacement": "The later genealogy reports a 1675 estate purchase and an association with Scottish Spotswood before Johnstone’s 1684 emigration.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "c60d06dc9b2a519e501dec300f87bfa4340789c38b053e5d7781dbc19c411c2c",
+      "replacement": "Dual-year date in the published record abstract",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "2d67703a94e7bae719799573ab359f54e8b36c859a57d7d20de2635b8ebc5732",
+      "replacement": "Printed page 82 abstracts a March 15, 1685–6 confirmation from East Jersey Deeds, Liber A, page 349, in historical Monmouth County.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "58c5951ce513a265b7a0e6a20f3487a3b051b26e96100193895b42214e381ff1",
+      "replacement": "The published calendar reports Spotswood South Brook in 1688. This is a later regional reference than the 1685–86 abstract.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "sources",
+        "S2095",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f2dab9eb4d2130a9487666a44e7e8df338337a0b7140282543d357dd9e2b72a1",
+      "replacement": "Spotswood (Scottish estate); Spotswood Middle Brook (regional waterway); Spotswood Creek (regional waterway); Spotswood South Brook (regional waterway); Town of Spotswood (reported church-charter wording); East Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8b335aa51369b35e0846793934c6c56d7e9aed87a954a020c27128d8b4aa50d7",
+      "replacement": "Whitehead’s printed page 42 transcribes the December 3, 1667 endorsement referring to an already named Woodbridge town.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "8c7c4ac5a12ee640d07a6b36d22c9b39326814d297b69b85af3714f1d0cb39a8",
+      "replacement": "An attributed use before the reported charter, rather than an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "e87c29b91c7d3d0fb8e6a3291ca372236e57a8b600ccf18f880019e63dd11867",
+      "replacement": "Charter approval was separate from the later statutory effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "e04d0b9ec2109d98ea795770f456f36b0287daec538bc4a429be81d8f2c9ce26",
+      "replacement": "Statutory effective day; actual election occurrence unestablished",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "397b448dfdf7c695242ca09c78c72801f032c6b3b8fdbc74541ebbc8e98e314e",
+      "replacement": "Section 38 defers operation to the third Monday in April, April 19, 1858. Section 7 prescribes the first city election for that day; the schedule does not establish that it occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "9b5e2b9449469949387bda46f062f95bd9f34e2661ed60a7e2ad8c60837c4cdb",
+      "replacement": "The reported name use and charter support continuity, without a separately established naming occasion between them.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "sources",
+        "S1324",
+        "publication"
+      ],
+      "expected_sha256": "ee27e86c2f48b76f88b29a12d4ea903e5eef914508db6d9286a5e4c560c1451d",
+      "replacement": "1846",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "sources",
+        "S2076",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "sources",
+        "S2096",
+        "publication"
+      ],
+      "expected_sha256": "894670f25db77d000891976f092b5b7547e66ab895ed0ee69d004cff7c8e9401",
+      "replacement": "Undated indexes",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "sources",
+        "S2097",
+        "publication"
+      ],
+      "expected_sha256": "0d05657c2289912508069a1383af7292b260b3ba12b7e7a68fd2361c5a19b553",
+      "replacement": "Undated local-history website",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "674b4022e8aeb1a55a4aa3395148af40c3e943505b2e7f6c429832cc6eb69d11",
+      "replacement": "Woodbridge town (pre-charter community); John Woodbridge (probable honoree); Woodbridge, Suffolk (alternative name source); Rahway (territorial branch); Raritan Township (territorial branch); Roosevelt (territorial branch, later Carteret)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "01f6578284807656fcc9f7d225d64d5c075d1eb23ca4be2480f807c34d903ab1",
+      "replacement": "Vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Certification date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "sources",
+        "S1942",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "297c7f648039fb0e46e5215b1715ff9afa4223ac15501d73d2f1ae851ec2bf69",
+      "replacement": "Matavan Township (former legal spelling); Matawan Township (former legal name); Aberdeen, Scotland (likely name source); New Aberdeen (older regional tradition); Raritan Township (parent); Matawan Borough (separate neighboring municipality)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1302",
+      "path": [
+        "views",
+        "1302",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "95241dfca98ed581377cc78eb37729f7ebe1838b7e0812219a023cda70d9c688",
+      "replacement": "Reported development year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1302",
+      "path": [
+        "views",
+        "1302",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "2ced301d6d52a83a3137678ec22f800aef65379c372d58656741c7e2ce849928",
+      "replacement": "A later account reports the company’s 1895 purchase and Allenhurst development.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1302",
+      "path": [
+        "views",
+        "1302",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "2f2efa54e8b8eb4cf8dd2d2939144f51a9f1469912a34fab85a503552af86593",
+      "replacement": "Reported family association and development before borough adoption, without an established individual name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1302",
+      "path": [
+        "views",
+        "1302",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "166d045bd68feb11f2a7d562759671421304212f46ecaf8496fab9add5598b60",
+      "replacement": "Abner Allen’s farm (family association); Allenhurst (resort development); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1216",
+      "path": [
+        "views",
+        "1216",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "b53c0b5fd231db2ac07d5551278ce432b123b6169574c9d8de9771d23cb62714",
+      "replacement": "Early transaction-name account reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1216",
+      "path": [
+        "views",
+        "1216",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "81238b5faf34c8eb694ea5902b2b05ff7f8f158f2b3c3f71d2dd30c9d5041d47",
+      "replacement": "A reported plan title, rather than an established naming order or exact first combination of Perth and Amboy.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1216",
+      "path": [
+        "views",
+        "1216",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d98788e507d5f5088b0aa085510718230938f94d1bfba109cd2fb202c49a9b40",
+      "replacement": "Ompoge (reported Indigenous-derived form); Ompage (catalogue spelling); Emboyle (historical form); Amboyle (historical form); Ambo (historical form); Ambo Point (older geography); Amboy Point (older geography); Perth Towne (reported wording); City of Perth (reported plan title); Amboy Perth (historical form); Perth-Amboy (charter form)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "96b8e2526e7638717136d88c519a7663655f8ca3145d08c1832879be8271ecaa",
+      "replacement": "Klett’s guide describes settlement in 1666 and a transfer of the Piscataqua regional name by the New Hampshire purchaser group. The wider land-transfer process extends through 1666–1667 in that account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "1703517a81b2e0601120dcae0f66cbbe7a4f47bb57add6f05a6a529b5e1e7b41",
+      "replacement": "The reference chronology reports April 6, 1926 adoption. The enabling law provides for a separate subsequent officer election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "9fece4537ab40ec59f09b4d7cfc5c44cfd1ebff31f9b35dbfaa4dd56ad71328b",
+      "replacement": "Undated spelling history; no single transition day established",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "57d5574a9c1cccc55a8486bee64ca83069304344b2d6b5a51f586247e6cdaf78",
+      "replacement": "Reported colonial variants do not establish a uniform sequence or an exact name change in 1700.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "sources",
+        "S1308",
+        "publication"
+      ],
+      "expected_sha256": "f560667bb805701b647f4f70cb45bc5c91854d3bcb320c84e16e00a2e8011d9a",
+      "replacement": "2014, revised edition",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "sources",
+        "S2077",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "sources",
+        "S2082",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1217",
+      "path": [
+        "views",
+        "1217",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "28a80dc408f40d8f9dbb6bb892c75d2aaba19a539b61c2337833d4dbd292bd4e",
+      "replacement": "Piscataqua (New England source region and reported form); New Piscataqua (reported colonial form); New Piscataway (reported colonial form)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "898ae25738d4d5cf6d0738c2068098d49af128029e79808fab3e91a78bd8fd27",
+      "replacement": "Reported shortening year; unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "737b4a4b7d7623661eb7ae544f3ad0c8bba3e2ddf011e8dbe40a60ad32994451",
+      "replacement": "Unconfirmed spelling-change claim",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "bfd7179360770e44a8928727b403e9249b31fb5d0e0f7ee0483b926c602dc1cd",
+      "replacement": "Individual proposer and adopting authority unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "f57985fad0039a310dbe9694a5b969b05a23120564318d20cd254b8630d94ce9",
+      "replacement": "A shortening from Plainsborough to Plainsboro in 1894 has been reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "b5bdceb8d6d1e58f516a926662bac42d062dda509b3ee5a00df6a67f9d064f40",
+      "replacement": "A qualified spelling-change claim, rather than an established exact adoption date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "4685be6592d57ae23c843101ca265908e1dfab244b2e0571c8019fb633aca314",
+      "replacement": "The Plains and Plane or Planes Tavern remain competing explanations. Their exact relationship to the community name and original naming date remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "sources",
+        "S2089",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1218",
+      "path": [
+        "views",
+        "1218",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "1c31c2c0a47e9bb126d7f1b872528a6acc285e153e6c676b8cb60c4f71b3c2e9",
+      "replacement": "The Plains (origin tradition); Plane Tavern (origin tradition); Planes Tavern (origin tradition); Planesborough (reported form); Plainsborough (older spelling); Cranbury Township (parent); South Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1219",
+      "path": [
+        "views",
+        "1219",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "e37b621cb0d7a0d87c223a5ab570cab73116d1013f1656ef7957ec60b9ad7582",
+      "replacement": "Community-name use before township adoption",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1219",
+      "path": [
+        "views",
+        "1219",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "f5cd211b96cb504eec852a8bc15be6686711f056a651c10ed171b2a952141a8a",
+      "replacement": "The established Sayreville village name preceded township adoption. Continued community use does not establish a second naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1219",
+      "path": [
+        "views",
+        "1219",
+        "sources",
+        "S2090",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1219",
+      "path": [
+        "views",
+        "1219",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "572db609efaba167bea832d6c4ea3458fbaadbb8c38f00234f1d83834bebb065",
+      "replacement": "Roundabout (older village name); Roundabout Landing (older locality); Wood’s Landing (qualified local tradition); Sayreville Township (earlier government); South Amboy Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1220",
+      "path": [
+        "views",
+        "1220",
+        "sources",
+        "S2092",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1220",
+      "path": [
+        "views",
+        "1220",
+        "sources",
+        "S2093",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1220",
+      "path": [
+        "views",
+        "1220",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "21d1ba24740c8b78bc2c3bee56552aae949de0966cf431c7ceb55701923d4cde",
+      "replacement": "Radford’s Ferry (older locality); Redford’s Ferry (alternate form); Long Ferry (older locality); Perth Amboy South Ward (reported predecessor); South Amboy Township (earlier government); South Amboy Borough (earlier government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "2c485384fc750480ce57bd6368b682b11ce88852dea061efe4bd69260972f12a",
+      "replacement": "Reported year of short-form use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "f69a2067cc25ea54cfaa749a2b53c451e2eef4c84ea39b52a1394cc1eab27661",
+      "replacement": "Reported territorial-name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ac510f472aad0090e39be0c8b3e765fc177545f1a3c1444612a725df979bf903",
+      "replacement": "South Brunswick is reported in 1779. That attributed use does not establish the original coiner or exact spelling transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "sources",
+        "S2085",
+        "publication"
+      ],
+      "expected_sha256": "0189e6d462528a33a1fc90b4173efa2bd73b490839e2b57aa05d4f102df66d1b",
+      "replacement": "Undated legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "sources",
+        "S2087",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "sources",
+        "S2089",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1221",
+      "path": [
+        "views",
+        "1221",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "52597be15346cc69117fc3ceb4c9ed6ea34d3127cc81d8d6920424ed8776c428",
+      "replacement": "South Ward of New Brunswick (predecessor); New Brunswick (parent administrative identity); Cranbury (territorial branch); Plainsboro (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "6e5e963fa41d4976464198c505da0f7c333abc273f7a7fc0ddd6ab9483437179",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "2c5ac7463e2e18572a84ce2202465d1815af9ef570d2172c4eaa2d7005a236fd",
+      "replacement": "Chapter 7, pp.27–31 was approved March 10 and provides for adoption followed by a separate officer election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "1703517a81b2e0601120dcae0f66cbbe7a4f47bb57add6f05a6a529b5e1e7b41",
+      "replacement": "The reference chronology reports April 6, 1926 adoption. The enabling law provides for a separate subsequent officer election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "date"
+      ],
+      "expected_sha256": "26d49697e13e6d64402745c2792607708b9387211eb1630ba74a0bd043e54e92",
+      "replacement": "2022-06-06 (reported seal-date action; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "a9d331be3d1c0f9db64a1aebc0f8fbeb05afaec44660b2900db849fb63ec023d",
+      "replacement": "Reported council-action day; unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "672ba6bfc76ac483159f8988717fc690e275ab56c8c9e178c392057f71c40a45",
+      "replacement": "Unconfirmed seal-date action",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "e98c5459c3eb5cc990fb51aaaa0baed6595b36531b107f6d8e391585544f0a7d",
+      "replacement": "Borough council, as reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ab21ad6dc9f9644052e33965008aa1f42491cd48381623c195f153b36fb08bc8",
+      "replacement": "A June 6 seal-date review or correction has been reported but remains unconfirmed. Review, removal and implementation are not established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "016c17f583aedacd763382a2976ab95b258890b8d161adbfcbaa1c7c32591bc7",
+      "replacement": "A qualified later administrative claim, separate from the borough’s 1926 approval and adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "741427ff216194977468c886701e6074c8b611a01b698ea55b7558e1a037c5f6",
+      "replacement": "Broad period; reported postal and map dates unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "be3c13a09bef643d8277d2a679fd31e75286ae3aed2446cdb2e092a689c6cdac",
+      "replacement": "Reported early locality, postal and map use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3d93b33137883853c4e70fbf50aa351445e27a79e51418c702747a35e91ad315",
+      "replacement": "A New Brooklyn post office in 1877 and a South Plainfield map use by 1888 have been reported. Their exact roles in the broader name’s adoption remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "fb6ed0ca787b188e0e5005d6decc15298a6f81cd3f8a373567ca91c9d36f8793",
+      "replacement": "Community-name use before borough government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "20ace6073974e0319260b928ead12bfa6a74109756c3cb4be3d701908eaef380",
+      "replacement": "An 1890s religious or community identity is reported, without an established exact naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "1c81d3dc5a54c3cf8e0b2deb02f13e2e94c96e1600c10593604ba187864eafb2",
+      "replacement": "The law provides for a subsequent officer election, separately from the adoption vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "sources",
+        "S1317",
+        "title"
+      ],
+      "expected_sha256": "cf4ee0c74c34008e0e7c91000f53e1d6f342e70849dbb13793103b3db368e760",
+      "replacement": "Borough Council minutes — June 6, 2022",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1222",
+      "path": [
+        "views",
+        "1222",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "bf8799e1f41451750fb8a13022fd6941a9497a90ceea97083935034913bffc12",
+      "replacement": "Samptown (older locality); Brooklyn (older locality); New Brooklyn (older locality); Plainfield (regional naming connection); Piscataway Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "d9620ca78d4eb002cea9baf147604ba9d44f32d5269697f6c6febc87f6e555c1",
+      "replacement": "Reported coexisting locality labels before the 1870 improvement jurisdiction.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        5,
+        "date"
+      ],
+      "expected_sha256": "5c605431fe3854771c0eaada29d0dff4ac72f637529d2ac26fd93047465b9a49",
+      "replacement": "Around the 1720s; reported 1739 river-name use unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        5,
+        "type"
+      ],
+      "expected_sha256": "881b1320107b30a54dfdede589c24111b20ced75317178954c58e4c9755ca172",
+      "replacement": "Reported settlement and river-name history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "676b4100056b6420f09a82686b513a743814ddfab35688f75711ef27ad45496c",
+      "replacement": "The society reports settlement around the 1720s and a disputed Willett association. A reported 1739 river-name use remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "c8deeb042f2f4e8c49928c5783f984a7d0698c0367b04c047efac2fa3b498a16",
+      "replacement": "The 1921 account gives no year for the postal change",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "sources",
+        "S1319",
+        "title"
+      ],
+      "expected_sha256": "c006bc41f81198e32dcc7265411806f8964d3e14bd03956324e084d8f129c6ab",
+      "replacement": "South River History Timeline",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "sources",
+        "S2094",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1223",
+      "path": [
+        "views",
+        "1223",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "decd77f80add500e1df3234f58e3117ab233b19887f0d709d5a4ce5f151efd33",
+      "replacement": "Willettstown (older locality); Washington (civic and community name); Town of Washington (earlier improvement jurisdiction); South River (waterway and postal name); East Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "448ccb497fa377607ee1ebdbaa9dbe711ee2946e3a5f53562d8325c314765baf",
+      "replacement": "The later genealogy reports a 1675 estate purchase and an association with Scottish Spotswood before Johnstone’s 1684 emigration.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "c60d06dc9b2a519e501dec300f87bfa4340789c38b053e5d7781dbc19c411c2c",
+      "replacement": "Dual-year date in the published record abstract",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "2d67703a94e7bae719799573ab359f54e8b36c859a57d7d20de2635b8ebc5732",
+      "replacement": "Printed page 82 abstracts a March 15, 1685–6 confirmation from East Jersey Deeds, Liber A, page 349, in historical Monmouth County.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "58c5951ce513a265b7a0e6a20f3487a3b051b26e96100193895b42214e381ff1",
+      "replacement": "The published calendar reports Spotswood South Brook in 1688. This is a later regional reference than the 1685–86 abstract.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "sources",
+        "S2095",
+        "publication"
+      ],
+      "expected_sha256": "5e3ca92b4805da4cc01931e3f142f0d4fd25e646369e43507a88cc4aa7be81f3",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1224",
+      "path": [
+        "views",
+        "1224",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f2dab9eb4d2130a9487666a44e7e8df338337a0b7140282543d357dd9e2b72a1",
+      "replacement": "Spotswood (Scottish estate); Spotswood Middle Brook (regional waterway); Spotswood Creek (regional waterway); Spotswood South Brook (regional waterway); Town of Spotswood (reported church-charter wording); East Brunswick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8b335aa51369b35e0846793934c6c56d7e9aed87a954a020c27128d8b4aa50d7",
+      "replacement": "Whitehead’s printed page 42 transcribes the December 3, 1667 endorsement referring to an already named Woodbridge town.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "8c7c4ac5a12ee640d07a6b36d22c9b39326814d297b69b85af3714f1d0cb39a8",
+      "replacement": "An attributed use before the reported charter, rather than an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "e87c29b91c7d3d0fb8e6a3291ca372236e57a8b600ccf18f880019e63dd11867",
+      "replacement": "Charter approval was separate from the later statutory effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "e04d0b9ec2109d98ea795770f456f36b0287daec538bc4a429be81d8f2c9ce26",
+      "replacement": "Statutory effective day; actual election occurrence unestablished",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "397b448dfdf7c695242ca09c78c72801f032c6b3b8fdbc74541ebbc8e98e314e",
+      "replacement": "Section 38 defers operation to the third Monday in April, April 19, 1858. Section 7 prescribes the first city election for that day; the schedule does not establish that it occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "9b5e2b9449469949387bda46f062f95bd9f34e2661ed60a7e2ad8c60837c4cdb",
+      "replacement": "The reported name use and charter support continuity, without a separately established naming occasion between them.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "sources",
+        "S1324",
+        "publication"
+      ],
+      "expected_sha256": "ee27e86c2f48b76f88b29a12d4ea903e5eef914508db6d9286a5e4c560c1451d",
+      "replacement": "1846",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "sources",
+        "S2076",
+        "publication"
+      ],
+      "expected_sha256": "98a6d9c443cdef6da3e321923bfc5eb5bd976fcfc8246dd4ad57970903b4447d",
+      "replacement": "Undated index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "sources",
+        "S2096",
+        "publication"
+      ],
+      "expected_sha256": "894670f25db77d000891976f092b5b7547e66ab895ed0ee69d004cff7c8e9401",
+      "replacement": "Undated indexes",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "sources",
+        "S2097",
+        "publication"
+      ],
+      "expected_sha256": "0d05657c2289912508069a1383af7292b260b3ba12b7e7a68fd2361c5a19b553",
+      "replacement": "Undated local-history website",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1225",
+      "path": [
+        "views",
+        "1225",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "674b4022e8aeb1a55a4aa3395148af40c3e943505b2e7f6c429832cc6eb69d11",
+      "replacement": "Woodbridge town (pre-charter community); John Woodbridge (probable honoree); Woodbridge, Suffolk (alternative name source); Rahway (territorial branch); Raritan Township (territorial branch); Roosevelt (territorial branch, later Carteret)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "01f6578284807656fcc9f7d225d64d5c075d1eb23ca4be2480f807c34d903ab1",
+      "replacement": "Vote date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Certification date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "d248df6760981d4086a15be7aff7611aed54552a105e2fc434691c96b6acd5ba",
+      "replacement": "Filing date reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "sources",
+        "S1942",
+        "publication"
+      ],
+      "expected_sha256": "8ac7bf7a1c83601ae35440931d9877af062fe5bda80c07492f5abd76f9127c41",
+      "replacement": "Undated event index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1301",
+      "path": [
+        "views",
+        "1301",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "297c7f648039fb0e46e5215b1715ff9afa4223ac15501d73d2f1ae851ec2bf69",
+      "replacement": "Matavan Township (former legal spelling); Matawan Township (former legal name); Aberdeen, Scotland (likely name source); New Aberdeen (older regional tradition); Raritan Township (parent); Matawan Borough (separate neighboring municipality)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1302",
+      "path": [
+        "views",
+        "1302",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "95241dfca98ed581377cc78eb37729f7ebe1838b7e0812219a023cda70d9c688",
+      "replacement": "Reported development year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1302",
+      "path": [
+        "views",
+        "1302",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "2ced301d6d52a83a3137678ec22f800aef65379c372d58656741c7e2ce849928",
+      "replacement": "A later account reports the company’s 1895 purchase and Allenhurst development.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1302",
+      "path": [
+        "views",
+        "1302",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "2f2efa54e8b8eb4cf8dd2d2939144f51a9f1469912a34fab85a503552af86593",
+      "replacement": "Reported family association and development before borough adoption, without an established individual name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1302",
+      "path": [
+        "views",
+        "1302",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "166d045bd68feb11f2a7d562759671421304212f46ecaf8496fab9add5598b60",
+      "replacement": "Abner Allen’s farm (family association); Allenhurst (resort development); Ocean Township (parent)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
