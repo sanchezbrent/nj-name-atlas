@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_27",
+  "checkpoint": "PUBLIC_COPY_28",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -306,7 +306,19 @@
     "0417",
     "0418",
     "0419",
-    "0420"
+    "0420",
+    "0421",
+    "0422",
+    "0423",
+    "0424",
+    "0425",
+    "0426",
+    "0427",
+    "0428",
+    "0430",
+    "0431",
+    "0432",
+    "0433"
   ],
   "changes": [
     {
@@ -123488,6 +123500,3784 @@
       ],
       "expected_sha256": "a5797a8f865cf0d54da51a851b19153e714082ac407306694eb8389173768835",
       "replacement": "The retrospective account reports development under the name rather than an exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "89023eb3fb1fc38116cd0c6dd2689715b048006e3df0b66511db326643f0b56d",
+      "replacement": "Fricks’s later postal history describes Snow Hill service in 1893, Snowhill spelling in 1894 and Lawnside adoption on October 8, 1907. Its narrative and appointment table disagree on the 1893 month. The printed borough law gives March 24, 1926 for approval and immediate effect, conflicting with a municipal history’s March 23 date. The reported April 20 election chose officers for an existing borough rather than deciding whether to incorporate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "c6d82bc974672a221a9b38195631c198c7f9fb5ffa997df2b08ca91e46845180",
+      "replacement": "Lawnside was a railway name before it was a borough name. A later historic-house nomination reports station use in 1883. The traditional explanation is a lawn beside the station, but the original name-giver and exact intended landscape remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d5a33e266734761fcd07049487b39c06b2d46d308c53a2969e476ffe1d02268e",
+      "replacement": "Snow Hill and Free Haven had overlapping histories. The Peter Mott House nomination reports Lawnside station use in 1883, without establishing the first naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d5a33e266734761fcd07049487b39c06b2d46d308c53a2969e476ffe1d02268e",
+      "replacement": "Snow Hill and Free Haven had overlapping histories. The Peter Mott House nomination reports Lawnside station use in 1883, without establishing the first naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "14cc662fef7ddd60c05fac328f907b849371a2dcfb4feac728ef9299a5fe002c",
+      "replacement": "The printed act gives March 24 approval and immediate effect. The municipality reports an April 20 officer election. No incorporation referendum or extra March 23 legal event is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "14cc662fef7ddd60c05fac328f907b849371a2dcfb4feac728ef9299a5fe002c",
+      "replacement": "The printed act gives March 24 approval and immediate effect. The municipality reports an April 20 officer election. No incorporation referendum or extra March 23 legal event is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "094e53422be8a1257763167ccbd24bce62afe93b870f67bf96ea4de3ba1a77a1",
+      "replacement": "Fricks’s 2008 narrative reports January 6, 1893 sub-office status under Magnolia, June 14, 1894 joined spelling and October 8, 1907 Lawnside name and third-class status. The appointment table instead appears to give June 6, 1893. That difference remains unresolved, without establishing either a typo or two events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "094e53422be8a1257763167ccbd24bce62afe93b870f67bf96ea4de3ba1a77a1",
+      "replacement": "Fricks’s 2008 narrative reports January 6, 1893 sub-office status under Magnolia, June 14, 1894 joined spelling and October 8, 1907 Lawnside name and third-class status. The appointment table instead appears to give June 6, 1893. That difference remains unresolved, without establishing either a typo or two events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "168253b21305e212a2d29ebed68610b7261a3935c642489378cc834823e765ef",
+      "replacement": "The printed act gives March 24, 1926 approval and immediate effect for a borough from Centre Township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "168253b21305e212a2d29ebed68610b7261a3935c642489378cc834823e765ef",
+      "replacement": "The printed act gives March 24, 1926 approval and immediate effect for a borough from Centre Township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "1de0d920bd69f40d61db04d5b544c9d064bcca661815d9e8fc4fcaada3d931e5",
+      "replacement": "The municipal history’s March 23 date conflicts with the printed law’s March 24 approval. Its reported April 20 first election concerns officers rather than an incorporation referendum.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "editorial",
+        "0421",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "1de0d920bd69f40d61db04d5b544c9d064bcca661815d9e8fc4fcaada3d931e5",
+      "replacement": "The municipal history’s March 23 date conflicts with the printed law’s March 24 approval. Its reported April 20 first election concerns officers rather than an incorporation referendum.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "de36240a6030150be4aef380504d5d9ba9773cd03df6822c1c68e51a06ecafca",
+      "replacement": "The borough’s history credits Wimer Bedford with finding Lindenwold in a German book and imagining linden trees in the development. That is the reported tree-and-woods explanation. The book’s exact wording and the first naming day remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "46e517f9616876177b306410b9f43c28c18f338074cc62be03c93b4b0d4f3f49",
+      "replacement": "The borough’s history says Wimer Bedford found Lindenwold in a German book and pictured linden trees in the development. That is the later account’s explanation. The exact original words and first naming day remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "35e45abc315c58496dc42732ba1d23ad9557fcb48d7346df9478fc1b81fb4c06",
+      "replacement": "A planning account points to a development plot dated November 21, 1885, with that date unconfirmed. It does not establish when Bedford made the separate, undated naming choice. Kirkwood, Watsontown, Laurel Mills and North Clementon were older localities in the wider area, rather than successive names for a single Lindenwold municipality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "77d7194131b5232ae46f9b5a1e88fc76d1be7f6892ddbdf29e93a47220cc1329",
+      "replacement": "A planning account points to a plot dated November 21, 1885, but that date remains unconfirmed. It cannot automatically date Bedford’s separate name story. Kirkwood, Watsontown, Laurel Mills and North Clementon were older places nearby, rather than four earlier names for one borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "preview"
+      ],
+      "expected_sha256": "47e0406ea94e38b3db6210c841eaa7802436fc22cd517fd63cd626396cea3cb4",
+      "replacement": "Lindenwold’s name story features Wimer Bedford, a German book and linden trees. The first naming date and exact original words remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "47e0406ea94e38b3db6210c841eaa7802436fc22cd517fd63cd626396cea3cb4",
+      "replacement": "Lindenwold’s name story features Wimer Bedford, a German book and linden trees. The first naming date and exact original words remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "journey",
+        0,
+        "date"
+      ],
+      "expected_sha256": "7e5338485a0efccc1153a9fa97d3fcc7afebc22153466e96161207977d129cf5",
+      "replacement": "1885 plot claim unconfirmed; naming account undated",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "journey",
+        0,
+        "date"
+      ],
+      "expected_sha256": "7e5338485a0efccc1153a9fa97d3fcc7afebc22153466e96161207977d129cf5",
+      "replacement": "1885 plot claim unconfirmed; naming account undated",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "3e54b6e9a08b7e0788d8f1138aecd9257671874d1dc32f004cc0da730a9efd72",
+      "replacement": "The municipal history credits Bedford with a German-book and linden-tree idea. Its naming story is undated; the separate plotting claim does not establish the naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "3e54b6e9a08b7e0788d8f1138aecd9257671874d1dc32f004cc0da730a9efd72",
+      "replacement": "The municipal history credits Bedford with a German-book and linden-tree idea. Its naming story is undated; the separate plotting claim does not establish the naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e3d53479cb889f03bf2ea344088f9b0f72f40d137d53d487cdfde031d63632fb",
+      "replacement": "The legal index dates direct formation from Clementon to April 23, 1929. It does not establish a separate incorporation referendum.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e3d53479cb889f03bf2ea344088f9b0f72f40d137d53d487cdfde031d63632fb",
+      "replacement": "The legal index dates direct formation from Clementon to April 23, 1929. It does not establish a separate incorporation referendum.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "84314e3bffb1f98116c6968f44d84718bfb594e8a77c4e098e114db75800c333",
+      "replacement": "The borough history reports a first official meeting on May 31, 1929 at the old Fire Hall. That was organization after formation, rather than the name’s beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "84314e3bffb1f98116c6968f44d84718bfb594e8a77c4e098e114db75800c333",
+      "replacement": "The borough history reports a first official meeting on May 31, 1929 at the old Fire Hall. That was organization after formation, rather than the name’s beginning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "013fd6b647f3683d57da215733898001e31acc19436b13935b19ba5e620bc180",
+      "replacement": "The municipal history credits Wimer Bedford with choosing from a German book and imagining linden trees. The exact original words and deliberate adaptation remain unknown; the tree-and-woods explanation is attributed to that account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "013fd6b647f3683d57da215733898001e31acc19436b13935b19ba5e620bc180",
+      "replacement": "The municipal history credits Wimer Bedford with choosing from a German book and imagining linden trees. The exact original words and deliberate adaptation remain unknown; the tree-and-woods explanation is attributed to that account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "2f0b90497bcbc7ace8a62eee64ea3c1030bc8104870653ef41bb789faa9824a7",
+      "replacement": "A planning account gives November 21, 1885 for plotting, with that date unconfirmed. The municipal naming story is separately undated, so 1885 is not an established naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "2f0b90497bcbc7ace8a62eee64ea3c1030bc8104870653ef41bb789faa9824a7",
+      "replacement": "A planning account gives November 21, 1885 for plotting, with that date unconfirmed. The municipal naming story is separately undated, so 1885 is not an established naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "eec9773cc4e8eb66c908db3c4c1328dc459378bfb19d058f4e42bb300ba84bdc",
+      "replacement": "The legal index gives April 23, 1929 for direct legislative creation from Clementon Township. No separate incorporation referendum is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "eec9773cc4e8eb66c908db3c4c1328dc459378bfb19d058f4e42bb300ba84bdc",
+      "replacement": "The legal index gives April 23, 1929 for direct legislative creation from Clementon Township. No separate incorporation referendum is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "2468f9dbd4ad3b274fb4dd9c2e4458fd0fbe9931ad9534a61332f68ef9b7fbba",
+      "replacement": "The municipal history reports a May 31, 1929 first official meeting at the old Fire Hall. It organized the government after formation, without originating the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "editorial",
+        "0422",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "2468f9dbd4ad3b274fb4dd9c2e4458fd0fbe9931ad9534a61332f68ef9b7fbba",
+      "replacement": "The municipal history reports a May 31, 1929 first official meeting at the old Fire Hall. It organized the government after formation, without originating the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "9c51a3972a0aaa2e0df7855bc85fca5ab263519a26c47b8293472624e7e0f22a",
+      "replacement": "The 1888 State Treasurer’s report names Magnolia Villa Land and Improvement Company in its tax receipts. That entry does not establish incorporation or the first naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "9c51a3972a0aaa2e0df7855bc85fca5ab263519a26c47b8293472624e7e0f22a",
+      "replacement": "The 1888 State Treasurer’s report names Magnolia Villa Land and Improvement Company in its tax receipts. That entry does not establish incorporation or the first naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "49bbed00a0d33cb5883d74a06736b1ac4a30dee8730f48206bbdaccce29ccc9f",
+      "replacement": "The legal index lists territory from Gloucester, Centre and Clementon. It derives May 31 effect from receipt of election results in Centre’s minutes, separately from the May 12 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "49bbed00a0d33cb5883d74a06736b1ac4a30dee8730f48206bbdaccce29ccc9f",
+      "replacement": "The legal index lists territory from Gloucester, Centre and Clementon. It derives May 31 effect from receipt of election results in Centre’s minutes, separately from the May 12 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "c542d35d784a62e3e3e5fefd40d2ca4b31817c62d545958ea77898981b4aad78",
+      "replacement": "The 1888 State Treasurer’s report, printed page 28, lists Magnolia Villa Land and Improvement Company under June 28 tax receipts. This is a company-name entry rather than an incorporation charter or first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "c542d35d784a62e3e3e5fefd40d2ca4b31817c62d545958ea77898981b4aad78",
+      "replacement": "The 1888 State Treasurer’s report, printed page 28, lists Magnolia Villa Land and Improvement Company under June 28 tax receipts. This is a company-name entry rather than an incorporation charter or first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "2f5eee9853d14393973979cb6dc592ddfa0303665f39e6976d1d68d4fe129abd",
+      "replacement": "No decisive railway or postal origin is established. The tax entry does not independently date marketing, shortening to Magnolia or community adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "2f5eee9853d14393973979cb6dc592ddfa0303665f39e6976d1d68d4fe129abd",
+      "replacement": "No decisive railway or postal origin is established. The tax entry does not independently date marketing, shortening to Magnolia or community adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "label"
+      ],
+      "expected_sha256": "384a2704b04ea6da5855fa5dea29fde6cd03bf0dd02daa905eaac5d25c17e6bb",
+      "replacement": "Development and transport",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "label"
+      ],
+      "expected_sha256": "384a2704b04ea6da5855fa5dea29fde6cd03bf0dd02daa905eaac5d25c17e6bb",
+      "replacement": "Development and transport",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "f242c952e41b48dc51df12e75b7b56ec12cdafab2523ee4d35e90ab3243d8852",
+      "replacement": "The 1915 legal index lists territory from Gloucester, Centre and Clementon townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "f242c952e41b48dc51df12e75b7b56ec12cdafab2523ee4d35e90ab3243d8852",
+      "replacement": "The 1915 legal index lists territory from Gloucester, Centre and Clementon townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "a5a86ca5f29726c1452da3184ee587a81640bce06bb10cc6e29e59c22a1885fd",
+      "replacement": "The index gives April 14 authorization, May 12 vote, May 13/14 county entries, May 31 receipt of results in Centre’s minutes and June 7 county recording. It derives effect from the May 31 entry rather than a second vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "editorial",
+        "0423",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "a5a86ca5f29726c1452da3184ee587a81640bce06bb10cc6e29e59c22a1885fd",
+      "replacement": "The index gives April 14 authorization, May 12 vote, May 13/14 county entries, May 31 receipt of results in Centre’s minutes and June 7 county recording. It derives effect from the May 31 entry rather than a second vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0d5bb312c9385a2a5523f424beabf8d566457ac7cafe00e071c9bdf814b801b7",
+      "replacement": "Eastlack’s 1899 history describes four merchants arriving in 1852 and credits Mrs. Louty with proposing Merchantville. That paragraph supports an occupation-based explanation, but gives neither her first name nor a date for the conversation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "77186dc7146d3a0a5a27f4bab64f93b666de8c083e98a3b17c9d7dafadb3d6ee",
+      "replacement": "A 2022 Merchantville Online story adds Rebecca, places the scene in 1857 and says Martinsville was nearly chosen. Those are details of the later telling rather than the older paragraph. Their absence from Eastlack does not disprove them. A competing Merchant-family attribution also remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "07142172acbe554dbcb061be898528dbcc1b98a7d7149cc032b3f006eaca0582",
+      "replacement": "A later story calls her Rebecca, dates the scene to 1857 and mentions Martinsville as a nearly chosen alternative. Those details belong to the later telling. Their absence from the older paragraph does not prove them false. Another tradition connects the name with a Merchant family.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "127480126f347bb1b28bbf7b83e5d12a0f19342ff1f1118686bbb4dea628b5f8",
+      "replacement": "The community reportedly had a post office in 1866. The 1874 law separates approval, corporate commencement and a scheduled officer election. Local histories also give May 18 for incorporation, without explaining exactly what happened that day. A statutory schedule does not establish that an election occurred as planned.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "953a30016e0c21355370493e373c42b2923de6485e00e779d950df87f4e0e55f",
+      "replacement": "The local history reports a post office in 1866. That later institutional use does not establish the date or participants of the earlier naming conversation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "953a30016e0c21355370493e373c42b2923de6485e00e779d950df87f4e0e55f",
+      "replacement": "The local history reports a post office in 1866. That later institutional use does not establish the date or participants of the earlier naming conversation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "f7785fc1bbf75e683faada02fa5bb59be7d363019f6e09748089e7c6394f50f8",
+      "replacement": "The statute separates approval from scheduled corporate operation and officer election. The meaning of the reported May 18 incorporation date remains unexplained, without establishing a referendum, filing or printing error.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "f7785fc1bbf75e683faada02fa5bb59be7d363019f6e09748089e7c6394f50f8",
+      "replacement": "The statute separates approval from scheduled corporate operation and officer election. The meaning of the reported May 18 incorporation date remains unexplained, without establishing a referendum, filing or printing error.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "aefe37041e360e69ffcd3fe57ca14e01ea220c9ec08224ad9e7d872d3a111d8c",
+      "replacement": "Eastlack reports postal use in 1866. Later railway growth is a separate part of the community’s development and does not establish the original naming trigger.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "aefe37041e360e69ffcd3fe57ca14e01ea220c9ec08224ad9e7d872d3a111d8c",
+      "replacement": "Eastlack reports postal use in 1866. Later railway growth is a separate part of the community’s development and does not establish the original naming trigger.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b8b240abb6f7fc0653393c3f820abab5ef7973b605424f14611951a70b57827f",
+      "replacement": "Chapter 113 gives March 3, 1874 approval and immediate operation of the act, with May 12 corporate commencement and a scheduled officer election. The legal index lists Stockton and Delaware territory.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b8b240abb6f7fc0653393c3f820abab5ef7973b605424f14611951a70b57827f",
+      "replacement": "Chapter 113 gives March 3, 1874 approval and immediate operation of the act, with May 12 corporate commencement and a scheduled officer election. The legal index lists Stockton and Delaware territory.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "d67ef7b5af327744b407f9ded9e2eede83a1377f0b98e7366089e9300d37b10a",
+      "replacement": "Eastlack and the 2022 story give May 18, 1874 for incorporation. Its precise meaning remains unexplained. Neither a referendum, filing nor printing error is established, and the statutory election schedule does not prove actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "editorial",
+        "0424",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "d67ef7b5af327744b407f9ded9e2eede83a1377f0b98e7366089e9300d37b10a",
+      "replacement": "Eastlack and the 2022 story give May 18, 1874 for incorporation. Its precise meaning remains unexplained. Neither a referendum, filing nor printing error is established, and the statutory election schedule does not prove actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "dbc08538e0a883df324272e8f241ef98597193758a101afb57de754421b868eb",
+      "replacement": "Mount Ephraim’s older name belongs to a hill, tavern and locality before it belongs to a borough. Later history suggests tavern keeper Ephraim Albertson as namesake, with the precise person, family link and first naming choice uncertain. Ephraims Hill is reported in a March 24, 1762 road survey, but that early attestation remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "d69cbf884b9c1cb29138da2803147c6ceff33a503f6331899d5c54582b0204c1",
+      "replacement": "A later history suggests a tavern keeper called Ephraim Albertson as namesake. The exact person and naming connection remain uncertain. A reported Ephraims Hill form in a 1762 road survey is unconfirmed. That uncertainty does not disprove every tavern account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a57406335d279c5628d836695b6470b9eae68aae5620f9207f311a6b9c9d96eb",
+      "replacement": "Prowell’s 1886 county history reports Centre Township’s first annual meeting at a Mount Ephraim public house on March 14, 1855. It describes civic use of a locality name rather than a government already called Mount Ephraim.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a8a1f6ecdda2edbea75049141fa127ea746b7e9d506f06fbcda05eb15cc03222",
+      "replacement": "Prowell’s later history describes Centre Township’s annual meeting at a Mount Ephraim public house in 1855. That is reported civic use of the locality name rather than a government already called Mount Ephraim.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "preview"
+      ],
+      "expected_sha256": "cc042253934a3d475a392db038be4f1c5c2f2bc1b86f35bb7b7e90e113aabe4a",
+      "replacement": "Mount Ephraim’s hill and tavern associations predate its borough. A suggested link to Ephraim Albertson remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "cc042253934a3d475a392db038be4f1c5c2f2bc1b86f35bb7b7e90e113aabe4a",
+      "replacement": "Mount Ephraim’s hill and tavern associations predate its borough. A suggested link to Ephraim Albertson remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "1c2ee0a7693955709d95ce6a47b844c17d86870eec6732015b7448e0e059ce93",
+      "replacement": "The reported 1762 survey form remains unconfirmed, as do the first tavern naming and exact family link. Prowell separately reports the 1855 public-house meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "1c2ee0a7693955709d95ce6a47b844c17d86870eec6732015b7448e0e059ce93",
+      "replacement": "The reported 1762 survey form remains unconfirmed, as do the first tavern naming and exact family link. Prowell separately reports the 1855 public-house meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "655dccf2f23fabb3e29d7122f572f87b7b1668f8c55ab5cb05211b056fb6b90a",
+      "replacement": "The legal index separates the incorporation question from the Fairfield Estates joining question. Both were rejected in 1925 rather than creating the later borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "655dccf2f23fabb3e29d7122f572f87b7b1668f8c55ab5cb05211b056fb6b90a",
+      "replacement": "The legal index separates the incorporation question from the Fairfield Estates joining question. Both were rejected in 1925 rather than creating the later borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "journey",
+        2,
+        "date"
+      ],
+      "expected_sha256": "67a4795bb4507866a7df7aa476315dafa3787b7e4f97d8eaa91ff813c5a6b1e6",
+      "replacement": "March 23 law; April 28 adoption, 1926 · legal chronology",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "journey",
+        2,
+        "date"
+      ],
+      "expected_sha256": "67a4795bb4507866a7df7aa476315dafa3787b7e4f97d8eaa91ff813c5a6b1e6",
+      "replacement": "March 23 law; April 28 adoption, 1926 · legal chronology",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "180e70b6b48c998d153948ecbbdde5d4717f08e0f2b97af18d1538c2b2eb5273",
+      "replacement": "The legal chronology dates authorization March 23 and adoption April 28, 1926. Its account treats surviving Centre as continuing under Mount Ephraim. This is distinct from first naming the locality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "180e70b6b48c998d153948ecbbdde5d4717f08e0f2b97af18d1538c2b2eb5273",
+      "replacement": "The legal chronology dates authorization March 23 and adoption April 28, 1926. Its account treats surviving Centre as continuing under Mount Ephraim. This is distinct from first naming the locality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "26edab785739c783dcdecbc51bbbe1a50dfa0f9259a640a61d6a3ffc9b17c37c",
+      "replacement": "Ephraims Hill is reported in a March 24, 1762 road survey, with the early attestation unconfirmed. That limitation does not disprove every tavern-origin account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "26edab785739c783dcdecbc51bbbe1a50dfa0f9259a640a61d6a3ffc9b17c37c",
+      "replacement": "Ephraims Hill is reported in a March 24, 1762 road survey, with the early attestation unconfirmed. That limitation does not disprove every tavern-origin account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "495795e09bc54b065074548ddef075fb8efc9b827a5e843b62a475b13564a6ff",
+      "replacement": "Prowell reports Centre’s first annual meeting at a Mount Ephraim public house on March 14, 1855. It is civic use of a locality name rather than creation of a government under that title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "495795e09bc54b065074548ddef075fb8efc9b827a5e843b62a475b13564a6ff",
+      "replacement": "Prowell reports Centre’s first annual meeting at a Mount Ephraim public house on March 14, 1855. It is civic use of a locality name rather than creation of a government under that title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "2439f44a2b2e555dacf8f3108b12e99b23a8197caa479563cf11c563133cf672",
+      "replacement": "A railway association is reported for 1876. Later transport use does not establish when the older locality name was first chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "2439f44a2b2e555dacf8f3108b12e99b23a8197caa479563cf11c563133cf672",
+      "replacement": "A railway association is reported for 1876. Later transport use does not establish when the older locality name was first chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "0600653fa0a2c612849d4e6e1124f5733c5e338e424f8c2a0b2d89af296f73df",
+      "replacement": "The legal index gives March 13, 1925 authorization, April 20 rejection of incorporation and April 21 rejection of Fairfield Estates joining, with April 23 county recording. The questions were separate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "0600653fa0a2c612849d4e6e1124f5733c5e338e424f8c2a0b2d89af296f73df",
+      "replacement": "The legal index gives March 13, 1925 authorization, April 20 rejection of incorporation and April 21 rejection of Fairfield Estates joining, with April 23 county recording. The questions were separate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f42f3df9f2e59d02d2b3b50f1e4f79e3a97a2ad4ab14fefd027e72aa998d2db6",
+      "replacement": "The legal chronology gives March 23, 1926 authorization and April 28 successful adoption. Its account treats surviving Centre as continuing under the Mount Ephraim title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "editorial",
+        "0425",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f42f3df9f2e59d02d2b3b50f1e4f79e3a97a2ad4ab14fefd027e72aa998d2db6",
+      "replacement": "The legal chronology gives March 23, 1926 authorization and April 28 successful adoption. Its account treats surviving Centre as continuing under the Mount Ephraim title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "preview"
+      ],
+      "expected_sha256": "70a09f9a6905d81ae85073faf045db9e3bca33442aae1342ea7ee7a81f43d59d",
+      "replacement": "Oaklyn’s name is linked to Oakland the Beautiful, though the reported change remains uncertain. A fire-company history reports community use by 1902.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "70a09f9a6905d81ae85073faf045db9e3bca33442aae1342ea7ee7a81f43d59d",
+      "replacement": "Oaklyn’s name is linked to Oakland the Beautiful, though the reported change remains uncertain. A fire-company history reports community use by 1902.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "19182b73492ad1a48c8ca571ef65de84b13cf6dbe07516bebc7f377906582916",
+      "replacement": "Later accounts say the growing suburb was called Oakland the Beautiful, then changed its name to avoid duplication. The original choice, the meaning of lyn and the reported 1894 change remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c4ea66126c3a0f5468bc55fcd7f1e0818d792f8e082740dce09abaa2d290d708",
+      "replacement": "The fire department’s history reports a meeting at the Oaklyn schoolhouse on April 25, 1902, followed by company naming and organization on June 7. Those are two reports of people already using Oaklyn, rather than meetings shown to have invented the community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "b3fa3a579cf463e60199f4f06d96bb33a604cbb109ce6c6db6661fa72e1d1040",
+      "replacement": "The fire history reports an April 25, 1902 schoolhouse meeting and June 7 company naming and organization. Neither gathering is shown to have invented the locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "b3fa3a579cf463e60199f4f06d96bb33a604cbb109ce6c6db6661fa72e1d1040",
+      "replacement": "The fire history reports an April 25, 1902 schoolhouse meeting and June 7 company naming and organization. Neither gathering is shown to have invented the locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "journey",
+        2,
+        "date"
+      ],
+      "expected_sha256": "2a077574084ac171debb737bdadcc7a66a7f7d185be9198ecf61f7b424b8cf2e",
+      "replacement": "March 13, 1905 · printed law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "journey",
+        2,
+        "date"
+      ],
+      "expected_sha256": "2a077574084ac171debb737bdadcc7a66a7f7d185be9198ecf61f7b424b8cf2e",
+      "replacement": "March 13, 1905 · printed law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "60fe0a1dcb992a1715e2e8802195d20121991f2bd34ed727ae6fdc67f843f87c",
+      "replacement": "The fire history reports an Oaklyn schoolhouse meeting on April 25, 1902 and company naming and organization on June 7. These are reports of use rather than the first naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "60fe0a1dcb992a1715e2e8802195d20121991f2bd34ed727ae6fdc67f843f87c",
+      "replacement": "The fire history reports an Oaklyn schoolhouse meeting on April 25, 1902 and company naming and organization on June 7. These are reports of use rather than the first naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "6f4990c31b50a979bd6aa2bc8636341810f9bf542dc13dd824ec95234b1ad494",
+      "replacement": "The printed law gives March 13, 1905 approval and immediate effect for a borough from Haddon Township, using an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "editorial",
+        "0426",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "6f4990c31b50a979bd6aa2bc8636341810f9bf542dc13dd824ec95234b1ad494",
+      "replacement": "The printed law gives March 13, 1905 approval and immediate effect for a borough from Haddon Township, using an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "2ec8ba8082a7c6e39ed5737d393ea02e176f85e0dd09d5bafc52fd081f76a6ab",
+      "replacement": "A map-reproduction catalogue lists Somerdale on a Cram map dated 1905. Another account reports a trolley stop called Sommerville in 1907. These are different kinds of reports, without a settled name-change sequence. They may concern different transport systems or an error; the full word’s original meaning remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "36499574987485e35099aa9de97d130d03519fb00fbb80e6db1d3fd8f2340b07",
+      "replacement": "A catalogue lists Somerdale on a map dated 1905. Another account says a trolley used Sommerville in 1907. We do not know whether those names belonged to different systems or whether one account is mistaken. They do not establish a single name-change sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "418adf089fe2acfbfe89089f0782ea500bb34f2342a7d7adbd1d3aed126457da",
+      "replacement": "The fire history reports a civic association in 1919, a hall by 1920 and a fire company on October 1, 1924. These civic dates do not establish a post-office opening.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "418adf089fe2acfbfe89089f0782ea500bb34f2342a7d7adbd1d3aed126457da",
+      "replacement": "The fire history reports a civic association in 1919, a hall by 1920 and a fire company on October 1, 1924. These civic dates do not establish a post-office opening.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "541b7861af0c1cc826069d29ddae2cfa84a784b1b29b800d4a980cd93848fe3b",
+      "replacement": "The legal index dates formation from Clementon to April 23, 1929. The borough kept an older community name whose first chooser and meaning remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "541b7861af0c1cc826069d29ddae2cfa84a784b1b29b800d4a980cd93848fe3b",
+      "replacement": "The legal index dates formation from Clementon to April 23, 1929. The borough kept an older community name whose first chooser and meaning remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "9b5895fe5f0c3424c1a34c1749c32f17fa6dda2e4932bbed2e6681fb2ccd8e53",
+      "replacement": "A reproduction catalogue lists Somerdale on a Cram map dated 1905. It is a catalogue description rather than an established first naming day; the separate reported 1895 date remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "9b5895fe5f0c3424c1a34c1749c32f17fa6dda2e4932bbed2e6681fb2ccd8e53",
+      "replacement": "A reproduction catalogue lists Somerdale on a Cram map dated 1905. It is a catalogue description rather than an established first naming day; the separate reported 1895 date remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "a946a8c492747cf51baded0fc191f21122e5b014004923f1bb1a67bfef0d750e",
+      "replacement": "The fire history reports a civic association in 1919, a hall by 1920 and the Somerdale fire company on October 1, 1924. The separate Magnolia Heights company has its own history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "a946a8c492747cf51baded0fc191f21122e5b014004923f1bb1a67bfef0d750e",
+      "replacement": "The fire history reports a civic association in 1919, a hall by 1920 and the Somerdale fire company on October 1, 1924. The separate Magnolia Heights company has its own history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "378616881638e8d34f61bfe013f6e8f65e4b7070240dc798a13a6a5044a93a32",
+      "replacement": "The legal index gives April 23, 1929 direct legislative creation from Clementon Township, using an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "editorial",
+        "0431",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "378616881638e8d34f61bfe013f6e8f65e4b7070240dc798a13a6a5044a93a32",
+      "replacement": "The legal index gives April 23, 1929 direct legislative creation from Clementon Township, using an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0432",
+      "path": [
+        "editorial",
+        "0432",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "46148844bdb0f0f95f52886b74da48100060d1051b9a4d28f18364893d37f106",
+      "replacement": "The reported development beginning falls in 1888 or 1889. The municipal account describes the broader late-1880s project, while another local history preserves competing years. Neither an exact naming day nor a single year is established. Railway-suburb activity helped sustain the identity, without proving separate railway or postal coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0432",
+      "path": [
+        "editorial",
+        "0432",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "ea0015868d2689600f8ab577dff89a69b986185ed6641694b25b69d75ad93564",
+      "replacement": "The accounts give 1888 or 1889, without establishing an exact naming year or day. The railway-suburb setting helped people use the name, but no separate station or post-office naming choice is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0432",
+      "path": [
+        "editorial",
+        "0432",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "13c32a9c42e822cc8db04db4bf2ee4611afa5ea96b86480bef80ed78dabc570b",
+      "replacement": "Later histories credit the Rural Land Improvement Company. Charles S. King and associates were developers; the exact first naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0432",
+      "path": [
+        "editorial",
+        "0432",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "b04d92b4d497efa468e5e8fd252bc32d5b2c9a9c688670e5e32fed3ca46e0ba1",
+      "replacement": "Later histories credit the Rural Land Improvement Company. Charles S. King and associates were developers; the exact first naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0432",
+      "path": [
+        "editorial",
+        "0432",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "13717bce87cb881ff3a055e71fe1ab8da1eacb13ec204f0d6f58b55821c21326",
+      "replacement": "The accounts give 1888 or 1889 without establishing an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "3a567ba59273afbb960096fe5e41cf720a58ccb6d16a14024f81d825c3c80b05",
+      "replacement": "The club history credits the Gill/Hopkins family and a Devon connection. Its 1885 date concerns marriage rather than the farm’s naming day; Tavistock property appears by 1917.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "3a567ba59273afbb960096fe5e41cf720a58ccb6d16a14024f81d825c3c80b05",
+      "replacement": "The club history credits the Gill/Hopkins family and a Devon connection. Its 1885 date concerns marriage rather than the farm’s naming day; Tavistock property appears by 1917.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0136ecf7c363622bb98038a8c927f44d0d83c358853be051abb3a483757df554",
+      "replacement": "The club history reports December 14, 1920 incorporation and April 1, 1922 opening. These are separate private-club milestones rather than borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0136ecf7c363622bb98038a8c927f44d0d83c358853be051abb3a483757df554",
+      "replacement": "The club history reports December 14, 1920 incorporation and April 1, 1922 opening. These are separate private-club milestones rather than borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4444035fb24acb09182f92779e7df3476e2d33ee7f3ff4a4d6600dc14af259f9",
+      "replacement": "The printed law gives February 16, 1921 approval and immediate effect. The later February 23 claim conflicts, without establishing another legal stage. The Sunday-recreation explanation remains attributed to later accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4444035fb24acb09182f92779e7df3476e2d33ee7f3ff4a4d6600dc14af259f9",
+      "replacement": "The printed law gives February 16, 1921 approval and immediate effect. The later February 23 claim conflicts, without establishing another legal stage. The Sunday-recreation explanation remains attributed to later accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "da5bd321a5e532dcb8f63a082d60f75e444001c3978bf46e1cd8effcc6fe57c9",
+      "replacement": "The club history credits Mary Gill Hopkins and Johns Hopkins with naming the farm Tavistock, linking the choice to family ancestry in Devon, England. The first naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "da5bd321a5e532dcb8f63a082d60f75e444001c3978bf46e1cd8effcc6fe57c9",
+      "replacement": "The club history credits Mary Gill Hopkins and Johns Hopkins with naming the farm Tavistock, linking the choice to family ancestry in Devon, England. The first naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "6d6767cce8bdb1331d2d9aa1d7e04ca4d2aeec8a297a06d4f0e5382692074219",
+      "replacement": "The printed law gives February 16, 1921 approval and immediate effect for a borough from Centre Township. The club’s later February 23 signing claim conflicts, without establishing an extra government stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "6d6767cce8bdb1331d2d9aa1d7e04ca4d2aeec8a297a06d4f0e5382692074219",
+      "replacement": "The printed law gives February 16, 1921 approval and immediate effect for a borough from Centre Township. The club’s later February 23 signing claim conflicts, without establishing an extra government stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "1e39083a46f56c1ade72a16323a8c248ff9b56d75c040295d40598f08d9f6649",
+      "replacement": "Later histories connect municipal independence with Sunday recreation. That remains a later explanation rather than an established original statement of purpose, and does not date the farm naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "editorial",
+        "0433",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "1e39083a46f56c1ade72a16323a8c248ff9b56d75c040295d40598f08d9f6649",
+      "replacement": "Later histories connect municipal independence with Sunday recreation. That remains a later explanation rather than an established original statement of purpose, and does not date the farm naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "views",
+        "0421",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b2dac25b3b1ba1fe67bfab7cfa8273296ee53d35737709e4286225f104b3a935",
+      "replacement": "Lawnside; Snow Hill; Snowhill; Free Haven; Ralph Smith; Jacob C. White; historic Black community; Peter Mott House; Lawnside station; Centre parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "views",
+        "0421",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b2dac25b3b1ba1fe67bfab7cfa8273296ee53d35737709e4286225f104b3a935",
+      "replacement": "Lawnside; Snow Hill; Snowhill; Free Haven; Ralph Smith; Jacob C. White; historic Black community; Peter Mott House; Lawnside station; Centre parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "views",
+        "0421",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "a8c12c383af71a831e7d1caf0e87380656de549b0bf9b766619ed53268d39293",
+      "replacement": "Act approval and immediate effect in the printed law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "views",
+        "0421",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "a8c12c383af71a831e7d1caf0e87380656de549b0bf9b766619ed53268d39293",
+      "replacement": "Act approval and immediate effect in the printed law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "views",
+        "0421",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "8ec030ef5161962ddba2e2ca26e9559ff620b250693ac3cba15fbc82fde1db03",
+      "replacement": "The municipal history reports an April 20, 1926 first election. The act separately provides for choosing officers.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "views",
+        "0421",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "8ec030ef5161962ddba2e2ca26e9559ff620b250693ac3cba15fbc82fde1db03",
+      "replacement": "The municipal history reports an April 20, 1926 first election. The act separately provides for choosing officers.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0421",
+      "path": [
+        "views",
+        "0421",
+        "sources",
+        "S1197",
+        "publication"
+      ],
+      "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
+      "replacement": "Current database; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0421",
+      "path": [
+        "views",
+        "0421",
+        "sources",
+        "S1197",
+        "publication"
+      ],
+      "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
+      "replacement": "Current database; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "30885ec10d3a954336461d2ec08ca25ea372b32354315fd16154963854487170",
+      "replacement": "Lindenwold; Wimer Bedford; German-book naming account; linden trees; Kirkwood; Watsontown; Laurel Mills; North Clementon; Clementon parent township; old Fire Hall",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "30885ec10d3a954336461d2ec08ca25ea372b32354315fd16154963854487170",
+      "replacement": "Lindenwold; Wimer Bedford; German-book naming account; linden trees; Kirkwood; Watsontown; Laurel Mills; North Clementon; Clementon parent township; old Fire Hall",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "date"
+      ],
+      "expected_sha256": "2e96b14ab27a8232ef825b72f71829b7c9e8bac7ac9efdd87f0a029483be4b7d",
+      "replacement": "1885 (reported plotting and name use; date unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "date"
+      ],
+      "expected_sha256": "2e96b14ab27a8232ef825b72f71829b7c9e8bac7ac9efdd87f0a029483be4b7d",
+      "replacement": "1885 (reported plotting and name use; date unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "573c2f76c3d38e1570e37d12feea9df1473f55010c8086a344bab6afff28db34",
+      "replacement": "Reported plotting year; exact timing unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "573c2f76c3d38e1570e37d12feea9df1473f55010c8086a344bab6afff28db34",
+      "replacement": "Reported plotting year; exact timing unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "bf2e99a2f64f51469302ae8674964350cd0336108124f20c1f3da128824a56ec",
+      "replacement": "Unconfirmed early plotting account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "bf2e99a2f64f51469302ae8674964350cd0336108124f20c1f3da128824a56ec",
+      "replacement": "Unconfirmed early plotting account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "29734b1497cce5bd10ce6192c34f876d9a27a1123af307cb4821785f8b3a0a2c",
+      "replacement": "Developer and plot author unknown; Wimer Bedford credited by the later naming story",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "29734b1497cce5bd10ce6192c34f876d9a27a1123af307cb4821785f8b3a0a2c",
+      "replacement": "Developer and plot author unknown; Wimer Bedford credited by the later naming story",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d42ffbf5f2dca10e3e5d9664029a939d35670fcd7659646f82c14287cbf2ae3a",
+      "replacement": "A planning account reports an 1885 development plot. That date remains unconfirmed and does not establish when Bedford chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d42ffbf5f2dca10e3e5d9664029a939d35670fcd7659646f82c14287cbf2ae3a",
+      "replacement": "A planning account reports an 1885 development plot. That date remains unconfirmed and does not establish when Bedford chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "4985a7480bb6549772ba4a2117e6f3b213e0c8148e6bd92c286c47bfb24650be",
+      "replacement": "A reported development stage rather than a verified naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "4985a7480bb6549772ba4a2117e6f3b213e0c8148e6bd92c286c47bfb24650be",
+      "replacement": "A reported development stage rather than a verified naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "2e96b14ab27a8232ef825b72f71829b7c9e8bac7ac9efdd87f0a029483be4b7d",
+      "replacement": "1885 (reported plotting and name use; date unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0422",
+      "path": [
+        "views",
+        "0422",
+        "events",
+        2,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "2e96b14ab27a8232ef825b72f71829b7c9e8bac7ac9efdd87f0a029483be4b7d",
+      "replacement": "1885 (reported plotting and name use; date unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "views",
+        "0423",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d4e91ce6cda7a8e0bda996b523e1b95cd9bb3579951fc1d355d2ae3bb2a952ae",
+      "replacement": "Magnolia; Magnolia Villa; Magnolia Villa Land and Improvement Company; Samuel S. Cord; botanical naming explanation; Gloucester, Centre and Clementon parent townships; Berlin’s separate Magnolia station",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "views",
+        "0423",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d4e91ce6cda7a8e0bda996b523e1b95cd9bb3579951fc1d355d2ae3bb2a952ae",
+      "replacement": "Magnolia; Magnolia Villa; Magnolia Villa Land and Improvement Company; Samuel S. Cord; botanical naming explanation; Gloucester, Centre and Clementon parent townships; Berlin’s separate Magnolia station",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "views",
+        "0423",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "1c12f1b7a89b96efc5a0be01a9eb0a81aba4fea2747259c2eb37f8f96f0be4d9",
+      "replacement": "Publication and tax year in the printed report",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "views",
+        "0423",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "1c12f1b7a89b96efc5a0be01a9eb0a81aba4fea2747259c2eb37f8f96f0be4d9",
+      "replacement": "Publication and tax year in the printed report",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0423",
+      "path": [
+        "views",
+        "0423",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "ea552f385247294ecfbce50e1ce7a593ca2938301d0dfc5a991827caec11ba0c",
+      "replacement": "The 1888 State Treasurer’s report, printed page 28, lists Magnolia Villa Land and Improvement Company in June 28 tax receipts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0423",
+      "path": [
+        "views",
+        "0423",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "ea552f385247294ecfbce50e1ce7a593ca2938301d0dfc5a991827caec11ba0c",
+      "replacement": "The 1888 State Treasurer’s report, printed page 28, lists Magnolia Villa Land and Improvement Company in June 28 tax receipts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f021a2c60db301e912aae1b1ef956228b7013337bf6db610699684a6349b2113",
+      "replacement": "Merchantville; Mrs. Louty; Rebecca in later naming account; merchant settlers; Merchant-family tradition; Martinsville proposed alternative; Stockton and Delaware parent townships",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f021a2c60db301e912aae1b1ef956228b7013337bf6db610699684a6349b2113",
+      "replacement": "Merchantville; Mrs. Louty; Rebecca in later naming account; merchant settlers; Merchant-family tradition; Martinsville proposed alternative; Stockton and Delaware parent townships",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a3b7857c0ca6a418001da1589521a9894d406726c8d11b6d310f76765b8fc088",
+      "replacement": "Eastlack’s 1899 paragraph dates merchant arrivals to 1852 but does not date the later naming scene.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a3b7857c0ca6a418001da1589521a9894d406726c8d11b6d310f76765b8fc088",
+      "replacement": "Eastlack’s 1899 paragraph dates merchant arrivals to 1852 but does not date the later naming scene.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "bac9c6c840821ce052f17cde9274f2fb136a93279b562a909b0e94fca7433d01",
+      "replacement": "Postal year reported in a later local history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "bac9c6c840821ce052f17cde9274f2fb136a93279b562a909b0e94fca7433d01",
+      "replacement": "Postal year reported in a later local history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "e6b6c03f4135f79c0cb3b37614288fe5c4b1fe1fe5664bff7a31b60c3d6e1a05",
+      "replacement": "Eastlack’s local history reports a Merchantville post office in 1866.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "e6b6c03f4135f79c0cb3b37614288fe5c4b1fe1fe5664bff7a31b60c3d6e1a05",
+      "replacement": "Eastlack’s local history reports a Merchantville post office in 1866.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "fd4e4eda6a14e88662291d772bc835471930bede747e71ef09b28a52b67f2e47",
+      "replacement": "Act approval and immediate statutory operation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "fd4e4eda6a14e88662291d772bc835471930bede747e71ef09b28a52b67f2e47",
+      "replacement": "Act approval and immediate statutory operation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d94441287e167c902374b52b7ed1bbd1ba91037ed29bbf41322f4152e336fa5b",
+      "replacement": "Chapter 113 gives March 3 approval and immediate operation of the act, with separate second-Tuesday-of-May corporate-commencement and officer-election provisions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d94441287e167c902374b52b7ed1bbd1ba91037ed29bbf41322f4152e336fa5b",
+      "replacement": "Chapter 113 gives March 3 approval and immediate operation of the act, with separate second-Tuesday-of-May corporate-commencement and officer-election provisions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "f1b5af6d327bffcb9fe14e8a077a4d1539f946eefcba49e3e29f242a63df5d4a",
+      "replacement": "The second Tuesday of May in 1874 falls on May 12. Sections 1–2 and 24–25 provide the corporate-commencement and officer-election schedule.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "f1b5af6d327bffcb9fe14e8a077a4d1539f946eefcba49e3e29f242a63df5d4a",
+      "replacement": "The second Tuesday of May in 1874 falls on May 12. Sections 1–2 and 24–25 provide the corporate-commencement and officer-election schedule.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "5f3be3164ee9c9574213b09828fd1c67175820e3f8f13f3e04e27b95ea430e82",
+      "replacement": "Local officials; precise participants unspecified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "5f3be3164ee9c9574213b09828fd1c67175820e3f8f13f3e04e27b95ea430e82",
+      "replacement": "Local officials; precise participants unspecified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "dd9e4d499d30872b7b47359664ee4ab207d97f85332e2828398fb4dbc044987d",
+      "replacement": "Eastlack credits Mrs. Louty with suggesting Merchantville among four merchants. The paragraph gives no first name, naming-scene date or Martinsville alternative.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "dd9e4d499d30872b7b47359664ee4ab207d97f85332e2828398fb4dbc044987d",
+      "replacement": "Eastlack credits Mrs. Louty with suggesting Merchantville among four merchants. The paragraph gives no first name, naming-scene date or Martinsville alternative.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "sources",
+        "S1197",
+        "publication"
+      ],
+      "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
+      "replacement": "Current database; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0424",
+      "path": [
+        "views",
+        "0424",
+        "sources",
+        "S1197",
+        "publication"
+      ],
+      "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
+      "replacement": "Current database; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "be3e62ccdc5586d9ccf4cf4f5176e16022ffc9129e75813d90a147f49e745518",
+      "replacement": "Mount Ephraim; Ephraims Hill; Ephraim Albertson suggested namesake; Mount Ephraim public house; Centre Township; Fairfield Estates joining proposal",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "be3e62ccdc5586d9ccf4cf4f5176e16022ffc9129e75813d90a147f49e745518",
+      "replacement": "Mount Ephraim; Ephraims Hill; Ephraim Albertson suggested namesake; Mount Ephraim public house; Centre Township; Fairfield Estates joining proposal",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "f89bcdfef0f61d825bc87b227873ffacd8c608dc7ad3cd066e4522b1084a3699",
+      "replacement": "1762-03-24 (reported survey form; attestation unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "f89bcdfef0f61d825bc87b227873ffacd8c608dc7ad3cd066e4522b1084a3699",
+      "replacement": "1762-03-24 (reported survey form; attestation unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "0ab3322a65ada26fcfda8533dbe50446ef36943a03152ab72f434997a4740b08",
+      "replacement": "Reported survey date; early attestation unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "0ab3322a65ada26fcfda8533dbe50446ef36943a03152ab72f434997a4740b08",
+      "replacement": "Reported survey date; early attestation unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "2c56a5155788f738ea6790085ef47938aab1253fb731b575a33075a4834c70c9",
+      "replacement": "Unconfirmed early survey-name account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "2c56a5155788f738ea6790085ef47938aab1253fb731b575a33075a4834c70c9",
+      "replacement": "Unconfirmed early survey-name account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "6a0d4e85b526721fe00fff182093b00008592bc5e47b257e5fa49144dd58cd04",
+      "replacement": "Survey parties; exact original naming agent unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "6a0d4e85b526721fe00fff182093b00008592bc5e47b257e5fa49144dd58cd04",
+      "replacement": "Survey parties; exact original naming agent unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8748892a911673fe0bbc8124113689404db9452c751fd6c77cec27fa342e9067",
+      "replacement": "Ephraims Hill is reported in a March 24, 1762 road survey. That early attestation remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8748892a911673fe0bbc8124113689404db9452c751fd6c77cec27fa342e9067",
+      "replacement": "Ephraims Hill is reported in a March 24, 1762 road survey. That early attestation remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "c428742f21bc5ec8947e352b370daa4869649c6e2e27d6e6d41c217e37b4045a",
+      "replacement": "A qualified early-name account rather than an established original naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "c428742f21bc5ec8947e352b370daa4869649c6e2e27d6e6d41c217e37b4045a",
+      "replacement": "A qualified early-name account rather than an established original naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "f89bcdfef0f61d825bc87b227873ffacd8c608dc7ad3cd066e4522b1084a3699",
+      "replacement": "1762-03-24 (reported survey form; attestation unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        0,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "f89bcdfef0f61d825bc87b227873ffacd8c608dc7ad3cd066e4522b1084a3699",
+      "replacement": "1762-03-24 (reported survey form; attestation unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "478c9dd5aff77d7c03e3def413c58a494a2be48e6d814dc5487f0bd2a0307235",
+      "replacement": "The legal chronology dates adoption to April 28, 1926 after the March 23 act. Its account treats surviving Centre as continuing under Mount Ephraim.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "478c9dd5aff77d7c03e3def413c58a494a2be48e6d814dc5487f0bd2a0307235",
+      "replacement": "The legal chronology dates adoption to April 28, 1926 after the March 23 act. Its account treats surviving Centre as continuing under Mount Ephraim.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "sources",
+        "S2069",
+        "publication"
+      ],
+      "expected_sha256": "d2ce04d6dd756a3550710a808820673e80fb4f5cc694c51ade06817ad79fa634",
+      "replacement": "Current event index; accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0425",
+      "path": [
+        "views",
+        "0425",
+        "sources",
+        "S2069",
+        "publication"
+      ],
+      "expected_sha256": "d2ce04d6dd756a3550710a808820673e80fb4f5cc694c51ade06817ad79fa634",
+      "replacement": "Current event index; accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "16eb0d91e0b25ee32d006b66aa6f9401154ad49adc2899257a396c0d9487161a",
+      "replacement": "Oaklyn; Oakland the Beautiful; oak landscape tradition; reported duplication explanation; Oaklyn schoolhouse; Oaklyn Fire Company; Haddon parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "16eb0d91e0b25ee32d006b66aa6f9401154ad49adc2899257a396c0d9487161a",
+      "replacement": "Oaklyn; Oakland the Beautiful; oak landscape tradition; reported duplication explanation; Oaklyn schoolhouse; Oaklyn Fire Company; Haddon parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "5c423514dd1254042041434b6a256bb4853b0085fb60fbb490f0016eb081b619",
+      "replacement": "Chapter 24 gives March 13, 1905 approval, section 4 immediate effect and section 3 officer elections within 30 days.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "5c423514dd1254042041434b6a256bb4853b0085fb60fbb490f0016eb081b619",
+      "replacement": "Chapter 24 gives March 13, 1905 approval, section 4 immediate effect and section 3 officer elections within 30 days.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "date"
+      ],
+      "expected_sha256": "3fee014ebe0b91a7890de1d87ddd61a75b63a7c94b387de11b3dd534e0db0863",
+      "replacement": "1894 (reported naming-story date; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "date"
+      ],
+      "expected_sha256": "3fee014ebe0b91a7890de1d87ddd61a75b63a7c94b387de11b3dd534e0db0863",
+      "replacement": "1894 (reported naming-story date; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "821c9f87a974dd561a64762f8ddc31114506085269c74006205ee5481ac02e45",
+      "replacement": "Reported naming-story year; exact timing unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "821c9f87a974dd561a64762f8ddc31114506085269c74006205ee5481ac02e45",
+      "replacement": "Reported naming-story year; exact timing unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "9db090468452162fae4a1af1f5dc77241f8b13bbe5dd53aa7e7b53e97ea2bc6f",
+      "replacement": "Unconfirmed development-name tradition",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "9db090468452162fae4a1af1f5dc77241f8b13bbe5dd53aa7e7b53e97ea2bc6f",
+      "replacement": "Unconfirmed development-name tradition",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "35cf12a82f35f0db4a9afb44b25672deda78622d42d221b8d47c15e6f7712e75",
+      "replacement": "Original developer or community name-giver unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "35cf12a82f35f0db4a9afb44b25672deda78622d42d221b8d47c15e6f7712e75",
+      "replacement": "Original developer or community name-giver unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ae6a5c58abb75465898aead1d4bb8706a03464d5416946fe1eecade1beb49d4f",
+      "replacement": "Later accounts connect Oakland the Beautiful with Oaklyn and report an 1894 change, with the date and original naming choice unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ae6a5c58abb75465898aead1d4bb8706a03464d5416946fe1eecade1beb49d4f",
+      "replacement": "Later accounts connect Oakland the Beautiful with Oaklyn and report an 1894 change, with the date and original naming choice unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2315688a12e80a70d7ee21fc6e3d687ec73a8028778b6e9f22e64b8fb646525d",
+      "replacement": "The reported earlier change is distinct from the fire history’s 1902 community-name use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2315688a12e80a70d7ee21fc6e3d687ec73a8028778b6e9f22e64b8fb646525d",
+      "replacement": "The reported earlier change is distinct from the fire history’s 1902 community-name use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "3fee014ebe0b91a7890de1d87ddd61a75b63a7c94b387de11b3dd534e0db0863",
+      "replacement": "1894 (reported naming-story date; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0426",
+      "path": [
+        "views",
+        "0426",
+        "events",
+        3,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "3fee014ebe0b91a7890de1d87ddd61a75b63a7c94b387de11b3dd534e0db0863",
+      "replacement": "1894 (reported naming-story date; unconfirmed)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0427",
+      "path": [
+        "views",
+        "0427",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "743ff2a14911ccb32e89bed7ae6814205c399491cffbb98d7607e62b0ab7b9ef",
+      "replacement": "Pennsauken; Sawkin; Pemisoakin; Pensokin; Pinsoakin; Pensauken; creek and regional name; tobacco-pouch and wild-root interpretations; Stockton parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0427",
+      "path": [
+        "views",
+        "0427",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "743ff2a14911ccb32e89bed7ae6814205c399491cffbb98d7607e62b0ab7b9ef",
+      "replacement": "Pennsauken; Sawkin; Pemisoakin; Pensokin; Pinsoakin; Pensauken; creek and regional name; tobacco-pouch and wild-root interpretations; Stockton parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0427",
+      "path": [
+        "views",
+        "0427",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "7da7729970cb726b97ac9dec3c909bafc1093f84b5640a2de3a93a57adab4a64",
+      "replacement": "Grumet’s place-name study reports Sawkin in 1675.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0427",
+      "path": [
+        "views",
+        "0427",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "7da7729970cb726b97ac9dec3c909bafc1093f84b5640a2de3a93a57adab4a64",
+      "replacement": "Grumet’s place-name study reports Sawkin in 1675.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0427",
+      "path": [
+        "views",
+        "0427",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "39726cdb017a288d264a4cb6ed8781563704e1865dbb8ff5f0b357ffa7e9939a",
+      "replacement": "The place-name study associates Pemisoakin with 1682.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0427",
+      "path": [
+        "views",
+        "0427",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "39726cdb017a288d264a4cb6ed8781563704e1865dbb8ff5f0b357ffa7e9939a",
+      "replacement": "The place-name study associates Pemisoakin with 1682.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0427",
+      "path": [
+        "views",
+        "0427",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d35d3706d899a618a0ff3a4d53a32fc3d97a3e3b461a928cf6bb66634b61e6f3",
+      "replacement": "The place-name study associates Pensokin and Pinsoakin with 1696.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0427",
+      "path": [
+        "views",
+        "0427",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d35d3706d899a618a0ff3a4d53a32fc3d97a3e3b461a928cf6bb66634b61e6f3",
+      "replacement": "The place-name study associates Pensokin and Pinsoakin with 1696.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "01d874d06979c031d59aef99ab1b230dc6477e3d24e28c83ae37a72767b454a7",
+      "replacement": "Pine Hill; Mount Ararat; Clementon Heights; Johanna Burton attribution; Clementon parent township; former Pine Valley Borough",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "01d874d06979c031d59aef99ab1b230dc6477e3d24e28c83ae37a72767b454a7",
+      "replacement": "Pine Hill; Mount Ararat; Clementon Heights; Johanna Burton attribution; Clementon parent township; former Pine Valley Borough",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "bf0ceae7fb6c5856b45acdf2077c3daa0297576cb045955611bd66db7701a9d5",
+      "replacement": "The publisher’s synopsis credits Johanna Burton with naming Pine Hill. That attribution does not establish her role or the exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "bf0ceae7fb6c5856b45acdf2077c3daa0297576cb045955611bd66db7701a9d5",
+      "replacement": "The publisher’s synopsis credits Johanna Burton with naming Pine Hill. That attribution does not establish her role or the exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "sources",
+        "S1198",
+        "publication"
+      ],
+      "expected_sha256": "26e270fd3e35d32380013bcfc660f500dbb0b02bff2209dea33ff73ab3a207c8",
+      "replacement": "Current state page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "sources",
+        "S1198",
+        "publication"
+      ],
+      "expected_sha256": "26e270fd3e35d32380013bcfc660f500dbb0b02bff2209dea33ff73ab3a207c8",
+      "replacement": "Current state page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "sources",
+        "S1260",
+        "publication"
+      ],
+      "expected_sha256": "b735fc4816163914f3e06d9eb3946ae36ae8574634704c3addf34248841683d9",
+      "replacement": "2010 publication as catalogued; publisher synopsis accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "sources",
+        "S1260",
+        "publication"
+      ],
+      "expected_sha256": "b735fc4816163914f3e06d9eb3946ae36ae8574634704c3addf34248841683d9",
+      "replacement": "2010 publication as catalogued; publisher synopsis accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "sources",
+        "S2068",
+        "publication"
+      ],
+      "expected_sha256": "d2ce04d6dd756a3550710a808820673e80fb4f5cc694c51ade06817ad79fa634",
+      "replacement": "Current event index; accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0428",
+      "path": [
+        "views",
+        "0428",
+        "sources",
+        "S2068",
+        "publication"
+      ],
+      "expected_sha256": "d2ce04d6dd756a3550710a808820673e80fb4f5cc694c51ade06817ad79fa634",
+      "replacement": "Current event index; accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f332b4aea9d647f4256b0364c181133f5854450139651f80424b5310c512e1bf",
+      "replacement": "Runnemede; Runnymede, England; proposed Mapleville; railroad station; Frank Bateman possible influence; Centre parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f332b4aea9d647f4256b0364c181133f5854450139651f80424b5310c512e1bf",
+      "replacement": "Runnemede; Runnymede, England; proposed Mapleville; railroad station; Frank Bateman possible influence; Centre parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "1dc1a2ddcd1674aa0091d03781ff128e671d3084204c0005aebd0be2e291ed35",
+      "replacement": "Survey year reported by the railway-history account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "1dc1a2ddcd1674aa0091d03781ff128e671d3084204c0005aebd0be2e291ed35",
+      "replacement": "Survey year reported by the railway-history account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "906c70e60286c27f5d56868e4108a82ce11987e2d245ae01d36e7477629861ef",
+      "replacement": "Reported proposed station label",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "906c70e60286c27f5d56868e4108a82ce11987e2d245ae01d36e7477629861ef",
+      "replacement": "Reported proposed station label",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "e25407133ed56e5d18e846a1fbd4acd6d4d82431cc1269531c0419a65eac46f6",
+      "replacement": "The railway-history account reports Mapleville as a proposed label on an 1877 survey. It does not establish usual community use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "e25407133ed56e5d18e846a1fbd4acd6d4d82431cc1269531c0419a65eac46f6",
+      "replacement": "The railway-history account reports Mapleville as a proposed label on an 1877 survey. It does not establish usual community use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "1b5c6ccef05ae35744649344407b7e89783e840405b4ee7f20eb1598f247b92a",
+      "replacement": "Upper-bound year reported in the railway history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "1b5c6ccef05ae35744649344407b7e89783e840405b4ee7f20eb1598f247b92a",
+      "replacement": "Upper-bound year reported in the railway history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "899a941e565968e7f49b94a3053aa0e5722921412219c94d09432a02b50534c3",
+      "replacement": "Reported station-name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "899a941e565968e7f49b94a3053aa0e5722921412219c94d09432a02b50534c3",
+      "replacement": "Reported station-name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "40b7aee04bc22c53fc7d104204f601b6747b6cf9cbd5fc20b151518106914755",
+      "replacement": "Railway administration, as described in the later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "40b7aee04bc22c53fc7d104204f601b6747b6cf9cbd5fc20b151518106914755",
+      "replacement": "Railway administration, as described in the later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "fdd181c5daa11948eb682058d2b4af974b5542b0f46b1ca911cf26562dced224",
+      "replacement": "The railway-history account reports Runnemede as a station name by 1892.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0430",
+      "path": [
+        "views",
+        "0430",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "fdd181c5daa11948eb682058d2b4af974b5542b0f46b1ca911cf26562dced224",
+      "replacement": "The railway-history account reports Runnemede as a station name by 1892.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "views",
+        "0431",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2e48249e2783d40a1667e336f6959a12c414ccb796746134e2c0196deb73dbe9",
+      "replacement": "Somerdale; reported Sommerville trolley stop; Cram map; Somerdale Civic Association; Somerdale Volunteer Fire Company; Magnolia Heights separate company; Clementon parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "views",
+        "0431",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2e48249e2783d40a1667e336f6959a12c414ccb796746134e2c0196deb73dbe9",
+      "replacement": "Somerdale; reported Sommerville trolley stop; Cram map; Somerdale Civic Association; Somerdale Volunteer Fire Company; Magnolia Heights separate company; Clementon parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "views",
+        "0431",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "38b3d5fbe8f0c8405c48cc067260d388701639271f9510badf80eff3538da843",
+      "replacement": "Map year reported by the reproduction catalogue",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "views",
+        "0431",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "38b3d5fbe8f0c8405c48cc067260d388701639271f9510badf80eff3538da843",
+      "replacement": "Map year reported by the reproduction catalogue",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "views",
+        "0431",
+        "sources",
+        "S1197",
+        "publication"
+      ],
+      "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
+      "replacement": "Current database; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "views",
+        "0431",
+        "sources",
+        "S1197",
+        "publication"
+      ],
+      "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
+      "replacement": "Current database; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0431",
+      "path": [
+        "views",
+        "0431",
+        "sources",
+        "S2067",
+        "publication"
+      ],
+      "expected_sha256": "d2ce04d6dd756a3550710a808820673e80fb4f5cc694c51ade06817ad79fa634",
+      "replacement": "Current event index; accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0431",
+      "path": [
+        "views",
+        "0431",
+        "sources",
+        "S2067",
+        "publication"
+      ],
+      "expected_sha256": "d2ce04d6dd756a3550710a808820673e80fb4f5cc694c51ade06817ad79fa634",
+      "replacement": "Current event index; accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0432",
+      "path": [
+        "views",
+        "0432",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "4f7a19e239d11a796eaac1a039f2bd6847aa084c083142c35509691957278355",
+      "replacement": "Stratford; Stratford-upon-Avon; Shakespeare association; Rural Land Improvement Company; Charles S. King; Clementon parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0432",
+      "path": [
+        "views",
+        "0432",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "4f7a19e239d11a796eaac1a039f2bd6847aa084c083142c35509691957278355",
+      "replacement": "Stratford; Stratford-upon-Avon; Shakespeare association; Rural Land Improvement Company; Charles S. King; Clementon parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0432",
+      "path": [
+        "views",
+        "0432",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "44bb605faae4c023f6bd0323f67907dd9508f22cc817f6ed41f03ae819d9fb76",
+      "replacement": "Later municipal and local histories report development under the Stratford name in 1888 or 1889. The precise year and naming day remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0432",
+      "path": [
+        "views",
+        "0432",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "44bb605faae4c023f6bd0323f67907dd9508f22cc817f6ed41f03ae819d9fb76",
+      "replacement": "Later municipal and local histories report development under the Stratford name in 1888 or 1889. The precise year and naming day remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "views",
+        "0433",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "12817de55f4c421efc9ceba652a73a036ad1da4c24100c99e74c892631f42d10",
+      "replacement": "Tavistock; Tavistock, Devon; Home Farm; Tavistock Farm; Gill and Hopkins families; Mary Gill Hopkins; Johns Hopkins; Tavistock Country Club; Centre parent township; Sunday recreation explanation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "views",
+        "0433",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "12817de55f4c421efc9ceba652a73a036ad1da4c24100c99e74c892631f42d10",
+      "replacement": "Tavistock; Tavistock, Devon; Home Farm; Tavistock Farm; Gill and Hopkins families; Mary Gill Hopkins; Johns Hopkins; Tavistock Country Club; Centre parent township; Sunday recreation explanation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "views",
+        "0433",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "51cf50534d81a62e199fb9c69e398d09c2444e23f0c5786881ca7f8699e3a44f",
+      "replacement": "Approval and immediate effect in the printed law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "views",
+        "0433",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "51cf50534d81a62e199fb9c69e398d09c2444e23f0c5786881ca7f8699e3a44f",
+      "replacement": "Approval and immediate effect in the printed law",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "views",
+        "0433",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "d2022e03ae3b5704fe986e462e67e9d85353795587e1fdb975679d5363e2d15e",
+      "replacement": "The 1921 printed law, chapter 12, pages 34–35, gives February 16 approval and immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "views",
+        "0433",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "d2022e03ae3b5704fe986e462e67e9d85353795587e1fdb975679d5363e2d15e",
+      "replacement": "The 1921 printed law, chapter 12, pages 34–35, gives February 16 approval and immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0433",
+      "path": [
+        "views",
+        "0433",
+        "sources",
+        "S1197",
+        "publication"
+      ],
+      "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
+      "replacement": "Current database; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0433",
+      "path": [
+        "views",
+        "0433",
+        "sources",
+        "S1197",
+        "publication"
+      ],
+      "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
+      "replacement": "Current database; accessed 2026-09-13",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
