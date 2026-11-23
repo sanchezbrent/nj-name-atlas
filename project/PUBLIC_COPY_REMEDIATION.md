@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 22 — November 23, 2026
+## Current checkpoint 23 — November 23, 2026
+
+[Checkpoint 23](PUBLIC_COPY_CHECKPOINT_23.md) completes twelve towns in Burlington County
+in both editions, adding 432 proposals for 7,062 cumulative. All
+6,630 earlier rows and prior 243 reviewed reader/view records remain exact.
+Agent text review is **255/564 per edition**, with 309 remaining and zero human
+sign-offs. Strict candidates: 1,392 primary and 1,277 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Continue the twelve already authorized Burlington County towns as checkpoint 24, save both PRs and issue #4, then stop after all 24.
+
+## Historical checkpoint 22 — November 23, 2026
 
 [Checkpoint 22](PUBLIC_COPY_CHECKPOINT_22.md) completes twelve towns in Ocean County
 in both editions, adding 221 proposals for 6,630 cumulative. All
