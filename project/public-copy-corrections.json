@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_30",
+  "checkpoint": "PUBLIC_COPY_31",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -342,7 +342,19 @@
     "0601",
     "0602",
     "0603",
-    "0604"
+    "0604",
+    "0605",
+    "0606",
+    "0607",
+    "0608",
+    "0609",
+    "0610",
+    "0611",
+    "0612",
+    "0613",
+    "0614",
+    "0701",
+    "0702"
   ],
   "changes": [
     {
@@ -134031,6 +134043,3040 @@
       ],
       "expected_sha256": "57d5f2149f4f53dec0ed9ba4e38a1716bf5ba29d963c29ebb67172e025cd1ea5",
       "replacement": "May 1697; N.J. Grants and Concessions 556; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "editorial",
+        "0605",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "adc99ed85755039e53897a56bb3238851993f45760d4997e7c2f19b75abe7257",
+      "replacement": "The 1881 reprint preserves the law’s wording. Its heading uses elected, while the operative passage says erected, meaning established. The heading does not prove a municipal election. The session ran May 12–21, but the precise day of this provision is unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "editorial",
+        "0605",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2240064cf420e12289d0db85759ed1c686ef7ee741f17b145b506a19ed4d5ec7",
+      "replacement": "The 1881 reprint has two different words: elected in the heading and erected, meaning established, in the passage. The heading does not prove an election. The law belongs to May 1697, without a known exact day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "editorial",
+        "0605",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "602c35f5927577f0a2e081d3e35cd82c281fc83c9ffe95d82d3989d47e91a113",
+      "replacement": "The later account places Fairton’s village and postal identity around 1812. It was a name within Fairfield, rather than a new name for the whole township; its exact beginning day is unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "editorial",
+        "0605",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "602c35f5927577f0a2e081d3e35cd82c281fc83c9ffe95d82d3989d47e91a113",
+      "replacement": "The later account places Fairton’s village and postal identity around 1812. It was a name within Fairfield, rather than a new name for the whole township; its exact beginning day is unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "editorial",
+        "0605",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0f0a495a89658908c647b178e2eb5ac90753b46b868a0012edc62f00d6defc3b",
+      "replacement": "The 1881 reprint preserves the provision on pages 556–557. Its May 12–21 session certificate does not identify the precise day the provision passed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "editorial",
+        "0605",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0f0a495a89658908c647b178e2eb5ac90753b46b868a0012edc62f00d6defc3b",
+      "replacement": "The 1881 reprint preserves the provision on pages 556–557. Its May 12–21 session certificate does not identify the precise day the provision passed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "editorial",
+        "0605",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d87360e1d5ae823570aa2f5bbd027307ff2faa2007a40e30e90c4f2c85745de6",
+      "replacement": "The later account places Fairton around 1812, without an exact postal opening day. Fairton did not replace the whole township’s Fairfield title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "editorial",
+        "0605",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d87360e1d5ae823570aa2f5bbd027307ff2faa2007a40e30e90c4f2c85745de6",
+      "replacement": "The later account places Fairton around 1812, without an exact postal opening day. Fairton did not replace the whole township’s Fairfield title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "editorial",
+        "0606",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "daef7756bfddf460bc69c7892634290eeb6e325fda0e92e0c197e767388422f1",
+      "replacement": "The earlier local names overlap too. A later compilation reports Antioch in a 1681 deed and Chohanzey or Antioch Towne in 1682. It reports John Clarke described as of Greenwich in a November 16, 1685 deed, yet Antioch appears again in a 1698/99 instrument. The compilation draws on summaries of older records; its reported uses do not establish a simple chain of official replacements.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "editorial",
+        "0606",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a01220c382c5b89d945e6f783f2c752f2e027d698f00aa8bf83fa99106de9f5c",
+      "replacement": "Older names did not disappear in a tidy line. A later compilation reports Antioch in 1681, Greenwich in a 1685 deed, and Antioch again in 1698/99. It also preserves Cohansey-area forms. These reported uses overlap, rather than proving that the whole town officially changed its name each time.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "editorial",
+        "0606",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "1acfd76911608a16ecaeca260fa5f5ecd7bb65ecfd10dabea8a7f02d278eea2a",
+      "replacement": "The later compilation draws on summaries of older records. Its reported dates show overlapping names, rather than a clean replacement sequence. The dual year remains as recorded.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "editorial",
+        "0606",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "1acfd76911608a16ecaeca260fa5f5ecd7bb65ecfd10dabea8a7f02d278eea2a",
+      "replacement": "The later compilation draws on summaries of older records. Its reported dates show overlapping names, rather than a clean replacement sequence. The dual year remains as recorded.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "editorial",
+        "0606",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "eb2bb698291ee5d078d7e427e940d29265e6ad0cefc9bc7ad4b35498f574d0d6",
+      "replacement": "The compilation reports Antioch in 1681, Chohanzey or Antioch Towne in 1682, Greenwich for John Clarke on November 16, 1685, and Antioch again in 1698/99. These are names transmitted through summaries of older records.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "editorial",
+        "0606",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "eb2bb698291ee5d078d7e427e940d29265e6ad0cefc9bc7ad4b35498f574d0d6",
+      "replacement": "The compilation reports Antioch in 1681, Chohanzey or Antioch Towne in 1682, Greenwich for John Clarke on November 16, 1685, and Antioch again in 1698/99. These are names transmitted through summaries of older records.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "editorial",
+        "0607",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "cf8aa7746465ef63782d0518079f489a7e1915b666eb2efc293e037a93cbd167",
+      "replacement": "The index separates March 8 approval from March 12 start in 1844. Columbia’s repeal is reported as March 11 or 13, 1845; Cohansey’s creation as March 2 or 6, 1848. Those competing dates remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "editorial",
+        "0607",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "cf8aa7746465ef63782d0518079f489a7e1915b666eb2efc293e037a93cbd167",
+      "replacement": "The index separates March 8 approval from March 12 start in 1844. Columbia’s repeal is reported as March 11 or 13, 1845; Cohansey’s creation as March 2 or 6, 1848. Those competing dates remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "editorial",
+        "0607",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0a88f7763704d460091ebb7f62de3d47c237fc2e82ce89c41709862d3ffd6f1c",
+      "replacement": "The index reports May 16 adoption and December 13 filing as separate steps in 1929. Hopewell kept its name after Shiloh separated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "editorial",
+        "0607",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0a88f7763704d460091ebb7f62de3d47c237fc2e82ce89c41709862d3ffd6f1c",
+      "replacement": "The index reports May 16 adoption and December 13 filing as separate steps in 1929. Hopewell kept its name after Shiloh separated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0608",
+      "path": [
+        "editorial",
+        "0608",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5f15cdc0a2a7e54cb8ced69458e0a4065f48924eb3ff019f1a1cf9e8d3cd1428",
+      "replacement": "The name entered the governmental record before the township existed. The Assembly journal, pages 172–173, records receipt, reading and referral of Senate Bill No. 27 on February 3, 1885. Its title already called the proposed township Lawrence. That establishes legislative use of the name, rather than the first local proposal or the proposer’s reason for the choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0608",
+      "path": [
+        "editorial",
+        "0608",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "db98e984c7965a8422f56d3c432b1c75d103eda6f7610d65203155ea7a484f7c",
+      "replacement": "The proposed township had its name before it became a government. The Assembly journal records receipt, reading and referral of its bill on February 3, 1885. That was a step in making a law, without telling us who first suggested the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0608",
+      "path": [
+        "editorial",
+        "0608",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ca6e0cc42f798b3aa55c0fe989101eeab1200033ff5e0bc7c721da2aa9b2aec6",
+      "replacement": "The Assembly journal records February 3, 1885 receipt, reading and referral of Senate Bill No. 27. The named bill does not identify the first local proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0608",
+      "path": [
+        "editorial",
+        "0608",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ca6e0cc42f798b3aa55c0fe989101eeab1200033ff5e0bc7c721da2aa9b2aec6",
+      "replacement": "The Assembly journal records February 3, 1885 receipt, reading and referral of Senate Bill No. 27. The named bill does not identify the first local proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0608",
+      "path": [
+        "editorial",
+        "0608",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "4f75a3907b675145bfc929537dd3dd07e45863be9efded63344b0a1662374a43",
+      "replacement": "The Assembly journal records receipt, reading and referral of the named Senate Bill No. 27 on February 3, 1885.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "editorial",
+        "0609",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "607d6f236dcf61298e9540a08721068b4ca6c142170fbe9f466691c22fc0be76",
+      "replacement": "Elmer’s 1869 history reports Mauritius Revier on a 1676 Dutch map. His account supplies an older Dutch form without establishing who chose it or disproving the vessel’s existence. He also recorded Indigenous river forms including Wahtquenack and Whatquenack, whose original spelling and meaning remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "editorial",
+        "0609",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "92a75c0c68a208c23baec0a58b3d533ba8a09cfd8dee1e5cac6dfbc05416bb55",
+      "replacement": "The ship tradition places an attack or fire in 1657, but it does not prove when the river was named. Elmer’s later history reports Mauritius Revier on a 1676 map. His report does not establish who chose the name or prove that no such ship existed. Older Indigenous forms, including Whatquenack, have no established English meaning here.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "editorial",
+        "0609",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "130b6e4bb4ebef01f409320a0cc339474bc460afd3434b72d000a9268ca490da",
+      "replacement": "Elmer reports Morris River and Prince Morris’ River. The county law used Prince Maurice’s River as a boundary and Maurice River for the precinct. The earlier spellings remain attributed to Elmer’s account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "editorial",
+        "0609",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "130b6e4bb4ebef01f409320a0cc339474bc460afd3434b72d000a9268ca490da",
+      "replacement": "Elmer reports Morris River and Prince Morris’ River. The county law used Prince Maurice’s River as a boundary and Maurice River for the precinct. The earlier spellings remain attributed to Elmer’s account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "editorial",
+        "0609",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0cbbcf858215b1b97a8003fff3a2666851b55edca2b768f2dcd54d08390119c3",
+      "replacement": "Elmer’s 1869 history reports Mauritius Revier on a 1676 Dutch map. Roggeveen’s nautical work dates to 1675–1676, but the relationship between that publication and Elmer’s reported map remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "editorial",
+        "0609",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "744f1c83f7059880147a6267bba98de05de26e0f8f717f02be7fe531eabaa416",
+      "replacement": "Elmer’s 1869 history reports Mauritius Revier on a 1676 Dutch map. Roggeveen’s nautical work dates to 1675–1676, but the relationship between that publication and Elmer’s reported map remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0610",
+      "path": [
+        "editorial",
+        "0610",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "4914b73ccb8cec5880d61387512232677c716f357274d8d42e983deaa268a817",
+      "replacement": "Shingle Landing, Maurice River Bridge and Union Mills describe older parts of the site’s story. They need not have been successive official names for one municipality. Nor does the reported 1795 property purchase establish the exact day Buck chose Millville; his plan and name are attributed to him by Elmer’s later history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0610",
+      "path": [
+        "editorial",
+        "0610",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b476b733d50c5c8e7ed7921a41ba5f9dc575640f4e515e8221f3379b5590dcbe",
+      "replacement": "Older site names included Shingle Landing, Maurice River Bridge and Union Mills. They describe places and activities, without proving a neat series of official town renames. A later history credits Buck with Millville, without establishing the exact day he chose it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0610",
+      "path": [
+        "editorial",
+        "0610",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "9523e4a86972efa5c0a6c9f9cb7fa6e273ec8145b2401f0c1303c97426b7ff4e",
+      "replacement": "The May 3, 1802 federal post-road law prints Milville with one l. That spelling witnesses use without proving first coinage or a formal name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0610",
+      "path": [
+        "editorial",
+        "0610",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b94aa8fdee1d54b4df0bb4eb337734394de83777ce9fd9d2e16d7ffa6191fc76",
+      "replacement": "The legal index gives February 24, 1801 approval and March 1, 1802 effect for the township act. Fairfield and Maurice River supplied the territory.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0610",
+      "path": [
+        "editorial",
+        "0610",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b94aa8fdee1d54b4df0bb4eb337734394de83777ce9fd9d2e16d7ffa6191fc76",
+      "replacement": "The legal index gives February 24, 1801 approval and March 1, 1802 effect for the township act. Fairfield and Maurice River supplied the territory.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "23c2ea95a6de9d510cf954b6ec006cb9c34c375ec38b6137c49b92f3bc13795d",
+      "replacement": "Shiloh’s name belongs first to religious and community history. The Seventh Day Baptist church’s later account tells of a 1771 meetinghouse move and a remark by Jonathan D. Davis invoking biblical Shiloh. The remembered episode remains a later tradition, rather than a contemporary record of his exact words.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "e692519be3f649bac9208c27a8187c13009f7316a79d685bb1eb30cc0570ac1a",
+      "replacement": "A church community carried Shiloh before it became a borough name. Later church history tells a 1771 story about moving a meetinghouse and Jonathan D. Davis referring to biblical Shiloh. That is a remembered story, rather than a record written at the time of his words.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "6e40fb71f3f7297b8c70aa5ace9b4749746b8d61e01d455853a27bf740e22e6e",
+      "replacement": "A different denominational history says the church used Shiloh since 1829. An earlier corporate title referred to Hopewell. An informal name might have come before a formal one, but that possible explanation has not settled the differing accounts. Cohansey and Cohansey Corners also appear in the community’s history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "5e0b6dbfbc60688563779a7d7c3174825b270bd91f71e9ff4e1676f28b8eda85",
+      "replacement": "The later account places Ayars and early Seventh Day Baptist families here in 1705, before the naming traditions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "5e0b6dbfbc60688563779a7d7c3174825b270bd91f71e9ff4e1676f28b8eda85",
+      "replacement": "The later account places Ayars and early Seventh Day Baptist families here in 1705, before the naming traditions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "6b617db80c3bc1557996f9997850637090dc4f41bd42671b6b01b5ba76effda3",
+      "replacement": "The retrospective history dates the congregation’s organization to 1737, before the later Shiloh naming accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "6b617db80c3bc1557996f9997850637090dc4f41bd42671b6b01b5ba76effda3",
+      "replacement": "The retrospective history dates the congregation’s organization to 1737, before the later Shiloh naming accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "b296c24c90390eced67022f818500176ca2c416aa25b1e15c9b2a17c10d2dba9",
+      "replacement": "The later denominational history reports Shiloh use since 1829. That report does not establish the first day someone chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "b296c24c90390eced67022f818500176ca2c416aa25b1e15c9b2a17c10d2dba9",
+      "replacement": "The later denominational history reports Shiloh use since 1829. That report does not establish the first day someone chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "2b06837c700bcede759280a39bb862ad24062ef5c652600d8c6b760bf3a1f468",
+      "replacement": "The chronology places the area in Columbia Township in 1844. The competing accounts of its later repeal date remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "2b06837c700bcede759280a39bb862ad24062ef5c652600d8c6b760bf3a1f468",
+      "replacement": "The chronology places the area in Columbia Township in 1844. The competing accounts of its later repeal date remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        10,
+        "detail"
+      ],
+      "expected_sha256": "ac3e1ad2ba3fd76d70aa3c778790c7b4b100f47ec82a4d5dc7e6da5494e0db46",
+      "replacement": "The index gives December 13, 1929 state filing, distinct from the April act and May vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "journey",
+        10,
+        "detail"
+      ],
+      "expected_sha256": "ac3e1ad2ba3fd76d70aa3c778790c7b4b100f47ec82a4d5dc7e6da5494e0db46",
+      "replacement": "The index gives December 13, 1929 state filing, distinct from the April act and May vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "ea2a3fa755d808eb6f9b0206fcb2778a1324d5dc1d22d9e4c95e7bb4c6c319d8",
+      "replacement": "The later church account credits Jonathan D. Davis with a biblical Shiloh remark in 1771. His exact words remain a matter of later tradition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "editorial",
+        "0611",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "3ebcedcc759a0fac359a42fd5203b3d922cbfc8485e4b1bf0095c97bffe7a007",
+      "replacement": "The later church account credits Jonathan D. Davis with a biblical Shiloh remark in 1771. His exact words remain a matter of later tradition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "6242069478f85b2a8626346ad85a3a30f325e582a563e91d9a46e226551f8615",
+      "replacement": "A creek supplied Stow Creek Township’s name long before officials debated its spelling. A later federal investigation reported Stow in deeds and surveys from around 1679–1701. Stowe Neck also appears in the local property history. The first namer and deeper meaning of Stow are unknown. Reported Unknown Creek and Mattocks Creek forms do not establish a tidy sequence of replacements.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "3f2c8290b8a006acf96f8813458a9f3246562ef3d2eb016eb3be497da5978b57",
+      "replacement": "Stow Creek named a waterway before it named the township. A later federal investigation reported Stow in old deeds and surveys from around 1679–1701. We do not know who first chose the name or what they meant.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ca0a9d4e340f1ebff45dcacf10589e117147936ab17b52eeddff93232b9e8200",
+      "replacement": "On February 7, 1934 the federal geographic board chose Stoe for the township. A published state statement reports the local committee choosing Stow on October 1 and directing that a new seal be obtained. The statement was filed September 28, 1935 and printed in 1936. These were separate actions. A municipal webpage’s 1924 account conflicts with that chronology; the exact sequence remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "98ef9332a37eda09eb69c725353df93d92274a1fcdaa845bdfe4277bfdc1a579",
+      "replacement": "Two official choices differed in 1934. A federal board chose Stoe in February. A published statement says the local committee chose Stow in October and asked for a new seal. The statement was filed with the state in September 1935 and printed in 1936. Choosing, filing and printing were different steps. A local webpage gives 1924 instead, leaving a disagreement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d6010cac61e1798cb5493e1e41c8ce3fcecbad5b37a2f87ad076ea2e522d6bc7",
+      "replacement": "A later federal investigation reports Stow in older deeds and surveys. Stowe Neck is another form; the first chooser and deeper meaning remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d6010cac61e1798cb5493e1e41c8ce3fcecbad5b37a2f87ad076ea2e522d6bc7",
+      "replacement": "A later federal investigation reports Stow in older deeds and surveys. Stowe Neck is another form; the first chooser and deeper meaning remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "29db84f6e4c648171187bb6b3d54e5706b51d22c600ac7317fdd400318b408c0",
+      "replacement": "The published state statement separates the September 28, 1935 filing from local action in 1934 and printing in 1936. Those dates concern different stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "29db84f6e4c648171187bb6b3d54e5706b51d22c600ac7317fdd400318b408c0",
+      "replacement": "The published state statement separates the September 28, 1935 filing from local action in 1934 and printing in 1936. Those dates concern different stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "8b6472c5d815dfa5f2518b490036dfadf30915badc7cfefbcbb4c6bf7d189c36",
+      "replacement": "Stow, Stowe and Stoe appear across the creek and government history. Reports of Unknown Creek and Mattocks Creek do not establish a simple replacement sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "8b6472c5d815dfa5f2518b490036dfadf30915badc7cfefbcbb4c6bf7d189c36",
+      "replacement": "Stow, Stowe and Stoe appear across the creek and government history. Reports of Unknown Creek and Mattocks Creek do not establish a simple replacement sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b504667caf1575fce1964c3757b867ae9e530793ad87ecfee3dcfd0a7e44d83f",
+      "replacement": "A later federal investigation reports Stow in deeds and surveys from around 1679–1701. That range does not establish one exact first-use year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "c85ef79bfb55c24707dbad98466b26f2714d88c4ed9fc7b3397445a632ef63e7",
+      "replacement": "The federal board chose Stoe for the township February 7, 1934. A published statement reports the local committee choosing Stow October 1 and ordering a new seal. These were different official choices.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "editorial",
+        "0612",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "c85ef79bfb55c24707dbad98466b26f2714d88c4ed9fc7b3397445a632ef63e7",
+      "replacement": "The federal board chose Stoe for the township February 7, 1934. A published statement reports the local committee choosing Stow October 1 and ordering a new seal. These were different official choices.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0613",
+      "path": [
+        "editorial",
+        "0613",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "46c8ce320eeb3cd34c349b03c5969222e2f873857e5fc991e83925487367560e",
+      "replacement": "The index lists December 12 Ordinance 28 and December 28 filing in 1925. A centennial history reports February 15, 1926 completion. The relationship between all three procedural dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0613",
+      "path": [
+        "editorial",
+        "0613",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "46c8ce320eeb3cd34c349b03c5969222e2f873857e5fc991e83925487367560e",
+      "replacement": "The index lists December 12 Ordinance 28 and December 28 filing in 1925. A centennial history reports February 15, 1926 completion. The relationship between all three procedural dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0613",
+      "path": [
+        "editorial",
+        "0613",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "2822ea41b79d926852457916f6c0e02f5443d4fab142a68b60571a10d9c1403e",
+      "replacement": "Ordinance 28 dates to December 12, 1925, with indexed state filing December 28. A centennial history separately reports February 15, 1926 completion. The relationship between all three dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0613",
+      "path": [
+        "editorial",
+        "0613",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b6d13fd0b8061d6ab6e8dc7befd15f00f4773044cf2f50ee923027ed4f416bd6",
+      "replacement": "Ordinance 28 dates to December 12, 1925, with indexed state filing December 28. A centennial history separately reports February 15, 1926 completion. The relationship between all three dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0614",
+      "path": [
+        "editorial",
+        "0614",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "92740397f1732bd5be2e36d6723f5952d9733185e79175930cadbff4ce14b3eb",
+      "replacement": "Landis wrote that he had chosen Vineland and described the vineyards and orchards he encouraged. Later city material explicitly explains the name through grapes; his own account does not give that reason for the word choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0614",
+      "path": [
+        "editorial",
+        "0614",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "ce6967c8f52c1391ed0030f1f30dc70e95cb829a67b341b0d9e04ff04d96e4ba",
+      "replacement": "Landis wrote that he had chosen Vineland and described the vineyards and orchards he encouraged. Later city material explicitly explains the name through grapes; his own account does not give that reason for the word choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0701",
+      "path": [
+        "editorial",
+        "0701",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "0fbe64d3443872d27ecf79bf07fafa9f8d8e193de2934216d490a0062c6600f9",
+      "replacement": "Josiah Hornblower chaired the district meeting and signed the village resolution with 38 others. The later reproduction records community participation without identifying the person who first suggested Belleville. Its French-derived form conventionally means “beautiful town” or “beautiful city,” but the resolution does not explain the residents’ particular reason for choosing it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0701",
+      "path": [
+        "editorial",
+        "0701",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "71274bfc8b47fa7745c6297be0461aeab36c60c1801f0952b055555e46939942",
+      "replacement": "The later publication reproduces the village’s June 26, 1797 adoption of Belleville. It does not identify the first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0701",
+      "path": [
+        "editorial",
+        "0701",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "71274bfc8b47fa7745c6297be0461aeab36c60c1801f0952b055555e46939942",
+      "replacement": "The later publication reproduces the village’s June 26, 1797 adoption of Belleville. It does not identify the first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0701",
+      "path": [
+        "editorial",
+        "0701",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c9c26c921c0762a481b31d07c62b18b66ac1ea2854ad38567afb5e1925605496",
+      "replacement": "The legal chronology gives April 8, 1839 creation from Bloomfield. The new township took the existing village name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0701",
+      "path": [
+        "editorial",
+        "0701",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c9c26c921c0762a481b31d07c62b18b66ac1ea2854ad38567afb5e1925605496",
+      "replacement": "The legal chronology gives April 8, 1839 creation from Bloomfield. The new township took the existing village name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0701",
+      "path": [
+        "editorial",
+        "0701",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "47a8248d66f35e73e63404f0eae49c81ccb568abd44665f659b13c7991c2a6c5",
+      "replacement": "The later publication reproduces the June 26, 1797 village resolution. It preserves the choice without identifying the first person to suggest Belleville.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0701",
+      "path": [
+        "editorial",
+        "0701",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "e9c501bdd3b7be8f2fbc1ee03c02d40b5c3e0da53d717c2bfbc100016ab032b7",
+      "replacement": "The later publication reproduces the June 26, 1797 village resolution. It preserves the choice without identifying the first person to suggest Belleville.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "51c304a90f782a77f49f4e7c3a6a9a53d65bd9fa8ba39207353670c5273014ea",
+      "replacement": "Crane wrote his memory in 1842. Folsom’s later history dates the meeting to October 1796, although Crane remembered spring 1797. The book also describes trustees and quotes a deed using Bloomfield later that October. Its report of a first appearance in Newark Town Records in 1799 means first in those records, while it reports earlier parish use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f1f07b8982cea8eba5ecfb2abf39b82b3fe5782d2c825ae8fd41b733df2e4a66",
+      "replacement": "Crane’s 1842 recollection credits his proposal. Folsom dates the meeting to October 1796, against Crane’s memory of spring 1797, and separately reports trustees and quotes a deed. These are different accounts and documentary references.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f1f07b8982cea8eba5ecfb2abf39b82b3fe5782d2c825ae8fd41b733df2e4a66",
+      "replacement": "Crane’s 1842 recollection credits his proposal. Folsom dates the meeting to October 1796, against Crane’s memory of spring 1797, and separately reports trustees and quotes a deed. These are different accounts and documentary references.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c445e626f8f428ee8125cfce25b9ae97a961ac9c259d845604d2f301153254db",
+      "replacement": "The act reproduced in the later history was approved January 24, 1812 and delayed its start until the fourth Monday of March, March 23. Both stages followed the community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c445e626f8f428ee8125cfce25b9ae97a961ac9c259d845604d2f301153254db",
+      "replacement": "The act reproduced in the later history was approved January 24, 1812 and delayed its start until the fourth Monday of March, March 23. Both stages followed the community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "a1939be36155404e4d9b10b96df8da0830a5dae21b617854c7f5d57e3a59696c",
+      "replacement": "Folsom dates the meeting to October 13, 1796 against Crane’s spring-1797 memory. The book separately reports October 24 trustees and quotes an October 27 deed. These remain attributed to the later history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1d17f958c557effbc243a66c3565a725604f448288df5a0d1ee0f6dae1db53af",
+      "replacement": "Folsom dates the meeting to October 13, 1796 against Crane’s spring-1797 memory. The book separately reports October 24 trustees and quotes an October 27 deed. These remain attributed to the later history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "11aef227e6c00899437e953948b7ac8cf330bd6bd984e6092031c73550abb7f9",
+      "replacement": "The reproduced law was approved January 24, 1812 and delayed its start until March 23. The older parish name preceded the separate township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0702",
+      "path": [
+        "editorial",
+        "0702",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "11aef227e6c00899437e953948b7ac8cf330bd6bd984e6092031c73550abb7f9",
+      "replacement": "The reproduced law was approved January 24, 1812 and delayed its start until March 23. The older parish name preceded the separate township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "623a207b4fa124950537c1c82e5d75b8ba15c370903bdcd62f58a522c70ce2fa",
+      "replacement": "The March 1, 1802 commencement was distinct from approval of the act in 1801.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill's Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1070",
+        "publication"
+      ],
+      "expected_sha256": "a59c5eead01f55537c4170262fb825a1f266c06b8351444210ba02a40013ca9a",
+      "replacement": "Academic public-history essay; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1081",
+        "publication"
+      ],
+      "expected_sha256": "e697844b34c1061dfa6768d85f42d00c96d00dbb8388e4917b30fa0a366eab35",
+      "replacement": "Commission Book AB, page 116 reconstruction; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1084",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1085",
+        "publication"
+      ],
+      "expected_sha256": "e25fde65daa3c004432e5c4a00e10491f5cd77acb297f7b43d521007f9e771be",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1086",
+        "publication"
+      ],
+      "expected_sha256": "57d5f2149f4f53dec0ed9ba4e38a1716bf5ba29d963c29ebb67172e025cd1ea5",
+      "replacement": "May 1697; N.J. Grants and Concessions 556; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1107",
+        "publication"
+      ],
+      "expected_sha256": "ef23b5cf3af4d4e07fe940a2f663da2c14976c02ae8947816a48cab79640f86c",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "623a207b4fa124950537c1c82e5d75b8ba15c370903bdcd62f58a522c70ce2fa",
+      "replacement": "The March 1, 1802 commencement was distinct from approval of the act in 1801.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill's Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1070",
+        "publication"
+      ],
+      "expected_sha256": "a59c5eead01f55537c4170262fb825a1f266c06b8351444210ba02a40013ca9a",
+      "replacement": "Academic public-history essay; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1081",
+        "publication"
+      ],
+      "expected_sha256": "e697844b34c1061dfa6768d85f42d00c96d00dbb8388e4917b30fa0a366eab35",
+      "replacement": "Commission Book AB, page 116 reconstruction; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1084",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1085",
+        "publication"
+      ],
+      "expected_sha256": "e25fde65daa3c004432e5c4a00e10491f5cd77acb297f7b43d521007f9e771be",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1086",
+        "publication"
+      ],
+      "expected_sha256": "57d5f2149f4f53dec0ed9ba4e38a1716bf5ba29d963c29ebb67172e025cd1ea5",
+      "replacement": "May 1697; N.J. Grants and Concessions 556; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0605",
+      "path": [
+        "views",
+        "0605",
+        "sources",
+        "S1107",
+        "publication"
+      ],
+      "expected_sha256": "ef23b5cf3af4d4e07fe940a2f663da2c14976c02ae8947816a48cab79640f86c",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "37391c5687935b15b4ef2eaa51b7d54ae58e148ac1ddcadb961a8574f015cca5",
+      "replacement": "The later compilation reports this early planned-town name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "a9eefe0d12b12d38a12421c277a6b28cc2da081e11091d4af2bb0dd03117b94b",
+      "replacement": "The later compilation reports Greenwich use in the November 16, 1685 deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1065",
+        "publication"
+      ],
+      "expected_sha256": "8a01fd8658be00ce162cc2fbb97639fe824bc5d2f9b48011e4e3d7c2c026cdbb",
+      "replacement": "New Jersey Public Library Commission, 1945; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill's Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1070",
+        "publication"
+      ],
+      "expected_sha256": "a59c5eead01f55537c4170262fb825a1f266c06b8351444210ba02a40013ca9a",
+      "replacement": "Academic public-history essay; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1088",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1089",
+        "publication"
+      ],
+      "expected_sha256": "ea3fb4e5e26b37138ed9baab056bc0b82b0cef30f5e9e9fbc630d66d969740d5",
+      "replacement": "1970 nomination; digitized federal record accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1090",
+        "publication"
+      ],
+      "expected_sha256": "347bbcc023b9f7507cc2c9b7f7bd6da31d11e0cb73d4b3ebd6e3846f33684635",
+      "replacement": "Local nonprofit historical overview; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "37391c5687935b15b4ef2eaa51b7d54ae58e148ac1ddcadb961a8574f015cca5",
+      "replacement": "The later compilation reports this early planned-town name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "a9eefe0d12b12d38a12421c277a6b28cc2da081e11091d4af2bb0dd03117b94b",
+      "replacement": "The later compilation reports Greenwich use in the November 16, 1685 deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1065",
+        "publication"
+      ],
+      "expected_sha256": "8a01fd8658be00ce162cc2fbb97639fe824bc5d2f9b48011e4e3d7c2c026cdbb",
+      "replacement": "New Jersey Public Library Commission, 1945; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill's Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1070",
+        "publication"
+      ],
+      "expected_sha256": "a59c5eead01f55537c4170262fb825a1f266c06b8351444210ba02a40013ca9a",
+      "replacement": "Academic public-history essay; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1088",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1089",
+        "publication"
+      ],
+      "expected_sha256": "ea3fb4e5e26b37138ed9baab056bc0b82b0cef30f5e9e9fbc630d66d969740d5",
+      "replacement": "1970 nomination; digitized federal record accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0606",
+      "path": [
+        "views",
+        "0606",
+        "sources",
+        "S1090",
+        "publication"
+      ],
+      "expected_sha256": "347bbcc023b9f7507cc2c9b7f7bd6da31d11e0cb73d4b3ebd6e3846f33684635",
+      "replacement": "Local nonprofit historical overview; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "74f068e1b320d37d8486124d7429a4cbb327bb945a8f69dbc89f569872cb2653",
+      "replacement": "The county law provides official Hopewell use without identifying its first chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "60680f7fdf09586f60197fd391b5fe7b55bf140f2b3f6a7d39624c48e8174923",
+      "replacement": "The legal accounts give March 11 and March 13, 1845 for repeal; the latter index cites the act at 69 N.J. Laws 93, §§1–3.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S1088",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S1091",
+        "publication"
+      ],
+      "expected_sha256": "fef831d6b621200e56be9f5e44f78c349c9a1a6a62e6bb8bfccb96bd0f15b010",
+      "replacement": "1969; digitized copy accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S1092",
+        "publication"
+      ],
+      "expected_sha256": "dfb1e76292c19ca74751d5fcd1228b16827df4e9501c86b32f4e305e39d5bc7e",
+      "replacement": "Official county history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S1093",
+        "publication"
+      ],
+      "expected_sha256": "7a8ffad0968ccdbdc8d7925847ebad36694b9f1824bc8c0720f11f78c602842a",
+      "replacement": "2007-10-24; digital edition posted 2023",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S2038",
+        "publication"
+      ],
+      "expected_sha256": "f1895ae768c3dd0c8e3998072ab7cfeaa44f952ab3f3eb056fbcff75bad6b7ce",
+      "replacement": "Database pages accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S2039",
+        "publication"
+      ],
+      "expected_sha256": "af7e004334151f7a7523b6989846b34b82184a1d7ab75c99cf3c73c4f133839f",
+      "replacement": "Database page accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "74f068e1b320d37d8486124d7429a4cbb327bb945a8f69dbc89f569872cb2653",
+      "replacement": "The county law provides official Hopewell use without identifying its first chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "60680f7fdf09586f60197fd391b5fe7b55bf140f2b3f6a7d39624c48e8174923",
+      "replacement": "The legal accounts give March 11 and March 13, 1845 for repeal; the latter index cites the act at 69 N.J. Laws 93, §§1–3.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S1088",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S1091",
+        "publication"
+      ],
+      "expected_sha256": "fef831d6b621200e56be9f5e44f78c349c9a1a6a62e6bb8bfccb96bd0f15b010",
+      "replacement": "1969; digitized copy accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S1092",
+        "publication"
+      ],
+      "expected_sha256": "dfb1e76292c19ca74751d5fcd1228b16827df4e9501c86b32f4e305e39d5bc7e",
+      "replacement": "Official county history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S1093",
+        "publication"
+      ],
+      "expected_sha256": "7a8ffad0968ccdbdc8d7925847ebad36694b9f1824bc8c0720f11f78c602842a",
+      "replacement": "2007-10-24; digital edition posted 2023",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S2038",
+        "publication"
+      ],
+      "expected_sha256": "f1895ae768c3dd0c8e3998072ab7cfeaa44f952ab3f3eb056fbcff75bad6b7ce",
+      "replacement": "Database pages accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0607",
+      "path": [
+        "views",
+        "0607",
+        "sources",
+        "S2039",
+        "publication"
+      ],
+      "expected_sha256": "af7e004334151f7a7523b6989846b34b82184a1d7ab75c99cf3c73c4f133839f",
+      "replacement": "Database page accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0608",
+      "path": [
+        "views",
+        "0608",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "64dd70017ddc6b1aec286397eefc764ff730974af39efdb08556558113c0b973",
+      "replacement": "The Assembly journal, pp. 172–173, records receipt, reading and referral of the named Lawrence township bill on February 3, 1885.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0608",
+      "path": [
+        "views",
+        "0608",
+        "sources",
+        "S1095",
+        "publication"
+      ],
+      "expected_sha256": "1bf62a3e6d8461d2c4e2a5983cf2749549311627925ef89d43726da0bcb8f27d",
+      "replacement": "Official municipal page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0608",
+      "path": [
+        "views",
+        "0608",
+        "sources",
+        "S1096",
+        "publication"
+      ],
+      "expected_sha256": "724bc8786e4a744c504bf8a1cd83de92c8cc78677c1375b1370be3ca2a39e803",
+      "replacement": "1885; digitized State Library copy accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0608",
+      "path": [
+        "views",
+        "0608",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "64dd70017ddc6b1aec286397eefc764ff730974af39efdb08556558113c0b973",
+      "replacement": "The Assembly journal, pp. 172–173, records receipt, reading and referral of the named Lawrence township bill on February 3, 1885.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0608",
+      "path": [
+        "views",
+        "0608",
+        "sources",
+        "S1095",
+        "publication"
+      ],
+      "expected_sha256": "1bf62a3e6d8461d2c4e2a5983cf2749549311627925ef89d43726da0bcb8f27d",
+      "replacement": "Official municipal page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0608",
+      "path": [
+        "views",
+        "0608",
+        "sources",
+        "S1096",
+        "publication"
+      ],
+      "expected_sha256": "724bc8786e4a744c504bf8a1cd83de92c8cc78677c1375b1370be3ca2a39e803",
+      "replacement": "1885; digitized State Library copy accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "d307f1b899e63996c769af87ee34d405e6d1f1756cea6b882f0cbf7f172df842",
+      "replacement": "Arent Roggeveen, attributed nautical author; Elmer, later historian",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "400033d65a03398ea8474f5faea4f0ba11c2629472202195700ba0811dbde0f0",
+      "replacement": "Elmer’s 1869 history reports Mauritius Revier on a 1676 Dutch map. Roggeveen’s nautical work dates to 1675–1676; its relationship to the reported map remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "06b9ab4ca319cdec3f5c715631d9c49ab559fdd53c8bed055172c45b09542738",
+      "replacement": "The reported map form supplies a seventeenth-century Dutch Maurice root.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill's Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1100",
+        "publication"
+      ],
+      "expected_sha256": "13db34f697a6fb56cd5398b9ccdeddae75d056af18c547ad606a018faee93dc8",
+      "replacement": "Official municipal history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1102",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Data accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1103",
+        "publication"
+      ],
+      "expected_sha256": "ec783159c5f4bb7b5a853ebd520e61eb7bdafdd698b124f5e19564ece8b9919b",
+      "replacement": "1675–1676; digitized facsimile accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1104",
+        "publication"
+      ],
+      "expected_sha256": "922df12f4de4409c93938694098a87561e260a27850880b061d18d3c2681c88e",
+      "replacement": "Current county tourism/history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1107",
+        "publication"
+      ],
+      "expected_sha256": "ef23b5cf3af4d4e07fe940a2f663da2c14976c02ae8947816a48cab79640f86c",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "d307f1b899e63996c769af87ee34d405e6d1f1756cea6b882f0cbf7f172df842",
+      "replacement": "Arent Roggeveen, attributed nautical author; Elmer, later historian",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "400033d65a03398ea8474f5faea4f0ba11c2629472202195700ba0811dbde0f0",
+      "replacement": "Elmer’s 1869 history reports Mauritius Revier on a 1676 Dutch map. Roggeveen’s nautical work dates to 1675–1676; its relationship to the reported map remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "06b9ab4ca319cdec3f5c715631d9c49ab559fdd53c8bed055172c45b09542738",
+      "replacement": "The reported map form supplies a seventeenth-century Dutch Maurice root.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1069",
+        "publication"
+      ],
+      "expected_sha256": "5e5dd3f5cfb3a6a06d1394d8b383b58bb42e4d15153b91aa97ca3020d0923417",
+      "replacement": "1 Nevill's Laws 361, chapter 92; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1100",
+        "publication"
+      ],
+      "expected_sha256": "13db34f697a6fb56cd5398b9ccdeddae75d056af18c547ad606a018faee93dc8",
+      "replacement": "Official municipal history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1102",
+        "publication"
+      ],
+      "expected_sha256": "be896c46398a3a7233ad6d63e07743980e9d12c3eb16d969d9380e25f0a76a75",
+      "replacement": "Data accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1103",
+        "publication"
+      ],
+      "expected_sha256": "ec783159c5f4bb7b5a853ebd520e61eb7bdafdd698b124f5e19564ece8b9919b",
+      "replacement": "1675–1676; digitized facsimile accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1104",
+        "publication"
+      ],
+      "expected_sha256": "922df12f4de4409c93938694098a87561e260a27850880b061d18d3c2681c88e",
+      "replacement": "Current county tourism/history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0609",
+      "path": [
+        "views",
+        "0609",
+        "sources",
+        "S1107",
+        "publication"
+      ],
+      "expected_sha256": "ef23b5cf3af4d4e07fe940a2f663da2c14976c02ae8947816a48cab79640f86c",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0610",
+      "path": [
+        "views",
+        "0610",
+        "sources",
+        "S1106",
+        "publication"
+      ],
+      "expected_sha256": "13db34f697a6fb56cd5398b9ccdeddae75d056af18c547ad606a018faee93dc8",
+      "replacement": "Official municipal history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0610",
+      "path": [
+        "views",
+        "0610",
+        "sources",
+        "S1107",
+        "publication"
+      ],
+      "expected_sha256": "ef23b5cf3af4d4e07fe940a2f663da2c14976c02ae8947816a48cab79640f86c",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0610",
+      "path": [
+        "views",
+        "0610",
+        "sources",
+        "S1108",
+        "publication"
+      ],
+      "expected_sha256": "b3ad9e9bb949499ab8fffd7041595a10ce120125c5619a38af27591c0fa1c3a7",
+      "replacement": "Official county historical overview; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0610",
+      "path": [
+        "views",
+        "0610",
+        "sources",
+        "S1109",
+        "publication"
+      ],
+      "expected_sha256": "3bf43fad5290b6a35c6cb63b6b28670cd8c1340c0dc385d8cae78bbf9ad465c4",
+      "replacement": "Federal documentation; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0610",
+      "path": [
+        "views",
+        "0610",
+        "sources",
+        "S1106",
+        "publication"
+      ],
+      "expected_sha256": "13db34f697a6fb56cd5398b9ccdeddae75d056af18c547ad606a018faee93dc8",
+      "replacement": "Official municipal history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0610",
+      "path": [
+        "views",
+        "0610",
+        "sources",
+        "S1107",
+        "publication"
+      ],
+      "expected_sha256": "ef23b5cf3af4d4e07fe940a2f663da2c14976c02ae8947816a48cab79640f86c",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0610",
+      "path": [
+        "views",
+        "0610",
+        "sources",
+        "S1108",
+        "publication"
+      ],
+      "expected_sha256": "b3ad9e9bb949499ab8fffd7041595a10ce120125c5619a38af27591c0fa1c3a7",
+      "replacement": "Official county historical overview; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0610",
+      "path": [
+        "views",
+        "0610",
+        "sources",
+        "S1109",
+        "publication"
+      ],
+      "expected_sha256": "3bf43fad5290b6a35c6cb63b6b28670cd8c1340c0dc385d8cae78bbf9ad465c4",
+      "replacement": "Federal documentation; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "19ba63d7bab8abd79b8c831842b0fff74f02421510cbdcb7f7ac6a63b6b89e1d",
+      "replacement": "The later denominational history reports Shiloh use before the Civil War.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S1110",
+        "publication"
+      ],
+      "expected_sha256": "539f2438bc2e70b10b1b2db66b15873188bf5f45496a165899363622bac977c4",
+      "replacement": "Current church history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S1111",
+        "publication"
+      ],
+      "expected_sha256": "a6cc28d3e04ca9912cfd3c5a2f112e3398edd42cd851882ebf9d74a7d474e446",
+      "replacement": "Early 20th century denominational history; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S1113",
+        "publication"
+      ],
+      "expected_sha256": "13db34f697a6fb56cd5398b9ccdeddae75d056af18c547ad606a018faee93dc8",
+      "replacement": "Official municipal history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S2038",
+        "publication"
+      ],
+      "expected_sha256": "f1895ae768c3dd0c8e3998072ab7cfeaa44f952ab3f3eb056fbcff75bad6b7ce",
+      "replacement": "Database pages accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S2039",
+        "publication"
+      ],
+      "expected_sha256": "af7e004334151f7a7523b6989846b34b82184a1d7ab75c99cf3c73c4f133839f",
+      "replacement": "Database page accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "19ba63d7bab8abd79b8c831842b0fff74f02421510cbdcb7f7ac6a63b6b89e1d",
+      "replacement": "The later denominational history reports Shiloh use before the Civil War.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S1110",
+        "publication"
+      ],
+      "expected_sha256": "539f2438bc2e70b10b1b2db66b15873188bf5f45496a165899363622bac977c4",
+      "replacement": "Current church history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S1111",
+        "publication"
+      ],
+      "expected_sha256": "a6cc28d3e04ca9912cfd3c5a2f112e3398edd42cd851882ebf9d74a7d474e446",
+      "replacement": "Early 20th century denominational history; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S1113",
+        "publication"
+      ],
+      "expected_sha256": "13db34f697a6fb56cd5398b9ccdeddae75d056af18c547ad606a018faee93dc8",
+      "replacement": "Official municipal history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S2038",
+        "publication"
+      ],
+      "expected_sha256": "f1895ae768c3dd0c8e3998072ab7cfeaa44f952ab3f3eb056fbcff75bad6b7ce",
+      "replacement": "Database pages accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0611",
+      "path": [
+        "views",
+        "0611",
+        "sources",
+        "S2039",
+        "publication"
+      ],
+      "expected_sha256": "af7e004334151f7a7523b6989846b34b82184a1d7ab75c99cf3c73c4f133839f",
+      "replacement": "Database page accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "4a8b2250a4b83352c8d07b84c576114de9ce986b31da6d7411fb893675bbb58e",
+      "replacement": "The government index gives January 24, 1812 for the Hopewell–Stow Creek boundary exchange.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "a4ba05f7508f706d4a0fde194f4e029f35a08a283908a9589fd66c587473efab",
+      "replacement": "The index gives March 13, 1845 dissolution; another legal account gives March 11. The competing repeal dates remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "4c7b45f618b2867a9ff32255129ccb989f69ffc649ee0d72d8d0d8d4656f815c",
+      "replacement": "The federal file records the February 7, 1934 Stoe township decision. It does not establish a colonial creek naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "events",
+        16,
+        "precision"
+      ],
+      "expected_sha256": "31091b6eedda7e474a862b1ff9e26490bb45f4991c895e79c21d860477b54804",
+      "replacement": "Exact filing date in published statement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S1088",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S1115",
+        "publication"
+      ],
+      "expected_sha256": "06a7c767bbb32aad50b542da1424beb3a5e1b00d360a77b57c9e6ef6b2a03fe9",
+      "replacement": "1933–1934 records; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S1118",
+        "publication"
+      ],
+      "expected_sha256": "13db34f697a6fb56cd5398b9ccdeddae75d056af18c547ad606a018faee93dc8",
+      "replacement": "Official municipal history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S2038",
+        "publication"
+      ],
+      "expected_sha256": "f1895ae768c3dd0c8e3998072ab7cfeaa44f952ab3f3eb056fbcff75bad6b7ce",
+      "replacement": "Database pages accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S2039",
+        "publication"
+      ],
+      "expected_sha256": "af7e004334151f7a7523b6989846b34b82184a1d7ab75c99cf3c73c4f133839f",
+      "replacement": "Database page accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S2040",
+        "publication"
+      ],
+      "expected_sha256": "f1895ae768c3dd0c8e3998072ab7cfeaa44f952ab3f3eb056fbcff75bad6b7ce",
+      "replacement": "Database pages accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "4a8b2250a4b83352c8d07b84c576114de9ce986b31da6d7411fb893675bbb58e",
+      "replacement": "The government index gives January 24, 1812 for the Hopewell–Stow Creek boundary exchange.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "a4ba05f7508f706d4a0fde194f4e029f35a08a283908a9589fd66c587473efab",
+      "replacement": "The index gives March 13, 1845 dissolution; another legal account gives March 11. The competing repeal dates remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "4c7b45f618b2867a9ff32255129ccb989f69ffc649ee0d72d8d0d8d4656f815c",
+      "replacement": "The federal file records the February 7, 1934 Stoe township decision. It does not establish a colonial creek naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "events",
+        16,
+        "precision"
+      ],
+      "expected_sha256": "31091b6eedda7e474a862b1ff9e26490bb45f4991c895e79c21d860477b54804",
+      "replacement": "Exact filing date in published statement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S1088",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S1115",
+        "publication"
+      ],
+      "expected_sha256": "06a7c767bbb32aad50b542da1424beb3a5e1b00d360a77b57c9e6ef6b2a03fe9",
+      "replacement": "1933–1934 records; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S1118",
+        "publication"
+      ],
+      "expected_sha256": "13db34f697a6fb56cd5398b9ccdeddae75d056af18c547ad606a018faee93dc8",
+      "replacement": "Official municipal history page; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S2038",
+        "publication"
+      ],
+      "expected_sha256": "f1895ae768c3dd0c8e3998072ab7cfeaa44f952ab3f3eb056fbcff75bad6b7ce",
+      "replacement": "Database pages accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S2039",
+        "publication"
+      ],
+      "expected_sha256": "af7e004334151f7a7523b6989846b34b82184a1d7ab75c99cf3c73c4f133839f",
+      "replacement": "Database page accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0612",
+      "path": [
+        "views",
+        "0612",
+        "sources",
+        "S2040",
+        "publication"
+      ],
+      "expected_sha256": "f1895ae768c3dd0c8e3998072ab7cfeaa44f952ab3f3eb056fbcff75bad6b7ce",
+      "replacement": "Database pages accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0613",
+      "path": [
+        "views",
+        "0613",
+        "sources",
+        "S1089",
+        "publication"
+      ],
+      "expected_sha256": "ea3fb4e5e26b37138ed9baab056bc0b82b0cef30f5e9e9fbc630d66d969740d5",
+      "replacement": "1970 nomination; digitized federal record accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0613",
+      "path": [
+        "views",
+        "0613",
+        "sources",
+        "S1090",
+        "publication"
+      ],
+      "expected_sha256": "347bbcc023b9f7507cc2c9b7f7bd6da31d11e0cb73d4b3ebd6e3846f33684635",
+      "replacement": "Local nonprofit historical overview; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0613",
+      "path": [
+        "views",
+        "0613",
+        "sources",
+        "S1119",
+        "publication"
+      ],
+      "expected_sha256": "a4665fbcc21aa8b17ecc1b21f1199b7d390635e22f492d77df5b0f48596c7b99",
+      "replacement": "2022 centennial publication; posted 2023; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0613",
+      "path": [
+        "views",
+        "0613",
+        "sources",
+        "S1120",
+        "publication"
+      ],
+      "expected_sha256": "ef23b5cf3af4d4e07fe940a2f663da2c14976c02ae8947816a48cab79640f86c",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0613",
+      "path": [
+        "views",
+        "0613",
+        "sources",
+        "S1089",
+        "publication"
+      ],
+      "expected_sha256": "ea3fb4e5e26b37138ed9baab056bc0b82b0cef30f5e9e9fbc630d66d969740d5",
+      "replacement": "1970 nomination; digitized federal record accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0613",
+      "path": [
+        "views",
+        "0613",
+        "sources",
+        "S1090",
+        "publication"
+      ],
+      "expected_sha256": "347bbcc023b9f7507cc2c9b7f7bd6da31d11e0cb73d4b3ebd6e3846f33684635",
+      "replacement": "Local nonprofit historical overview; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0613",
+      "path": [
+        "views",
+        "0613",
+        "sources",
+        "S1119",
+        "publication"
+      ],
+      "expected_sha256": "a4665fbcc21aa8b17ecc1b21f1199b7d390635e22f492d77df5b0f48596c7b99",
+      "replacement": "2022 centennial publication; posted 2023; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0613",
+      "path": [
+        "views",
+        "0613",
+        "sources",
+        "S1120",
+        "publication"
+      ],
+      "expected_sha256": "ef23b5cf3af4d4e07fe940a2f663da2c14976c02ae8947816a48cab79640f86c",
+      "replacement": "Legal-history event reconstruction; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0614",
+      "path": [
+        "views",
+        "0614",
+        "sources",
+        "S1127",
+        "publication"
+      ],
+      "expected_sha256": "a178be3e8da7835ae7205eb797c62789e5e4e224a7f675561cd95566dd9d7c95",
+      "replacement": "Official county biography; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0614",
+      "path": [
+        "views",
+        "0614",
+        "sources",
+        "S1127",
+        "publication"
+      ],
+      "expected_sha256": "a178be3e8da7835ae7205eb797c62789e5e4e224a7f675561cd95566dd9d7c95",
+      "replacement": "Official county biography; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0701",
+      "path": [
+        "views",
+        "0701",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "6d0e875a5162629c4bbdb6c36a9909396cc1400a703fd47abc1bbe2836231b28",
+      "replacement": "Broad interval covering several government titles",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0701",
+      "path": [
+        "views",
+        "0701",
+        "sources",
+        "S874",
+        "publication"
+      ],
+      "expected_sha256": "400059b1d7452f26909c2cbc505928fb8836aeb3f27139dbf9d52062cd756e81",
+      "replacement": "Later published Proceedings reproduction; issue year unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0701",
+      "path": [
+        "views",
+        "0701",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "6d0e875a5162629c4bbdb6c36a9909396cc1400a703fd47abc1bbe2836231b28",
+      "replacement": "Broad interval covering several government titles",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0701",
+      "path": [
+        "views",
+        "0701",
+        "sources",
+        "S874",
+        "publication"
+      ],
+      "expected_sha256": "400059b1d7452f26909c2cbc505928fb8836aeb3f27139dbf9d52062cd756e81",
+      "replacement": "Later published Proceedings reproduction; issue year unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0702",
+      "path": [
+        "views",
+        "0702",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "d73893a5ce0b9124b63f9abc2e1ae8cff3c8673ad6a9894841797ea2d4f6ae96",
+      "replacement": "Reported exact date; later dating of a recollection",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0702",
+      "path": [
+        "views",
+        "0702",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "99179441a85dca4bc79be1a597ecf7e4b4133dd9dcfd174273937217f712c261",
+      "replacement": "Folsom’s book recounts a parish naming meeting choosing Bloomfield, drawing on Crane’s later recollection.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0702",
+      "path": [
+        "views",
+        "0702",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "417b23f7e5dcbc69097d368ae5203f969431dba86a5dc0773b62e3a46f92481a",
+      "replacement": "The inferred filing differs from the June 20 dismissal of the challenge; neither establishes the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0702",
+      "path": [
+        "views",
+        "0702",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "d73893a5ce0b9124b63f9abc2e1ae8cff3c8673ad6a9894841797ea2d4f6ae96",
+      "replacement": "Reported exact date; later dating of a recollection",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0702",
+      "path": [
+        "views",
+        "0702",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "99179441a85dca4bc79be1a597ecf7e4b4133dd9dcfd174273937217f712c261",
+      "replacement": "Folsom’s book recounts a parish naming meeting choosing Bloomfield, drawing on Crane’s later recollection.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0702",
+      "path": [
+        "views",
+        "0702",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "417b23f7e5dcbc69097d368ae5203f969431dba86a5dc0773b62e3a46f92481a",
+      "replacement": "The inferred filing differs from the June 20 dismissal of the challenge; neither establishes the first naming day.",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
