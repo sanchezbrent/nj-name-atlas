@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_16",
+  "checkpoint": "PUBLIC_COPY_17",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -174,7 +174,19 @@
     "1311",
     "1312",
     "1313",
-    "1314"
+    "1314",
+    "1315",
+    "1316",
+    "1317",
+    "1318",
+    "1319",
+    "1320",
+    "1321",
+    "1322",
+    "1323",
+    "1324",
+    "1325",
+    "1326"
   ],
   "changes": [
     {
@@ -68990,6 +69002,3170 @@
       ],
       "expected_sha256": "04ab4768591a8f78ca35db7d96b8b238a50c8169fd04053e33fe249ef86658f5",
       "replacement": "Fair Haven (older riverside community); Navesink River (geographic setting); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "960a56cc1339d407ff99e7b7c7436d5b014a998ef0195c105ceb56fb92c053e6",
+      "replacement": "Farmingdale’s name evokes the area’s farming landscape and rural economy. A later history credited to Louise Usechak and the Manasquan Watershed Management Association, hosted by Howell Township, reports Marsh Bog, Upper Squankum from 1815 and Farmingdale from 1854. These are retrospective name accounts, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b343d9bd0678da4ce10b4183286db875e8b097d6643ab8a629da448b3fc32f7f",
+      "replacement": "Farmingdale fits a farming community, but the first chooser and intended meaning remain unknown. Postal and railway use may have helped spread the name; neither is established as the first naming institution.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7cae8273f28b42bfdc3d26707aace147d13953ae0dd300e94a7f15bc00827883",
+      "replacement": "Marsh Bog belongs to a later account of the earlier community. Its exact first use and original form remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7cae8273f28b42bfdc3d26707aace147d13953ae0dd300e94a7f15bc00827883",
+      "replacement": "Marsh Bog belongs to a later account of the earlier community. Its exact first use and original form remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f6be2d54271f1619942fa3462ebca7c94c7c7720497c8b395612cd5027493793",
+      "replacement": "The later history reports Upper Squankum from 1815. The exact original naming choice remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f6be2d54271f1619942fa3462ebca7c94c7c7720497c8b395612cd5027493793",
+      "replacement": "The later history reports Upper Squankum from 1815. The exact original naming choice remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "1606fd95589ca62b0048574bc7d5cfc58604f526ada0eefba0cda0b721bce811",
+      "replacement": "The index separately dates county corporation papers to April 20. That entry does not establish a second creation or delayed effect of the April 8 act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "1606fd95589ca62b0048574bc7d5cfc58604f526ada0eefba0cda0b721bce811",
+      "replacement": "The index separately dates county corporation papers to April 20. That entry does not establish a second creation or delayed effect of the April 8 act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "08ac240dee51b97d35170c79759c7870009b763a71c7e57fb4046522fb671f2b",
+      "replacement": "The later history reports Upper Squankum from 1815 and Farmingdale from 1854. These attributed dates do not establish the original naming decisions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "25390f2ca1bc4dbcd8fd936fcfe12c0444480f5999c7c39a98fb7a74a52daf23",
+      "replacement": "The later history reports Upper Squankum from 1815 and Farmingdale from 1854. These attributed dates do not establish the original naming decisions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "0e14c12ed2f5951698dee10106454b86dba59bf324f4e958e981c10a58adfef8",
+      "replacement": "The index separately lists April 20, 1903 corporation papers. That entry does not establish a second creation or delayed effect of the April 8 act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "64e03a04102d2b600c259f521ba867c3502e9ddd242183b299a07a5c2d3360ba",
+      "replacement": "The index separately lists April 20, 1903 corporation papers. That entry does not establish a second creation or delayed effect of the April 8 act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1316",
+      "path": [
+        "editorial",
+        "1316",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "8d27ddb408fbc0ce321ed9aa6ae94be4f3ddde646dcf233cf169ad58778c6eab",
+      "replacement": "Freehold and Monmouth Court House overlapped as locality names. Their exact early relationship and extent remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1316",
+      "path": [
+        "editorial",
+        "1316",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "8d27ddb408fbc0ce321ed9aa6ae94be4f3ddde646dcf233cf169ad58778c6eab",
+      "replacement": "Freehold and Monmouth Court House overlapped as locality names. Their exact early relationship and extent remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1317",
+      "path": [
+        "editorial",
+        "1317",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "696703c059479800de4f360c9b0118f7f7f78719cf24f067b52e889550987837",
+      "replacement": "October 31, 1693 is the reported colonial township date. It does not establish who first chose Freehold or their exact intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1317",
+      "path": [
+        "editorial",
+        "1317",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "696703c059479800de4f360c9b0118f7f7f78719cf24f067b52e889550987837",
+      "replacement": "October 31, 1693 is the reported colonial township date. It does not establish who first chose Freehold or their exact intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "editorial",
+        "1318",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "10b74ed1ca6e6403f1691c381f124b1ce29f1d672045d14bfd08beb06f106866",
+      "replacement": "Hazlet’s municipal name came from an identity already familiar locally. Later histories connect the locality and railway station with Dr. John Hazlett. The township has one final t; Hazlett has two and is also reported as a station form. The exact spelling sequence remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "editorial",
+        "1318",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "f924a8953cef44504e8b8e1adaa2974bc3f8d50f1d6be97ce7a15a3157a569c5",
+      "replacement": "The township was first called Raritan. In 1967 voters chose Hazlet to avoid confusion with other places named Raritan. The older station name is linked with Dr. John Hazlett, while its first chooser and spelling history remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "editorial",
+        "1318",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e8cf6972573a31a08b301680fbb9454ad9b12983bbe1d20a10a7420b25347a28",
+      "replacement": "The index gives November 7 for the vote and reported immediate effect. The separately reported November 28 date has an unresolved procedural role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "editorial",
+        "1318",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e8cf6972573a31a08b301680fbb9454ad9b12983bbe1d20a10a7420b25347a28",
+      "replacement": "The index gives November 7 for the vote and reported immediate effect. The separately reported November 28 date has an unresolved procedural role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "editorial",
+        "1318",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "13ec91552c1973eaabf310577a3470eb949f1f0d8fec24ed3e5385f0ab6c9d15",
+      "replacement": "An older Hazlett station form and an 1876 postal beginning are reported but remain unconfirmed. Neither establishes the first name chooser or exact spelling sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "editorial",
+        "1318",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "e557614bfd06876fede6b500582edbe4b72492a7af76051a3bb0f78903a86b11",
+      "replacement": "An older Hazlett station form and an 1876 postal beginning are reported but remain unconfirmed. Neither establishes the first name chooser or exact spelling sequence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "779b17f20c8a640f747b0b9117b591245893959e103d21585425f86542003c97",
+      "replacement": "Navesink Highlands and Highlands of Navesink describe the coastal bluffs. Their exact earliest mapped wording and first chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "779b17f20c8a640f747b0b9117b591245893959e103d21585425f86542003c97",
+      "replacement": "Navesink Highlands and Highlands of Navesink describe the coastal bluffs. Their exact earliest mapped wording and first chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "e02ed7f96ad9767a3c01ed3dd17c0f7509f7f1b1f61d289c82e4c632309c4245",
+      "replacement": "The 1914 addition changed borough territory while retaining Highlands. It was distinct from the borough’s creation and the older locality naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "e02ed7f96ad9767a3c01ed3dd17c0f7509f7f1b1f61d289c82e4c632309c4245",
+      "replacement": "The 1914 addition changed borough territory while retaining Highlands. It was distinct from the borough’s creation and the older locality naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d2c4bbde1f50d4f28684363d9f45653f1831512a10dab6fe77715808250beb49",
+      "replacement": "People shortened the older coastal name to Highlands during the nineteenth century. The first person or institution to do so remains unknown. Maps, shipping, mail and tourism helped carry the community’s identity without establishing who first chose it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "6147568617659befe33dba359ad371837eaf1d3ff03ec8d7b2a2e7f9119fcf49",
+      "replacement": "The coastal descriptive forms predate the borough. Their exact earliest mapped wording and first adopter remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "1431c7b99d0d248833f4662294b4475b73beb40d739fdb93256482652c65f730",
+      "replacement": "The coastal descriptive forms predate the borough. Their exact earliest mapped wording and first adopter remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "0c7ee6b4a5724a8b648f012985ec0b40a3e4d808bf2a59b9329fc6d9ae293279",
+      "replacement": "Maritime, map, postal and tourism uses carried the older coastal identity. No one institution is established as its first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "e3facefcdc41f05198a24d0d6a806b952197fe4af0e8a79178d9420bdf1be9a0",
+      "replacement": "Maritime, map, postal and tourism uses carried the older coastal identity. No one institution is established as its first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "8abc97c47b4c935653215f236bd51a72319134ab72e7b7800d925b57be2b63ce",
+      "replacement": "The municipal history says the naming is unclear and gives the Dutch explanation with qualification. A separate Holmes-family tradition also remains unconfirmed. The municipal account does not establish that family explanation, and dividing the modern name into plausible words cannot prove the original intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d54e58eab48729bd5fc4c15c73e80d31be91b88190b46f8d56d76590b9c89433",
+      "replacement": "The municipal history says the name’s origin is unclear and offers the Dutch explanation as a possibility. A separate Holmes-family story also remains unconfirmed. Neither explanation establishes what the original name chooser intended.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "221a697836b73297672355d8f509cb7d231f6d4d43ef4064dbaa7748b1cbdc99",
+      "replacement": "Earlier locality use is reported, but its first dated occurrence remains unconfirmed. The 1857 township title is a separate dated stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "221a697836b73297672355d8f509cb7d231f6d4d43ef4064dbaa7748b1cbdc99",
+      "replacement": "Earlier locality use is reported, but its first dated occurrence remains unconfirmed. The 1857 township title is a separate dated stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e2fdde0dbd389ae6579b20e1f0c6a88a45aba248009e426261c894bc895567d2",
+      "replacement": "A Holmes-family explanation and a proposed Dutch derivation remain unresolved. The municipal history presents the Dutch explanation with qualification.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e2fdde0dbd389ae6579b20e1f0c6a88a45aba248009e426261c894bc895567d2",
+      "replacement": "A Holmes-family explanation and a proposed Dutch derivation remain unresolved. The municipal history presents the Dutch explanation with qualification.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "7a5445e105974d5f5aa80e9492aafaf8c7b5113c4b8bfe538142c6cca0ee0fb9",
+      "replacement": "Earlier locality use is reported but its first dated occurrence remains unconfirmed. Township government adopted Holmdel in 1857.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "cc4bfe5f8d3944ccbb52db13e2a2257d4061eb460cf7ca4adf619588e43e9872",
+      "replacement": "Earlier locality use is reported but its first dated occurrence remains unconfirmed. Township government adopted Holmdel in 1857.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1321",
+      "path": [
+        "editorial",
+        "1321",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "6a273f38f2a7200c7aff0443d8cd793d25609c749960ef0ef12d6cc717d4dc43",
+      "replacement": "The township was created from Shrewsbury on February 23, 1801. Later local history attributes its name to Governor Richard Howell, while the original proposer and exact dedication statement remain unknown. Farmingdale’s later separation changed territory without renaming Howell.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1321",
+      "path": [
+        "editorial",
+        "1321",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b83a53c75c676a436872cbb6334010c21bb4ee624f727dc3e4fd5b3029fdc12e",
+      "replacement": "The township was created in 1801 and is linked in later history with Governor Richard Howell. The original proposer and exact naming intention remain unknown. Farmingdale later became a separate borough; Howell kept its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1321",
+      "path": [
+        "editorial",
+        "1321",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "c41afa0c0a707b685127114c4d5a861f4bf3bb0c8d70e7c129bd087ceff308b0",
+      "replacement": "The February 23, 1801 creation date is distinct from the later attribution to Governor Richard Howell. The original proposer and exact dedication statement remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1321",
+      "path": [
+        "editorial",
+        "1321",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "9d02bc99de6bd8be235b6aff8140be839f21fc1eb12ecb48b4c78ec92c7b84e8",
+      "replacement": "The February 23, 1801 creation date is distinct from the later attribution to Governor Richard Howell. The original proposer and exact dedication statement remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0739f45bf74d580d4e1545851330731a72304886c32122c1ed710a95d707ce3a",
+      "replacement": "The borough history reports formation of the Interlaken Land Company in 1890. That attributed company stage does not establish the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0739f45bf74d580d4e1545851330731a72304886c32122c1ed710a95d707ce3a",
+      "replacement": "The borough history reports formation of the Interlaken Land Company in 1890. That attributed company stage does not establish the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "84be1fe06534b03d2770b6798c38980219e9202d59daa8168d821e24f7940663",
+      "replacement": "The later borough history describes a farm and then development companies using Interlaken. The 1888 purchase does not establish the exact naming day, and the original naming choice remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "806895a0f065574eff2809ff1938d0d8227531a10ad5c8c8546a963176eb1fb0",
+      "replacement": "The farm story is attributed to a later borough history. The reported 1888 purchase does not establish the exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "806895a0f065574eff2809ff1938d0d8227531a10ad5c8c8546a963176eb1fb0",
+      "replacement": "The farm story is attributed to a later borough history. The reported 1888 purchase does not establish the exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "ed462e9fbd65800a5fff83452b0547d53ebb0665ef1063301b52db66866af070",
+      "replacement": "March 11 legislation preceded an indexed May 3 vote and reported June 26 council seating. The index explicitly attributes the vote’s effective date to an unofficial source; the exact operative sequence remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "4d31a88a386b292670b97a01813ef7653b1130b26d3ca36dbe0e81053917077d",
+      "replacement": "March 11 legislation preceded an indexed May 3 vote and reported June 26 council seating. The index explicitly attributes the vote’s effective date to an unofficial source; the exact operative sequence remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f387ebdc95d8d59d1c94fb2858cab58d9d5b1ef204ad36582643506aedb69171",
+      "replacement": "The index gives May 3 for the vote and effect, explicitly attributing the effective date to an unofficial source. That qualification remains part of the reported chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f387ebdc95d8d59d1c94fb2858cab58d9d5b1ef204ad36582643506aedb69171",
+      "replacement": "The index gives May 3 for the vote and effect, explicitly attributing the effective date to an unofficial source. That qualification remains part of the reported chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "9c5bdd2a77c333a07ea6c0184f677595f8e01192f030e9b3fe57be94833b52a6",
+      "replacement": "The borough history reports June 26 seating of the first mayor and council. This attributed organizing stage is separate from the enabling act and vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "editorial",
+        "1322",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "9c5bdd2a77c333a07ea6c0184f677595f8e01192f030e9b3fe57be94833b52a6",
+      "replacement": "The borough history reports June 26 seating of the first mayor and council. This attributed organizing stage is separate from the enabling act and vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "853f738d817719d76f66725ed440f436264ac90c1e0ef237b58b05db359ab5f3",
+      "replacement": "A 2017 article tells of an unnamed pastor and 132 people asking John Kean for help with a post office in 1884. It links the name Keansburg with Kean. The original petition and exact naming decision remain unconfirmed, and the pastor’s identity remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "470bd8e774c53575654ae535c8f1f62a2d7a0440c6f64832e7be1b8ecf1c0b2c",
+      "replacement": "A November 1, 1884 postal opening, Mrs. W. W. Ramsay as postmaster and an earlier discontinued office are also reported but remain unconfirmed. These details do not identify the unnamed pastor or establish that local postal service first began in 1884.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "55835a263307c9a1a36b35a4301fae0fd140204a5f3e88e4e8cb1586dfafb2dd",
+      "replacement": "Other reported details include a November 1, 1884 office, Mrs. W. W. Ramsay as postmaster and an earlier office that closed. Those claims remain unconfirmed. They do not identify the pastor or establish that postal service first began in 1884.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "label"
+      ],
+      "expected_sha256": "1699046519cdd1e3183a688875f3d7a299d0af94b48331dd21ee65058178da7d",
+      "replacement": "Reported postal details remain uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "label"
+      ],
+      "expected_sha256": "1699046519cdd1e3183a688875f3d7a299d0af94b48331dd21ee65058178da7d",
+      "replacement": "Reported postal details remain uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "7e3cff1273409f347cea3b81253b7e5c4c27226f81274956386ecbf71570f395",
+      "replacement": "A November 1, 1884 office, Mrs. W. W. Ramsay as postmaster and an earlier discontinued office are reported but remain unconfirmed. The pastor’s identity remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "7e3cff1273409f347cea3b81253b7e5c4c27226f81274956386ecbf71570f395",
+      "replacement": "A November 1, 1884 office, Mrs. W. W. Ramsay as postmaster and an earlier discontinued office are reported but remain unconfirmed. The pastor’s identity remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "02004a51c666d7f26730917225b101584b719fc24d7040d4c6cc6ce1653c2fc9",
+      "replacement": "Granville was an earlier locality name; Waackaack referred to a broader area. Their exact boundaries and relationship remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "02004a51c666d7f26730917225b101584b719fc24d7040d4c6cc6ce1653c2fc9",
+      "replacement": "Granville was an earlier locality name; Waackaack referred to a broader area. Their exact boundaries and relationship remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "da6895c86f87bea715164f8011cca528c59359bd8f642afcb36793acb18c9a6b",
+      "replacement": "Granville and the broader Waackaack area were related older identities. Their exact geographic relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "editorial",
+        "1323",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "da6895c86f87bea715164f8011cca528c59359bd8f642afcb36793acb18c9a6b",
+      "replacement": "Granville and the broader Waackaack area were related older identities. Their exact geographic relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "8c656dfe97c850d6da3b09d02f596aee252081f892407d104a47ddf9814af656",
+      "replacement": "Reported early stages include an April 1830 survey, dock and storehouse construction during 1830, and naming in spring 1831. These details remain unconfirmed, and the year-level construction date does not establish an April building date. A March 12, 1833 post office with Leonard Walling as postmaster is also reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "9d9669c7befcd78da2591e51f8bb8423c06e201e49021c2005fa38073298a2e9",
+      "replacement": "Several early stages are reported but remain unconfirmed: an April 1830 survey, construction during 1830, naming in spring 1831 and a March 12, 1833 post office with Leonard Walling as postmaster. The construction year does not establish an April building date. Walling’s reported roles do not prove he chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "487590d8195a3a94944a01e193609142417fe84979f040f80590bffa94f05903",
+      "replacement": "An April 1830 survey is reported but remains unconfirmed. Dock and storehouse construction is separately reported only to the year 1830.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "487590d8195a3a94944a01e193609142417fe84979f040f80590bffa94f05903",
+      "replacement": "An April 1830 survey is reported but remains unconfirmed. Dock and storehouse construction is separately reported only to the year 1830.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b238801f429f546b4e3d2016a788e99ffc30cd089c3cd7187d36b611f5b9ff46",
+      "replacement": "Spring 1831 naming is reported but remains unconfirmed. The exact first naming decision and individual chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b238801f429f546b4e3d2016a788e99ffc30cd089c3cd7187d36b611f5b9ff46",
+      "replacement": "Spring 1831 naming is reported but remains unconfirmed. The exact first naming decision and individual chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "d70698b304fffeae57c134636a21f571b2a3cb82337d54de1579e637e39b4914",
+      "replacement": "The court report uses Key Port and carries a December Term 1853 heading. Its identification as 1854 does not establish an exact publication date or the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "d70698b304fffeae57c134636a21f571b2a3cb82337d54de1579e637e39b4914",
+      "replacement": "The court report uses Key Port and carries a December Term 1853 heading. Its identification as 1854 does not establish an exact publication date or the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e1c7ed2dc21e24125d5fbde308153675d4b21720bfc3c11dc6e16cbc8115fa25",
+      "replacement": "An April 1830 survey, construction during 1830 and naming in spring 1831 are reported but remain unconfirmed. These are distinct stages with different date precision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e1c7ed2dc21e24125d5fbde308153675d4b21720bfc3c11dc6e16cbc8115fa25",
+      "replacement": "An April 1830 survey, construction during 1830 and naming in spring 1831 are reported but remain unconfirmed. These are distinct stages with different date precision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "c846aa10cbba55a5a2b5e47f9d486ddb0c6384d39a8a53ed464c1dd1c048ed86",
+      "replacement": "A March 12, 1833 office with Leonard Walling as postmaster is reported but remains unconfirmed. That role does not establish him as the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "editorial",
+        "1324",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "b49caa85c7d08001457bfc7bbf023f920bc33d8929a9fa2a94aa66effaa14cc3",
+      "replacement": "A March 12, 1833 office with Leonard Walling as postmaster is reported but remains unconfirmed. That role does not establish him as the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1325",
+      "path": [
+        "editorial",
+        "1325",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "39ce98119835d7e7fb5f1478bfb2ef682c3752adc2e300195ed53b51ae67b4a4",
+      "replacement": "John T. Lovett is credited with promoting restoration of Little Silver for postal use, but the petition and reported July 30, 1879 order remain unconfirmed. Borough government followed a March 19, 1923 enabling act and April 28 vote, adopting an already familiar community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1325",
+      "path": [
+        "editorial",
+        "1325",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "851d5f7d311a1def5659a52e08d7fac029d3efaea6e9485fccfb879c49959322",
+      "replacement": "A later story credits John T. Lovett with helping restore Little Silver as a postal name. The original petition and exact order date remain unconfirmed. In 1923 voters approved a borough using the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1325",
+      "path": [
+        "editorial",
+        "1325",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "f23fdf973c97913350a5e7a9d1df625df005b9e020bad563880e67236e7788a4",
+      "replacement": "Stories disagree about which Parker family member brought the name. Lovett is credited with a later postal effort, whose original petition remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1325",
+      "path": [
+        "editorial",
+        "1325",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ada0fb468906e9ee1d7fbe93779bc03eae8840f6317bdc6234c19622c2031a37",
+      "replacement": "Ellis’s 1885 history calls the place Parkerville, now Little Silver. The earlier 1665/1667 tradition does not establish an original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1325",
+      "path": [
+        "editorial",
+        "1325",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ada0fb468906e9ee1d7fbe93779bc03eae8840f6317bdc6234c19622c2031a37",
+      "replacement": "Ellis’s 1885 history calls the place Parkerville, now Little Silver. The earlier 1665/1667 tradition does not establish an original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1325",
+      "path": [
+        "editorial",
+        "1325",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "df30e6f40ab0c133b507caf11380318a5e237b7f3586d4d806072b99b6a04c6d",
+      "replacement": "An office is reported in 1875 and a depot by 1885. The 1890 date concerns the historic station building. The reported 1879 postal order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1325",
+      "path": [
+        "editorial",
+        "1325",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "df30e6f40ab0c133b507caf11380318a5e237b7f3586d4d806072b99b6a04c6d",
+      "replacement": "An office is reported in 1875 and a depot by 1885. The 1890 date concerns the historic station building. The reported 1879 postal order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1326",
+      "path": [
+        "editorial",
+        "1326",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "373cde5c46ff3cca3ca6f2f301faa4c17232eb4b05cd4a090ca792b40dea252b",
+      "replacement": "The court reports September 4, 1885 filing of the map made in 1883. This is a later judicial account, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1326",
+      "path": [
+        "editorial",
+        "1326",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "373cde5c46ff3cca3ca6f2f301faa4c17232eb4b05cd4a090ca792b40dea252b",
+      "replacement": "The court reports September 4, 1885 filing of the map made in 1883. This is a later judicial account, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1326",
+      "path": [
+        "editorial",
+        "1326",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "9088a97e5e2717dc162dc2dd6768ae3a49002ae30dc5aa85ea2feffac2c6673f",
+      "replacement": "The 1947 opinion describes a May 1883 map and September 4, 1885 filing. That is a later judicial account of the map, without an established original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "8317d5b91c176207b61f22477b18f7f16ce592be337f80cbb1b631c15e631d46",
+      "replacement": "The later history reports Farmingdale from 1854. Its first chooser, intended meaning and any original postal or railway naming role remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "editorial",
+        "1315",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "8317d5b91c176207b61f22477b18f7f16ce592be337f80cbb1b631c15e631d46",
+      "replacement": "The later history reports Farmingdale from 1854. Its first chooser, intended meaning and any original postal or railway naming role remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "editorial",
+        "1318",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "4bcf2a9c3c90d31d3aebdd21f5dfc4204bae2d059b064f5b16d723e7a56c83a8",
+      "replacement": "Later local history connects the locality and station with Dr. John Hazlett. The exact first use and spelling sequence remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "editorial",
+        "1318",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "4bcf2a9c3c90d31d3aebdd21f5dfc4204bae2d059b064f5b16d723e7a56c83a8",
+      "replacement": "Later local history connects the locality and station with Dr. John Hazlett. The exact first use and spelling sequence remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "2a720805644324e7d82377591c8b9dac76115b8059876f35e4a39b731f65cae1",
+      "replacement": "The February 23, 1857 township creation adopted Holmdel without establishing either origin explanation. The earlier forms and original naming intention remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "editorial",
+        "1320",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "2a720805644324e7d82377591c8b9dac76115b8059876f35e4a39b731f65cae1",
+      "replacement": "The February 23, 1857 township creation adopted Holmdel without establishing either origin explanation. The earlier forms and original naming intention remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "editorial",
+        "1319",
+        "sidebar",
+        "fields",
+        "alternatives",
+        "text"
+      ],
+      "expected_sha256": "984d11b04c2ccce82dd7974137c1e2d7d399fc2f761c31e501c61075b81da5bd",
+      "replacement": "Older reported forms include Navesink Highlands and Highlands of Navesink. Their exact first mapped use remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Approximate early settlement period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "eb2d3d003b9349ba0736ec81b636afde7caa4a5f685383f75132559ae50e29a9",
+      "replacement": "Year reported by later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "080cf2a4e91d04785e84a743f3ce461ac120374c892f25d517ade0fd6b635114",
+      "replacement": "The Usechak and MWMA history hosted by Howell reports Upper Squankum from 1815. The original naming decision remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "eb2d3d003b9349ba0736ec81b636afde7caa4a5f685383f75132559ae50e29a9",
+      "replacement": "Year reported by later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "942a5758610e0fec67def284f6afe23b56a439c689ed6f1dc018474f6ef7ec6c",
+      "replacement": "Marsh Bog (reported older locality); Upper Squankum (reported former name); Farmingdale (community); Howell Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1316",
+      "path": [
+        "views",
+        "1316",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Reported courthouse period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1316",
+      "path": [
+        "views",
+        "1316",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad period of overlapping locality names",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1316",
+      "path": [
+        "views",
+        "1316",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2a55f698512bb3288e20b009f8ec0626add928af17b8742a8e6977e610479ed5",
+      "replacement": "Freehold (older township name); Monmouth Court House (overlapping locality); Town of Freehold (earlier government); Freehold Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1317",
+      "path": [
+        "views",
+        "1317",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad period; exact use dates unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1317",
+      "path": [
+        "views",
+        "1317",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ec5e6ae78b045b03778a37616f7cab14c5577b5f8fb2f434e17d2b76588731be",
+      "replacement": "Freehold (colonial township); Lower Freehold (relational descriptor); Upper Freehold (separated township); Freehold Borough (later separate government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Earlier locality period; exact spelling sequence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "b45ac979f2ef8e1a50341ffa665c1f69bad9a958f19a582ff5f08ebcb6924b59",
+      "replacement": "Later histories connect the locality and station with Dr. John Hazlett. An older Hazlett station form and an 1876 postal beginning are reported but remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e0d85b1b68052a1ee56064ce3265ba5b8ed9cc499bf13beb4e6ceaf3a8c5d9ac",
+      "replacement": "The index records approval of Raritan’s change to Hazlet on November 7, 1967 and reports immediate effect. The separately reported November 28 date has an unresolved procedural role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "sources",
+        "S1922",
+        "author"
+      ],
+      "expected_sha256": "b7b168f08a27c8369bb57764f1d808318931b83801cbfa39414ef31f259bf269",
+      "replacement": "Franklin Ellis",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "sources",
+        "S1922",
+        "title"
+      ],
+      "expected_sha256": "bdb97a0969425dd43d933a73e64a3a68275a9f1587683909012fa1c25e643d91",
+      "replacement": "History of Monmouth County — Hazlett station and Keansburg, page 702",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a8be9dac81b015928a74933d00f738b4947ff27720c541bb7b10d5e8ec9048c5",
+      "replacement": "Raritan Township (former municipal name); Hazlett (reported station form); Dr. John Hazlett (attributed namesake); Middletown Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1319",
+      "path": [
+        "views",
+        "1319",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad coastal locality period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1319",
+      "path": [
+        "views",
+        "1319",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad century; exact shortening date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1319",
+      "path": [
+        "views",
+        "1319",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "045b9521ffdb2433bcf36f00979bed709a2efea922e5655301f95c52bacf22ac",
+      "replacement": "Navesink Highlands (older coastal name); Highlands of Navesink (older form); Sandy Hook Bay (setting); Middletown Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Reported earlier locality period; first occurrence unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8710c7cb51e5bf37a72dc4211f1afc3ea69f3663a70b2b8c29b8bc8bdafb488b",
+      "replacement": "Earlier locality use of Holmdel is reported but its first dated occurrence remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "20efde1e52370e27c130bbd7758bbfe22c6af5e13129d6d2a94de71984180778",
+      "replacement": "Reported earlier use remains qualified; the 1857 statutory title is a separate dated stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "859c11ddf6dfbe79b5908229ec278527b2072b17bad23286f7824cd0cfc38a4d",
+      "replacement": "Legal municipal adoption of Holmdel; the exact earlier locality use remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad period of later explanations",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "6f785b26ab986bca236f2ab8c6d29f1cabc092682f7cad4ee892a0a4b7301e53",
+      "replacement": "A Holmes-family tradition and proposed Dutch derivation remain unresolved. The municipal history gives the Dutch explanation with qualification and does not establish the separate family theory.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "278f09bd4fda8474b0d34404ac6dc3a530c7699dce88508b23c3385f12ea4585",
+      "replacement": "The original meaning and naming intention remain unsettled.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "afc4709054b71fdf2d6e1c1639081a27a7e2b7ee691356e90d7cb8f5e1b7a8c8",
+      "replacement": "Holmdel (reported earlier locality); Holmes family (unconfirmed explanation); Holm and Del (proposed Dutch explanation); Raritan Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1321",
+      "path": [
+        "views",
+        "1321",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "653323baef177058e4c7b0d1c57c1366ef59193cd0628ccc7cc6e293cc705fdb",
+      "replacement": "The Legislature created Howell Township on February 23, 1801. Later local history attributes the name to Governor Richard Howell; the original proposer and exact dedication statement remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1321",
+      "path": [
+        "views",
+        "1321",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "70f4cfe9cbba923ae75ff2c9ee74a9f8dc55ee25aa66cad394e6247686c81382",
+      "replacement": "Richard Howell (attributed namesake); Shrewsbury Township (parent); Farmingdale (later separated borough)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Approximate development period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "a25d499677bb652eb1afcb4e501a1df05075c1d0af39e2ff6bc55f22d4b33c9a",
+      "replacement": "The borough history reports formation of the Interlaken Land Company in 1890; the exact original naming choice remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "9086885c5ed4b2bfc03316bd923ffe768b0be30ac458ec79f254f292c0065479",
+      "replacement": "The borough history reports a development revival in 1905 through International Trust and Stormfelz-Lovely-Neville.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "2904499dde16f7fb9836dd324b1d1db6bc4a07dbd0818a58f36e49b91dfab664",
+      "replacement": "The index gives May 3, 1922 for the incorporation election and effect, explicitly attributing the effective date to an unofficial source.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "ba22dfd7d17f758aa384d82430fb37e2844d6fa62bc96f4186a1e4f2c50a0606",
+      "replacement": "The borough history reports that the first mayor and council took their seats on June 26, 1922.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "2214ae6bbe3ac2ac870008303dd9ff4aeabeda1ce8a1349d4dbf917959b9d648",
+      "replacement": "A reported organizing stage, distinct from the enabling act and vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "sources",
+        "S1920",
+        "publication"
+      ],
+      "expected_sha256": "224bfc4099715df49c9e6c8d12cd4e0bc64de72cb1195361210f8c2f5a9867ab",
+      "replacement": "1998 book account credited by an undated borough history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "cea3bb5b62a31d9d736db1d1d46c61b161d904272ed97a3a7ecf8ce365185f4c",
+      "replacement": "Interlaken Farm (reported estate name); Francis and Fannie Weld (reported adopters); Interlaken Land Company (developer); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad earlier locality period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a2e20f53348dc0404dc4e4de9031b824ae09b550a5fcc1bda4ae378b142d6312",
+      "replacement": "Granville was an older locality name, while Waackaack referred to a broader area. Their exact geographic relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "beaa81017ec2ade050ffcd56676ee7ddec70e5ddc56397aadcf6044a1a164cbf",
+      "replacement": "The 2017 article reports an 1884 petition with 132 signers, Kean’s assistance and a postal honorific. A November 1, 1884 office is also reported but remains unconfirmed; the original naming decision and pastor’s identity remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "0b4198aad717347f7d0115ee14b897ce94fc4c6e1fe52693cd4557aada7fbf54",
+      "replacement": "An attributed postal-honorific account, without an established original naming order.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "sources",
+        "S1922",
+        "author"
+      ],
+      "expected_sha256": "b7b168f08a27c8369bb57764f1d808318931b83801cbfa39414ef31f259bf269",
+      "replacement": "Franklin Ellis",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "sources",
+        "S1922",
+        "title"
+      ],
+      "expected_sha256": "bdb97a0969425dd43d933a73e64a3a68275a9f1587683909012fa1c25e643d91",
+      "replacement": "History of Monmouth County — Hazlett station and Keansburg, page 702",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "90f057d7abd2bef1af7c9a26753d9bfcbfccea1014412396810339ff8fd868ce",
+      "replacement": "Granville (older locality); Waackaack (broader area); John Kean (attributed honoree); Middletown and Raritan Townships (parents)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Earlier property and locality period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "58f0297dbb6f64fc167dac06c921309fdb33b667f798a15cf2876cd3471dcc63",
+      "replacement": "The court report describes Key Grove property. Fishing Point is separately reported as an older locality; these labels do not establish identical geographic extent or one continuous legal name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Reported purchase period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "2f5634f5a8974d3c17988bc00ee51e18521f17c3c4c76e3415a19efe6dca5f94",
+      "replacement": "An April 9, 1830 survey is reported but remains unconfirmed. Dock and storehouse construction is separately dated only to 1830, without an established April building date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "128a2ca870df095853704263d020628bd21a9424c0c5e1fd98f83779f3288cf2",
+      "replacement": "Reported construction year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "59412cb52769b72ec70a548d0557ab9d6ed56ebd479277fd438dd3020e56c7a2",
+      "replacement": "Dock and storehouse construction during 1830 is reported but remains unconfirmed. That year-level account is separate from the April survey.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "e9772e5ebb214e0b4b6cbaee01f6560c0f6885fa6783c19d28f3bc1aef78a1b2",
+      "replacement": "Reported season; exact naming day unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "c6f39e7accd7532815dd02122d43ad7798559ca85022ea5bd8614ab427965b9d",
+      "replacement": "Naming in spring 1831 is reported but remains unconfirmed. The exact original naming decision and individual chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "55c67313838960432777e08e86ce60d7701a8d02a268351756559b8ebf930b9c",
+      "replacement": "A Keyport post office on March 12, 1833 with Leonard Walling as postmaster is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "4d8b63ecbea6068ea7eb1feb281e7d14a0f9453cc57eaa7f5baa2fe3864126a4",
+      "replacement": "The report prints Key Port on page 516; pages 494–495 carry the Taylor caption and December Term 1853 heading. The report is identified as 1854, without an established exact publication date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "949a41a3c8d91e82d34d30e26c5ded30970c2c99b520e137342217c6bd5e60b0",
+      "replacement": "Printed use in the court report, distinct from original naming or an exact publication date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S1921",
+        "author"
+      ],
+      "expected_sha256": "b7b168f08a27c8369bb57764f1d808318931b83801cbfa39414ef31f259bf269",
+      "replacement": "Franklin Ellis",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S1921",
+        "title"
+      ],
+      "expected_sha256": "8d273014b0e012459698a0ded1f75e57b936ae6ea213f837da88261ccde5c8e8",
+      "replacement": "History of Monmouth County — Keyport postal account, page 706",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S415",
+        "author"
+      ],
+      "expected_sha256": "9701fd2eb162674f72635c18b993fe1ab5a8eb81510eb451cf6b0bb0c72ba015",
+      "replacement": "U.S. Supreme Court; U.S. Reports, hosted by the Library of Congress",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S415",
+        "publication"
+      ],
+      "expected_sha256": "0175e4366aff0e17d798c0e67bf16c245c9185a10f445c961d77384015fe1f5b",
+      "replacement": "December Term 1853; report identified as 1854, exact publication date uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S416",
+        "author"
+      ],
+      "expected_sha256": "ef5f5651145ffa1418f3bf853e87344d63ef323528129b74a8c545c273e3f305",
+      "replacement": "Franklin Ellis",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S416",
+        "title"
+      ],
+      "expected_sha256": "527f67307f83bb3d70229076336e7b48e1201d43e992038e9383a20073b11b25",
+      "replacement": "History of Monmouth County — Keyport section, pages 703–704",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f03946cbbfa4ac5c53c212e6311959cbd8fb004f940357c9f20c0188ab333666",
+      "replacement": "Key Grove (older property); Fishing Point (related locality); Key Port (printed form); Leonard Walling (reported promoter and postmaster); Raritan Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1325",
+      "path": [
+        "views",
+        "1325",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "a355a24315d00bf498d791b887c2e27ea38cb66edfc40fd24f98abd4d76faf0b",
+      "replacement": "Lovett is credited with a postal restoration petition and a July 30, 1879 order, but the petition and exact order date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1325",
+      "path": [
+        "views",
+        "1325",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "e7eeb1a0e29b6661a7bb4a31c7164b219576e627b312778005c54954266ec30a",
+      "replacement": "A reported postal change whose exact adoption date remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1325",
+      "path": [
+        "views",
+        "1325",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7b0015fc64da5ffedec9dac1928003e5c73f1d7f76a6ab06563ea05146feba3f",
+      "replacement": "Parkerville and Parkersville (older community forms); Little Silver Depot (reported earlier station); Parker family (origin tradition); John T. Lovett (reported postal promoter); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1326",
+      "path": [
+        "views",
+        "1326",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d5b1a1071497c865fdd19a943614af5d100f8c96c9630584ff30d3600e4017a6",
+      "replacement": "Loch Arbour (subdivision); Lochaber, Scotland (usual origin explanation); Stout and Johnson (landowners); Herman Lehlbach (surveyor); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Approximate early settlement period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "eb2d3d003b9349ba0736ec81b636afde7caa4a5f685383f75132559ae50e29a9",
+      "replacement": "Year reported by later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "080cf2a4e91d04785e84a743f3ce461ac120374c892f25d517ade0fd6b635114",
+      "replacement": "The Usechak and MWMA history hosted by Howell reports Upper Squankum from 1815. The original naming decision remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "eb2d3d003b9349ba0736ec81b636afde7caa4a5f685383f75132559ae50e29a9",
+      "replacement": "Year reported by later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1315",
+      "path": [
+        "views",
+        "1315",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "942a5758610e0fec67def284f6afe23b56a439c689ed6f1dc018474f6ef7ec6c",
+      "replacement": "Marsh Bog (reported older locality); Upper Squankum (reported former name); Farmingdale (community); Howell Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1316",
+      "path": [
+        "views",
+        "1316",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Reported courthouse period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1316",
+      "path": [
+        "views",
+        "1316",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad period of overlapping locality names",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1316",
+      "path": [
+        "views",
+        "1316",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2a55f698512bb3288e20b009f8ec0626add928af17b8742a8e6977e610479ed5",
+      "replacement": "Freehold (older township name); Monmouth Court House (overlapping locality); Town of Freehold (earlier government); Freehold Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1317",
+      "path": [
+        "views",
+        "1317",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad period; exact use dates unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1317",
+      "path": [
+        "views",
+        "1317",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ec5e6ae78b045b03778a37616f7cab14c5577b5f8fb2f434e17d2b76588731be",
+      "replacement": "Freehold (colonial township); Lower Freehold (relational descriptor); Upper Freehold (separated township); Freehold Borough (later separate government)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Earlier locality period; exact spelling sequence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "b45ac979f2ef8e1a50341ffa665c1f69bad9a958f19a582ff5f08ebcb6924b59",
+      "replacement": "Later histories connect the locality and station with Dr. John Hazlett. An older Hazlett station form and an 1876 postal beginning are reported but remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e0d85b1b68052a1ee56064ce3265ba5b8ed9cc499bf13beb4e6ceaf3a8c5d9ac",
+      "replacement": "The index records approval of Raritan’s change to Hazlet on November 7, 1967 and reports immediate effect. The separately reported November 28 date has an unresolved procedural role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "sources",
+        "S1922",
+        "author"
+      ],
+      "expected_sha256": "b7b168f08a27c8369bb57764f1d808318931b83801cbfa39414ef31f259bf269",
+      "replacement": "Franklin Ellis",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "sources",
+        "S1922",
+        "title"
+      ],
+      "expected_sha256": "bdb97a0969425dd43d933a73e64a3a68275a9f1587683909012fa1c25e643d91",
+      "replacement": "History of Monmouth County — Hazlett station and Keansburg, page 702",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1318",
+      "path": [
+        "views",
+        "1318",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "a8be9dac81b015928a74933d00f738b4947ff27720c541bb7b10d5e8ec9048c5",
+      "replacement": "Raritan Township (former municipal name); Hazlett (reported station form); Dr. John Hazlett (attributed namesake); Middletown Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "views",
+        "1319",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad coastal locality period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "views",
+        "1319",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad century; exact shortening date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1319",
+      "path": [
+        "views",
+        "1319",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "045b9521ffdb2433bcf36f00979bed709a2efea922e5655301f95c52bacf22ac",
+      "replacement": "Navesink Highlands (older coastal name); Highlands of Navesink (older form); Sandy Hook Bay (setting); Middletown Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Reported earlier locality period; first occurrence unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8710c7cb51e5bf37a72dc4211f1afc3ea69f3663a70b2b8c29b8bc8bdafb488b",
+      "replacement": "Earlier locality use of Holmdel is reported but its first dated occurrence remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "20efde1e52370e27c130bbd7758bbfe22c6af5e13129d6d2a94de71984180778",
+      "replacement": "Reported earlier use remains qualified; the 1857 statutory title is a separate dated stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "859c11ddf6dfbe79b5908229ec278527b2072b17bad23286f7824cd0cfc38a4d",
+      "replacement": "Legal municipal adoption of Holmdel; the exact earlier locality use remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad period of later explanations",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "6f785b26ab986bca236f2ab8c6d29f1cabc092682f7cad4ee892a0a4b7301e53",
+      "replacement": "A Holmes-family tradition and proposed Dutch derivation remain unresolved. The municipal history gives the Dutch explanation with qualification and does not establish the separate family theory.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "278f09bd4fda8474b0d34404ac6dc3a530c7699dce88508b23c3385f12ea4585",
+      "replacement": "The original meaning and naming intention remain unsettled.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1320",
+      "path": [
+        "views",
+        "1320",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "afc4709054b71fdf2d6e1c1639081a27a7e2b7ee691356e90d7cb8f5e1b7a8c8",
+      "replacement": "Holmdel (reported earlier locality); Holmes family (unconfirmed explanation); Holm and Del (proposed Dutch explanation); Raritan Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1321",
+      "path": [
+        "views",
+        "1321",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "653323baef177058e4c7b0d1c57c1366ef59193cd0628ccc7cc6e293cc705fdb",
+      "replacement": "The Legislature created Howell Township on February 23, 1801. Later local history attributes the name to Governor Richard Howell; the original proposer and exact dedication statement remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1321",
+      "path": [
+        "views",
+        "1321",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "70f4cfe9cbba923ae75ff2c9ee74a9f8dc55ee25aa66cad394e6247686c81382",
+      "replacement": "Richard Howell (attributed namesake); Shrewsbury Township (parent); Farmingdale (later separated borough)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Approximate development period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "a25d499677bb652eb1afcb4e501a1df05075c1d0af39e2ff6bc55f22d4b33c9a",
+      "replacement": "The borough history reports formation of the Interlaken Land Company in 1890; the exact original naming choice remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "9086885c5ed4b2bfc03316bd923ffe768b0be30ac458ec79f254f292c0065479",
+      "replacement": "The borough history reports a development revival in 1905 through International Trust and Stormfelz-Lovely-Neville.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "2904499dde16f7fb9836dd324b1d1db6bc4a07dbd0818a58f36e49b91dfab664",
+      "replacement": "The index gives May 3, 1922 for the incorporation election and effect, explicitly attributing the effective date to an unofficial source.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "ba22dfd7d17f758aa384d82430fb37e2844d6fa62bc96f4186a1e4f2c50a0606",
+      "replacement": "The borough history reports that the first mayor and council took their seats on June 26, 1922.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "2214ae6bbe3ac2ac870008303dd9ff4aeabeda1ce8a1349d4dbf917959b9d648",
+      "replacement": "A reported organizing stage, distinct from the enabling act and vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "sources",
+        "S1920",
+        "publication"
+      ],
+      "expected_sha256": "224bfc4099715df49c9e6c8d12cd4e0bc64de72cb1195361210f8c2f5a9867ab",
+      "replacement": "1998 book account credited by an undated borough history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1322",
+      "path": [
+        "views",
+        "1322",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "cea3bb5b62a31d9d736db1d1d46c61b161d904272ed97a3a7ecf8ce365185f4c",
+      "replacement": "Interlaken Farm (reported estate name); Francis and Fannie Weld (reported adopters); Interlaken Land Company (developer); Ocean Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Broad earlier locality period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "a2e20f53348dc0404dc4e4de9031b824ae09b550a5fcc1bda4ae378b142d6312",
+      "replacement": "Granville was an older locality name, while Waackaack referred to a broader area. Their exact geographic relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "beaa81017ec2ade050ffcd56676ee7ddec70e5ddc56397aadcf6044a1a164cbf",
+      "replacement": "The 2017 article reports an 1884 petition with 132 signers, Kean’s assistance and a postal honorific. A November 1, 1884 office is also reported but remains unconfirmed; the original naming decision and pastor’s identity remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "0b4198aad717347f7d0115ee14b897ce94fc4c6e1fe52693cd4557aada7fbf54",
+      "replacement": "An attributed postal-honorific account, without an established original naming order.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "sources",
+        "S1922",
+        "author"
+      ],
+      "expected_sha256": "b7b168f08a27c8369bb57764f1d808318931b83801cbfa39414ef31f259bf269",
+      "replacement": "Franklin Ellis",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "sources",
+        "S1922",
+        "title"
+      ],
+      "expected_sha256": "bdb97a0969425dd43d933a73e64a3a68275a9f1587683909012fa1c25e643d91",
+      "replacement": "History of Monmouth County — Hazlett station and Keansburg, page 702",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1323",
+      "path": [
+        "views",
+        "1323",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "90f057d7abd2bef1af7c9a26753d9bfcbfccea1014412396810339ff8fd868ce",
+      "replacement": "Granville (older locality); Waackaack (broader area); John Kean (attributed honoree); Middletown and Raritan Townships (parents)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Earlier property and locality period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "58f0297dbb6f64fc167dac06c921309fdb33b667f798a15cf2876cd3471dcc63",
+      "replacement": "The court report describes Key Grove property. Fishing Point is separately reported as an older locality; these labels do not establish identical geographic extent or one continuous legal name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "352b94bfb289a4e017be80904f036cd405caf94d31b65af8b4b180f0eb98f247",
+      "replacement": "Reported purchase period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "2f5634f5a8974d3c17988bc00ee51e18521f17c3c4c76e3415a19efe6dca5f94",
+      "replacement": "An April 9, 1830 survey is reported but remains unconfirmed. Dock and storehouse construction is separately dated only to 1830, without an established April building date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "128a2ca870df095853704263d020628bd21a9424c0c5e1fd98f83779f3288cf2",
+      "replacement": "Reported construction year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "59412cb52769b72ec70a548d0557ab9d6ed56ebd479277fd438dd3020e56c7a2",
+      "replacement": "Dock and storehouse construction during 1830 is reported but remains unconfirmed. That year-level account is separate from the April survey.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "e9772e5ebb214e0b4b6cbaee01f6560c0f6885fa6783c19d28f3bc1aef78a1b2",
+      "replacement": "Reported season; exact naming day unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "c6f39e7accd7532815dd02122d43ad7798559ca85022ea5bd8614ab427965b9d",
+      "replacement": "Naming in spring 1831 is reported but remains unconfirmed. The exact original naming decision and individual chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "55c67313838960432777e08e86ce60d7701a8d02a268351756559b8ebf930b9c",
+      "replacement": "A Keyport post office on March 12, 1833 with Leonard Walling as postmaster is reported but remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "4d8b63ecbea6068ea7eb1feb281e7d14a0f9453cc57eaa7f5baa2fe3864126a4",
+      "replacement": "The report prints Key Port on page 516; pages 494–495 carry the Taylor caption and December Term 1853 heading. The report is identified as 1854, without an established exact publication date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "949a41a3c8d91e82d34d30e26c5ded30970c2c99b520e137342217c6bd5e60b0",
+      "replacement": "Printed use in the court report, distinct from original naming or an exact publication date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S1921",
+        "author"
+      ],
+      "expected_sha256": "b7b168f08a27c8369bb57764f1d808318931b83801cbfa39414ef31f259bf269",
+      "replacement": "Franklin Ellis",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S1921",
+        "title"
+      ],
+      "expected_sha256": "8d273014b0e012459698a0ded1f75e57b936ae6ea213f837da88261ccde5c8e8",
+      "replacement": "History of Monmouth County — Keyport postal account, page 706",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S415",
+        "author"
+      ],
+      "expected_sha256": "9701fd2eb162674f72635c18b993fe1ab5a8eb81510eb451cf6b0bb0c72ba015",
+      "replacement": "U.S. Supreme Court; U.S. Reports, hosted by the Library of Congress",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S415",
+        "publication"
+      ],
+      "expected_sha256": "0175e4366aff0e17d798c0e67bf16c245c9185a10f445c961d77384015fe1f5b",
+      "replacement": "December Term 1853; report identified as 1854, exact publication date uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S416",
+        "author"
+      ],
+      "expected_sha256": "ef5f5651145ffa1418f3bf853e87344d63ef323528129b74a8c545c273e3f305",
+      "replacement": "Franklin Ellis",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "sources",
+        "S416",
+        "title"
+      ],
+      "expected_sha256": "527f67307f83bb3d70229076336e7b48e1201d43e992038e9383a20073b11b25",
+      "replacement": "History of Monmouth County — Keyport section, pages 703–704",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1324",
+      "path": [
+        "views",
+        "1324",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "f03946cbbfa4ac5c53c212e6311959cbd8fb004f940357c9f20c0188ab333666",
+      "replacement": "Key Grove (older property); Fishing Point (related locality); Key Port (printed form); Leonard Walling (reported promoter and postmaster); Raritan Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1325",
+      "path": [
+        "views",
+        "1325",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "a355a24315d00bf498d791b887c2e27ea38cb66edfc40fd24f98abd4d76faf0b",
+      "replacement": "Lovett is credited with a postal restoration petition and a July 30, 1879 order, but the petition and exact order date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1325",
+      "path": [
+        "views",
+        "1325",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "e7eeb1a0e29b6661a7bb4a31c7164b219576e627b312778005c54954266ec30a",
+      "replacement": "A reported postal change whose exact adoption date remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1325",
+      "path": [
+        "views",
+        "1325",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "7b0015fc64da5ffedec9dac1928003e5c73f1d7f76a6ab06563ea05146feba3f",
+      "replacement": "Parkerville and Parkersville (older community forms); Little Silver Depot (reported earlier station); Parker family (origin tradition); John T. Lovett (reported postal promoter); Shrewsbury Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1326",
+      "path": [
+        "views",
+        "1326",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d5b1a1071497c865fdd19a943614af5d100f8c96c9630584ff30d3600e4017a6",
+      "replacement": "Loch Arbour (subdivision); Lochaber, Scotland (usual origin explanation); Stout and Johnson (landowners); Herman Lehlbach (surveyor); Ocean Township (parent)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
