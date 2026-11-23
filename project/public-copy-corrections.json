@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_20",
+  "checkpoint": "PUBLIC_COPY_21",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -222,7 +222,19 @@
     "1506",
     "1507",
     "1508",
-    "1509"
+    "1509",
+    "1510",
+    "1511",
+    "1512",
+    "1513",
+    "1514",
+    "1515",
+    "1516",
+    "1517",
+    "1518",
+    "1519",
+    "1520",
+    "1521"
   ],
   "changes": [
     {
@@ -86174,6 +86186,3494 @@
       ],
       "expected_sha256": "20ac229693a7e3e25189256f468f17951adf9eeda663993a146db58f0186e960",
       "replacement": "West Creek and Staffordville (older communities); Stafford Forge, Coxstown or Coxs, and Spraguetown (local places); Pharo family (settlement history); Stafford Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "f4ecd4191199fe8957c450f2393f1741b6cb71bc90015c441deba3f2fbfe50c3",
+      "replacement": "Accounts disagree about the borough’s beginning. The chronology reports a November 20, 1894 vote and November 23 formation within Union and Stafford townships; Buchholz gives December 11 incorporation. The relationship between these dates remains unresolved. Full separation followed in 1895. The 1923 government-form stages and 1927 corporate-title resolution were later administrative events, rather than original namings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "02bfe54a34f8b03ac226a08cb17eaf2e96055fa237ba6d56a930aa6a2dc7e423",
+      "replacement": "Accounts disagree about the borough’s 1894 beginning, and the relationship between their dates remains unresolved. Later separation, a government-form change and a title resolution had different roles. They did not create the community’s name again.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "9d7f50a244173484f547ae446f7433bd1a0549c05173cccb5d25e7a47ae31e4f",
+      "replacement": "Buchholz quotes Harvest Quarters and a cedar clump from a reported 1751 deed. The quotation does not literally say Harvest Cedars or establish every step toward the modern name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "9d7f50a244173484f547ae446f7433bd1a0549c05173cccb5d25e7a47ae31e4f",
+      "replacement": "Buchholz quotes Harvest Quarters and a cedar clump from a reported 1751 deed. The quotation does not literally say Harvest Cedars or establish every step toward the modern name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "889f89e3ebe8e744c3bb334891c19cfc2c26c4de05ac0cd7ce69fe2e07f12c06",
+      "replacement": "The 1875 federal station table lists Harvey Cedars. This establishes name use, without dating its invention or proving the proposed sound change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "889f89e3ebe8e744c3bb334891c19cfc2c26c4de05ac0cd7ce69fe2e07f12c06",
+      "replacement": "The 1875 federal station table lists Harvey Cedars. This establishes name use, without dating its invention or proving the proposed sound change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "47fe29795de5c62387553fe125c40461273994ecef8e0fdc19f5885f97a9a24e",
+      "replacement": "A Harvey Cedars survey use is reported for the early 1880s, after the full name in the 1875 federal list. Its exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "47fe29795de5c62387553fe125c40461273994ecef8e0fdc19f5885f97a9a24e",
+      "replacement": "A Harvey Cedars survey use is reported for the early 1880s, after the full name in the 1875 federal list. Its exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        11,
+        "detail"
+      ],
+      "expected_sha256": "e4b748827d2a02f63453ed2c01f249f6a3d3d53082614f6bfb707998bec17004",
+      "replacement": "The chronology reports a November 20, 1894 vote. The exact original result and tally remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        11,
+        "detail"
+      ],
+      "expected_sha256": "e4b748827d2a02f63453ed2c01f249f6a3d3d53082614f6bfb707998bec17004",
+      "replacement": "The chronology reports a November 20, 1894 vote. The exact original result and tally remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        12,
+        "detail"
+      ],
+      "expected_sha256": "bca443c6c03011f39d38740aff384147e67ebe0a96fb61ccc2e381cf394e93c1",
+      "replacement": "The index reports November 23 formation within Union and Stafford. Union was the contemporary name of the township later called Barnegat.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        12,
+        "detail"
+      ],
+      "expected_sha256": "bca443c6c03011f39d38740aff384147e67ebe0a96fb61ccc2e381cf394e93c1",
+      "replacement": "The index reports November 23 formation within Union and Stafford. Union was the contemporary name of the township later called Barnegat.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        13,
+        "detail"
+      ],
+      "expected_sha256": "55bf60e73175f4106bd9fda3dc12cf6c54e1e85dd5a7ce38fd02f71a5264c1e4",
+      "replacement": "Buchholz gives December 11 incorporation, in conflict with the indexed November sequence. The procedural relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        13,
+        "detail"
+      ],
+      "expected_sha256": "55bf60e73175f4106bd9fda3dc12cf6c54e1e85dd5a7ce38fd02f71a5264c1e4",
+      "replacement": "Buchholz gives December 11 incorporation, in conflict with the indexed November sequence. The procedural relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        15,
+        "detail"
+      ],
+      "expected_sha256": "02248fbd8b2c56a1aa2f6758e113fe96acf82a9f2262b504c9c3ba9e1cf480cc",
+      "replacement": "The printed municipal-election statement records April 3, 1923 adoption of commission government, separate from filing and commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        15,
+        "detail"
+      ],
+      "expected_sha256": "02248fbd8b2c56a1aa2f6758e113fe96acf82a9f2262b504c9c3ba9e1cf480cc",
+      "replacement": "The printed municipal-election statement records April 3, 1923 adoption of commission government, separate from filing and commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        16,
+        "detail"
+      ],
+      "expected_sha256": "a704ed5b02b9b23cfbba8304aa43a7086e3d772afd7fccf25b9e1935f6e734ef",
+      "replacement": "The index gives May 3, 1923 for state filing of the election record, separate from adoption and commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        16,
+        "detail"
+      ],
+      "expected_sha256": "a704ed5b02b9b23cfbba8304aa43a7086e3d772afd7fccf25b9e1935f6e734ef",
+      "replacement": "The index gives May 3, 1923 for state filing of the election record, separate from adoption and commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        17,
+        "detail"
+      ],
+      "expected_sha256": "d3cd198d12b9ab41a786e49c3cb96b1b123bbec2461487d2658bc800e13ea79a",
+      "replacement": "The index gives May 15, 1923 as commencement, following the statutory interval after adoption. That date does not establish when officials first met.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        17,
+        "detail"
+      ],
+      "expected_sha256": "d3cd198d12b9ab41a786e49c3cb96b1b123bbec2461487d2658bc800e13ea79a",
+      "replacement": "The index gives May 15, 1923 as commencement, following the statutory interval after adoption. That date does not establish when officials first met.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        19,
+        "detail"
+      ],
+      "expected_sha256": "38f79e5e8db2dbea221896b28b715d012074bfe66951239c9a4ad08eba1e91cc",
+      "replacement": "A later account reports postal consolidation in the early 1930s. The exact order and date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "journey",
+        19,
+        "detail"
+      ],
+      "expected_sha256": "38f79e5e8db2dbea221896b28b715d012074bfe66951239c9a4ad08eba1e91cc",
+      "replacement": "A later account reports postal consolidation in the early 1930s. The exact order and date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "ebba280e39fc2e2652e2237f508eb37fad32ed05d3fc168709c67574674f33cc",
+      "replacement": "The chronology’s November vote and November 23 formation conflict with December 11 incorporation in the local history. Their procedural relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "editorial",
+        "1510",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "f2c3c2d8472a00b9b5f2687b259c4d2b223e31e4cecb6b1e98155121c41fbad1",
+      "replacement": "The chronology’s November vote and November 23 formation conflict with December 11 incorporation in the local history. Their procedural relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "7b157ca30f5319403af0d06421d0e2be12f4f571e2346e3ac367be910c46776a",
+      "replacement": "Government followed in stages. A first borough commission is reported for May 19, 1886. Proceedings in 1887 ended that arrangement; a reported May 5 vote preceded the indexed current-borough formation on May 6. Full separation from Dover Township came in 1895. These government stages were distinct from the resort’s earlier name use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "b9a7af05987172889a1a114679dededad68d52c3f21b989bc521f702a5fda06d",
+      "replacement": "Government followed the resort. A first commission is reported in 1886. After that arrangement ended, a reported May 5, 1887 vote preceded the current borough’s indexed May 6 formation. It fully separated from Dover Township in 1895. Some early dates and spellings remain in conflict.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c87fcf7257cd44e1d62bbb5cca4287c4967b8b53fb08aea2ce34c4e6134115e6",
+      "replacement": "Early patent accounts disagree between 1680 and 1690 and between Johnson and Johnston. Both the date and spelling remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c87fcf7257cd44e1d62bbb5cca4287c4967b8b53fb08aea2ce34c4e6134115e6",
+      "replacement": "Early patent accounts disagree between 1680 and 1690 and between Johnson and Johnston. Both the date and spelling remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "e5e798e74d287d466014e1065b4f4979d1e341622389e63d068c1185fc5794af",
+      "replacement": "The index reports a May 5, 1887 referendum before the next day’s formation or filing. The original vote result remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "e5e798e74d287d466014e1065b4f4979d1e341622389e63d068c1185fc5794af",
+      "replacement": "The index reports a May 5, 1887 referendum before the next day’s formation or filing. The original vote result remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "70d57c389aaaa75821252ce7a1aa4303eca6af42b7a83cada5a42fcf0d5bc66d",
+      "replacement": "A reported 1748 survey uses Toms River Island. Borough history reports the Island Heights Association on July 1, 1878, without establishing the exact first use or personal chooser of the compound name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "70d57c389aaaa75821252ce7a1aa4303eca6af42b7a83cada5a42fcf0d5bc66d",
+      "replacement": "A reported 1748 survey uses Toms River Island. Borough history reports the Island Heights Association on July 1, 1878, without establishing the exact first use or personal chooser of the compound name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0df871c1104f8a6be74c0140fc168745ce62610e6a8b0f3fa7874ac33cf2b83f",
+      "replacement": "The first commission is reported May 19, 1886. Its 1887 ending was separate from the reported May 5 vote and indexed May 6 formation of the current borough. A competing November 18, 1886 formation account remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "editorial",
+        "1511",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0df871c1104f8a6be74c0140fc168745ce62610e6a8b0f3fa7874ac33cf2b83f",
+      "replacement": "The first commission is reported May 19, 1886. Its 1887 ending was separate from the reported May 5 vote and indexed May 6 formation of the current borough. A competing November 18, 1886 formation account remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1512",
+      "path": [
+        "editorial",
+        "1512",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "699aee0ae0a38ea9acf17f26e7463329ee853ec32ae64245095816016e07838b",
+      "replacement": "David T. Miller Sr.’s municipal history quotes the March 6, 1844 House stage and reports the township’s creation from Freehold, Upper Freehold and Dover.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1512",
+      "path": [
+        "editorial",
+        "1512",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "699aee0ae0a38ea9acf17f26e7463329ee853ec32ae64245095816016e07838b",
+      "replacement": "David T. Miller Sr.’s municipal history quotes the March 6, 1844 House stage and reports the township’s creation from Freehold, Upper Freehold and Dover.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1512",
+      "path": [
+        "editorial",
+        "1512",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "b738b5255b282870462bb82fad1d9f3eeda1238fcd19a1ea07fbfe64cbb0b469",
+      "replacement": "Plumsted’s 1845 creation divided territory from Jackson. It was a later municipal creation, rather than a new name for Jackson itself.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1512",
+      "path": [
+        "editorial",
+        "1512",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "b738b5255b282870462bb82fad1d9f3eeda1238fcd19a1ea07fbfe64cbb0b469",
+      "replacement": "Plumsted’s 1845 creation divided territory from Jackson. It was a later municipal creation, rather than a new name for Jackson itself.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1512",
+      "path": [
+        "editorial",
+        "1512",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "95e36e5131e90774eab0a083b36c7df11b7fa2360ea953766507934c90eb2023",
+      "replacement": "David T. Miller Sr.’s municipal history quotes legislative stages culminating in March 6, 1844 creation. It is a later account of those proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1512",
+      "path": [
+        "editorial",
+        "1512",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f97f9472ddc21b8dc073f32a4c3ab9dbb4571ac2a564849bc26e1fd0204adbd0",
+      "replacement": "David T. Miller Sr.’s municipal history quotes legislative stages culminating in March 6, 1844 creation. It is a later account of those proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1512",
+      "path": [
+        "editorial",
+        "1512",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "82823ad78fcaadfea69b2a505d1f4831ff6e7a110fa836591436e02623d30156",
+      "replacement": "The quoted act schedules the second Tuesday of April at William Francis’s Cassville public house. The schedule does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1512",
+      "path": [
+        "editorial",
+        "1512",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "cee0338d6288b07deb396a690c80d5af9014a7fe784ded03fd162d330ac38dfc",
+      "replacement": "The law planned a meeting at William Francis’s public house. A planned date does not establish that people actually met then.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "27aaeb513dbd1059b78562c96498418adb5ad6e4f999ad007adb4c18d4776e87",
+      "replacement": "Older communities such as Ferrago Village, Forked River and Bamber have their own histories. Bamber was not a former legal name of the township. Later territory changes also occurred in separate stages: conditional authorization of Island Beach in June 1933 preceded indexed August voter adoption and effect. The June authorization alone does not establish a completed transfer or exact parcel geography.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "a6f8122c4996fd515424b34cdb93987da3041aa02b382453705b93f01dbf491e",
+      "replacement": "A first committee organization is reported for late March or early April 1871. The exact day remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "a6f8122c4996fd515424b34cdb93987da3041aa02b382453705b93f01dbf491e",
+      "replacement": "A first committee organization is reported for late March or early April 1871. The exact day remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "268ff59ab3adc2fcaafb6d1b929268aa44ab4fc9223fa9724259c3608c4b3783",
+      "replacement": "The index gives August 18, 1933 for voter adoption and effect, following the conditional June 23 enabling act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "268ff59ab3adc2fcaafb6d1b929268aa44ab4fc9223fa9724259c3608c4b3783",
+      "replacement": "The index gives August 18, 1933 for voter adoption and effect, following the conditional June 23 enabling act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "57211e9aff665683b527dc678d524c4e530a5696de9e10f1dbecd3e5b379fd2e",
+      "replacement": "Local history reports March 23, 1871 creation from Dover and Union. The exact original naming dedication and local organization date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "5ef5a18fd489bf03692de27e8470b50d2b820198d35e383429ac5e3ad80ee07a",
+      "replacement": "The township’s creation is reported for March 23, 1871. The first name proposer and exact early organizing date remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "b7fa13df62d4e48a32ec5ccd1441c1e90eae40fc17a9ef0fe01247b08f5ad2d4",
+      "replacement": "June 23, 1933 authorization of Island Beach was conditional. The index separately gives August 18 adoption and effect; exact parcel geography remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "editorial",
+        "1513",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "776f60266f71d6047c74c8d8e522df4c1ad97ffda1ba8fd14565ef69d65c8b9d",
+      "replacement": "June 23, 1933 authorization of Island Beach was conditional. The index separately gives August 18 adoption and effect; exact parcel geography remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "editorial",
+        "1514",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "91d24665fdb5459a7373958568502c1258f360f746c759c3ce8198d193559015",
+      "replacement": "The survey reproduces a map captioned 1872 showing Manchester and Horicon. A separate 1878 map claim remains unconfirmed. In 1921 the new borough adopted Lakehurst through a law and vote, followed by county recording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1514",
+      "path": [
+        "editorial",
+        "1514",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "ed983263c22e15ff9659d147a10b1aca5a12f44bf8e28b2a5feff3dc70ce469c",
+      "replacement": "The legal guide gives May 24, 1921 for voting and effect, separate from the enabling law and subsequent county entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "editorial",
+        "1514",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "ed983263c22e15ff9659d147a10b1aca5a12f44bf8e28b2a5feff3dc70ce469c",
+      "replacement": "The legal guide gives May 24, 1921 for voting and effect, separate from the enabling law and subsequent county entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1514",
+      "path": [
+        "editorial",
+        "1514",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "91632ce6412a3f746a4ee02f179d1522ed4ed291a699f5f4bd99c39c1e798e49",
+      "replacement": "The society chronology’s reported 1897 postal use precedes the Pine Tree Inn’s 1898 opening. The exact original postal order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "editorial",
+        "1514",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "91632ce6412a3f746a4ee02f179d1522ed4ed291a699f5f4bd99c39c1e798e49",
+      "replacement": "The society chronology’s reported 1897 postal use precedes the Pine Tree Inn’s 1898 opening. The exact original postal order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "92a3ddd7511c0198cb79eb12aec331b2ba4b4b3467a7fead3f49fa8c87420ba3",
+      "replacement": "Lakewood replaced the industrial locality name Bricksburg with a scenic identity suggesting lakes and pine woods. Municipal history credits Erastus Dickinson with proposing Lakewood and a Times and Journal house-to-house canvass with selecting it over Brightwood in 1880. It associates Brightwood with Samuel Davis, whose middle initial varies within the account. The exact canvass day and tally remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "3b5080f9e1c662adb071799a2207eb1a63f2655ba87d5a232e32e25683763946",
+      "replacement": "The name became municipal much later. The legal index gives March 23, 1892, chapter 121, for Lakewood Township’s creation from Brick. The municipal page instead says 1893 and cites CXXXI of 1892. That year and chapter disagreement remains unresolved. The community selection, postal adoption and township creation were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "e094032e7685e1219263db3ed71a712dcb990c98e3a2c31751c94b784d12f026",
+      "replacement": "The community name came before Lakewood Township. An index dates the township to March 23, 1892, while the municipal page gives conflicting year and chapter information. The disagreement remains unresolved. The community’s choice, postal adoption and government creation were different events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "7184a7379af0fb1c05f5f700c4f14336038d0998e8e295393b3a823ce2c0ee3e",
+      "replacement": "The exact canvass day is unknown. March 20 belongs to reported postal recognition, separate from resident selection. The account also gives different middle initials for Samuel Davis, who is linked with Brightwood; those initials remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4cc67bd81ab89f36eb655daadd4ee567b32a7f8a7823a52432737d4c95fb66f0",
+      "replacement": "The later account places Washington Furnace in the locality’s industrial history in 1814, before the Lakewood name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4cc67bd81ab89f36eb655daadd4ee567b32a7f8a7823a52432737d4c95fb66f0",
+      "replacement": "The later account places Washington Furnace in the locality’s industrial history in 1814, before the Lakewood name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "bd91bd44e3aa748db6fa8809419b60f6592e94a84e1d05bc3bfe4ce5c7347b38",
+      "replacement": "Municipal history places Brick’s acquisition and Bergen Iron Works development in the 1830s. The exact transaction dates remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "bd91bd44e3aa748db6fa8809419b60f6592e94a84e1d05bc3bfe4ce5c7347b38",
+      "replacement": "Municipal history places Brick’s acquisition and Bergen Iron Works development in the 1830s. The exact transaction dates remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "bbc5b1b1f05aec5f68560cffc80de356dd0940263bfc9432f13af3b4b03ecfc8",
+      "replacement": "The municipal history gives March 20, 1880 for Post Office recognition. That is separate from the resident canvass, whose exact day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "bbc5b1b1f05aec5f68560cffc80de356dd0940263bfc9432f13af3b4b03ecfc8",
+      "replacement": "The municipal history gives March 20, 1880 for Post Office recognition. That is separate from the resident canvass, whose exact day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "2a08098a0b0cd2a29938674014da8cab3efd5580707d095cbdeed4432b18920c",
+      "replacement": "Municipal history reports the canvass in 1880 without an exact day. Davis’s conflicting middle initials remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "2a08098a0b0cd2a29938674014da8cab3efd5580707d095cbdeed4432b18920c",
+      "replacement": "Municipal history reports the canvass in 1880 without an exact day. Davis’s conflicting middle initials remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "9b6e8b6576da080b9ed2935b0db0d6a384521d106db77637651e780a0629659d",
+      "replacement": "The index gives March 23, 1892, chapter 121, for creation from Brick. The municipal page instead gives 1893 and CXXXI of 1892; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "9b6e8b6576da080b9ed2935b0db0d6a384521d106db77637651e780a0629659d",
+      "replacement": "The index gives March 23, 1892, chapter 121, for creation from Brick. The municipal page instead gives 1893 and CXXXI of 1892; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "a3131eb9b70b839d94e337453985dcedfb4f80f05adb0e776fdac0a26f387754",
+      "replacement": "The municipal history credits Dickinson with Lakewood and Samuel Davis with Brightwood, but gives conflicting middle initials for Davis. The precise original proposals remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "4919b994f5c0859df85fc71daba980334345ea5d6d89b509bbb29ea3808f6d7f",
+      "replacement": "The later account names Dickinson and Davis as proposers. It gives different middle initials for Davis, which remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "e27765edcb4732ddd9f065e65a692b3e688ca43a5071669abda0d859702577d7",
+      "replacement": "The index gives March 23, 1892, chapter 121. The municipal page gives 1893 and CXXXI of 1892. The year and chapter discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "7b155b993c8446cd91148b77a34db11323e6731b55957bbbfbd87b8c596a5fed",
+      "replacement": "The index and municipal page disagree about the township’s year and law chapter. That disagreement remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "editorial",
+        "1515",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "be575930dd0956ed18aba4ca965fa3982d039e4078eb8f18c8a954da8a4fd758",
+      "replacement": "Municipal history dates postal recognition to March 20, 1880 and the canvass only to 1880. These are separate events; the exact canvass day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "53792703b6fc64b5517526c4ea8e67294d890d7733cae6bb8ab2295e652de8f2",
+      "replacement": "A later court opinion recounts the company’s February 21, 1878 filing of Lavallette City by the Sea, Squan Beach. It also recites deeds referring to the tracts and plan. These are accounts of historical records in the later opinion. City by the Sea was promotional language, rather than a city-government designation. La Vallette, LaVallette and Lavallette belong to the spelling history without settling a deeper literal surname meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "dec861931b964e17b872a5e64b842f55866ee9cf0e8be3a033f3136b86d3d77d",
+      "replacement": "A later court opinion says the company filed a Lavallette City by the Sea plan in 1878. City by the Sea promoted the resort; it did not establish city-form government. The court’s account describes earlier maps and deeds.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "666855bed4d060328e7e2f3106606c2bd826de8e770fd36ced7b2d306180b68b",
+      "replacement": "The later court opinion recounts the October 9, 1877 Guyer conveyance of three tracts to the development company. That property account is separate from the exact naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "666855bed4d060328e7e2f3106606c2bd826de8e770fd36ced7b2d306180b68b",
+      "replacement": "The later court opinion recounts the October 9, 1877 Guyer conveyance of three tracts to the development company. That property account is separate from the exact naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5cbfb5dc5df1dad27add3401a1be9b795d9ec9e22d70e5a24b770f5d2b80b104",
+      "replacement": "The court recites an August 8, 1878 deed referring to the filed Lavallette plan. This is an attributed account of the earlier deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5cbfb5dc5df1dad27add3401a1be9b795d9ec9e22d70e5a24b770f5d2b80b104",
+      "replacement": "The court recites an August 8, 1878 deed referring to the filed Lavallette plan. This is an attributed account of the earlier deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "575340a4982aaa097880801e3b25392356c0cf76d1b1bcbfe869a4a29249902d",
+      "replacement": "Municipal history reports a post office in 1882. Postal use reinforced an existing resort identity, without establishing the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "575340a4982aaa097880801e3b25392356c0cf76d1b1bcbfe869a4a29249902d",
+      "replacement": "Municipal history reports a post office in 1882. Postal use reinforced an existing resort identity, without establishing the original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "acb488dce4871862247449ffd61f1121aaa2b823b0173add29dd072e47ac3282",
+      "replacement": "The index gives December 21, 1887 filing and effect, after the December 19 vote. These were separate procedural stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "acb488dce4871862247449ffd61f1121aaa2b823b0173add29dd072e47ac3282",
+      "replacement": "The index gives December 21, 1887 filing and effect, after the December 19 vote. These were separate procedural stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "8c12d04e8edf3b553c54ff7d81f359288a7c3620f99c61f4cd052f40cfae9115",
+      "replacement": "The index gives March 7, 1895 for full separation from Dover, a later stage than the 1887 borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "8c12d04e8edf3b553c54ff7d81f359288a7c3620f99c61f4cd052f40cfae9115",
+      "replacement": "The index gives March 7, 1895 for full separation from Dover, a later stage than the 1887 borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "6060e3d3ae096931ec712b092d4e4fdff5dac2a6d56fc7a94f554eb39706e091",
+      "replacement": "Brindley’s later court opinion recounts the February 21, 1878 filing of Lavallette City by the Sea. That establishes an attributed earlier plan use, without identifying the individual name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1516",
+      "path": [
+        "editorial",
+        "1516",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "1117b3ced0d96256d801853c32c20dbd45146cc2c41a202af508c5371d2d7e35",
+      "replacement": "A later court account gives a February 21, 1878 plan filing. It describes earlier use of the resort name, without proving who first chose it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "89ce83a0e5e9d8aa766d48809f5cf1072cf120c89ce8c7d8e279396e42a64f34",
+      "replacement": "A published transcription of the July 1, 1676 Quintipartite Deed uses Little Egg Harbour in a boundary description and mentions a map. The reference does not identify or date the map. That geographic wording is distinct from the township’s indexed creation as Egg Harbor in 1739/1740 and municipal use of Little in May 1753.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "bfb0475fd892b4c7881cd8522c297f455c289de3bca45767e16f08f1ea99d536",
+      "replacement": "A later account reports a Falkenberg tract containing Monhunk and Minnicunk in 1674. That property history does not establish a municipal naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "bfb0475fd892b4c7881cd8522c297f455c289de3bca45767e16f08f1ea99d536",
+      "replacement": "A later account reports a Falkenberg tract containing Monhunk and Minnicunk in 1674. That property history does not establish a municipal naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "20465a90339ba29e1466fd7916d6e173f78b3cbf4eba83ec1623571bd56b4a85",
+      "replacement": "The published transcription uses Little Egg Harbour geographically and mentions a map, without identifying or dating it. This name use predates township creation and does not establish first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "20465a90339ba29e1466fd7916d6e173f78b3cbf4eba83ec1623571bd56b4a85",
+      "replacement": "The published transcription uses Little Egg Harbour geographically and mentions a map, without identifying or dating it. This name use predates township creation and does not establish first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "a57aaa7115832c590095931a8b5ebb0c23925cd1fc2ee25d12871e92e546ec8d",
+      "replacement": "A later account reports a 1697 confirmation of the Falkenberg tract interest. That property stage does not establish a new municipal title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "a57aaa7115832c590095931a8b5ebb0c23925cd1fc2ee25d12871e92e546ec8d",
+      "replacement": "A later account reports a 1697 confirmation of the Falkenberg tract interest. That property stage does not establish a new municipal title.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "87afdff64b77ca98f091bd46329d9e5fb8fbd9f24d358a479a1a5c5c225d69a6",
+      "replacement": "The index reports municipal title use in May 1753, separate from the older harbor name. The exact decision introducing Little remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "87afdff64b77ca98f091bd46329d9e5fb8fbd9f24d358a479a1a5c5c225d69a6",
+      "replacement": "The index reports municipal title use in May 1753, separate from the older harbor name. The exact decision introducing Little remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "1a23f59fd6072d4151501542c122e277512a7fa8556c6ec028e29a7b627204a3",
+      "replacement": "The index identifies Evesham, Northampton and Little Egg Harbor as separate parents. A later place-name catalogue attributes Washington to George Washington, without establishing the original dedication wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "1a23f59fd6072d4151501542c122e277512a7fa8556c6ec028e29a7b627204a3",
+      "replacement": "The index identifies Evesham, Northampton and Little Egg Harbor as separate parents. A later place-name catalogue attributes Washington to George Washington, without establishing the original dedication wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "d5d381db8923860757e8b82e307785fb7d9f8dc7efde7f75d046cc3eecbe9af1",
+      "replacement": "The index reports Bass River’s creation from Little Egg Harbor territory. This reduced the parent township rather than renaming it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "d5d381db8923860757e8b82e307785fb7d9f8dc7efde7f75d046cc3eecbe9af1",
+      "replacement": "The index reports Bass River’s creation from Little Egg Harbor territory. This reduced the parent township rather than renaming it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        13,
+        "detail"
+      ],
+      "expected_sha256": "c8d1f9f62d240460ddbf9e93fd7bfd9585fb8bc9a278b95ef819bf649646d5f0",
+      "replacement": "Tuckerton’s indexed February 25, 1902 creation is separate from Little Egg Harbor’s older name. The exact local implementation remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "journey",
+        13,
+        "detail"
+      ],
+      "expected_sha256": "c8d1f9f62d240460ddbf9e93fd7bfd9585fb8bc9a278b95ef819bf649646d5f0",
+      "replacement": "Tuckerton’s indexed February 25, 1902 creation is separate from Little Egg Harbor’s older name. The exact local implementation remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "d7fe35442136fe7360c66ecae1e8c7c37c048b0e975cd6f3b15b51da31bf1580",
+      "replacement": "The published 1676 deed transcription uses Little Egg Harbour geographically and mentions a map. That reference neither identifies nor dates the map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "3cc5767a87e3d7e00f3c3da6c23e9f1cf2c8d4f857ab1707e25447200cce4900",
+      "replacement": "The index reports municipal title use in May 1753. The original decision introducing Little remains unknown; the older geographic wording has a separate history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "editorial",
+        "1517",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "606e199a21aad89cf566e6173dc29cc460eb35e41927362921ff90c9476e5375",
+      "replacement": "The township borrowed the harbor name. The bird-egg explanation is a later tradition, and the exact first choice of Little remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1518",
+      "path": [
+        "editorial",
+        "1518",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "e57f0f6a0a077d4506f4110d921aa286b4c7ed872c5b5a13c40976c9090d40f3",
+      "replacement": "The 1875 federal life-saving station table lists Long Beach, well before township creation. A modern article also quotes John Dennis’s later pension recollection of a 1782 incident and discusses a 1783 case. The incident year does not date his later statement, and the quoted contemporary passages do not establish Long Beach wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1518",
+      "path": [
+        "editorial",
+        "1518",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "4170da052b96c9ebc6ca893c943246599b84177ce96fc1d1dd93f3403db09296",
+      "replacement": "The 1875 Treasury station table lists Long Beach. This dates institutional use, rather than the invention of the geographic name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1518",
+      "path": [
+        "editorial",
+        "1518",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "4170da052b96c9ebc6ca893c943246599b84177ce96fc1d1dd93f3403db09296",
+      "replacement": "The 1875 Treasury station table lists Long Beach. This dates institutional use, rather than the invention of the geographic name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1518",
+      "path": [
+        "editorial",
+        "1518",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "12df5c8fa3084a5f07ea62456b885258c70d635946b82abea07631b2e7305601",
+      "replacement": "The 1875 federal station table lists Long Beach. The later pension recollection of 1782 is separate evidence, rather than a contemporary 1782 name record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "94321d08d0cd7b348696ae052de154edd848720a6d3bed6bb2c189c026325325",
+      "replacement": "The village name is reported before or by 1841, without an established exact first use. The survey reproduces a map captioned 1872 with Manchester and Horicon labels. A separate 1878 map claim remains unconfirmed. Accounts also disagree over Whiting’s development date, giving 1852 or 1861; they do not establish two separate founding events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "e8a730525ae8b6079c5743f1e22e45c928d5d22055f2cdcc3e357b5fac315ca4",
+      "replacement": "The early naming date remains unconfirmed. A reproduced map is captioned 1872; a separate 1878 map claim remains unconfirmed. The two descriptions do not establish that they concern the same map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "ebe18e96ed64e7824be709c2e40177b222f49ead08ec66bb1dc67262664ccbf8",
+      "replacement": "Torrey’s property role was distinct from the attributed name choice. Conflicting acreage and family details remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "ebe18e96ed64e7824be709c2e40177b222f49ead08ec66bb1dc67262664ccbf8",
+      "replacement": "Torrey’s property role was distinct from the attributed name choice. Conflicting acreage and family details remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "0072dc3f1e32bff9d8671a9aae9a4e935690c38f1124742a798e2673242e25f9",
+      "replacement": "The survey reproduces a map captioned 1872 with Manchester and Horicon. These labels establish mapped use, rather than first coinage or modern boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "0072dc3f1e32bff9d8671a9aae9a4e935690c38f1124742a798e2673242e25f9",
+      "replacement": "The survey reproduces a map captioned 1872 with Manchester and Horicon. These labels establish mapped use, rather than first coinage or modern boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "journey",
+        7,
+        "label"
+      ],
+      "expected_sha256": "7fe077f68fde98ec04e730c3086dd4bd578b3559f25632cd73a2a91153ef768b",
+      "replacement": "A separate 1878 map claim remains unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "journey",
+        7,
+        "label"
+      ],
+      "expected_sha256": "7fe077f68fde98ec04e730c3086dd4bd578b3559f25632cd73a2a91153ef768b",
+      "replacement": "A separate 1878 map claim remains unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "e31beaee6d4fe27853291285808f2e3c94d7ade4f7381a9cd0e3409e8fcf1985",
+      "replacement": "The reproduced map is captioned 1872. It does not establish the identity or date of a separately claimed 1878 map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "e31beaee6d4fe27853291285808f2e3c94d7ade4f7381a9cd0e3409e8fcf1985",
+      "replacement": "The reproduced map is captioned 1872. It does not establish the identity or date of a separately claimed 1878 map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "d2fe472f92363ac5fa5105dc4f8bf67984e955d7b87b7cffae7a7e560b1f603f",
+      "replacement": "The before-or-by-1841 village account is retrospective. The survey reproduces a map captioned 1872; the separate 1878 map claim remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "30b9f84b288b45de6b8a6bd430021cda6e4ee4a171e12e4ce1fb50912576b159",
+      "replacement": "The survey credits Wright with choosing Manchester for the village as an English industrial model. The township later inherited that village name; a separate direct dedication to England remains unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "editorial",
+        "1519",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "b5938bbd8a709605676faec6885004e6634a44ce9f52b75a7f1ddcafdcd7db47",
+      "replacement": "The survey gives 1852 and the brochure 1861 for Whiting’s development. The relationship between these dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1520",
+      "path": [
+        "editorial",
+        "1520",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "d6f4eb0cb8522a88421172c005c3e6a45a1089bf995eb9198c35626153755393",
+      "replacement": "Mantoloking became a resort identity during development led by Frederick W. Downer and Frank L. Hall. Anne L. Benedict’s borough history reports general name use in 1881. A separate gazetteer account attributes a supposed Mantua-based construction to Downer. That attribution remains unconfirmed and is not independently established by the municipal history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1521",
+      "path": [
+        "editorial",
+        "1521",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5c76d6e533dbcb33553a95f4caa2c061478dd27af5d4ae6adee43320523aba45",
+      "replacement": "Waretown has its own story connected with Abraham Waier. Accounts disagree about his arrival year. Later accounts report older spellings, without establishing a sequence of official township renames. Waretown continued as a community and postal name within the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1521",
+      "path": [
+        "editorial",
+        "1521",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "d2a8bccf9749310857f3071c1b2102d91768bb0cfb2f46f46f464fb262bd5b69",
+      "replacement": "The municipal account credits Vivian Zinkin with an 1809 Waretown form. The exact original wording and first name chooser remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1521",
+      "path": [
+        "editorial",
+        "1521",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "d2a8bccf9749310857f3071c1b2102d91768bb0cfb2f46f46f464fb262bd5b69",
+      "replacement": "The municipal account credits Vivian Zinkin with an 1809 Waretown form. The exact original wording and first name chooser remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "0610d9e558c8a43a0ac615cd0cdb6b8c991aeee704b55e580c79299e60885d84",
+      "replacement": "Buchholz quotes Harvest Quarters and a cedar clump from a reported 1751 deed. The intermediate forms leading to Harvey Cedars remain unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "7b4a28269a7f941abd96c1a7b7b9353111ea27b0d8afc1e58060fbe90f5a17d0",
+      "replacement": "The 1875 Treasury report lists Harvey Cedars as District 4 station 19 on printed page 52.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "bd9db98a7a797a2ba49c2ad08623f2beb18dbc882603df8c26d4f0e474366ec6",
+      "replacement": "Published use of the full name before the reported early-1880s survey, without establishing its invention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "115fa39d01ec35733b36387e83831cb660ff7cc943673cd21c4121327aef3fd2",
+      "replacement": "A Harvey Cedars survey use is reported for the early 1880s, after the full name in the 1875 federal report. The exact survey wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "e3351e3e3b859090611b1430583688657e676e3418b29ccb6253dc33a80b9894",
+      "replacement": "The chronology reports a November 20, 1894 vote; its exact original result and tally remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "9ae5ffdae798191341e4999281a1eca4f22be76738b13d99fcf2775dc87c50ec",
+      "replacement": "The index gives November 23, 1894 formation within Union and Stafford. Union was the contemporary name of the township later called Barnegat.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        13,
+        "action"
+      ],
+      "expected_sha256": "1f7ff973191b62a54ef168853fa42a674e262fd8e215f046b5df3877df30ed09",
+      "replacement": "Buchholz gives December 11, 1894 incorporation, conflicting with the indexed November sequence. The procedural relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        15,
+        "precision"
+      ],
+      "expected_sha256": "b04cff466848cd86168f4d8394dc1aab6071d68607b1759027607bea8730d8ce",
+      "replacement": "Vote date in the printed election statement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        15,
+        "action"
+      ],
+      "expected_sha256": "1766077353c52499c1979149d5f491ad82b0e516487857630995369cf5657dfb",
+      "replacement": "The 1923 municipal-election statement records April 3 adoption of commission government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        16,
+        "action"
+      ],
+      "expected_sha256": "12ccb9bf0532446b7cb78dbfa53ba98cb181d73f01d004eaac57ea1b0ace90a3",
+      "replacement": "The index reports state filing on May 3, 1923, separate from the April 3 vote and May 15 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        17,
+        "action"
+      ],
+      "expected_sha256": "baf6f70a9b45d3c30a7312b3b8cc316c1d725391ee9086685d283079a2307890",
+      "replacement": "The index gives May 15, 1923 commencement, the sixth Tuesday after April 3 adoption. This does not establish when officials first met.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        19,
+        "action"
+      ],
+      "expected_sha256": "bd046f7155aecbf53f9dc0b8bbfc2ddd4bf8a943e83556cbed6469259ea703ed",
+      "replacement": "A later account reports postal consolidation in the early 1930s; the exact order and date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "bed9c9cda5d7455d62564850a18be03f217935dc864d15f6334cc28c4f577a49",
+      "replacement": "Harvest Quarters (reported deed form); Connahassett House and Kinsey’s (hotel names); Harvey Cedars Hotel (hotel); High Point (subcommunity); Harvey Cedars Beach Company (developer); Union and Stafford (parent townships)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8246f2c8e0c72c67922af41ecd35a3701960c23708e365016b6603f2c2cd7f23",
+      "replacement": "Patent accounts disagree between 1680 and 1690 and between Johnson and Johnston. Both the date and spelling remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "4aeab6517f520c6fe8a903fd0700a56c12f3a49c2efd800cf909c16e7b0bb8ab",
+      "replacement": "The municipal history credits the Reverend Jacob B. Graw with selecting the resort site in 1877. The person who chose the compound name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "64b436a5e51973c4155711a0518aac1ffb31652c97cad0c8040aeab9143ed122",
+      "replacement": "Accounts give conflicting activity dates in August 1878. Borough history reports August 20 lot sales, which do not date every camp activity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "91ad97f8a34c2f75b3f255ee2bb6c7625476a1ffc244d9da6d04f3abd5272678",
+      "replacement": "A Snyder-derived account gives November 18, 1886. Its relationship to the other reported government stages remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "3d1fc6156c596aa15106c41d6bb77ea7a97b241f8fc606aef7a2efb511c67c10",
+      "replacement": "The index reports an April 21, 1887 continuation and dissolution sequence; the exact original result remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "39d04cde64b8cffb867bdabc0f8872be0949f0569f9116ec929f92f7b60532de",
+      "replacement": "A later account reports May 27, 1887 organization, separate from borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c81e9c279607a10bbcec2bf53ca6fcba85d9a2dbf81fcbd541eaa527a4e1281a",
+      "replacement": "Johnson’s Island and Johnston’s Island (conflicting spellings); Toms River Island and Dillon’s Island (older tract names); Island Heights Association (resort body); Dover Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1512",
+      "path": [
+        "views",
+        "1512",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "6302790027c5e839f7e7c5be7a46af5c2ccedf95568bf3b1ecbdd41b48c771e6",
+      "replacement": "David T. Miller Sr.’s municipal history quotes the March 6, 1844 House stage and reports creation from Freehold, Upper Freehold and Dover.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1512",
+      "path": [
+        "views",
+        "1512",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "97b6da4c4ea41553682e8c8436bb2d9e68b0d7a2a03bc5f312acf10d42e1c041",
+      "replacement": "Cassville and the mill communities supplied settlement context before 1844. Their individual beginnings are not all established by this broader period.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1512",
+      "path": [
+        "views",
+        "1512",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "2bb73b405b36d7ae9cc253e5ad7b533dc036db1435598acbb774d9f0959df225",
+      "replacement": "The 1845 division created Plumsted from Jackson, separate from Jackson’s original formation from three townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1512",
+      "path": [
+        "views",
+        "1512",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d32e8634c77a4104cb69c9e15e8da0063181942556ae0b80ab29ec36e7056e28",
+      "replacement": "Andrew Jackson (reported township honoree); William Jackson (separate Jackson Mills tradition); Cassville, Jackson Mills and Bennetts Mills (older communities); Freehold, Upper Freehold and Dover (parent townships); Plumsted (later division)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "eaedd42a55136ec87f75999cf732e134c20239d73b6ccaa3ddffe70b56d04645",
+      "replacement": "Local history reports John Lacey’s road building in 1810, without establishing the exact original order or first proper-name use of Lacey Road.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "5f5107b47ddf08ea35e67debe0804f2eeb5ea8dc11be19358ca1f5bca4518e80",
+      "replacement": "Approximate reported organizing period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "9d5efe860ec92c7c74f80c40e6f18d237c86ad8d6fd9e7b1cc0ba5dc03670557",
+      "replacement": "A first committee organization is reported for late March or early April 1871. The exact day remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "55f06360801d6b29abd73458808ccd538d6c54236ff6958d09d9880966c7ea02",
+      "replacement": "The index gives August 18, 1933 for voter adoption and effect, following the June 23 conditional enabling act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "046bf3a2418daa783c936500173f99107356fe38786b5d8f0e3c563b977ab3d7",
+      "replacement": "John Lacey (reported honoree); Thomas Lacey (forge partner); Ferrago Forge and Ferrago Village (industrial locality); Lacey Road (local road); Bamber and Forked River (communities); Dover and Union (parents); Island Beach (later borough)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "78caa77e84f2b77fc28674ad59bcd260eb0a36b8d7655628834400951be2beb2",
+      "replacement": "The historic-sites survey reproduces an 1872 map labeled Manchester and Horicon. These labels establish mapped use, rather than first coinage or modern boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "7fda7560693441390547695ee305c37e4e9d778ffeea7936aa2e82bee676bbcf",
+      "replacement": "Mapmaker of the separately reported 1878 map unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "571e1ee8ed8cd6dee73a7617cf94b8a611b54de24039c2c895b265fa6a518112",
+      "replacement": "A separate 1878 Manchester map is reported but remains unconfirmed. The survey’s reproduced map is captioned 1872.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "2ae29981f956ce1a9f5baa780b7467729b8b813f22fe1af3909d33b64a812c5a",
+      "replacement": "The society chronology reports regular Lakehurst name use and a post office in 1897. The exact original postal order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "3fa6c8cb76c0405801cbbf7bc17e36aa401db9b7763942cca1cd5d37a9e34438",
+      "replacement": "The legal index reports voter adoption and effect on May 24, 1921, separate from the enabling law and subsequent county entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "8c519357d98a243f6ab1d9e938fde70fc539266b94511a850943640105bf06f3",
+      "replacement": "Federal Forge and furnace works (industrial predecessors); Manchester village (former community name); Lake Horicon (lake); Pine Tree Inn (resort); Manchester Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "views",
+        "1515",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "a0a4844d95bfd982c84d9bea60ae9b75d8accc0e3e10ff15430170e153b9add1",
+      "replacement": "Municipal history places Joseph Brick’s acquisition and Bergen Iron Works development in the 1830s. The exact transaction dates remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "views",
+        "1515",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "3b75147f1bef7244e3b0ea714ca48dfb6416e48d5ac67b9eb25cf47816a962a8",
+      "replacement": "The index gives March 23, 1892, chapter 121, for creation from Brick. The municipal page gives 1893 and CXXXI of 1892; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1515",
+      "path": [
+        "views",
+        "1515",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "679e58d6acc767789619e67efe2d902d7c5323a4144540b5b4bbf934dd3e5a3a",
+      "replacement": "Washington Furnace and Bergen Iron Works (industrial predecessors); Bricksburg (former community name); Brightwood (proposed alternative); Erastus Dickinson and Samuel Davis (reported proposers); Brick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1516",
+      "path": [
+        "views",
+        "1516",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b0b83247bc8c368487589ad75ef435db5d89f5f07f1e20683c2a6da5e7c41124",
+      "replacement": "La Vallette and LaVallette (name spellings); Rear Admiral Elie A. F. La Vallette (reported honoree); A. T. Lavallette (company secretary); Barnegat Land and Improvement Company (developer); Lavallette City by the Sea, Squan Beach (promotional plan title); Dover Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "86f4c565a2e2dabd7c5a0225cc8ea1b913a20d65c5b9dd8d489139e3ccb40aeb",
+      "replacement": "The government index reports municipal use of Little Egg Harbor in May 1753, without establishing the original decision introducing Little.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "7dd86b6c22fae5585c46acc827cb215f56e35f2cb33dc11c59321c1a0373303d",
+      "replacement": "Date reported by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "0a4029a28af396806f7d66bd3da5ddcfecd0ea0f2b0549b73fc19f073696d6e5",
+      "replacement": "The index gives November 19, 1802 creation from Evesham, Northampton and Little Egg Harbor. The later place-name catalogue attributes Washington to George Washington, without establishing the original dedication wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "events",
+        10,
+        "precision"
+      ],
+      "expected_sha256": "7dd86b6c22fae5585c46acc827cb215f56e35f2cb33dc11c59321c1a0373303d",
+      "replacement": "Date reported by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "49aa926424047b9e9e5dfe04a72458772b791a4f0f24a587b56b13808b78a3ba",
+      "replacement": "Egg Harbor Township, Burlington (former title); Little Egg Harbour (older geographic spelling); Monhunk and Minnicunk (island identities); Falkenberg (tract association); Great Egg Harbor (comparison); Northampton (parent); Washington, Bass River, Long Beach and Tuckerton (later divisions)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1518",
+      "path": [
+        "views",
+        "1518",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "4105980e49cce1398d3de66a8097957e8f3251080a81400e65640c44045d4cce",
+      "replacement": "Surveyor unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1518",
+      "path": [
+        "views",
+        "1518",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "18a64738046248c6259ce5f12c27c4cd74aecafcc7fb55a9aa7bde24297158bd",
+      "replacement": "Old Barnegat Beach and Eighteen Mile Beach (older coastal identities); Long Beach (geographic and station name); Eagleswood, Little Egg Harbor, Ocean, Stafford and Union (parents); Beach Haven, Barnegat City and Ship Bottom–Beach Arlington (later boroughs)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "6b745575a50742f3e6f57e19623c558d0ded8dd9404b909cca9fbe99af91f9a9",
+      "replacement": "The later state-hosted survey credits Samuel G. Wright with the Manchester village name before or by 1841. The exact first use remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "91105a3c104663bd7192067b60d5f1aa17850facae99c3a2388e4496c02cd9fb",
+      "replacement": "A later naming attribution, without an established original naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3c37ceac80a4e5c41e7c87e0245027d65cee5f88043bfafb7f59f116fae5e609",
+      "replacement": "The survey gives 1852 for Whiting’s founding, while the anniversary brochure gives 1861. These remain conflicting development accounts, without establishing two separate naming events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "78caa77e84f2b77fc28674ad59bcd260eb0a36b8d7655628834400951be2beb2",
+      "replacement": "The historic-sites survey reproduces an 1872 map labeled Manchester and Horicon. These labels establish mapped use, rather than first coinage or modern boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        7,
+        "type"
+      ],
+      "expected_sha256": "9ec7c6c7466d8bcc4dc3178146b1aed0f88b76a8b7511194f355e599f65b9aea",
+      "replacement": "Unconfirmed reported map use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "d25d1275bed7b2443c3900b0afaab92ff0af0dbec918a51d95fe8aeedb957342",
+      "replacement": "A separately reported 1878 Manchester map remains unconfirmed. The survey’s reproduced map is captioned 1872.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b1d2f957f949ac61328628dbd4c097f225740415a3cee20f3017044857ea4ece",
+      "replacement": "Federal Forge and furnace works (industrial predecessors); Manchester, England (attributed namesake); Samuel G. Wright (credited name chooser); William Torrey (developer); Whiting (community); Horicon (mapped name); Lakehurst (later village and borough); Dover Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1520",
+      "path": [
+        "views",
+        "1520",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "2d75a7da7600845fa3ca3faa7eace65a520b619c4bc6c21a5bb243e71f66b622",
+      "replacement": "The municipal history reports Mantoloking use and railway context in 1881. A separate gazetteer account credits Downer with constructing the name; that attribution remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1520",
+      "path": [
+        "views",
+        "1520",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "454e669eb28da5460210cd4cc76cec7391f886243401e0400e276123815a97f4",
+      "replacement": "Frederick W. Downer and Frank L. Hall (developers); Mantua (unconfirmed constructed-name account); Captain John Arnold (superintendent and reported first postmaster); Mantoloking Bridge and Golf Club (institutions); Brick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "c7ef35e62fb53f713d13368c6c94ae976621050c10e0d053bdf105943028b781",
+      "replacement": "The municipal account credits Vivian Zinkin with reported Waier Creek and Waier Mills forms in 1762. Their exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ebf8bd534ba21cd3501e91874a998aac8c01d47d0fb90a88cdf1af2f5f763763",
+      "replacement": "The municipal account credits Vivian Zinkin with an 1802 Wiretown spelling. This reported use does not establish a formal naming action.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "6ee39be700b1153a67f051f1579340b42f3500068afa67db3012537b0c47158c",
+      "replacement": "The municipal account credits Vivian Zinkin with an 1809 Waretown spelling. The exact original wording and first name chooser remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        9,
+        "actor"
+      ],
+      "expected_sha256": "17c65e911dc9912842c6eb8aa5f3fa13c0910220819bfbae8e7bcef2a23f84c6",
+      "replacement": "Municipal and state authorities; exact procedure unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "a2277a2bf383bc88183056a1afce3e07acc5fbb0d0bc49650313f831cd2739ee",
+      "replacement": "An unsuccessful naming proposal, without a completed municipal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "26d45e2bb6cf3416ba25669570227b2346f4b5e6394e06937eb73d9c908e5a1e",
+      "replacement": "Abraham Waier (community namesake tradition); Waier Creek, Waier Mills, Wiretown and Waretown (reported locality forms); Brookville (community); Township of Waretown (unsuccessful proposal); Lacey and Union (parents); Long Beach and Island Beach (later divisions)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "0610d9e558c8a43a0ac615cd0cdb6b8c991aeee704b55e580c79299e60885d84",
+      "replacement": "Buchholz quotes Harvest Quarters and a cedar clump from a reported 1751 deed. The intermediate forms leading to Harvey Cedars remain unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "7b4a28269a7f941abd96c1a7b7b9353111ea27b0d8afc1e58060fbe90f5a17d0",
+      "replacement": "The 1875 Treasury report lists Harvey Cedars as District 4 station 19 on printed page 52.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "bd9db98a7a797a2ba49c2ad08623f2beb18dbc882603df8c26d4f0e474366ec6",
+      "replacement": "Published use of the full name before the reported early-1880s survey, without establishing its invention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "115fa39d01ec35733b36387e83831cb660ff7cc943673cd21c4121327aef3fd2",
+      "replacement": "A Harvey Cedars survey use is reported for the early 1880s, after the full name in the 1875 federal report. The exact survey wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "e3351e3e3b859090611b1430583688657e676e3418b29ccb6253dc33a80b9894",
+      "replacement": "The chronology reports a November 20, 1894 vote; its exact original result and tally remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "9ae5ffdae798191341e4999281a1eca4f22be76738b13d99fcf2775dc87c50ec",
+      "replacement": "The index gives November 23, 1894 formation within Union and Stafford. Union was the contemporary name of the township later called Barnegat.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        13,
+        "action"
+      ],
+      "expected_sha256": "1f7ff973191b62a54ef168853fa42a674e262fd8e215f046b5df3877df30ed09",
+      "replacement": "Buchholz gives December 11, 1894 incorporation, conflicting with the indexed November sequence. The procedural relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        15,
+        "precision"
+      ],
+      "expected_sha256": "b04cff466848cd86168f4d8394dc1aab6071d68607b1759027607bea8730d8ce",
+      "replacement": "Vote date in the printed election statement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        15,
+        "action"
+      ],
+      "expected_sha256": "1766077353c52499c1979149d5f491ad82b0e516487857630995369cf5657dfb",
+      "replacement": "The 1923 municipal-election statement records April 3 adoption of commission government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        16,
+        "action"
+      ],
+      "expected_sha256": "12ccb9bf0532446b7cb78dbfa53ba98cb181d73f01d004eaac57ea1b0ace90a3",
+      "replacement": "The index reports state filing on May 3, 1923, separate from the April 3 vote and May 15 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        17,
+        "action"
+      ],
+      "expected_sha256": "baf6f70a9b45d3c30a7312b3b8cc316c1d725391ee9086685d283079a2307890",
+      "replacement": "The index gives May 15, 1923 commencement, the sixth Tuesday after April 3 adoption. This does not establish when officials first met.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "events",
+        19,
+        "action"
+      ],
+      "expected_sha256": "bd046f7155aecbf53f9dc0b8bbfc2ddd4bf8a943e83556cbed6469259ea703ed",
+      "replacement": "A later account reports postal consolidation in the early 1930s; the exact order and date remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1510",
+      "path": [
+        "views",
+        "1510",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "bed9c9cda5d7455d62564850a18be03f217935dc864d15f6334cc28c4f577a49",
+      "replacement": "Harvest Quarters (reported deed form); Connahassett House and Kinsey’s (hotel names); Harvey Cedars Hotel (hotel); High Point (subcommunity); Harvey Cedars Beach Company (developer); Union and Stafford (parent townships)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8246f2c8e0c72c67922af41ecd35a3701960c23708e365016b6603f2c2cd7f23",
+      "replacement": "Patent accounts disagree between 1680 and 1690 and between Johnson and Johnston. Both the date and spelling remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "4aeab6517f520c6fe8a903fd0700a56c12f3a49c2efd800cf909c16e7b0bb8ab",
+      "replacement": "The municipal history credits the Reverend Jacob B. Graw with selecting the resort site in 1877. The person who chose the compound name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "64b436a5e51973c4155711a0518aac1ffb31652c97cad0c8040aeab9143ed122",
+      "replacement": "Accounts give conflicting activity dates in August 1878. Borough history reports August 20 lot sales, which do not date every camp activity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "91ad97f8a34c2f75b3f255ee2bb6c7625476a1ffc244d9da6d04f3abd5272678",
+      "replacement": "A Snyder-derived account gives November 18, 1886. Its relationship to the other reported government stages remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "3d1fc6156c596aa15106c41d6bb77ea7a97b241f8fc606aef7a2efb511c67c10",
+      "replacement": "The index reports an April 21, 1887 continuation and dissolution sequence; the exact original result remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "events",
+        12,
+        "action"
+      ],
+      "expected_sha256": "39d04cde64b8cffb867bdabc0f8872be0949f0569f9116ec929f92f7b60532de",
+      "replacement": "A later account reports May 27, 1887 organization, separate from borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1511",
+      "path": [
+        "views",
+        "1511",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c81e9c279607a10bbcec2bf53ca6fcba85d9a2dbf81fcbd541eaa527a4e1281a",
+      "replacement": "Johnson’s Island and Johnston’s Island (conflicting spellings); Toms River Island and Dillon’s Island (older tract names); Island Heights Association (resort body); Dover Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1512",
+      "path": [
+        "views",
+        "1512",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "6302790027c5e839f7e7c5be7a46af5c2ccedf95568bf3b1ecbdd41b48c771e6",
+      "replacement": "David T. Miller Sr.’s municipal history quotes the March 6, 1844 House stage and reports creation from Freehold, Upper Freehold and Dover.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1512",
+      "path": [
+        "views",
+        "1512",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "97b6da4c4ea41553682e8c8436bb2d9e68b0d7a2a03bc5f312acf10d42e1c041",
+      "replacement": "Cassville and the mill communities supplied settlement context before 1844. Their individual beginnings are not all established by this broader period.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1512",
+      "path": [
+        "views",
+        "1512",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "2bb73b405b36d7ae9cc253e5ad7b533dc036db1435598acbb774d9f0959df225",
+      "replacement": "The 1845 division created Plumsted from Jackson, separate from Jackson’s original formation from three townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1512",
+      "path": [
+        "views",
+        "1512",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "d32e8634c77a4104cb69c9e15e8da0063181942556ae0b80ab29ec36e7056e28",
+      "replacement": "Andrew Jackson (reported township honoree); William Jackson (separate Jackson Mills tradition); Cassville, Jackson Mills and Bennetts Mills (older communities); Freehold, Upper Freehold and Dover (parent townships); Plumsted (later division)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "eaedd42a55136ec87f75999cf732e134c20239d73b6ccaa3ddffe70b56d04645",
+      "replacement": "Local history reports John Lacey’s road building in 1810, without establishing the exact original order or first proper-name use of Lacey Road.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "5f5107b47ddf08ea35e67debe0804f2eeb5ea8dc11be19358ca1f5bca4518e80",
+      "replacement": "Approximate reported organizing period",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "9d5efe860ec92c7c74f80c40e6f18d237c86ad8d6fd9e7b1cc0ba5dc03670557",
+      "replacement": "A first committee organization is reported for late March or early April 1871. The exact day remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "55f06360801d6b29abd73458808ccd538d6c54236ff6958d09d9880966c7ea02",
+      "replacement": "The index gives August 18, 1933 for voter adoption and effect, following the June 23 conditional enabling act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1513",
+      "path": [
+        "views",
+        "1513",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "046bf3a2418daa783c936500173f99107356fe38786b5d8f0e3c563b977ab3d7",
+      "replacement": "John Lacey (reported honoree); Thomas Lacey (forge partner); Ferrago Forge and Ferrago Village (industrial locality); Lacey Road (local road); Bamber and Forked River (communities); Dover and Union (parents); Island Beach (later borough)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "78caa77e84f2b77fc28674ad59bcd260eb0a36b8d7655628834400951be2beb2",
+      "replacement": "The historic-sites survey reproduces an 1872 map labeled Manchester and Horicon. These labels establish mapped use, rather than first coinage or modern boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        4,
+        "actor"
+      ],
+      "expected_sha256": "7fda7560693441390547695ee305c37e4e9d778ffeea7936aa2e82bee676bbcf",
+      "replacement": "Mapmaker of the separately reported 1878 map unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "571e1ee8ed8cd6dee73a7617cf94b8a611b54de24039c2c895b265fa6a518112",
+      "replacement": "A separate 1878 Manchester map is reported but remains unconfirmed. The survey’s reproduced map is captioned 1872.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "2ae29981f956ce1a9f5baa780b7467729b8b813f22fe1af3909d33b64a812c5a",
+      "replacement": "The society chronology reports regular Lakehurst name use and a post office in 1897. The exact original postal order remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "3fa6c8cb76c0405801cbbf7bc17e36aa401db9b7763942cca1cd5d37a9e34438",
+      "replacement": "The legal index reports voter adoption and effect on May 24, 1921, separate from the enabling law and subsequent county entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1514",
+      "path": [
+        "views",
+        "1514",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "8c519357d98a243f6ab1d9e938fde70fc539266b94511a850943640105bf06f3",
+      "replacement": "Federal Forge and furnace works (industrial predecessors); Manchester village (former community name); Lake Horicon (lake); Pine Tree Inn (resort); Manchester Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "views",
+        "1515",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "a0a4844d95bfd982c84d9bea60ae9b75d8accc0e3e10ff15430170e153b9add1",
+      "replacement": "Municipal history places Joseph Brick’s acquisition and Bergen Iron Works development in the 1830s. The exact transaction dates remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "views",
+        "1515",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "3b75147f1bef7244e3b0ea714ca48dfb6416e48d5ac67b9eb25cf47816a962a8",
+      "replacement": "The index gives March 23, 1892, chapter 121, for creation from Brick. The municipal page gives 1893 and CXXXI of 1892; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1515",
+      "path": [
+        "views",
+        "1515",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "679e58d6acc767789619e67efe2d902d7c5323a4144540b5b4bbf934dd3e5a3a",
+      "replacement": "Washington Furnace and Bergen Iron Works (industrial predecessors); Bricksburg (former community name); Brightwood (proposed alternative); Erastus Dickinson and Samuel Davis (reported proposers); Brick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1516",
+      "path": [
+        "views",
+        "1516",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b0b83247bc8c368487589ad75ef435db5d89f5f07f1e20683c2a6da5e7c41124",
+      "replacement": "La Vallette and LaVallette (name spellings); Rear Admiral Elie A. F. La Vallette (reported honoree); A. T. Lavallette (company secretary); Barnegat Land and Improvement Company (developer); Lavallette City by the Sea, Squan Beach (promotional plan title); Dover Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "86f4c565a2e2dabd7c5a0225cc8ea1b913a20d65c5b9dd8d489139e3ccb40aeb",
+      "replacement": "The government index reports municipal use of Little Egg Harbor in May 1753, without establishing the original decision introducing Little.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "7dd86b6c22fae5585c46acc827cb215f56e35f2cb33dc11c59321c1a0373303d",
+      "replacement": "Date reported by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "0a4029a28af396806f7d66bd3da5ddcfecd0ea0f2b0549b73fc19f073696d6e5",
+      "replacement": "The index gives November 19, 1802 creation from Evesham, Northampton and Little Egg Harbor. The later place-name catalogue attributes Washington to George Washington, without establishing the original dedication wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "events",
+        10,
+        "precision"
+      ],
+      "expected_sha256": "7dd86b6c22fae5585c46acc827cb215f56e35f2cb33dc11c59321c1a0373303d",
+      "replacement": "Date reported by the legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1517",
+      "path": [
+        "views",
+        "1517",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "49aa926424047b9e9e5dfe04a72458772b791a4f0f24a587b56b13808b78a3ba",
+      "replacement": "Egg Harbor Township, Burlington (former title); Little Egg Harbour (older geographic spelling); Monhunk and Minnicunk (island identities); Falkenberg (tract association); Great Egg Harbor (comparison); Northampton (parent); Washington, Bass River, Long Beach and Tuckerton (later divisions)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1518",
+      "path": [
+        "views",
+        "1518",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "4105980e49cce1398d3de66a8097957e8f3251080a81400e65640c44045d4cce",
+      "replacement": "Surveyor unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1518",
+      "path": [
+        "views",
+        "1518",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "18a64738046248c6259ce5f12c27c4cd74aecafcc7fb55a9aa7bde24297158bd",
+      "replacement": "Old Barnegat Beach and Eighteen Mile Beach (older coastal identities); Long Beach (geographic and station name); Eagleswood, Little Egg Harbor, Ocean, Stafford and Union (parents); Beach Haven, Barnegat City and Ship Bottom–Beach Arlington (later boroughs)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "6b745575a50742f3e6f57e19623c558d0ded8dd9404b909cca9fbe99af91f9a9",
+      "replacement": "The later state-hosted survey credits Samuel G. Wright with the Manchester village name before or by 1841. The exact first use remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "91105a3c104663bd7192067b60d5f1aa17850facae99c3a2388e4496c02cd9fb",
+      "replacement": "A later naming attribution, without an established original naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3c37ceac80a4e5c41e7c87e0245027d65cee5f88043bfafb7f59f116fae5e609",
+      "replacement": "The survey gives 1852 for Whiting’s founding, while the anniversary brochure gives 1861. These remain conflicting development accounts, without establishing two separate naming events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "78caa77e84f2b77fc28674ad59bcd260eb0a36b8d7655628834400951be2beb2",
+      "replacement": "The historic-sites survey reproduces an 1872 map labeled Manchester and Horicon. These labels establish mapped use, rather than first coinage or modern boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        7,
+        "type"
+      ],
+      "expected_sha256": "9ec7c6c7466d8bcc4dc3178146b1aed0f88b76a8b7511194f355e599f65b9aea",
+      "replacement": "Unconfirmed reported map use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "d25d1275bed7b2443c3900b0afaab92ff0af0dbec918a51d95fe8aeedb957342",
+      "replacement": "A separately reported 1878 Manchester map remains unconfirmed. The survey’s reproduced map is captioned 1872.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1519",
+      "path": [
+        "views",
+        "1519",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b1d2f957f949ac61328628dbd4c097f225740415a3cee20f3017044857ea4ece",
+      "replacement": "Federal Forge and furnace works (industrial predecessors); Manchester, England (attributed namesake); Samuel G. Wright (credited name chooser); William Torrey (developer); Whiting (community); Horicon (mapped name); Lakehurst (later village and borough); Dover Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1520",
+      "path": [
+        "views",
+        "1520",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "2d75a7da7600845fa3ca3faa7eace65a520b619c4bc6c21a5bb243e71f66b622",
+      "replacement": "The municipal history reports Mantoloking use and railway context in 1881. A separate gazetteer account credits Downer with constructing the name; that attribution remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1520",
+      "path": [
+        "views",
+        "1520",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "454e669eb28da5460210cd4cc76cec7391f886243401e0400e276123815a97f4",
+      "replacement": "Frederick W. Downer and Frank L. Hall (developers); Mantua (unconfirmed constructed-name account); Captain John Arnold (superintendent and reported first postmaster); Mantoloking Bridge and Golf Club (institutions); Brick Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "c7ef35e62fb53f713d13368c6c94ae976621050c10e0d053bdf105943028b781",
+      "replacement": "The municipal account credits Vivian Zinkin with reported Waier Creek and Waier Mills forms in 1762. Their exact original wording remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ebf8bd534ba21cd3501e91874a998aac8c01d47d0fb90a88cdf1af2f5f763763",
+      "replacement": "The municipal account credits Vivian Zinkin with an 1802 Wiretown spelling. This reported use does not establish a formal naming action.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "6ee39be700b1153a67f051f1579340b42f3500068afa67db3012537b0c47158c",
+      "replacement": "The municipal account credits Vivian Zinkin with an 1809 Waretown spelling. The exact original wording and first name chooser remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        9,
+        "actor"
+      ],
+      "expected_sha256": "17c65e911dc9912842c6eb8aa5f3fa13c0910220819bfbae8e7bcef2a23f84c6",
+      "replacement": "Municipal and state authorities; exact procedure unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "a2277a2bf383bc88183056a1afce3e07acc5fbb0d0bc49650313f831cd2739ee",
+      "replacement": "An unsuccessful naming proposal, without a completed municipal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1521",
+      "path": [
+        "views",
+        "1521",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "26d45e2bb6cf3416ba25669570227b2346f4b5e6394e06937eb73d9c908e5a1e",
+      "replacement": "Abraham Waier (community namesake tradition); Waier Creek, Waier Mills, Wiretown and Waretown (reported locality forms); Brookville (community); Township of Waretown (unsuccessful proposal); Lacey and Union (parents); Long Beach and Island Beach (later divisions)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
