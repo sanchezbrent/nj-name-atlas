@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_28",
+  "checkpoint": "PUBLIC_COPY_29",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -318,7 +318,19 @@
     "0430",
     "0431",
     "0432",
-    "0433"
+    "0433",
+    "0434",
+    "0435",
+    "0436",
+    "0437",
+    "0501",
+    "0502",
+    "0503",
+    "0504",
+    "0505",
+    "0506",
+    "0507",
+    "0508"
   ],
   "changes": [
     {
@@ -127278,6 +127290,2926 @@
       ],
       "expected_sha256": "428f04a48e1084d2d3c43948e3d41c7f48c305dc5e6e93ea252a915d3c309174",
       "replacement": "Current database; accessed 2026-09-13",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "6495e627ecddf6395c54e059ebcf9b45a4539389ff5d4c7aeac43694a5be0912",
+      "replacement": "Voorhees Township carries Governor Foster McGowan Voorhees’s surname, according to the municipal naming tradition. Residents sought separation from Waterford, and the title honored the sitting governor. The first person to suggest the honor remains unknown; the reported identities of individual petitioners are unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "b2ff845bd2661214f2ce4b610457134e86aa65b1b72db8a85bd6bff2fae4f86d",
+      "replacement": "The municipal story says Voorhees Township honors Governor Foster McGowan Voorhees. Residents sought separation from Waterford while he was governor. The first person to propose honoring him remains unknown, and the reported petitioners’ identities are unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "911836ffcdd7a27d59e4b0b51d3fa89cef4c0ae6d70949a00c5ab3f8aa1c83b1",
+      "replacement": "The printed law gives March 1, 1899 approval and immediate effect. The municipal history’s March 3 permission or petition account conflicts; no independent second action is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "911836ffcdd7a27d59e4b0b51d3fa89cef4c0ae6d70949a00c5ab3f8aa1c83b1",
+      "replacement": "The printed law gives March 1, 1899 approval and immediate effect. The municipal history’s March 3 permission or petition account conflicts; no independent second action is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "72b4d7ad4c7c20d3c0d7ac098ed05a9ef15f724c7dcf5afbfe5ea41b65ef7c46",
+      "replacement": "The name appears in the 1899 township title. That does not establish the first local use or prove that no earlier locality used Voorhees.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "72b4d7ad4c7c20d3c0d7ac098ed05a9ef15f724c7dcf5afbfe5ea41b65ef7c46",
+      "replacement": "The name appears in the 1899 township title. That does not establish the first local use or prove that no earlier locality used Voorhees.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "284c6f8554bcb1ed1bf4d3751d7ef27f1ac583c952007ccfb2c01b8ab0e0f20b",
+      "replacement": "Residents sought separation from Waterford. Tomlinson, Sayers and Davis are reported petitioner names whose identities remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "284c6f8554bcb1ed1bf4d3751d7ef27f1ac583c952007ccfb2c01b8ab0e0f20b",
+      "replacement": "Residents sought separation from Waterford. Tomlinson, Sayers and Davis are reported petitioner names whose identities remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b42cfe65c49cd9e57a9703102554d9d837094648a347d00ff117242af92ea86d",
+      "replacement": "The printed law gives March 1, 1899 approval and immediate effect. Municipal history gives March 3 permission or petition grant. No separate second action is established to reconcile those accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "editorial",
+        "0434",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b42cfe65c49cd9e57a9703102554d9d837094648a347d00ff117242af92ea86d",
+      "replacement": "The printed law gives March 1, 1899 approval and immediate effect. Municipal history gives March 3 permission or petition grant. No separate second action is established to reconcile those accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0435",
+      "path": [
+        "editorial",
+        "0435",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "9d33303db7b01c0c3b6440e35714e81b3189cc02d559eb3119997770b085e5d7",
+      "replacement": "Prowell’s 1886 history quotes Waterford in a June 1, 1695 boundary return. Township branding also gives 1694. That difference remains unresolved; neither a calendar adjustment nor a second founding event is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0435",
+      "path": [
+        "editorial",
+        "0435",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "dc2103c91354ae759da9ba954d8f1355b585e480c45313aab72b7ae8d5e91873",
+      "replacement": "The county history quotes Waterford in a boundary return dated June 1, 1695. The township also uses an earlier 1694 founding claim. The difference remains unresolved; calendars or a second founding cannot simply be assumed to explain it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0435",
+      "path": [
+        "editorial",
+        "0435",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ff824ccdb66f77296cc2b99df4521dedecacdba9c40204637f583fddb6984c29",
+      "replacement": "Prowell’s later quotation uses Waterford. Ireland and England remain competing proposed namesakes, and the 1694/1695 date difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0435",
+      "path": [
+        "editorial",
+        "0435",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ff824ccdb66f77296cc2b99df4521dedecacdba9c40204637f583fddb6984c29",
+      "replacement": "Prowell’s later quotation uses Waterford. Ireland and England remain competing proposed namesakes, and the 1694/1695 date difference remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0435",
+      "path": [
+        "editorial",
+        "0435",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0e69f3ae295d00a5c2c07d1e232d5f3d298a407d399c9d1a3d5b5095150a47cc",
+      "replacement": "Prowell’s 1886 history quotes Waterford in a June 1, 1695 boundary return. This is wording transmitted by a later history rather than an established first naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0435",
+      "path": [
+        "editorial",
+        "0435",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0e69f3ae295d00a5c2c07d1e232d5f3d298a407d399c9d1a3d5b5095150a47cc",
+      "replacement": "Prowell’s 1886 history quotes Waterford in a June 1, 1695 boundary return. This is wording transmitted by a later history rather than an established first naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0435",
+      "path": [
+        "editorial",
+        "0435",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "594502b98e48ac1d0315d38f90649bedb0ac1d9d92b909e93cf8de5e8ec48837",
+      "replacement": "The colonial organization belonged to Gloucester County. The legal chronology gives February 21, 1798 continuation under state law rather than first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0435",
+      "path": [
+        "editorial",
+        "0435",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "594502b98e48ac1d0315d38f90649bedb0ac1d9d92b909e93cf8de5e8ec48837",
+      "replacement": "The colonial organization belonged to Gloucester County. The legal chronology gives February 21, 1798 continuation under state law rather than first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "494e961810390258995f8566b6f004e9615c8aae3f4ada20207b1566b516a492",
+      "replacement": "Prowell reports Coffin’s land purchase in 1829 and places village naming roughly fourteen years before township formation in 1845. That suggests the early 1830s without establishing an exact naming year. Buying the land and choosing a name were different acts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "5df31f52788490bd9e2a1e5da51ccf78b1365c49fe6e42893321dd8f6b2e02d1",
+      "replacement": "The township formed from Gloucester Township in 1845, according to the history and legal index. Blue Anchor, Tansboro, Sicklerville, Ancora and Cedar Brook had their own identities. Instructions placed the first election at Blue Anchor, without establishing that it happened as prescribed. A later Long-a-Coming transfer changed territory rather than inventing Winslow again.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "d8a5ad476bd6daecd5ea05dacfabf411c9dd3e5fd4dedc2d83b29b763afd6135",
+      "replacement": "The history and legal index report March 8, 1845 formation from Gloucester. The prescribed election at Blue Anchor does not independently establish that the proceedings occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "d8a5ad476bd6daecd5ea05dacfabf411c9dd3e5fd4dedc2d83b29b763afd6135",
+      "replacement": "The history and legal index report March 8, 1845 formation from Gloucester. The prescribed election at Blue Anchor does not independently establish that the proceedings occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "464e6f75e211351056fa8d5cb66c9af07f60b6cfe17f0e9ab6a24ec4709bb372",
+      "replacement": "The history reports a March 23, 1859 territorial transfer placing all Long-a-Coming in Waterford. This changed boundaries rather than choosing Winslow’s name again.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "464e6f75e211351056fa8d5cb66c9af07f60b6cfe17f0e9ab6a24ec4709bb372",
+      "replacement": "The history reports a March 23, 1859 territorial transfer placing all Long-a-Coming in Waterford. This changed boundaries rather than choosing Winslow’s name again.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "b95483d582dadd2b2f4e317a28adbe2b58c74d4fb7c61501f9e71562193bd4f9",
+      "replacement": "Prowell credits William Coffin Sr. with naming the glassworks village for his youngest son, Edward Winslow Coffin. The township later adopted the village name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "b95483d582dadd2b2f4e317a28adbe2b58c74d4fb7c61501f9e71562193bd4f9",
+      "replacement": "Prowell credits William Coffin Sr. with naming the glassworks village for his youngest son, Edward Winslow Coffin. The township later adopted the village name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "770aeaa6c458d2ac2f758a20955e58ee507c2bc8d192f1ba8fb6d7b7a67343e8",
+      "replacement": "The history and index report March 23, 1859 changes placing all Long-a-Coming in Waterford. This changed territory rather than naming Winslow again.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "editorial",
+        "0436",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "770aeaa6c458d2ac2f758a20955e58ee507c2bc8d192f1ba8fb6d7b7a67343e8",
+      "replacement": "The history and index report March 23, 1859 changes placing all Long-a-Coming in Waterford. This changed territory rather than naming Winslow again.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "aa5067a2cd02dc85494069f2ff18bcbfc45730020aec01725b96f40d18e0bb70",
+      "replacement": "A later feature credits Rev. Charles H. Bond with selecting Avalon, the island in King Arthur’s legend, in 1887 for the Seven Mile Beach Company’s resort. It reports Avalon and Hotel Avalon promotion by January 1888. Bond’s role remains an attribution of that later account rather than an established original naming declaration.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "2e067f6c89beed23f6f741c5aa14c84305c30f913de2d3e4fe96c88b47437e71",
+      "replacement": "In King Arthur’s legends, Avalon is an island. A later feature credits Rev. Charles H. Bond with choosing the name in 1887 for the Seven Mile Beach Company’s resort. It reports Avalon and Hotel Avalon promotion by January 1888. That naming credit belongs to the later account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "fd74a057ddcb7a4f2500c906c9e679ffe96a3db3c46ef1b79ebbadd1615b97d3",
+      "replacement": "The later feature credits Bond with choosing Avalon in 1887 and reports Avalon and Hotel Avalon promotion by January 1888. January is a reported month rather than an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "fd74a057ddcb7a4f2500c906c9e679ffe96a3db3c46ef1b79ebbadd1615b97d3",
+      "replacement": "The later feature credits Bond with choosing Avalon in 1887 and reports Avalon and Hotel Avalon promotion by January 1888. January is a reported month rather than an exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "74f95ffd6f962b50ac20d0af70eef84bceb8dd63afb73d6ccfa1156a332458ff",
+      "replacement": "Baer’s chronology reports a June 19, 1888 railway agreement. Law’s compilation gives July 9 postal establishment. These are separate institutional uses of an existing resort name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "74f95ffd6f962b50ac20d0af70eef84bceb8dd63afb73d6ccfa1156a332458ff",
+      "replacement": "Baer’s chronology reports a June 19, 1888 railway agreement. Law’s compilation gives July 9 postal establishment. These are separate institutional uses of an existing resort name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "7e517af90df5b58eb964773af9b44a8d04ad2596c9ce1264b690bf394cd37b07",
+      "replacement": "A 2019 feature credits Rev. Charles H. Bond with choosing the Arthurian name in 1887 for the Seven Mile Beach Company. The first naming statement remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "7e517af90df5b58eb964773af9b44a8d04ad2596c9ce1264b690bf394cd37b07",
+      "replacement": "A 2019 feature credits Rev. Charles H. Bond with choosing the Arthurian name in 1887 for the Seven Mile Beach Company. The first naming statement remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "00b59107987d6651e0d13f75a14edc77f94022b08bd671ee2fd87f2044487c43",
+      "replacement": "The 2019 feature reports Avalon and Hotel Avalon promotion by January 1888. This is a reported month of public use rather than the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "00b59107987d6651e0d13f75a14edc77f94022b08bd671ee2fd87f2044487c43",
+      "replacement": "The 2019 feature reports Avalon and Hotel Avalon promotion by January 1888. This is a reported month of public use rather than the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "ceed387265e749bff01ebf6b5de5cda2b9df552fb0f2199a04b2adf7c09ee0e4",
+      "replacement": "Baer’s chronology records the June 19, 1888 railway agreement; Law’s compilation reports July 9 postal establishment under George W. Smith. Neither institutional date establishes who first named Avalon.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "editorial",
+        "0501",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "ceed387265e749bff01ebf6b5de5cda2b9df552fb0f2199a04b2adf7c09ee0e4",
+      "replacement": "Baer’s chronology records the June 19, 1888 railway agreement; Law’s compilation reports July 9 postal establishment under George W. Smith. Neither institutional date establishes who first named Avalon.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "7c51e6a44c10fc7e89b66ea9cddcadc2b852589a41ab17593092f98f6749ef8a",
+      "replacement": "A published transcription of a June 24, 1664 release uses Cape May in a boundary description. Goos’s 1666 chart bears Caep Maey. These are forms of the older geographic name rather than evidence that today’s city government existed then.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "19592757f8ad0e9f69ad72156371ce3ca9a69ca241bee4d81aeb0103257b9d06",
+      "replacement": "A later transcription of a 1664 document uses Cape May in a boundary description. Goos’s 1666 chart bears Caep Maey. Those are geographic names rather than proof that today’s city government existed then.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b00e584d5a5652a0e54c5eb780ac5a4bfe1a5eb3b698654b75075b201dcd522d",
+      "replacement": "The published transcription uses Cape May in the June 24, 1664 boundary description. That is a geographic-name witness rather than the city’s founding or original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b00e584d5a5652a0e54c5eb780ac5a4bfe1a5eb3b698654b75075b201dcd522d",
+      "replacement": "The published transcription uses Cape May in the June 24, 1664 boundary description. That is a geographic-name witness rather than the city’s founding or original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        1,
+        "date"
+      ],
+      "expected_sha256": "7e31b3193edf62fca4544e0add87225747431b8fbbb5a3f1146827424678125a",
+      "replacement": "1666 · Goos chart",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        1,
+        "date"
+      ],
+      "expected_sha256": "7e31b3193edf62fca4544e0add87225747431b8fbbb5a3f1146827424678125a",
+      "replacement": "1666 · Goos chart",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "a7bf793fe90f190ecf15ed271cc3c7afcf261457757ee8f75fd9333888c81f80",
+      "replacement": "Goos’s chart bears Caep Maey. The form belongs to the older geography rather than a municipality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "a7bf793fe90f190ecf15ed271cc3c7afcf261457757ee8f75fd9333888c81f80",
+      "replacement": "Goos’s chart bears Caep Maey. The form belongs to the older geography rather than a municipality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3942dd36024555814b9e4cac01aa4d4df4269c8a7a38db85a033a7ef123db9d7",
+      "replacement": "The 1869 law was approved March 9, but says the second Tuesday of March next. Its precise start remains unresolved; the later charter revision is a separate stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3942dd36024555814b9e4cac01aa4d4df4269c8a7a38db85a033a7ef123db9d7",
+      "replacement": "The 1869 law was approved March 9, but says the second Tuesday of March next. Its precise start remains unresolved; the later charter revision is a separate stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "b7a08eb0d992b926ce43c804545e4758f60e8e05f8289ccf353152ef3ece24c7",
+      "replacement": "Law’s compilation reports the January 15, 1869 postal rename before the municipal law. That institutional change did not originate the much older geographic name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "b7a08eb0d992b926ce43c804545e4758f60e8e05f8289ccf353152ef3ece24c7",
+      "replacement": "Law’s compilation reports the January 15, 1869 postal rename before the municipal law. That institutional change did not originate the much older geographic name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "f90a2855b4eee679e02cb06e4454722f7f78d02b393fec508396c809dc81716d",
+      "replacement": "A later transcription of a June 24, 1664 release uses Cape May, and Goos’s 1666 chart bears Caep Maey. Neither establishes the original naming decision or one certain 1614/1621 voyage date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "f90a2855b4eee679e02cb06e4454722f7f78d02b393fec508396c809dc81716d",
+      "replacement": "A later transcription of a June 24, 1664 release uses Cape May, and Goos’s 1666 chart bears Caep Maey. Neither establishes the original naming decision or one certain 1614/1621 voyage date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "8e24733bf84e0587c831c5c1a27fb59d9970a9ae76d60d13dcd7bf764c133cf6",
+      "replacement": "Law’s compilation gives January 30, 1804 postal establishment under Ellis Hughes and January 15, 1869 change to Cape May. Postal adoption is distinct from the city’s later law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "8e24733bf84e0587c831c5c1a27fb59d9970a9ae76d60d13dcd7bf764c133cf6",
+      "replacement": "Law’s compilation gives January 30, 1804 postal establishment under Ellis Hughes and January 15, 1869 change to Cape May. Postal adoption is distinct from the city’s later law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "5b3f747aa6916c75f7e47f019ac6e1b3c46e10ecbb7e0f4612b4038b1a5975a4",
+      "replacement": "The 1869 law was approved March 9, but says the second Tuesday of March next. Precise operation remains unresolved. The 1875 revision was approved March 3 and says the eighth day of March next; it is not another first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "editorial",
+        "0502",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "5b3f747aa6916c75f7e47f019ac6e1b3c46e10ecbb7e0f4612b4038b1a5975a4",
+      "replacement": "The 1869 law was approved March 9, but says the second Tuesday of March next. Precise operation remains unresolved. The 1875 revision was approved March 3 and says the eighth day of March next; it is not another first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "80b5d69d3607ec32815bedd4c684f42fe1bc5fa988fbdae7e47465e97a7f958d",
+      "replacement": "The 1995 church nomination describes Stites-family land and the Sea Grove resort. Its report of a 1712 land transaction does not establish the beach-name wording in the deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "80b5d69d3607ec32815bedd4c684f42fe1bc5fa988fbdae7e47465e97a7f958d",
+      "replacement": "The 1995 church nomination describes Stites-family land and the Sea Grove resort. Its report of a 1712 land transaction does not establish the beach-name wording in the deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "abb8784814ed21d08199e9e3fb21dd3344b5aead47d28f24a245dabccde143c8",
+      "replacement": "The legal index lists the April 17 and 19, 1878 entries as county records. Law’s compilation gives the August 8 postal change, after April 16 borough adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "abb8784814ed21d08199e9e3fb21dd3344b5aead47d28f24a245dabccde143c8",
+      "replacement": "The legal index lists the April 17 and 19, 1878 entries as county records. Law’s compilation gives the August 8 postal change, after April 16 borough adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "bff0b9409adfa587b6d05314ab7fd277f4cb4583c0793d32d88bc8c823fcfaad",
+      "replacement": "The 1995 church nomination reports Henry Stites’s 1712 land purchase without establishing the beach-name wording in the deed. The Sea Grove Association and resort are reported in 1875.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "bff0b9409adfa587b6d05314ab7fd277f4cb4583c0793d32d88bc8c823fcfaad",
+      "replacement": "The 1995 church nomination reports Henry Stites’s 1712 land purchase without establishing the beach-name wording in the deed. The Sea Grove Association and resort are reported in 1875.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "e116e0d8301b353c69505841f6dcedd02fe5ccc9dfeaf649d521e6f82d0c9269",
+      "replacement": "Law’s compilation gives March 27, 1876 for the Sea Grove office under Alexander Springer and August 8, 1878 for its change to Cape May Point. The municipal vote came first that April.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "e116e0d8301b353c69505841f6dcedd02fe5ccc9dfeaf649d521e6f82d0c9269",
+      "replacement": "Law’s compilation gives March 27, 1876 for the Sea Grove office under Alexander Springer and August 8, 1878 for its change to Cape May Point. The municipal vote came first that April.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "fbdd592955c39fac7fe69b9373cba7d711a7d0d09900e6c93cd27253c37a6820",
+      "replacement": "The legal chronology separates April 6, 1908 authorization from April 21 acceptance and creation. The present borough does not continue without a break from the Sea Grove association or the first borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0503",
+      "path": [
+        "editorial",
+        "0503",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "fbdd592955c39fac7fe69b9373cba7d711a7d0d09900e6c93cd27253c37a6820",
+      "replacement": "The legal chronology separates April 6, 1908 authorization from April 21 acceptance and creation. The present borough does not continue without a break from the Sea Grove association or the first borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2e4a1d173e6004eaf62125e67200e0b059854c4db62869e611d8a327131e730c",
+      "replacement": "Law’s postal compilation gives October 9, 1802 for the Dennis Creek office, while the township museum gives September 7. Those establishment dates remain conflicting, without establishing two separate offices. The postal name became Dennisville in 1854, while the township retained Dennis.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a46f781ee025b16898abe19a439755ad543dadaa8ea41761b2f2610d3cfa89e9",
+      "replacement": "A post office used Dennis Creek before the township began. Two later sources give different dates in 1802: September 7 or October 9. The disagreement remains unresolved. The office later became Dennisville while the township kept Dennis.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c31dcb4d994d629a799613c9468bc1cc51b94d936295b174b8b61b0be5cbecfa",
+      "replacement": "The 1992 historical report dates John Dennis’s land purchase to 1687. That is a landholding year rather than the creek’s first naming day; the original chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c31dcb4d994d629a799613c9468bc1cc51b94d936295b174b8b61b0be5cbecfa",
+      "replacement": "The 1992 historical report dates John Dennis’s land purchase to 1687. That is a landholding year rather than the creek’s first naming day; the original chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "8f0b973f2fe67c5ee31fa336852ca40563654bfa579549cd06cc4648ca1825ce",
+      "replacement": "The sources disagree between September 7 and October 9, 1802 establishment. They do not establish two separate offices. The later postal change to Dennisville did not rename the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "8f0b973f2fe67c5ee31fa336852ca40563654bfa579549cd06cc4648ca1825ce",
+      "replacement": "The sources disagree between September 7 and October 9, 1802 establishment. They do not establish two separate offices. The later postal change to Dennisville did not rename the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "048efe574235477617dcef26aa3880df83fd406d6b54549aa7f34c8ccb07e30e",
+      "replacement": "The division law passed November 9, 1826 and expressly began Dennis Township on March 1, 1827. Its meeting directions are schedules rather than established occurrences.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "048efe574235477617dcef26aa3880df83fd406d6b54549aa7f34c8ccb07e30e",
+      "replacement": "The division law passed November 9, 1826 and expressly began Dennis Township on March 1, 1827. Its meeting directions are schedules rather than established occurrences.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b878a9285664bd40168eb9d1eec1b6601fa56058b3e066121c2049cc3fd995fb",
+      "replacement": "The 1992 historical building report says John Dennis bought land from Panktoe in 1687. It gives no exact day and does not establish when the creek first took his surname.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b878a9285664bd40168eb9d1eec1b6601fa56058b3e066121c2049cc3fd995fb",
+      "replacement": "The 1992 historical building report says John Dennis bought land from Panktoe in 1687. It gives no exact day and does not establish when the creek first took his surname.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "7173b66260e003ce20e53d3b9fd0422e3dee525b414d19fea780fc6fcc618e1a",
+      "replacement": "Law’s compilation gives October 9, 1802 establishment under Jeremiah Johnson; the museum gives September 7. The difference remains unresolved. The compilation dates the Dennisville change to January 12, 1854.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "7173b66260e003ce20e53d3b9fd0422e3dee525b414d19fea780fc6fcc618e1a",
+      "replacement": "Law’s compilation gives October 9, 1802 establishment under Jeremiah Johnson; the museum gives September 7. The difference remains unresolved. The compilation dates the Dennisville change to January 12, 1854.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "62dafb7e2d943acaaa2f47ac440e38bef12666bca60747fb7b37edc0a834de9e",
+      "replacement": "The division law passed November 9, 1826 and expressly begins Dennis Township from Upper on March 1, 1827. These are separate stages of one law rather than competing dates.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "editorial",
+        "0504",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "62dafb7e2d943acaaa2f47ac440e38bef12666bca60747fb7b37edc0a834de9e",
+      "replacement": "The division law passed November 9, 1826 and expressly begins Dennis Township from Upper on March 1, 1827. These are separate stages of one law rather than competing dates.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0505",
+      "path": [
+        "editorial",
+        "0505",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "2b693d8dd31a0c9e3d47cba0c0cb238c21bbe280ec2fe892b152e82c439cf147",
+      "replacement": "The legal index assigns South Cape May’s creation and effect to the August 27, 1894 county filing. The meaning of later September references remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0505",
+      "path": [
+        "editorial",
+        "0505",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "2b693d8dd31a0c9e3d47cba0c0cb238c21bbe280ec2fe892b152e82c439cf147",
+      "replacement": "The legal index assigns South Cape May’s creation and effect to the August 27, 1894 county filing. The meaning of later September references remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0506",
+      "path": [
+        "editorial",
+        "0506",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "775aa39dc5584507f0ebb2d7f264fa0088bc26c896b60e043c707aa803fc3cb8",
+      "replacement": "State law continued Middle as a township in 1798. Cape May Court House became a county-seat and postal center within it rather than a replacement township name. Law’s postal compilation reports office establishment on January 1, 1803; that administrative date does not establish the first operating day. Rio Grande, Whitesboro and other communities also retain their own identities.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0506",
+      "path": [
+        "editorial",
+        "0506",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "b4ba3bc0f8175fbd5c1543d8ea571dd8fc1e90a890543e14a8d9a69ec357ac3d",
+      "replacement": "The legal index dates Avalon’s expansion from Middle to April 9, 1910. That transfer changed territory without renaming Middle.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0506",
+      "path": [
+        "editorial",
+        "0506",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "b4ba3bc0f8175fbd5c1543d8ea571dd8fc1e90a890543e14a8d9a69ec357ac3d",
+      "replacement": "The legal index dates Avalon’s expansion from Middle to April 9, 1910. That transfer changed territory without renaming Middle.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0506",
+      "path": [
+        "editorial",
+        "0506",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "4a28c779287e96865a8d94dd7d4497ca366be1f50737fb2c770b7f0ecf240ea4",
+      "replacement": "Law’s compilation reports January 1, 1803 establishment of the Cape May Court House office. That is a reported administrative date rather than an established first operating day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d518b9ad7b290596dcd13c9f5e3d145107f7a8853f0d22f4cf3ce71fb998c0cc",
+      "replacement": "A catalogue describes a 1902 company map using North Wildwood at Anglesea. That is a catalogue description rather than an established first naming choice. The legal index separates a May 16, 1906 council resolution, May 18 county recording and May 19 state filing. The title changed under general authority rather than a special naming law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "df8aaaa3c0a66a91fff01c045ecf2e4870e898f71428f367b13a11681d42a049",
+      "replacement": "A catalogue describes a company map using North Wildwood in 1902. The borough later adopted the name through a council decision and separate records in 1906. The company-map description does not identify who first chose the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "254a677c4c023118075fffd1d1583fb3de6248d06add6dc477bb7db96e250e9a",
+      "replacement": "Law’s postal narrative and table disagree between 1883 and 1893 establishment. The subsequent spelling change has relative timing in the account. The office kept Anglesea after the borough adopted North Wildwood.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "254a677c4c023118075fffd1d1583fb3de6248d06add6dc477bb7db96e250e9a",
+      "replacement": "Law’s postal narrative and table disagree between 1883 and 1893 establishment. The subsequent spelling change has relative timing in the account. The office kept Anglesea after the borough adopted North Wildwood.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c8f6b26544f08e49239c0b9027821c1103d699007e1519de439278343b9a05c6",
+      "replacement": "A catalogue describes North Wildwood on a company map dated 1902. The legal index separately records a May 16, 1906 council resolution, May 18 county entry and May 19 state filing rather than a special May 18 naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c8f6b26544f08e49239c0b9027821c1103d699007e1519de439278343b9a05c6",
+      "replacement": "A catalogue describes North Wildwood on a company map dated 1902. The legal index separately records a May 16, 1906 council resolution, May 18 county entry and May 19 state filing rather than a special May 18 naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "3222c42533b16c301c5bd8a6965ea8d9b173ae5b0587d6867891a63763e84794",
+      "replacement": "The legal index separates the April 17, 1917 vote, April 21 county entry, April 25 resolution and April 30 state filing. These concern city status rather than resolving the deeper Baker-family naming dispute.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "3222c42533b16c301c5bd8a6965ea8d9b173ae5b0587d6867891a63763e84794",
+      "replacement": "The legal index separates the April 17, 1917 vote, April 21 county entry, April 25 resolution and April 30 state filing. These concern city status rather than resolving the deeper Baker-family naming dispute.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "f03ff6b89dbabf4d860642ef076a64d23a44860a14f1876b0ba3b94b50e0b489",
+      "replacement": "The catalogue describes a North Wildwood Land Company map at Anglesea dated 1902. It reports company use of the name rather than an established first naming day or original chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "f03ff6b89dbabf4d860642ef076a64d23a44860a14f1876b0ba3b94b50e0b489",
+      "replacement": "The catalogue describes a North Wildwood Land Company map at Anglesea dated 1902. It reports company use of the name rather than an established first naming day or original chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b8ce300425513bcb492222d746f4c3aefa8402a465b5e5e152e40331cc5020b9",
+      "replacement": "The legal index gives May 16, 1906 council resolution, May 18 county recording and effect, and May 19 state filing. This used general authority rather than a special May 18 naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "editorial",
+        "0507",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b8ce300425513bcb492222d746f4c3aefa8402a465b5e5e152e40331cc5020b9",
+      "replacement": "The legal index gives May 16, 1906 council resolution, May 18 county recording and effect, and May 19 state filing. This used general authority rather than a special May 18 naming act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0508",
+      "path": [
+        "editorial",
+        "0508",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "687a018c8b8d4c8c0087e4d6789b15f8e81aa77d1f67cad0bcaaa973df77fc69",
+      "replacement": "The municipal history describes association organization and street planning in the founding sequence. It does not establish that naming, organization and the first plan all occurred on the traditional September 10 date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0508",
+      "path": [
+        "editorial",
+        "0508",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5a782ffa9ec794a4670cff4ea37e6b75150b36446fb9d5a2be1634314cf25b2e",
+      "replacement": "The municipal history describes an association and street planning too. It does not establish that naming and all those other steps happened on September 10.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0508",
+      "path": [
+        "editorial",
+        "0508",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "d1d0b8d19dd462e256be0b6bdfa7216f11748b7b4ccae81accf8147a131d0708",
+      "replacement": "Law’s compilation reports March 2, 1881 postal establishment under William Burrell. The office carried the existing resort name before direct railway access.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0508",
+      "path": [
+        "editorial",
+        "0508",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "d1d0b8d19dd462e256be0b6bdfa7216f11748b7b4ccae81accf8147a131d0708",
+      "replacement": "Law’s compilation reports March 2, 1881 postal establishment under William Burrell. The office carried the existing resort name before direct railway access.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0508",
+      "path": [
+        "editorial",
+        "0508",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0c5e74a9550829c28bd8401a2ed757d6a9b6ceea1e01eacd62375ca28cd420ea",
+      "replacement": "The municipal history describes naming, association organization and street planning without establishing that all occurred September 10, 1879. The exact naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0508",
+      "path": [
+        "editorial",
+        "0508",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0c5e74a9550829c28bd8401a2ed757d6a9b6ceea1e01eacd62375ca28cd420ea",
+      "replacement": "The municipal history describes naming, association organization and street planning without establishing that all occurred September 10, 1879. The exact naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0508",
+      "path": [
+        "editorial",
+        "0508",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "6cd6b57deeff2b93615016f2346d5b4b50d62a2003e8a687ab53d77a7958684e",
+      "replacement": "The legal index gives an earlier proposed 1882 stage, then April 30, 1884 voting and effect, May 3 county recording and May 21 state filing. The recordings were separate from adoption rather than special founding acts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0508",
+      "path": [
+        "editorial",
+        "0508",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "6cd6b57deeff2b93615016f2346d5b4b50d62a2003e8a687ab53d77a7958684e",
+      "replacement": "The legal index gives an earlier proposed 1882 stage, then April 30, 1884 voting and effect, May 3 county recording and May 21 state filing. The recordings were separate from adoption rather than special founding acts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "22f7bdb3092a8ecfcd36d8ca38632590caac30cfc6daaf45c0fc7a0f3c13699f",
+      "replacement": "Voorhees; Foster McGowan Voorhees; Waterford parent township; Ashland; Kirkwood; Kresson; Glendale; reported Tomlinson, Sayers and Davis petitioners",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "22f7bdb3092a8ecfcd36d8ca38632590caac30cfc6daaf45c0fc7a0f3c13699f",
+      "replacement": "Voorhees; Foster McGowan Voorhees; Waterford parent township; Ashland; Kirkwood; Kresson; Glendale; reported Tomlinson, Sayers and Davis petitioners",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "f0dba4bff86dfdfb7e273d1b86593808817f39b2d68cd91ccf6b1ae890f0d3ab",
+      "replacement": "Separation advocates; individual first proposer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "f0dba4bff86dfdfb7e273d1b86593808817f39b2d68cd91ccf6b1ae890f0d3ab",
+      "replacement": "Separation advocates; individual first proposer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "e1e81c793f82fe7da72e97ab0bcd31582c7181dbea83cf2f8c5b43d4c6722786",
+      "replacement": "Municipal history connects the township’s name with Governor Voorhees. The individual first proposer and reported petitioner identities remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "e1e81c793f82fe7da72e97ab0bcd31582c7181dbea83cf2f8c5b43d4c6722786",
+      "replacement": "Municipal history connects the township’s name with Governor Voorhees. The individual first proposer and reported petitioner identities remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "5b58afdc2ed24e4f61ae792befd23e89bf67c61a2d2fd45c5a78fe1b0822298c",
+      "replacement": "Chapter 6, pages 16–17, gives March 1, 1899 approval and immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "5b58afdc2ed24e4f61ae792befd23e89bf67c61a2d2fd45c5a78fe1b0822298c",
+      "replacement": "Chapter 6, pages 16–17, gives March 1, 1899 approval and immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "b79f34c48705ac281d75e904932eba79db528b312642381a295b0a07e49afc27",
+      "replacement": "Ashland, Kirkwood, Kresson and Glendale were older localities within the eventual township. Their histories do not establish the first local use of Voorhees.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0434",
+      "path": [
+        "views",
+        "0434",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "b79f34c48705ac281d75e904932eba79db528b312642381a295b0a07e49afc27",
+      "replacement": "Ashland, Kirkwood, Kresson and Glendale were older localities within the eventual township. Their histories do not establish the first local use of Voorhees.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0435",
+      "path": [
+        "views",
+        "0435",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6bcf7c632b0fb9eb3d10876f424e5499165dc42b11a48f3fd40b3b1b049b6fad",
+      "replacement": "Waterford; proposed Irish and English namesakes; Gloucester County colonial organization; Atco; Waterford Works; Long-a-Coming boundary transfer",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0435",
+      "path": [
+        "views",
+        "0435",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6bcf7c632b0fb9eb3d10876f424e5499165dc42b11a48f3fd40b3b1b049b6fad",
+      "replacement": "Waterford; proposed Irish and English namesakes; Gloucester County colonial organization; Atco; Waterford Works; Long-a-Coming boundary transfer",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0435",
+      "path": [
+        "views",
+        "0435",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "5b58afdc2ed24e4f61ae792befd23e89bf67c61a2d2fd45c5a78fe1b0822298c",
+      "replacement": "Chapter 6, pages 16–17, gives March 1, 1899 approval and immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0435",
+      "path": [
+        "views",
+        "0435",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "5b58afdc2ed24e4f61ae792befd23e89bf67c61a2d2fd45c5a78fe1b0822298c",
+      "replacement": "Chapter 6, pages 16–17, gives March 1, 1899 approval and immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c4d0c1871ed31732af03e2dd141433737fe0f944304e796f7106d537df13fd7f",
+      "replacement": "Winslow; William Coffin Sr.; Edward Winslow Coffin; glassworks village; Blue Anchor; Tansboro; Sicklerville; Ancora; Cedar Brook; Gloucester parent township; Long-a-Coming transfer",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c4d0c1871ed31732af03e2dd141433737fe0f944304e796f7106d537df13fd7f",
+      "replacement": "Winslow; William Coffin Sr.; Edward Winslow Coffin; glassworks village; Blue Anchor; Tansboro; Sicklerville; Ancora; Cedar Brook; Gloucester parent township; Long-a-Coming transfer",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "4aa3a7173a52a253284b7340473f956b6e5394207355862c068a99c85a0b7c98",
+      "replacement": "Early 1830s (approximate retrospective naming account)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "4aa3a7173a52a253284b7340473f956b6e5394207355862c068a99c85a0b7c98",
+      "replacement": "Early 1830s (approximate retrospective naming account)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "1ed22cbcca9cf648b971d217a8b2e95154ce2b76f58a611d697a9f37f8cd8a5e",
+      "replacement": "Approximate period in a retrospective account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "1ed22cbcca9cf648b971d217a8b2e95154ce2b76f58a611d697a9f37f8cd8a5e",
+      "replacement": "Approximate period in a retrospective account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "events",
+        1,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "4aa3a7173a52a253284b7340473f956b6e5394207355862c068a99c85a0b7c98",
+      "replacement": "Early 1830s (approximate retrospective naming account)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "events",
+        1,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "4aa3a7173a52a253284b7340473f956b6e5394207355862c068a99c85a0b7c98",
+      "replacement": "Early 1830s (approximate retrospective naming account)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "c58f9edce5f3621f227788dfeb1bdd9686e4cfc56fcd671d0a90f3fb2fae0886",
+      "replacement": "Prowell and the government index report March 8, 1845 creation from Gloucester. The prescribed election location does not independently establish that proceedings occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "c58f9edce5f3621f227788dfeb1bdd9686e4cfc56fcd671d0a90f3fb2fae0886",
+      "replacement": "Prowell and the government index report March 8, 1845 creation from Gloucester. The prescribed election location does not independently establish that proceedings occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "sources",
+        "S1280",
+        "publication"
+      ],
+      "expected_sha256": "8d67cc79e4ca4dc6ba9a599a2c4cb5a29fee1724ed47e336cbbb6bb7c16df3e3",
+      "replacement": "Modern industrial history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0436",
+      "path": [
+        "views",
+        "0436",
+        "sources",
+        "S1280",
+        "publication"
+      ],
+      "expected_sha256": "8d67cc79e4ca4dc6ba9a599a2c4cb5a29fee1724ed47e336cbbb6bb7c16df3e3",
+      "replacement": "Modern industrial history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0437",
+      "path": [
+        "views",
+        "0437",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ff2a4d1364e687b9bd1ea12bbe74f045a4e6336561721899c672f03fcaad9eea",
+      "replacement": "Woodlynne; Lynnewood; Newbie property; linden-tree account; Wood-Lynne Park; Haddon parent township; failed Camden annexation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0437",
+      "path": [
+        "views",
+        "0437",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ff2a4d1364e687b9bd1ea12bbe74f045a4e6336561721899c672f03fcaad9eea",
+      "replacement": "Woodlynne; Lynnewood; Newbie property; linden-tree account; Wood-Lynne Park; Haddon parent township; failed Camden annexation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0437",
+      "path": [
+        "views",
+        "0437",
+        "sources",
+        "S2070",
+        "publication"
+      ],
+      "expected_sha256": "d2ce04d6dd756a3550710a808820673e80fb4f5cc694c51ade06817ad79fa634",
+      "replacement": "Current government chronology; accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0437",
+      "path": [
+        "views",
+        "0437",
+        "sources",
+        "S2070",
+        "publication"
+      ],
+      "expected_sha256": "d2ce04d6dd756a3550710a808820673e80fb4f5cc694c51ade06817ad79fa634",
+      "replacement": "Current government chronology; accessed 2026-10-05",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3a021446d24701bf5ee370d27cec1796bcb17b08242854e36f2c877fb2017f1e",
+      "replacement": "Avalon; Seven Mile Beach; Seven Mile Beach Company; Rev. Charles H. Bond; Arthurian island; Hotel Avalon; Peermont; Holiday Beach; Middle parent township; proposed Stone Harbor road annexation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "3a021446d24701bf5ee370d27cec1796bcb17b08242854e36f2c877fb2017f1e",
+      "replacement": "Avalon; Seven Mile Beach; Seven Mile Beach Company; Rev. Charles H. Bond; Arthurian island; Hotel Avalon; Peermont; Holiday Beach; Middle parent township; proposed Stone Harbor road annexation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "fe41b00e9988b342adddd895e888b42f0f161a48a9837331aa83eb5c29743369",
+      "replacement": "A 2019 feature credits Rev. Charles H. Bond with selecting Avalon in 1887.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "fe41b00e9988b342adddd895e888b42f0f161a48a9837331aa83eb5c29743369",
+      "replacement": "A 2019 feature credits Rev. Charles H. Bond with selecting Avalon in 1887.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "1bd216c8d96bc7fbda61b1183a84fc0a7ed902de2a63bc9a7e588855e0e04b9b",
+      "replacement": "The 2019 feature reports Avalon and Hotel Avalon in correspondence or promotion by January 1888.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "1bd216c8d96bc7fbda61b1183a84fc0a7ed902de2a63bc9a7e588855e0e04b9b",
+      "replacement": "The 2019 feature reports Avalon and Hotel Avalon in correspondence or promotion by January 1888.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "05f3645ef5c14ffd51d06c355c083bf8662c514f6a7203371aff84d9550f4b8c",
+      "replacement": "Baer’s 2011 chronology, page 36, records the June 19 agreement with Avalon’s developers.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "05f3645ef5c14ffd51d06c355c083bf8662c514f6a7203371aff84d9550f4b8c",
+      "replacement": "Baer’s 2011 chronology, page 36, records the June 19 agreement with Avalon’s developers.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "b4e91506a23a7d4c8a4e2571c18ef1f92ceb56496d9ad86aa588f9aa7deb404d",
+      "replacement": "A boundary transfer distinct from the later proposed 1941 annexation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0501",
+      "path": [
+        "views",
+        "0501",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "b4e91506a23a7d4c8a4e2571c18ef1f92ceb56496d9ad86aa588f9aa7deb404d",
+      "replacement": "A boundary transfer distinct from the later proposed 1941 annexation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "views",
+        "0502",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "243899cafe48751205708bcf84ccbb55732693470700ea2cf81192b35c188510",
+      "replacement": "Cape May; Cape Mey; Cape Maey; Caep Maey; Cornelis Jacobsen Mey; Cape Island; Cape Island Borough; Cape Island City; Lower parent township; Cape May postal name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "views",
+        "0502",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "243899cafe48751205708bcf84ccbb55732693470700ea2cf81192b35c188510",
+      "replacement": "Cape May; Cape Mey; Cape Maey; Caep Maey; Cornelis Jacobsen Mey; Cape Island; Cape Island Borough; Cape Island City; Lower parent township; Cape May postal name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "views",
+        "0502",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "1d0572473ee25d06dc53458865d87787099b336b87e230537364bd6943fcca69",
+      "replacement": "Goos’s 1666 chart bears Caep Maey; the library exhibition uses a different normalized form in its prose.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "views",
+        "0502",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "1d0572473ee25d06dc53458865d87787099b336b87e230537364bd6943fcca69",
+      "replacement": "Goos’s 1666 chart bears Caep Maey; the library exhibition uses a different normalized form in its prose.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0502",
+      "path": [
+        "views",
+        "0502",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "8133dd8ffbc490bd66ef65d6e9ae95dc3e8bc601845a2d15248bcf115c76a428",
+      "replacement": "A chart witness to the older geographic name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0502",
+      "path": [
+        "views",
+        "0502",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "8133dd8ffbc490bd66ef65d6e9ae95dc3e8bc601845a2d15248bcf115c76a428",
+      "replacement": "A chart witness to the older geographic name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0503",
+      "path": [
+        "views",
+        "0503",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "4e2e6f4a7cf1a0ba0b9bb95757100ff802354f06c2ba1f3ae776730307e2104f",
+      "replacement": "Cape May Point; Stites’ Beach; Sites’ Beach printed variant; Henry Stites; Sea Grove; Seagrove; Sea Grove Association; Alexander Whilldin; Alexander Whildin; John Wanamaker; Lower parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0503",
+      "path": [
+        "views",
+        "0503",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "4e2e6f4a7cf1a0ba0b9bb95757100ff802354f06c2ba1f3ae776730307e2104f",
+      "replacement": "Cape May Point; Stites’ Beach; Sites’ Beach printed variant; Henry Stites; Sea Grove; Seagrove; Sea Grove Association; Alexander Whilldin; Alexander Whildin; John Wanamaker; Lower parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0503",
+      "path": [
+        "views",
+        "0503",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "1bed08b0afc4d30c1440b2b9f97ff759e98231e0235a90c3b3298b4acd8010e6",
+      "replacement": "Calafati’s 1995 church nomination, section 8, page 7, reports a 1712 conveyance to Henry Stites. It does not establish the beach-name wording in that deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0503",
+      "path": [
+        "views",
+        "0503",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "1bed08b0afc4d30c1440b2b9f97ff759e98231e0235a90c3b3298b4acd8010e6",
+      "replacement": "Calafati’s 1995 church nomination, section 8, page 7, reports a 1712 conveyance to Henry Stites. It does not establish the beach-name wording in that deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "views",
+        "0504",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c36e82107a46626ac388b5c165c4b24ca9bdd0ca8ac0d23727cff7f65e7c3a3a",
+      "replacement": "Dennis; John Dennis; Panktoe; Dennis Creek; Cedar Creek; Sluice Creek; Dennisville; Upper parent township; William Russel and Amos Corson inns; Sea Isle City; Woodbine",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "views",
+        "0504",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c36e82107a46626ac388b5c165c4b24ca9bdd0ca8ac0d23727cff7f65e7c3a3a",
+      "replacement": "Dennis; John Dennis; Panktoe; Dennis Creek; Cedar Creek; Sluice Creek; Dennisville; Upper parent township; William Russel and Amos Corson inns; Sea Isle City; Woodbine",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "views",
+        "0504",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2ed1d004934bb1d2f577180ce30cb1fa2f7942da5b339b3cf60f3a2739e414ce",
+      "replacement": "Passage on November 9, 1826 preceded the law’s specified March 1, 1827 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "views",
+        "0504",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2ed1d004934bb1d2f577180ce30cb1fa2f7942da5b339b3cf60f3a2739e414ce",
+      "replacement": "Passage on November 9, 1826 preceded the law’s specified March 1, 1827 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0504",
+      "path": [
+        "views",
+        "0504",
+        "sources",
+        "S1057",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0504",
+      "path": [
+        "views",
+        "0504",
+        "sources",
+        "S1057",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "90a4beae3a3eb20a8a02a5b3ec3b5b9a6e40fa0495aef78592121821b584e843",
+      "replacement": "Lower; Lower Precinct; Upper, Middle and Lower county scheme; Town Bank; Cold Spring; Fishing Creek; Villas; proposed Cape May Township; former South Cape May and North Cape May boroughs; Cape May Point",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "90a4beae3a3eb20a8a02a5b3ec3b5b9a6e40fa0495aef78592121821b584e843",
+      "replacement": "Lower; Lower Precinct; Upper, Middle and Lower county scheme; Town Bank; Cold Spring; Fishing Creek; Villas; proposed Cape May Township; former South Cape May and North Cape May boroughs; Cape May Point",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "228e2d07b42c997c61d565ead2aa6cd3d0425b33a86b91df62deb80d403c1482",
+      "replacement": "South Cape May’s formation was distinct from North Cape May’s later creation and the shared 1945 dissolution.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "228e2d07b42c997c61d565ead2aa6cd3d0425b33a86b91df62deb80d403c1482",
+      "replacement": "South Cape May’s formation was distinct from North Cape May’s later creation and the shared 1945 dissolution.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "81ff3005c75471b7e1b8624db85070d714ddecc224abd14670a8fd6d9c8935be",
+      "replacement": "The 1896 dissolution and return were separate from the first borough’s 1878 creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "81ff3005c75471b7e1b8624db85070d714ddecc224abd14670a8fd6d9c8935be",
+      "replacement": "The 1896 dissolution and return were separate from the first borough’s 1878 creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "sources",
+        "S1052",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "sources",
+        "S1052",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "sources",
+        "S1055",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0505",
+      "path": [
+        "views",
+        "0505",
+        "sources",
+        "S1055",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0506",
+      "path": [
+        "views",
+        "0506",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "067c9ab7c58c90c9c18ab161d5356268907c4565bcde7caf28b64640ea9950d2",
+      "replacement": "Middle; Middle Precinct; Upper, Middle and Lower county scheme; Cape May Court House; Rio Grande; Whitesboro; Anglesea; Avalon; Wildwood; Stone Harbor; West Wildwood",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0506",
+      "path": [
+        "views",
+        "0506",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "067c9ab7c58c90c9c18ab161d5356268907c4565bcde7caf28b64640ea9950d2",
+      "replacement": "Middle; Middle Precinct; Upper, Middle and Lower county scheme; Cape May Court House; Rio Grande; Whitesboro; Anglesea; Avalon; Wildwood; Stone Harbor; West Wildwood",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0506",
+      "path": [
+        "views",
+        "0506",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "b4e91506a23a7d4c8a4e2571c18ef1f92ceb56496d9ad86aa588f9aa7deb404d",
+      "replacement": "A boundary transfer distinct from the later proposed 1941 annexation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0506",
+      "path": [
+        "views",
+        "0506",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "b4e91506a23a7d4c8a4e2571c18ef1f92ceb56496d9ad86aa588f9aa7deb404d",
+      "replacement": "A boundary transfer distinct from the later proposed 1941 annexation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0506",
+      "path": [
+        "views",
+        "0506",
+        "sources",
+        "S1050",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0506",
+      "path": [
+        "views",
+        "0506",
+        "sources",
+        "S1050",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0506",
+      "path": [
+        "views",
+        "0506",
+        "sources",
+        "S1052",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0506",
+      "path": [
+        "views",
+        "0506",
+        "sources",
+        "S1052",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "718bc800e1fb652cead7fe13dde15a7c7c9f136a9bb3c202aec6343614dadcb8",
+      "replacement": "North Wildwood; Anglesea; Anglesia; Five Mile Beach; North Wildwood Land Company; Wildwood resort identity; J. Thompson Baker and Philip Baker accounts; Middle parent township; rejected Anglesea restoration",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "718bc800e1fb652cead7fe13dde15a7c7c9f136a9bb3c202aec6343614dadcb8",
+      "replacement": "North Wildwood; Anglesea; Anglesia; Five Mile Beach; North Wildwood Land Company; Wildwood resort identity; J. Thompson Baker and Philip Baker accounts; Middle parent township; rejected Anglesea restoration",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "52ddfaeac491571899c45deff5b1e4c51543f156a90c97c04d0e9563857b1875",
+      "replacement": "The postal account reports an exact establishment date but conflicts with its appended table on the year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "52ddfaeac491571899c45deff5b1e4c51543f156a90c97c04d0e9563857b1875",
+      "replacement": "The postal account reports an exact establishment date but conflicts with its appended table on the year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "181d90829828f91d8d92fb4b3fbd0dcdfeb130d6a1982eb05253810d07d802c9",
+      "replacement": "Month inferred from the postal narrative’s relative timing",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "181d90829828f91d8d92fb4b3fbd0dcdfeb130d6a1982eb05253810d07d802c9",
+      "replacement": "Month inferred from the postal narrative’s relative timing",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ff99ee2a363487c69d14e512b9f26a6d3bce3411f61b5e56e2d05abc1a311ad4",
+      "replacement": "Law’s narrative reports the spelling changing to Anglesea after establishment; the later change has relative timing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "ff99ee2a363487c69d14e512b9f26a6d3bce3411f61b5e56e2d05abc1a311ad4",
+      "replacement": "Law’s narrative reports the spelling changing to Anglesea after establishment; the later change has relative timing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "84df4d0f2b464f4f63ff2aece3a38483edbdfa03140b5a46a263fbbc505e9d2a",
+      "replacement": "The Rutgers catalogue, record lib:56597, describes a 1902 North Wildwood Land Company map at Anglesea.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "84df4d0f2b464f4f63ff2aece3a38483edbdfa03140b5a46a263fbbc505e9d2a",
+      "replacement": "The Rutgers catalogue, record lib:56597, describes a 1902 North Wildwood Land Company map at Anglesea.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "2bbf18d0c3667190ad46fb36dfb35486687402683c1aa617b1ec5b664ab956eb",
+      "replacement": "The local naming resolution preceded the May 18 county recording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "2bbf18d0c3667190ad46fb36dfb35486687402683c1aa617b1ec5b664ab956eb",
+      "replacement": "The local naming resolution preceded the May 18 county recording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "c47f6f43e2f9b38a2b7c1a56154c24a82fa8f412f317b01b2e070dbed46ca138",
+      "replacement": "The city-title vote preceded the April 30 state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        10,
+        "significance"
+      ],
+      "expected_sha256": "c47f6f43e2f9b38a2b7c1a56154c24a82fa8f412f317b01b2e070dbed46ca138",
+      "replacement": "The city-title vote preceded the April 30 state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "c47f6f43e2f9b38a2b7c1a56154c24a82fa8f412f317b01b2e070dbed46ca138",
+      "replacement": "County recording preceded the April 30 state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "c47f6f43e2f9b38a2b7c1a56154c24a82fa8f412f317b01b2e070dbed46ca138",
+      "replacement": "County recording preceded the April 30 state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        12,
+        "significance"
+      ],
+      "expected_sha256": "c47f6f43e2f9b38a2b7c1a56154c24a82fa8f412f317b01b2e070dbed46ca138",
+      "replacement": "The council resolution preceded the April 30 state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "events",
+        12,
+        "significance"
+      ],
+      "expected_sha256": "c47f6f43e2f9b38a2b7c1a56154c24a82fa8f412f317b01b2e070dbed46ca138",
+      "replacement": "The council resolution preceded the April 30 state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "sources",
+        "S1052",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0507",
+      "path": [
+        "views",
+        "0507",
+        "sources",
+        "S1052",
+        "publication"
+      ],
+      "expected_sha256": "566fa165581f9fdbfc2733a0ca00229bb002cd4d28aa2b4601e8fa28c498b5a2",
+      "replacement": "Data v3.1.1; accessed 2026-09-12",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0508",
+      "path": [
+        "views",
+        "0508",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "55a252aebfabb6ab4d83ed6ac6529584ef51a2b3d9dbaccc749d5b77c8d71386",
+      "replacement": "Ocean City; Peck’s Beach; Ezra B. Lake; James E. Lake; S. Wesley Lake; William H. Burrell; Ocean City Association; Ocean Grove model; Parker Miller; Upper parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0508",
+      "path": [
+        "views",
+        "0508",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "55a252aebfabb6ab4d83ed6ac6529584ef51a2b3d9dbaccc749d5b77c8d71386",
+      "replacement": "Ocean City; Peck’s Beach; Ezra B. Lake; James E. Lake; S. Wesley Lake; William H. Burrell; Ocean City Association; Ocean Grove model; Parker Miller; Upper parent township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0508",
+      "path": [
+        "views",
+        "0508",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "3dddc89f58c16d8c22c54eab46501e8a59135d611fb73b8583a67d74018b0ffe",
+      "replacement": "Municipal history reports the four founders and resort in 1879. It does not establish September 10 as the precise naming day or date of the first plan.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0508",
+      "path": [
+        "views",
+        "0508",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "3dddc89f58c16d8c22c54eab46501e8a59135d611fb73b8583a67d74018b0ffe",
+      "replacement": "Municipal history reports the four founders and resort in 1879. It does not establish September 10 as the precise naming day or date of the first plan.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0508",
+      "path": [
+        "views",
+        "0508",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "69adfecea6c63eb476b30627d856dc1b85679749380bbdd47c9ac83feb0ec6b4",
+      "replacement": "State filing followed the April 30 vote and May 3 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0508",
+      "path": [
+        "views",
+        "0508",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "69adfecea6c63eb476b30627d856dc1b85679749380bbdd47c9ac83feb0ec6b4",
+      "replacement": "State filing followed the April 30 vote and May 3 county record.",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
