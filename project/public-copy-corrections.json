@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_10",
+  "checkpoint": "PUBLIC_COPY_11",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -102,7 +102,19 @@
     "1011",
     "1012",
     "1013",
-    "1014"
+    "1014",
+    "1015",
+    "1016",
+    "1017",
+    "1018",
+    "1019",
+    "1020",
+    "1021",
+    "1022",
+    "1023",
+    "1024",
+    "1025",
+    "1026"
   ],
   "changes": [
     {
@@ -46132,6 +46144,2796 @@
       ],
       "expected_sha256": "10dedbca3a2d45c06c70598a97270dc6fd80574ce1f567984335660ab88ee77b",
       "replacement": "High Bridge Township (earlier government); South Branch (river); Clinton Township (parent context); Lebanon Township (parent context)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "82cd03a6519916d7a5afdfd14619340b28291d5db6b15db811f0ce6f35e692a2",
+      "replacement": "Holland was a regional name before it became a township. Later history reports New Holland or Holland lots in boundary descriptions around 1789. The township newsletter suggests a connection with Dutch tenants, expressly as a supposition. The original naming intention and first use remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "3e37b8329b9f95ab12e5b589ac7a92d14e75eb8347438d11f25225f099d0ccc2",
+      "replacement": "Holland and New Holland appear in later accounts of land descriptions around 1789. A newsletter suggests Dutch tenants may explain the name. That explanation remains a possibility, rather than an established original naming reason.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "06eb04a25d6b5741d2155d23f148b5dbfcc5925339d7163552df203c48647bf7",
+      "replacement": "The legal index separates March 27, 1874 approval from April 13 operation. It records Holland’s return to Alexandria on March 4, 1878 and renewed creation on March 11, 1879. The regional name persisted through an interrupted government history; these dates do not establish the name’s original choice or an actual first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "40b633c5f4507b37a309be7ab0706a7ba695d4c45b736c7e7341e99fffad0b8b",
+      "replacement": "The 1874 law had separate approval and start dates. Holland returned to Alexandria in 1878 and was restored in 1879. The older local name could survive while the government using it changed; that government did not continue without interruption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "6430e94be7902abbe484809b4ea4a0cd59a635848b1d20437f2abb7e57f24c5d",
+      "replacement": "The index records creation, return to Alexandria and restoration as separate stages. Those stages describe interrupted government, rather than repeated choices of the older regional name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "6430e94be7902abbe484809b4ea4a0cd59a635848b1d20437f2abb7e57f24c5d",
+      "replacement": "The index records creation, return to Alexandria and restoration as separate stages. Those stages describe interrupted government, rather than repeated choices of the older regional name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "6a0b44e9c4af5b6688acc85ef7d768cbef7ad9cb90c66af23f1a388398588c2e",
+      "replacement": "The newsletter calls the Dutch-tenant explanation a supposition. The first name chooser and exact original intention remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "6a0b44e9c4af5b6688acc85ef7d768cbef7ad9cb90c66af23f1a388398588c2e",
+      "replacement": "The newsletter calls the Dutch-tenant explanation a supposition. The first name chooser and exact original intention remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "9527760833c1c124df575dca1a00d9f7e4b133a289d3935248343244dab1d32d",
+      "replacement": "The adapted historic-district account reports Holland terminology in boundary descriptions around 1789. That approximate context does not establish first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "9527760833c1c124df575dca1a00d9f7e4b133a289d3935248343244dab1d32d",
+      "replacement": "The adapted historic-district account reports Holland terminology in boundary descriptions around 1789. That approximate context does not establish first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "8d4fdacb9ae7cb0034dd42ce0a836d6f56fbdbb9b1e1a3c45ed06f3279284f25",
+      "replacement": "The newsletter reports a failed 1872 West Alexandria proposal and a March 1873 Holland bill. Neither became an adopted former township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "8d4fdacb9ae7cb0034dd42ce0a836d6f56fbdbb9b1e1a3c45ed06f3279284f25",
+      "replacement": "The newsletter reports a failed 1872 West Alexandria proposal and a March 1873 Holland bill. Neither became an adopted former township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "298b2f99c12727aa7f9a464439916a764ded772c4a937ab9d22ef214b46b36b1",
+      "replacement": "The index separates March 27, 1874 approval from April 13 operation. Those legal dates do not establish when an actual first meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "editorial",
+        "1015",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "298b2f99c12727aa7f9a464439916a764ded772c4a937ab9d22ef214b46b36b1",
+      "replacement": "The index separates March 27, 1874 approval from April 13 operation. Those legal dates do not establish when an actual first meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "1df6a54857409fd5d1ab5c35a51234f4e79fd8f1bd17b8e5b22ca36a290c45fd",
+      "replacement": "Kingwood is reported in a later place-name study as a regional name used in the early 1720s, before township government. A possible connection with the King’s Highway remains a hypothesis. The reported early use does not establish the original naming decision or a King-family namesake.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "59230ce3e3afc67abbdb7c4dc67f4ab7d01d6c47247104ba41ad3e8d6b2559a3",
+      "replacement": "A later study reports Kingwood as a regional name in the early 1720s, before township government. A connection with the King’s Highway is possible, but it does not establish who chose the name or why.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "3298a743b61e98612308a7f661485ba432b137c7d8b04365bce470eb435df82c",
+      "replacement": "A later article quotes KingWood in a transaction dated June 15, 1769. That is an attributed spelling at that date, rather than first use. State law later incorporated the township on February 21, 1798, and Franklin separated in 1845. These stages carried or divided an older identity without settling Kingwood’s first chooser or meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "6a1dec232d8a7df2c58c7b9137830058e331dbf506e43bbb57a03ebb86ef2c6d",
+      "replacement": "The compiled chronology records incorporation under the February 21, 1798 township law. That continued an older name rather than beginning it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "6a1dec232d8a7df2c58c7b9137830058e331dbf506e43bbb57a03ebb86ef2c6d",
+      "replacement": "The compiled chronology records incorporation under the February 21, 1798 township law. That continued an older name rather than beginning it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "5e7d7628e04f63e8ffd7e8dfdd457953bbb54c4a7ac8ee98391f73a9389126dd",
+      "replacement": "The place-name study reports Kingwood use in the early 1720s. That broad period does not establish an exact naming year or first chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "5e7d7628e04f63e8ffd7e8dfdd457953bbb54c4a7ac8ee98391f73a9389126dd",
+      "replacement": "The place-name study reports Kingwood use in the early 1720s. That broad period does not establish an exact naming year or first chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "32769810b0bcd7e48ed1fcf464a168eab651da0bf64d29f1b9a3196a564cf82f",
+      "replacement": "The place-name study reports regional use in the early 1720s. That broad period does not establish one exact year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "032ef617fbfe2c893eaabcf1dec237043afc46e4ba8e3c82b712128331b1a7d4",
+      "replacement": "A 2009 article quotes KingWood in a June 15, 1769 transaction. This is an attributed spelling, rather than the name’s first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "editorial",
+        "1016",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "187fc80f9cd77d6a2213fff7cd0068f79625be277ae3c09f650489b0c0577344",
+      "replacement": "A 2009 article quotes KingWood in a June 15, 1769 transaction. This is an attributed spelling, rather than the name’s first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1017",
+      "path": [
+        "editorial",
+        "1017",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7161fbe480bb3ab78e2c15b9dee78e1eca25763dfdd6bd39b1b7ac76b1a3de45",
+      "replacement": "Walker reports Amwell in December 1814 and Lambertsville in 1823. The senator and captain have different attributed roles; the August 10 letter has no certain year and does not settle the intended honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1017",
+      "path": [
+        "editorial",
+        "1017",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7161fbe480bb3ab78e2c15b9dee78e1eca25763dfdd6bd39b1b7ac76b1a3de45",
+      "replacement": "Walker reports Amwell in December 1814 and Lambertsville in 1823. The senator and captain have different attributed roles; the August 10 letter has no certain year and does not settle the intended honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1017",
+      "path": [
+        "editorial",
+        "1017",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "f68fb0362cb1f3af206c8d0376730575d3ccd3fa2c2e60a7da3d0a55f69e297f",
+      "replacement": "Walker’s spring 1861 device change does not itself establish an official postal rename. The index’s March 26, 1872 city stage kept the family name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1017",
+      "path": [
+        "editorial",
+        "1017",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "f68fb0362cb1f3af206c8d0376730575d3ccd3fa2c2e60a7da3d0a55f69e297f",
+      "replacement": "Walker’s spring 1861 device change does not itself establish an official postal rename. The index’s March 26, 1872 city stage kept the family name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1017",
+      "path": [
+        "editorial",
+        "1017",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "99918a2eeb5971454b53a368b970b751a878fc6fc4927195d484b62d9ee6e34b",
+      "replacement": "Walker reports Lambertsville markings continuing until a spring 1861 device change. A changed postmark does not independently establish a formal postal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1017",
+      "path": [
+        "editorial",
+        "1017",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "99918a2eeb5971454b53a368b970b751a878fc6fc4927195d484b62d9ee6e34b",
+      "replacement": "Walker reports Lambertsville markings continuing until a spring 1861 device change. A changed postmark does not independently establish a formal postal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1018",
+      "path": [
+        "editorial",
+        "1018",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d92da0bc61047d6a1c0541d37ab87549c0ed510007474fbc79a1176e89db8d69",
+      "replacement": "An adapted historic-district account reports Lebanonville on an 1851 road-survey map. Borough formation came much later: the index lists March 26, 1926 enabling approval and April 20 adoption or effect, with the latter day attributed to an unofficial source. Its county entry is undated. None establishes a new origin for the older regional name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1018",
+      "path": [
+        "editorial",
+        "1018",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "1517b8da3fb05665d064e055eeddb2a2d5ee9c6fdb867a6f0b80bb3434313dc7",
+      "replacement": "A later account reports Lebanonville on an 1851 map. The borough’s law and reported vote came in 1926. The county entry has no date, so it cannot establish an exact filing day or the older name’s origin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1018",
+      "path": [
+        "editorial",
+        "1018",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2e6ec08ca7c31998e7ea668be839e150d082796f6edf0f316924616a6755f010",
+      "replacement": "A postal article reports a postmaster appointment in 1815 at Bray’s Hill. Another account gives a move to Kline’s store in 1827; the postal article gives Kline’s appointment in 1832. Moving an office and appointing a postmaster are different events, and their exact relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1018",
+      "path": [
+        "editorial",
+        "1018",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "a868649475d4a530828245c3827a997dfcb1af13add542d873c35fe13824428b",
+      "replacement": "The adapted historic-district account reports Lebanonville on an 1851 road-survey map. That is a reported locality form, rather than a new municipal name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1018",
+      "path": [
+        "editorial",
+        "1018",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "a868649475d4a530828245c3827a997dfcb1af13add542d873c35fe13824428b",
+      "replacement": "The adapted historic-district account reports Lebanonville on an 1851 road-survey map. That is a reported locality form, rather than a new municipal name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1018",
+      "path": [
+        "editorial",
+        "1018",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "9886a46efc23a063a6f750df90be54b658dfa212b4f79c9856bc00ff80553a88",
+      "replacement": "The adapted account reports Lebanonville on an 1851 road-survey map. The form belongs to village history, before the later borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1018",
+      "path": [
+        "editorial",
+        "1018",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "9886a46efc23a063a6f750df90be54b658dfa212b4f79c9856bc00ff80553a88",
+      "replacement": "The adapted account reports Lebanonville on an 1851 road-survey map. The form belongs to village history, before the later borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1018",
+      "path": [
+        "editorial",
+        "1018",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "57ab25f8b863b7f0f68214ed0247bc87f0b3dc968f515eb8b3dd0235661d3320",
+      "replacement": "Later accounts give 1827 for moving the office and 1832 for Kline’s appointment. Their exact relationship remains uncertain; they are different kinds of events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1019",
+      "path": [
+        "editorial",
+        "1019",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "49738c16f400de1e73186f5d63cd9052e958dde222f35944fd1357f93ca866ec",
+      "replacement": "Lebanon Township’s name is probably biblical, perhaps carried through a local ridge called Mount Lebanon. The ridge’s first naming and its relationship to the township remain unproved. A transfer from an English place is another reported possibility, without a settled original choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1019",
+      "path": [
+        "editorial",
+        "1019",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c7d73cc373a5d7e706dae2eecc74878fa8e104241d34647d6271cfa3516d82b2",
+      "replacement": "Later sources report the township by October 26, 1731. That is an attributed reference rather than an established creation day. The broadly dated ridge tradition also leaves its first use uncertain. A school founded substantially later cannot explain a genuinely earlier township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1019",
+      "path": [
+        "editorial",
+        "1019",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "1809fe26be7d1aac165b3f1ab939144e563d2a8c43938db0c937e1b416354654",
+      "replacement": "Later sources report the township by 1731, including an October reference. A name in a record does not establish that the township began that day. A school founded much later could not give an already older township its first name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1019",
+      "path": [
+        "editorial",
+        "1019",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "6866899e0984629e0d787f52e8cfcbd084990aa517d028eef24654396c9b118a",
+      "replacement": "Later sources report the township by October 26, 1731. That reported reference does not establish an exact creation or naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1019",
+      "path": [
+        "editorial",
+        "1019",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "6866899e0984629e0d787f52e8cfcbd084990aa517d028eef24654396c9b118a",
+      "replacement": "Later sources report the township by October 26, 1731. That reported reference does not establish an exact creation or naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "f86ee7067969d6d567d7a576217a6d9bc909e4ecc142e0db8b94be8732828cec",
+      "replacement": "Milford suggests mills and a crossing, but the precise original explanation remains unproved. An adapted historic-district account links Thomas Lowery’s redevelopment with New Milford and reports an advertisement from 1805. That later report does not establish the first use or individual name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "90a22fc686527b8e75e6d9607cedf2a2b2b9f221888091c7a28682ba16ed03fa",
+      "replacement": "Milford may describe mills and a crossing, but the original naming reason remains unknown. A later account connects Thomas Lowery’s development with New Milford and an advertisement from 1805. That report does not establish the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b883b6057fbfe6fe714c75d674eddcf029a0454a7bf6fa97acbb4a97554cf1d5",
+      "replacement": "Burnt Mills, Lowerytown and variant spellings belong to the older locality history. A separate later account reports Milford in an 1807 tavern application, rather than describing the first naming occasion. These early reports complicate a name chosen only after Lowery’s death, without establishing the first chooser or a sequence of exclusive official names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b00269f5415a6ce9d32b18f7222a8cffb37c8a87e01c816deffbcbae63b720ce",
+      "replacement": "A later account reports Milford in a tavern application from 1807. That is a report of early use, rather than the first naming decision. Burnt Mills and Lowerytown also belong to the older locality story. Those reports do not establish a neat chain of official names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "b98c37f29ef97860737763fd508c916030bf2bcee8c7bcdca48ebf157b8e782e",
+      "replacement": "A May 8, 1911 favorable vote is reported, while the government index lists May 13 creation. Their exact relationship remains unresolved; the accounts do not establish a second vote or a May 13 filing. The index also records a March 13, 1925 charter revival. Its filing-defect explanation remains attributed, rather than establishing another first incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b8227d905468dc84aa07811859029b8a93058671f23d1b9729d478f02b66f876",
+      "replacement": "The adaptation reports New Milford in an 1805 advertisement. A separate later account reports Milford in an 1807 tavern application. Neither establishes first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b8227d905468dc84aa07811859029b8a93058671f23d1b9729d478f02b66f876",
+      "replacement": "The adaptation reports New Milford in an 1805 advertisement. A separate later account reports Milford in an 1807 tavern application. Neither establishes first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0a7cff12a76ae0756e2fd50c6ed6ef4546666bf65daa95a00f2042e1413a044e",
+      "replacement": "The May 8 vote report and May 13 indexed creation date remain unreconciled. The accounts do not establish two elections or a precise filing role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0a7cff12a76ae0756e2fd50c6ed6ef4546666bf65daa95a00f2042e1413a044e",
+      "replacement": "The May 8 vote report and May 13 indexed creation date remain unreconciled. The accounts do not establish two elections or a precise filing role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "a1d076e11498a93909e3989c92ad47151460d91a9e15c6e1b64e298f4722c045",
+      "replacement": "The index records charter revival on March 13, 1925. The filing-defect explanation remains attributed; revival was not necessarily a second original incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "a1d076e11498a93909e3989c92ad47151460d91a9e15c6e1b64e298f4722c045",
+      "replacement": "The index records charter revival on March 13, 1925. The filing-defect explanation remains attributed; revival was not necessarily a second original incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "8ee0baa3bd66c970be8b640a3871a4539d265a5dec2aed94ba360665e2b766c4",
+      "replacement": "Burnt Mills, Lowerytown, New Milford and Millford or Millsford are reported locality forms. Their exact relationships and whether they overlapped remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "8ee0baa3bd66c970be8b640a3871a4539d265a5dec2aed94ba360665e2b766c4",
+      "replacement": "Burnt Mills, Lowerytown, New Milford and Millford or Millsford are reported locality forms. Their exact relationships and whether they overlapped remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e8b471e2618301480a9cb2c653b3428b17f33cd8d214c8ec44bdf78a65b63a5d",
+      "replacement": "The adaptation reports Lowery’s New Milford advertisement in 1805. A separate later account reports Milford in an 1807 tavern application. Neither establishes an exact original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "editorial",
+        "1020",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e8b471e2618301480a9cb2c653b3428b17f33cd8d214c8ec44bdf78a65b63a5d",
+      "replacement": "The adaptation reports Lowery’s New Milford advertisement in 1805. A separate later account reports Milford in an 1807 tavern application. Neither establishes an exact original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "fcfed372b47f48c9837c598a8ee15e170099a2db4058c3ceee629b53fcc745f2",
+      "replacement": "Colonial forms such as Raritang belong to the older regional name history. Their exact dates and relationships remain uncertain. A broad seventeenth-century setting does not establish one naming day or imply that the later township already existed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "0ce17c2a2cc1ab98b9538d5f44d02ecc0dd3e4593c25b7e2d11aaecb1d452467",
+      "replacement": "Older regional spellings such as Raritang do not establish one exact naming day. They also do not mean the township already existed in colonial times.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d3943512a6e6d8ada10f0739c6f3b4fd0ed2f834c473a8ec64b2ce419713b693",
+      "replacement": "The township received Raritan in the 1838 division of Amwell. The act places the South Branch in the boundary setting and separates February 23 passage from April 2 operation. The first municipal proposer and actual first meeting remain unknown. Government adopted an older geographic identity without settling its Indigenous meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b0e63c5bfd8c0d5c45625da410e03e38d30fdf63b9e6b87414f3bff00cc37b04",
+      "replacement": "Older regional forms belong to a broad seventeenth-century history, without establishing an exact 1650 naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b0e63c5bfd8c0d5c45625da410e03e38d30fdf63b9e6b87414f3bff00cc37b04",
+      "replacement": "Older regional forms belong to a broad seventeenth-century history, without establishing an exact 1650 naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "83740e48254ad80ea0133baf0a6117bf0b80e5d34ca794242082aaa8f1a25cd7",
+      "replacement": "The first name proposer and actual organizing meeting remain unknown. The law’s boundary description does not settle the older name’s language meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "83740e48254ad80ea0133baf0a6117bf0b80e5d34ca794242082aaa8f1a25cd7",
+      "replacement": "The first name proposer and actual organizing meeting remain unknown. The law’s boundary description does not settle the older name’s language meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "1231f1ebb7a62044699b78373123fe9d8482ae55dacdd0d421a48c95fce70369",
+      "replacement": "Readington carries a Reading-family name. Later family history identifies John Reading Jr., distinct from the elder Reading associated with the Delaware crossing. That attribution does not establish the original charter’s dedication or exclude every other family role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "cfac3fa6e729a57c122d9a170319d37c5e96971c5128ba7823afc3ac63794000",
+      "replacement": "Readington is linked with the Reading family. Later history points to John Reading Jr., but the exact original dedication remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "d82037cfc59c6f2cafe5d309cacfebc3ee5080437cbea277e149bc7bf51566e0",
+      "replacement": "Stephanie B. Stevens’s county-hosted history describes Readings or Readings Town with a July 15, 1730 charter. Reading, Reading Town and Readingtown also belong to the spelling history. Her account uses Readington for the 1798 stage, while the civil-boundary reference gives Readingtown. Those differing accounts do not establish a single official spelling or a dated change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "753599bbcf60547f4551758a697ab90cae9107995c85defe360f49884ffc05c3",
+      "replacement": "A county history describes Readings or Readings Town in 1730. For 1798 it uses Readington, while another reference gives Readingtown. Those different accounts do not establish one official spelling or the date of a change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "53651eba0c76e5412d53e6163113ba1db3cba143aadf2d8640e5030034b3a901",
+      "replacement": "The county history reports a July 15, 1730 charter. A separate family history identifies John Reading Jr.; that does not establish the original dedication or exclude every other family role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "53651eba0c76e5412d53e6163113ba1db3cba143aadf2d8640e5030034b3a901",
+      "replacement": "The county history reports a July 15, 1730 charter. A separate family history identifies John Reading Jr.; that does not establish the original dedication or exclude every other family role.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "58056367758a826e341e293be7fa53bbb549f5a341d91da77b953bd43530bb05",
+      "replacement": "Later family history identifies John Reading Jr. The original dedication and possible roles of other family members remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "58056367758a826e341e293be7fa53bbb549f5a341d91da77b953bd43530bb05",
+      "replacement": "Later family history identifies John Reading Jr. The original dedication and possible roles of other family members remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d0bed1f00682ed6806ea77652f4e6a2a95bbfbe2bfd979b8f0f2993209aea830",
+      "replacement": "Stevens’s later history gives July 15, 1730 and the forms Readings or Readings Town. That account does not establish the first proposer or original dedication.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d0bed1f00682ed6806ea77652f4e6a2a95bbfbe2bfd979b8f0f2993209aea830",
+      "replacement": "Stevens’s later history gives July 15, 1730 and the forms Readings or Readings Town. That account does not establish the first proposer or original dedication.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "aebbd9792ddf5ee5ee16285f369de3b0ce655d1c570992bcd90956cc8f9aebd1",
+      "replacement": "The county essay uses Readington for 1798 while the boundary reference gives Readingtown. The difference remains unresolved, without a proved same-day standardization.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "editorial",
+        "1022",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "fe40773fe7d3c2e5522480bc768506d6f68cc9277b54832b5e3d55bb15657a18",
+      "replacement": "Later accounts spell the 1798 name differently. The difference remains unresolved; it does not date one official change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "ab77129b87ff7e088728b8d97322920e0633e220f4b7593ac70bfac4811c9fe2",
+      "replacement": "Later histories attribute Stockton to Robert Field Stockton, the naval officer and U.S. senator associated with Delaware and Raritan Canal development. The original proposer and exact naming occasion remain unknown. The personal association is clearer in those accounts than how and when the name first took hold.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "6131f071f2c35d3413af78a7a14bde2cc51146a63995e20684733e38bd36fa3d",
+      "replacement": "Municipal and historical-society accounts place a Stockton post office by 1851. Jim Walker’s postal history reports a June 10, 1853 transfer from Prallsville and Jeremiah Smith’s appointment. Those accounts leave an unresolved conflict, rather than establishing two different administrative stages. They also do not establish that the postal name preceded the reported 1852 railway arrival. The indexed April 14, 1898 borough act adopted an existing identity without settling its first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f9f3527a2586f2ae4bc82c0dccac23278e04e71aa04605780a78cd59dee58b38",
+      "replacement": "A later crossing history reports Reading’s Landing in a 1711 road petition. That attributed use does not establish first naming; sites on the two banks remain distinct.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f9f3527a2586f2ae4bc82c0dccac23278e04e71aa04605780a78cd59dee58b38",
+      "replacement": "A later crossing history reports Reading’s Landing in a 1711 road petition. That attributed use does not establish first naming; sites on the two banks remain distinct.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "fef993f7789b5c90a9577a2e176dab56df148dc4e5b9472546fae8a8cf141341",
+      "replacement": "Walker reports June 10, 1853 for transfer from Prallsville and Jeremiah Smith’s appointment. His account differs from local reports of an office by 1851; their exact relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "fef993f7789b5c90a9577a2e176dab56df148dc4e5b9472546fae8a8cf141341",
+      "replacement": "Walker reports June 10, 1853 for transfer from Prallsville and Jeremiah Smith’s appointment. His account differs from local reports of an office by 1851; their exact relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "7d02210195daa7ae341dc51752951c597e8a0ce43b829c79193a413a637df29f",
+      "replacement": "The index gives April 14, 1898 approval and effect. Its county record supplies only 1898, rather than an exact filing day. Neither stage establishes first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "7d02210195daa7ae341dc51752951c597e8a0ce43b829c79193a413a637df29f",
+      "replacement": "The index gives April 14, 1898 approval and effect. Its county record supplies only 1898, rather than an exact filing day. Neither stage establishes first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "b6655e262a49aa8010b1524c888b1281216f27ee0e3e8fea63154c4214bc485e",
+      "replacement": "Municipal and historical-society accounts report an office by 1851. The society’s account cites the Stockton Sun without an issue date, leaving the precise early chronology unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "10a83e9a4a28674821d78aa082bfaa5a6609d5c99d151d639f28f3732f022aa9",
+      "replacement": "Municipal and historical-society accounts report an office by 1851. The society’s account cites the Stockton Sun without an issue date, leaving the precise early chronology unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "0d4ef14ce15896c54eb45f9a210ab140c6e5295807b3cd2397a1faeb9aa5fb8b",
+      "replacement": "Walker reports a June 10, 1853 transfer from Prallsville and Jeremiah Smith’s appointment. The conflict with the by-1851 accounts remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "90de6e806a416470f381afa5f5451f9cd1edd885df8fab58b6d66b935077155a",
+      "replacement": "A postal specialist reports a transfer in 1853. That differs from accounts of an office by 1851, and their exact relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "editorial",
+        "1023",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "addbbe1eb9743e3befbeb80ea6f1a79f527bcc97e27f02523bc21d0059b76ed5",
+      "replacement": "The index gives April 14, 1898 approval and effect. The county entry supplies only 1898, without an exact filing day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1024",
+      "path": [
+        "editorial",
+        "1024",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "56c0b556524d57fa03412e2feec52368d6c1ff64b30edcbb6ed7501175db5952",
+      "replacement": "A 2009 article lists Tewkesburry in John Rockhill’s field book without dating that entry. Its June 15, 1769 example concerns KingWood; the field book’s 1761 start does not date every entry. Incorporation under the February 21, 1798 township law continued an older name. Village identities such as New Germantown and Oldwick have a separate naming history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1024",
+      "path": [
+        "editorial",
+        "1024",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "4d7b7489e6c8e22399f2e5db3b5687cd7c4270271e5c999f332b8b9a0e89bff4",
+      "replacement": "Accounts differ about March 11, 1755. One calls it a royal-patent date; another treats it as the first known township meeting while leaving the charter date uncertain. Those accounts leave a disagreement, rather than establishing two events on the same day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1024",
+      "path": [
+        "editorial",
+        "1024",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f4e396b9bdfa84028c3bc0df8274e9d6a95ff55b8bdc99c2cc451c634bc5b136",
+      "replacement": "The state reference treats March 11, 1755 as a meeting date; local history calls it a patent date. Their disagreement remains unresolved and does not establish two same-day events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1024",
+      "path": [
+        "editorial",
+        "1024",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f4e396b9bdfa84028c3bc0df8274e9d6a95ff55b8bdc99c2cc451c634bc5b136",
+      "replacement": "The state reference treats March 11, 1755 as a meeting date; local history calls it a patent date. Their disagreement remains unresolved and does not establish two same-day events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1024",
+      "path": [
+        "editorial",
+        "1024",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b6388dc9664cc6e1959ec5f08afc08db7cd2efdc8b33c5dc2fb89c3ec0673b6c",
+      "replacement": "The index lists High Bridge Township creation on March 29, 1871. A same-day Tewksbury-to-Clinton expansion was separate; the exact parcels remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1024",
+      "path": [
+        "editorial",
+        "1024",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b6388dc9664cc6e1959ec5f08afc08db7cd2efdc8b33c5dc2fb89c3ec0673b6c",
+      "replacement": "The index lists High Bridge Township creation on March 29, 1871. A same-day Tewksbury-to-Clinton expansion was separate; the exact parcels remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1024",
+      "path": [
+        "editorial",
+        "1024",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "00afc3e3c3b8180f9193713115ee4e71ada6e875c51d32996eca165648eaf1d2",
+      "replacement": "Local history calls March 11, 1755 a patent date; the state reference describes a known meeting date and leaves charter timing uncertain. The disagreement remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1024",
+      "path": [
+        "editorial",
+        "1024",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "1b91759d2b9de47e707068f5108a9f8a95a1714ea1fc0528b8021c062259da72",
+      "replacement": "Accounts disagree about the role of March 11, 1755. They do not establish two separate events or a settled charter date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1025",
+      "path": [
+        "editorial",
+        "1025",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "33fc1d53dc27bb293d11cfcb37b0cfad9efd42346f2a644a489ef2dab149b4be",
+      "replacement": "Snell’s 1881 history reports Union and Rockhill as proposed names during the 1852–1853 legislative session and says advocates chose the furnace name. His later account links the campaign with school-law concerns. It does not establish the exact first naming discussion or make Rockhill an enacted former township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1025",
+      "path": [
+        "editorial",
+        "1025",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "bdb8a828c0837d85e9ea124dec837962b23d4cbd82b4816063d2ba95285ea656",
+      "replacement": "Snell’s later history says advocates considered Union and Rockhill before choosing the furnace name. The exact naming discussion remains unknown. Rockhill was a proposal, rather than a former official township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1025",
+      "path": [
+        "editorial",
+        "1025",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "37764ca0a5ee81305bdec0e11c59671b1efe0d5cac72fb3ad2b66f7754f7fd02",
+      "replacement": "Snell’s 1881 history reports Union and Rockhill considered in the 1852–1853 session, with a furnace-name choice and school-law context. That is a later account of the campaign, rather than the original naming discussion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1025",
+      "path": [
+        "editorial",
+        "1025",
+        "sidebar",
+        "fields",
+        "community",
+        "text"
+      ],
+      "expected_sha256": "37764ca0a5ee81305bdec0e11c59671b1efe0d5cac72fb3ad2b66f7754f7fd02",
+      "replacement": "Snell’s 1881 history reports Union and Rockhill considered in the 1852–1853 session, with a furnace-name choice and school-law context. That is a later account of the campaign, rather than the original naming discussion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "78fb70e752a88aa73e18074d8464ac2a2fada3069783882b74d6b1ba1fc53b8a",
+      "replacement": "Forked river, overflow, stream and other readings remain competing interpretations. No single English translation is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "78fb70e752a88aa73e18074d8464ac2a2fada3069783882b74d6b1ba1fc53b8a",
+      "replacement": "Forked river, overflow, stream and other readings remain competing interpretations. No single English translation is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f7221a7d8ce3f500d62ee949c62441060755979802bc536fe99977071c6a88b3",
+      "replacement": "Competing translations remain interpretations. Broad seventeenth-century context does not establish an exact 1650 witness or settle the older Indigenous meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "editorial",
+        "1021",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f7221a7d8ce3f500d62ee949c62441060755979802bc536fe99977071c6a88b3",
+      "replacement": "Competing translations remain interpretations. Broad seventeenth-century context does not establish an exact 1650 witness or settle the older Indigenous meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b67ddd81662c97932d0a7bcf72aec823b248b164cce31aa7c72b4eb35cfd2777",
+      "replacement": "Old Amwell’s reported 1708 beginning belongs to Burlington County, before Hunterdon existed. Later accounts connect the name with John Reading’s Mount Amwell and, more deeply, Great or Little Amwell in Hertfordshire. The precise original transfer remains unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5219f49d14f3b3b6a4379ad32177d0787f2472b31eaad3ab11a273451c6907f8",
+      "replacement": "Later accounts connect the older Amwell name with John Reading’s Mount Amwell and England. The exact original transfer remains uncertain. The parent territory was still in Burlington County in 1708.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4823e22fc7bbf981ce71e939fc468d26cffe9ba5c1850309d479061f240e60c6",
+      "replacement": "The division law was approved February 27, 1846 and operated April 6. A township-hosted history reports a first meeting at John Menagh’s inn; that account and the prescribed legal start do not establish one actual meeting date. The same history gives 1848 for Lambertville’s separation, while the legal index gives March 1849. The dates remain conflicting, rather than established separate procedural stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "28f4fa1cff5976a06e02c82ae755bc1ce7f74f500f46122a20165ab8915ccf02",
+      "replacement": "The law was approved in February and began operating April 6. A later history reports a first meeting at an inn. Accounts also differ between 1848 and 1849 for Lambertville’s separation. Those dates remain unresolved rather than proving an extra legal step.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "426f4f3f2648bd9deb25a60f4807f8100ad5d4367a24a0e3b56d6a272a827118",
+      "replacement": "The law divided the common parent into East and West. It prescribes a legal start, while the township history reports an inn meeting; neither establishes that the actual meeting occurred on the start date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "426f4f3f2648bd9deb25a60f4807f8100ad5d4367a24a0e3b56d6a272a827118",
+      "replacement": "The law divided the common parent into East and West. It prescribes a legal start, while the township history reports an inn meeting; neither establishes that the actual meeting occurred on the start date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "c222282c4e07c62fb678db953312deb7edfd7a69ce0bfdc2ba16ee2f89074628",
+      "replacement": "The law was approved February 27, 1846 and operated April 6, without requiring an incorporation referendum. The township history separately reports a first meeting at Menagh’s inn.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "c222282c4e07c62fb678db953312deb7edfd7a69ce0bfdc2ba16ee2f89074628",
+      "replacement": "The law was approved February 27, 1846 and operated April 6, without requiring an incorporation referendum. The township history separately reports a first meeting at Menagh’s inn.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ac7a8e524d59fb6dc7a3b71d81cc73866fd270d15ed611cd723dff8fd22aa443",
+      "replacement": "Later accounts place the parent township in Burlington County in 1708. The exact original English-name transfer remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ac7a8e524d59fb6dc7a3b71d81cc73866fd270d15ed611cd723dff8fd22aa443",
+      "replacement": "Later accounts place the parent township in Burlington County in 1708. The exact original English-name transfer remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "journey",
+        2,
+        "label"
+      ],
+      "expected_sha256": "3f533b7dfb7a4c9958d281353475895e5dbb036979d8845d95d6afd996933003",
+      "replacement": "Lambertville’s separation dates conflict",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "journey",
+        2,
+        "label"
+      ],
+      "expected_sha256": "3f533b7dfb7a4c9958d281353475895e5dbb036979d8845d95d6afd996933003",
+      "replacement": "Lambertville’s separation dates conflict",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "ac60f8e71bf383f9cb89adf5d50d5ab470220a41c860238628c9ac0390f306bc",
+      "replacement": "Later accounts link the older name with Mount Amwell and Hertfordshire. The original naming intention and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "ac60f8e71bf383f9cb89adf5d50d5ab470220a41c860238628c9ac0390f306bc",
+      "replacement": "Later accounts link the older name with Mount Amwell and Hertfordshire. The original naming intention and individual proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "74647d403e947dbf996a93739f5687b2209fcc530e3f847b64f572dbeea9d2c0",
+      "replacement": "Later accounts report the Amwell parent in 1708, when its territory was in Burlington County. The patent is quoted through a later publication.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "editorial",
+        "1026",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "74647d403e947dbf996a93739f5687b2209fcc530e3f847b64f572dbeea9d2c0",
+      "replacement": "Later accounts report the Amwell parent in 1708, when its territory was in Burlington County. The patent is quoted through a later publication.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "views",
+        "1015",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "587e2d7d5e904b9c36903b3137186deb87a8308c5540f8a3251cf579ef07c08c",
+      "replacement": "A favorable vote is reported for May 8, 1911, while the government index lists May 13 creation. Their exact relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "views",
+        "1015",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "62d5eebe0337b9f4212f2743c3b019250257026c17328e21bbddfb4072034fba",
+      "replacement": "Attributed use of an older regional name, rather than an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1015",
+      "path": [
+        "views",
+        "1015",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "871983bf4b1b425545f41608ae31d5b63dad40658e1bdc646e35a6c46bdefddf",
+      "replacement": "New Holland (regional name); Holland lots (regional name); West Alexandria (unsuccessful proposal); Alexandria Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "afb8d235ea0384f14c158b5ad6000148a4139416f48ffd99a982633994cc2876",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "5bc7400bfafd8953f4fd07ade7c66e5010e2eca6a4f144fb9dc1a81faca8c020",
+      "replacement": "A later place-name study reports Kingwood regional use in the early 1720s.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "ee434c13c22ec83259c1127e7ed2ff9415ec0afab769919f9fe07f13b1ab8864",
+      "replacement": "Reported early regional use, rather than an exact naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "sources",
+        "S1360",
+        "publication"
+      ],
+      "expected_sha256": "d2cdf6faff1628470a16bc48d3187c18908bb69a008206522f5d75fea1e664e2",
+      "replacement": "Undated local-history excerpt",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b6f02a7b312144ddde5221e0ebbfeb286fcb1c25b53c064725dce5bb7c9af8c5",
+      "replacement": "KingWood (reported spelling); Bethlehem Township (parent); Johnson’s Tavern (locality); Kingwood village (locality); Franklin Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1017",
+      "path": [
+        "views",
+        "1017",
+        "sources",
+        "S2110",
+        "author"
+      ],
+      "expected_sha256": "05ecf43bf936f539f5e0443f5c5a77488123a630ebc0b8d5b2ae612e5ce6bf4b",
+      "replacement": "Author unidentified; hosted by West Amwell Township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1017",
+      "path": [
+        "views",
+        "1017",
+        "sources",
+        "S2110",
+        "publication"
+      ],
+      "expected_sha256": "8381f5a5ec0d21ee83e5e7f2da26b6016646797e8d93a9e73f8cd2c5597177ed",
+      "replacement": "Undated historical narrative",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1017",
+      "path": [
+        "views",
+        "1017",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0e10f336e9dfa3c8ea77d9eb1b7635848f536bed05dea3afed8231c02f1e6892",
+      "replacement": "Coates’ Ferry; Wells’ Ferry; Coryell’s Ferry; Bungtown (locality); Georgetown (locality); Amwell (postal name); Lambertsville (postal name); West Amwell Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1018",
+      "path": [
+        "views",
+        "1018",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "713550c17ff11336a29dc7e286082e8adb36ebfba83e71bb0c3c704468afeec1",
+      "replacement": "Bray’s Hill (postal locality); Jacksonville (unsuccessful postal proposal); Lebanonville (reported locality form); Lebanonville Depot (locality); Clinton Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1019",
+      "path": [
+        "views",
+        "1019",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "1b8db2a06b3abb8f398a9aad5c2de1aa6665dde3a801767f7421dbae65d1fe80",
+      "replacement": "Later sources report Lebanon Township by October 26, 1731. This does not establish an exact creation or naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1019",
+      "path": [
+        "views",
+        "1019",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0f9828b597207f4dcbdd2f1a69653d03d4c029a7cfd1ce767b071d116606b702",
+      "replacement": "Mount Lebanon (ridge); Lebanon Borough (separate government); High Bridge Township (territorial branch); Junction Borough (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "d14e10b84575d56e51fbf2e752ed8b5ac0767039d8e07c3c5c2e6295b30f9b21",
+      "replacement": "Later report of an 1805 New Milford advertisement, rather than an established first naming declaration.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "cfc3f81f85434ef6dc8984bf7d97d67e8b15b9cb74a1f786263bda32c02504f1",
+      "replacement": "Reported tavern-application name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "f1c98231ba6d4a13aa6cbbdbdd558b35ba893d14456be71f96d2507da1791f31",
+      "replacement": "Applicant and county licensing record, as reported in later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "25f40050ada471bf7e63521b3a0084e04b2f49f65f7fdbe5e6c9805fec1b29c6",
+      "replacement": "A later account reports an 1807 application using Milford and the older Burnt Mills name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "84ae9b743f90b4907a8cfba6f579f4917fb62944336bdf9d763502b9eb5d9213",
+      "replacement": "A qualified report of early short-form use, without an established original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "587e2d7d5e904b9c36903b3137186deb87a8308c5540f8a3251cf579ef07c08c",
+      "replacement": "A favorable vote is reported for May 8, 1911, while the government index lists May 13 creation. Their exact relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "sources",
+        "S2107",
+        "publication"
+      ],
+      "expected_sha256": "a20cd177003c476c4533538c0db6429ecbedcc7870d7b45f0e13d66e83e82359",
+      "replacement": "2019 nomination; later web adaptation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "16e3881dc2e1c415bacff4eb769c24573e3e6b9bb21403d08b3051e5ad0015bf",
+      "replacement": "Burnt Mills; Lowerytown; New Milford; Millford (reported form); Millsford (reported form); Holland Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "dc16d54c7f2aa9095f44bd2fe4fe5579eebc595ec06d917396ee324b2dc832f8",
+      "replacement": "Legislative naming and passage",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "80298d2aace492d63d1ef759de0a5e76220f4f51d8c48725a1eccd74f44deac3",
+      "replacement": "The Amwell division act naming Raritan passed February 23, 1838.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "e525dfac646de7191fa6f4b9252473e2528d9f3507d2c90d064812d099a9c5e5",
+      "replacement": "Statutory operation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "273ff463afe623ed5ae22ffdb5fe14d108046e4ea9f982b3a5c5c1bb0aef41d0",
+      "replacement": "Older regional-name context, rather than an established exact 1650 naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "eff784374769e981e063ad9e966b531ecaf579ccb5bf866ce3355c1b4824de5a",
+      "replacement": "Raritang (regional form); Raritan River (name source); Amwell Township (parent); Delaware Township (sibling division)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "views",
+        "1022",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "43e6076db9b3fb196eb8dbf9aff06ac1386ad362ed363a8812d3f26fb7a43f9e",
+      "replacement": "Later accounts report the charter and a Reading-family attribution without establishing an original dedication.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "views",
+        "1022",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "ec8a77292a2eb5c757f5e321b361b309721292bb92beed6c53cac4c848ed56fc",
+      "replacement": "The later accounts differ in spelling without establishing a dated official standardization.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "views",
+        "1022",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "b03e41f7b01326cd433d8b35f5b535a4b7e6d26d4ce7ac5d0eacbf406165bce0",
+      "replacement": "Unresolved spelling transition",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1022",
+      "path": [
+        "views",
+        "1022",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c60cb03e1540b9439a0ec0dc3eebc0483aa789df6b5a4bf9cfe5ca8503f61e1b",
+      "replacement": "Reading; Readings; Reading Town; Readings Town; Readingtown; Amwell Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "views",
+        "1023",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "1f9774d5f5f658ac1bafd3f4e833bf736c78e25d90d01bdf93b87eea7b383ddb",
+      "replacement": "Later account of a 1711 landing-name reference, rather than an established first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1023",
+      "path": [
+        "views",
+        "1023",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5f44d8b410e3a7f92dcfaee4f98fe00695f663bb8867126efad85b077d24d69c",
+      "replacement": "John Reading’s Landing; Reading’s Ferry; Howell’s Ferry; Centre Bridge (crossing locality); Prallsville (distinct nearby locality); Delaware Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1024",
+      "path": [
+        "views",
+        "1024",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2b7b0b1814787d1705790f6ba3d4de2393d7af84546190eecbb1b26842b6a588",
+      "replacement": "Tewkesbury (English place); Tewkesburry (reported form); Lebanon Township (parent); New Germantown (village); Oldwick (village)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1025",
+      "path": [
+        "views",
+        "1025",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6027a309780b45ee66fecfe54f970e6dc91095661126be303ee20f0ec343613d",
+      "replacement": "Union Furnace (name source); Union Iron Works (name source); Rockhill (rejected proposal); Bethlehem Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "views",
+        "1026",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "304dda51d825e3fbc901083e04294f94f267941b8da4f62cb7ac2ac5beabc087",
+      "replacement": "Statutorily prescribed operation day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "views",
+        "1026",
+        "sources",
+        "S2110",
+        "author"
+      ],
+      "expected_sha256": "05ecf43bf936f539f5e0443f5c5a77488123a630ebc0b8d5b2ae612e5ce6bf4b",
+      "replacement": "Author unidentified; hosted by West Amwell Township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "views",
+        "1026",
+        "sources",
+        "S2110",
+        "publication"
+      ],
+      "expected_sha256": "8381f5a5ec0d21ee83e5e7f2da26b6016646797e8d93a9e73f8cd2c5597177ed",
+      "replacement": "Undated historical narrative",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1026",
+      "path": [
+        "views",
+        "1026",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "28c8f71f2a16e66f7e7e0a9a66a16261ebbf3c841772acd6b8bebce21cfc4532",
+      "replacement": "Amwell Township (parent); Mount Amwell (estate); Great Amwell (reported English connection); Little Amwell (reported English connection); East Amwell (sibling division); Lambertville (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "views",
+        "1015",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "587e2d7d5e904b9c36903b3137186deb87a8308c5540f8a3251cf579ef07c08c",
+      "replacement": "A favorable vote is reported for May 8, 1911, while the government index lists May 13 creation. Their exact relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "views",
+        "1015",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "62d5eebe0337b9f4212f2743c3b019250257026c17328e21bbddfb4072034fba",
+      "replacement": "Attributed use of an older regional name, rather than an established first naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1015",
+      "path": [
+        "views",
+        "1015",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "871983bf4b1b425545f41608ae31d5b63dad40658e1bdc646e35a6c46bdefddf",
+      "replacement": "New Holland (regional name); Holland lots (regional name); West Alexandria (unsuccessful proposal); Alexandria Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "afb8d235ea0384f14c158b5ad6000148a4139416f48ffd99a982633994cc2876",
+      "replacement": "Act approval day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "5bc7400bfafd8953f4fd07ade7c66e5010e2eca6a4f144fb9dc1a81faca8c020",
+      "replacement": "A later place-name study reports Kingwood regional use in the early 1720s.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "ee434c13c22ec83259c1127e7ed2ff9415ec0afab769919f9fe07f13b1ab8864",
+      "replacement": "Reported early regional use, rather than an exact naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "sources",
+        "S1360",
+        "publication"
+      ],
+      "expected_sha256": "d2cdf6faff1628470a16bc48d3187c18908bb69a008206522f5d75fea1e664e2",
+      "replacement": "Undated local-history excerpt",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1016",
+      "path": [
+        "views",
+        "1016",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "b6f02a7b312144ddde5221e0ebbfeb286fcb1c25b53c064725dce5bb7c9af8c5",
+      "replacement": "KingWood (reported spelling); Bethlehem Township (parent); Johnson’s Tavern (locality); Kingwood village (locality); Franklin Township (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1017",
+      "path": [
+        "views",
+        "1017",
+        "sources",
+        "S2110",
+        "author"
+      ],
+      "expected_sha256": "05ecf43bf936f539f5e0443f5c5a77488123a630ebc0b8d5b2ae612e5ce6bf4b",
+      "replacement": "Author unidentified; hosted by West Amwell Township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1017",
+      "path": [
+        "views",
+        "1017",
+        "sources",
+        "S2110",
+        "publication"
+      ],
+      "expected_sha256": "8381f5a5ec0d21ee83e5e7f2da26b6016646797e8d93a9e73f8cd2c5597177ed",
+      "replacement": "Undated historical narrative",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1017",
+      "path": [
+        "views",
+        "1017",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0e10f336e9dfa3c8ea77d9eb1b7635848f536bed05dea3afed8231c02f1e6892",
+      "replacement": "Coates’ Ferry; Wells’ Ferry; Coryell’s Ferry; Bungtown (locality); Georgetown (locality); Amwell (postal name); Lambertsville (postal name); West Amwell Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1018",
+      "path": [
+        "views",
+        "1018",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "713550c17ff11336a29dc7e286082e8adb36ebfba83e71bb0c3c704468afeec1",
+      "replacement": "Bray’s Hill (postal locality); Jacksonville (unsuccessful postal proposal); Lebanonville (reported locality form); Lebanonville Depot (locality); Clinton Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1019",
+      "path": [
+        "views",
+        "1019",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "1b8db2a06b3abb8f398a9aad5c2de1aa6665dde3a801767f7421dbae65d1fe80",
+      "replacement": "Later sources report Lebanon Township by October 26, 1731. This does not establish an exact creation or naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1019",
+      "path": [
+        "views",
+        "1019",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "0f9828b597207f4dcbdd2f1a69653d03d4c029a7cfd1ce767b071d116606b702",
+      "replacement": "Mount Lebanon (ridge); Lebanon Borough (separate government); High Bridge Township (territorial branch); Junction Borough (territorial branch)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "d14e10b84575d56e51fbf2e752ed8b5ac0767039d8e07c3c5c2e6295b30f9b21",
+      "replacement": "Later report of an 1805 New Milford advertisement, rather than an established first naming declaration.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "cfc3f81f85434ef6dc8984bf7d97d67e8b15b9cb74a1f786263bda32c02504f1",
+      "replacement": "Reported tavern-application name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "f1c98231ba6d4a13aa6cbbdbdd558b35ba893d14456be71f96d2507da1791f31",
+      "replacement": "Applicant and county licensing record, as reported in later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "25f40050ada471bf7e63521b3a0084e04b2f49f65f7fdbe5e6c9805fec1b29c6",
+      "replacement": "A later account reports an 1807 application using Milford and the older Burnt Mills name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "84ae9b743f90b4907a8cfba6f579f4917fb62944336bdf9d763502b9eb5d9213",
+      "replacement": "A qualified report of early short-form use, without an established original naming occasion.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "587e2d7d5e904b9c36903b3137186deb87a8308c5540f8a3251cf579ef07c08c",
+      "replacement": "A favorable vote is reported for May 8, 1911, while the government index lists May 13 creation. Their exact relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "sources",
+        "S2107",
+        "publication"
+      ],
+      "expected_sha256": "a20cd177003c476c4533538c0db6429ecbedcc7870d7b45f0e13d66e83e82359",
+      "replacement": "2019 nomination; later web adaptation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1020",
+      "path": [
+        "views",
+        "1020",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "16e3881dc2e1c415bacff4eb769c24573e3e6b9bb21403d08b3051e5ad0015bf",
+      "replacement": "Burnt Mills; Lowerytown; New Milford; Millford (reported form); Millsford (reported form); Holland Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "dc16d54c7f2aa9095f44bd2fe4fe5579eebc595ec06d917396ee324b2dc832f8",
+      "replacement": "Legislative naming and passage",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "80298d2aace492d63d1ef759de0a5e76220f4f51d8c48725a1eccd74f44deac3",
+      "replacement": "The Amwell division act naming Raritan passed February 23, 1838.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "e525dfac646de7191fa6f4b9252473e2528d9f3507d2c90d064812d099a9c5e5",
+      "replacement": "Statutory operation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "273ff463afe623ed5ae22ffdb5fe14d108046e4ea9f982b3a5c5c1bb0aef41d0",
+      "replacement": "Older regional-name context, rather than an established exact 1650 naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1021",
+      "path": [
+        "views",
+        "1021",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "eff784374769e981e063ad9e966b531ecaf579ccb5bf866ce3355c1b4824de5a",
+      "replacement": "Raritang (regional form); Raritan River (name source); Amwell Township (parent); Delaware Township (sibling division)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "views",
+        "1022",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "43e6076db9b3fb196eb8dbf9aff06ac1386ad362ed363a8812d3f26fb7a43f9e",
+      "replacement": "Later accounts report the charter and a Reading-family attribution without establishing an original dedication.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "views",
+        "1022",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "ec8a77292a2eb5c757f5e321b361b309721292bb92beed6c53cac4c848ed56fc",
+      "replacement": "The later accounts differ in spelling without establishing a dated official standardization.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "views",
+        "1022",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "b03e41f7b01326cd433d8b35f5b535a4b7e6d26d4ce7ac5d0eacbf406165bce0",
+      "replacement": "Unresolved spelling transition",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1022",
+      "path": [
+        "views",
+        "1022",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "c60cb03e1540b9439a0ec0dc3eebc0483aa789df6b5a4bf9cfe5ca8503f61e1b",
+      "replacement": "Reading; Readings; Reading Town; Readings Town; Readingtown; Amwell Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1023",
+      "path": [
+        "views",
+        "1023",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "1f9774d5f5f658ac1bafd3f4e833bf736c78e25d90d01bdf93b87eea7b383ddb",
+      "replacement": "Later account of a 1711 landing-name reference, rather than an established first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1023",
+      "path": [
+        "views",
+        "1023",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "5f44d8b410e3a7f92dcfaee4f98fe00695f663bb8867126efad85b077d24d69c",
+      "replacement": "John Reading’s Landing; Reading’s Ferry; Howell’s Ferry; Centre Bridge (crossing locality); Prallsville (distinct nearby locality); Delaware Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1024",
+      "path": [
+        "views",
+        "1024",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "2b7b0b1814787d1705790f6ba3d4de2393d7af84546190eecbb1b26842b6a588",
+      "replacement": "Tewkesbury (English place); Tewkesburry (reported form); Lebanon Township (parent); New Germantown (village); Oldwick (village)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1025",
+      "path": [
+        "views",
+        "1025",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "6027a309780b45ee66fecfe54f970e6dc91095661126be303ee20f0ec343613d",
+      "replacement": "Union Furnace (name source); Union Iron Works (name source); Rockhill (rejected proposal); Bethlehem Township (parent)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "views",
+        "1026",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "304dda51d825e3fbc901083e04294f94f267941b8da4f62cb7ac2ac5beabc087",
+      "replacement": "Statutorily prescribed operation day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "views",
+        "1026",
+        "sources",
+        "S2110",
+        "author"
+      ],
+      "expected_sha256": "05ecf43bf936f539f5e0443f5c5a77488123a630ebc0b8d5b2ae612e5ce6bf4b",
+      "replacement": "Author unidentified; hosted by West Amwell Township",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "views",
+        "1026",
+        "sources",
+        "S2110",
+        "publication"
+      ],
+      "expected_sha256": "8381f5a5ec0d21ee83e5e7f2da26b6016646797e8d93a9e73f8cd2c5597177ed",
+      "replacement": "Undated historical narrative",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1026",
+      "path": [
+        "views",
+        "1026",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "28c8f71f2a16e66f7e7e0a9a66a16261ebbf3c841772acd6b8bebce21cfc4532",
+      "replacement": "Amwell Township (parent); Mount Amwell (estate); Great Amwell (reported English connection); Little Amwell (reported English connection); East Amwell (sibling division); Lambertville (territorial branch)",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]

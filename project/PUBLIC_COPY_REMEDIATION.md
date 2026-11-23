@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 10 — November 23, 2026
+## Current checkpoint 11 — November 23, 2026
+
+[Checkpoint 11](PUBLIC_COPY_CHECKPOINT_11.md) completes twelve Hunterdon County towns
+in both editions, adding 200 proposals for 3,491 cumulative. All
+3,291 earlier rows and prior 99 reviewed reader/view records remain exact.
+Agent text review is **111/564 per edition**, with 453 remaining and zero human
+sign-offs. Strict candidates: 1,999 primary and 1,854 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Continue with the twelve already authorized Somerset towns as checkpoint 12, then stop after all 24.
+
+## Historical checkpoint 10 — November 23, 2026
 
 [Checkpoint 10](PUBLIC_COPY_CHECKPOINT_10.md) completes twelve towns in Hunterdon counties
 in both editions, adding 175 proposals for 3,291 cumulative. All
@@ -22,7 +40,7 @@ open. Exact before text and continuation records stay private. Live Pages is unc
 The owner has authorized 24-town runs, with saved twelve-town checkpoints and
 no renewed town-selection approval. Stop after this completed 24-town run. The next 24 towns are queued but unstarted; resume under standing authorization when instructed.
 
-## Current checkpoint 10 — November 23, 2026
+## Historical checkpoint 10 — November 23, 2026
 
 [Checkpoint 10](PUBLIC_COPY_CHECKPOINT_10.md) completes twelve towns in Hunterdon counties
 in both editions, adding 175 proposals for 3,291 cumulative. All
