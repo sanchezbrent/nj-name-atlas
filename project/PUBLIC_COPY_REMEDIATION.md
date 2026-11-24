@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 31 — November 23, 2026
+## Current checkpoint 32 — November 23, 2026
+
+[Checkpoint 32](PUBLIC_COPY_CHECKPOINT_32.md) completes twelve towns in Essex County
+in both editions, adding 192 proposals for 9,973 cumulative. All
+9,781 earlier rows and prior 351 reviewed reader/view records remain exact.
+Agent text review is **363/564 per edition**, with 201 remaining and zero human
+sign-offs. Strict candidates: 884 primary and 798 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 21 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Stop after the completed 24-town Cumberland/Essex run. The next 24-town Essex/Gloucester metadata queue is saved but NOT_STARTED; resume only on continuation.
+
+## Historical checkpoint 31 — November 23, 2026
 
 [Checkpoint 31](PUBLIC_COPY_CHECKPOINT_31.md) completes twelve towns in Cumberland and Essex counties
 in both editions, adding 216 proposals for 9,781 cumulative. All

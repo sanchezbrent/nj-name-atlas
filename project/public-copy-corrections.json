@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_31",
+  "checkpoint": "PUBLIC_COPY_32",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -354,7 +354,19 @@
     "0613",
     "0614",
     "0701",
-    "0702"
+    "0702",
+    "0703",
+    "0704",
+    "0705",
+    "0706",
+    "0707",
+    "0708",
+    "0709",
+    "0710",
+    "0711",
+    "0712",
+    "0713",
+    "0714"
   ],
   "changes": [
     {
@@ -137077,6 +137089,2687 @@
       ],
       "expected_sha256": "417b23f7e5dcbc69097d368ae5203f969431dba86a5dc0773b62e3a46f92481a",
       "replacement": "The inferred filing differs from the June 20 dismissal of the challenge; neither establishes the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "b2f23b4f4aed19deb80626c32caf3c5036904b08d8af73d49e4f02163ab9fc37",
+      "replacement": "Caldwell’s name began with a church community rather than the present borough. A Dartmouth College Library exhibit reports that the Horseneck Presbyterian parish adopted Caldwell in 1787 to honor the Rev. James Caldwell. It gives the year without establishing a February 17 day. Horseneck was a wider region whose geography differed from today’s borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "7719f45d8fdb421eb19520fe76b4e504bf2ba22defe46f06f0917c663b739d2d",
+      "replacement": "Caldwell’s name is linked with the Rev. James Caldwell. A library exhibit says the Horseneck parish adopted it in 1787. It gives a year, without establishing the exact day. The older parish covered more than today’s borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "b0add60476ab2981e74230c5506560a260b2ac18535310ba1cefd88968121c4b",
+      "replacement": "The index distinguishes a February 9 vote from a February 10 filing or effect date inferred from an unofficial source. The latter date remains an inference. Later titles changed the government’s form without replacing Caldwell’s root. The borough title was restored by an indexed January 10, 1995 resolution; its number, 1-26-95, is not a January 26 event date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "f5c7024515c2f8f73eeb6bbf5271a5273d98b9b5f8639cf17041c5e796fd6c69",
+      "replacement": "A library exhibit reports parish adoption",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "f5c7024515c2f8f73eeb6bbf5271a5273d98b9b5f8639cf17041c5e796fd6c69",
+      "replacement": "A library exhibit reports parish adoption",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ea2ced9e2b4fdcc247061f0d3451d4d9687c9372b8fe5d2614bc8748380a13a9",
+      "replacement": "The Dartmouth College Library exhibit gives 1787 for parish adoption of Caldwell. It does not establish a February 17 day or identify the first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ea2ced9e2b4fdcc247061f0d3451d4d9687c9372b8fe5d2614bc8748380a13a9",
+      "replacement": "The Dartmouth College Library exhibit gives 1787 for parish adoption of Caldwell. It does not establish a February 17 day or identify the first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "305a463b751aa47c71e44bd2d768292ba61ffb212cc1f6f46efb143e6e3b572c",
+      "replacement": "The index reports a February 9, 1892 borough vote. Its separately inferred February 10 filing and effect should not be treated as the vote date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "305a463b751aa47c71e44bd2d768292ba61ffb212cc1f6f46efb143e6e3b572c",
+      "replacement": "The index reports a February 9, 1892 borough vote. Its separately inferred February 10 filing and effect should not be treated as the vote date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "7aa7188fc2fb45be26a132e3a7ef4edd65f3043d6188aa8ec678971cfbb81a8b",
+      "replacement": "The index expressly infers February 10 results filing and effect from an unofficial source. That date remains qualified as an inference.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "7aa7188fc2fb45be26a132e3a7ef4edd65f3043d6188aa8ec678971cfbb81a8b",
+      "replacement": "The index expressly infers February 10 results filing and effect from an unofficial source. That date remains qualified as an inference.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "abbb30fca926e17c7141537ced9758d825894a8d1c75c3f26815bf6c3de2aba7",
+      "replacement": "The library exhibit reports the 1787 parish adoption to honor the Rev. James Caldwell. It does not establish a February 17 day or identify the original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "cbbfefe2286346257212a8b8514aacda6f1a49bf0ac8bec82368c7ad754fb2ea",
+      "replacement": "The library exhibit reports parish adoption in 1787, before the present borough or the larger historical township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0703",
+      "path": [
+        "editorial",
+        "0703",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "cbbfefe2286346257212a8b8514aacda6f1a49bf0ac8bec82368c7ad754fb2ea",
+      "replacement": "The library exhibit reports parish adoption in 1787, before the present borough or the larger historical township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "68a3bf10c20654e8985a942c7087c537edef2164d1d507295a36d09f8296eed4",
+      "replacement": "Cedar Grove’s community name is older than its municipal adoption. A 2008 centennial newspaper supplement reports an 1853 school-district request using Cedar Grove. It also preserves Cedar Grove Center, the older Peckmantown identity and a tradition crediting Thomas Stanley with the name. A grove of cedar trees is the probable landscape connection, while Stanley’s exact role and the first naming day remain unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "297ad2ff3b10e487044177da4199552eeec38647d8c002b6356fcb41727b1564",
+      "replacement": "A local name can grow to cover a larger government. A later newspaper history reports Cedar Grove in an 1853 school-district request. It connects the name with cedar trees and repeats a tradition about Thomas Stanley. The name’s exact first day and Stanley’s role remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "291fbe486f071bf5f2101f447a99cb7cd145f54091952c71c56913830c17fb79",
+      "replacement": "The legal chronology dates Verona Township’s creation February 17, 1892. Cedar Grove was then a community within it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "291fbe486f071bf5f2101f447a99cb7cd145f54091952c71c56913830c17fb79",
+      "replacement": "The legal chronology dates Verona Township’s creation February 17, 1892. Cedar Grove was then a community within it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5173e0c94ae90d851091fd3839a5948f3ad4c6241e50c0016e01d99e9802916d",
+      "replacement": "This related Verona record describes the same 1892 township, before its later borough and township branches.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5173e0c94ae90d851091fd3839a5948f3ad4c6241e50c0016e01d99e9802916d",
+      "replacement": "This related Verona record describes the same 1892 township, before its later borough and township branches.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "0957eb46c5a41fa5a29f0b98539f04a078c32d5d4e454b1429caade2a22e860f",
+      "replacement": "The index gives April 30, 1907 election and effect after an enabling act. A historic-resources survey separately reports a 224–77 tally.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "0957eb46c5a41fa5a29f0b98539f04a078c32d5d4e454b1429caade2a22e860f",
+      "replacement": "The index gives April 30, 1907 election and effect after an enabling act. A historic-resources survey separately reports a 224–77 tally.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "fd9d7f44d7ce91fc66cb6bf5b830dd714405878d471967cbc6b67ad3921b0e9d",
+      "replacement": "The government summary dates the remaining township’s rename to Cedar Grove to April 9, 1908, after the borough separated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "fd9d7f44d7ce91fc66cb6bf5b830dd714405878d471967cbc6b67ad3921b0e9d",
+      "replacement": "The government summary dates the remaining township’s rename to Cedar Grove to April 9, 1908, after the borough separated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "71a4400829e08680197f998c27597523522a45f6e9626b92bb41e3da4aae5b04",
+      "replacement": "The remaining township’s 1908 rename was separate from the 1907 borough branch. The related records describe that shared history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "71a4400829e08680197f998c27597523522a45f6e9626b92bb41e3da4aae5b04",
+      "replacement": "The remaining township’s 1908 rename was separate from the 1907 borough branch. The related records describe that shared history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "436e882f4a84aab32f9c1f22818c5d90ac685b7cc2f58587bcb974c44f89bc74",
+      "replacement": "The June 26, 2008 supplement reports Cedar Grove in an 1853 school request. That request and the separately reported school act concern earlier institutional use, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "editorial",
+        "0704",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "2418a4146b0e2b940acd1040bb255d2a634c48dff66e1902b7f1ba52c1cf5739",
+      "replacement": "The June 26, 2008 supplement reports Cedar Grove in an 1853 school request. That request and the separately reported school act concern earlier institutional use, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c8de96cf259b919e4cd84506446a871db94741bb57b13cbe69ea5e5e50e18482",
+      "replacement": "The legal-history summary gives March 4 for township creation. The first local proceedings are less settled. The municipal history calls April 16 the first election; Pierson’s history instead distinguishes an April 13 scheduled election from April 16 committee action. These differing accounts do not establish one certain election day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "68539df468d00130ab2734ee0f9ab7a13656545eb0cf88f395939a14fb73f482",
+      "replacement": "Later histories differ about the first proceedings. One calls April 16 the election; another describes an April 13 schedule and April 16 committee action. The exact election day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4225141171a1b646a8ef6b915b0458f73fc4403231311402d25c0926e271d919",
+      "replacement": "City government followed in 1899 through a reported November resolution, December 7 vote and December 9 state filing and effect. Those were successive legal steps rather than new naming events. Railways reinforced East Orange’s identity, while Brick Church and Ampere remained station and neighborhood names within the city rather than former names for the whole municipality.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "94841342dfa30dca96d25900907ee82dc555d03c270d83143dedeaec4dd9814a",
+      "replacement": "The summary reports March 4, 1863 township creation from Orange. The first person to propose the directional name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "94841342dfa30dca96d25900907ee82dc555d03c270d83143dedeaec4dd9814a",
+      "replacement": "The summary reports March 4, 1863 township creation from Orange. The first person to propose the directional name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4668dd0a15cc990df5cdc7016f675a88ff5ee05c2fc0ef7aa45c196a337a98dd",
+      "replacement": "The summary reports a November 23, 1899 resolution on city government. Its wording does not securely establish the exact title used in the original resolution.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4668dd0a15cc990df5cdc7016f675a88ff5ee05c2fc0ef7aa45c196a337a98dd",
+      "replacement": "The summary reports a November 23, 1899 resolution on city government. Its wording does not securely establish the exact title used in the original resolution.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "journey",
+        3,
+        "label"
+      ],
+      "expected_sha256": "fde69c8b15e0d46d7665c433b1a4805eb96fe0acc6b4786efdec3b0585043e8c",
+      "replacement": "The index reports the city vote",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "journey",
+        3,
+        "label"
+      ],
+      "expected_sha256": "fde69c8b15e0d46d7665c433b1a4805eb96fe0acc6b4786efdec3b0585043e8c",
+      "replacement": "The index reports the city vote",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f5b8cfc6ffc0ab2362c28e5f25336fa3b92303d1753c1253c5cd2452c7d467a6",
+      "replacement": "The index reports December 7, 1899 voting on city government, distinct from the December 9 state filing and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f5b8cfc6ffc0ab2362c28e5f25336fa3b92303d1753c1253c5cd2452c7d467a6",
+      "replacement": "The index reports December 7, 1899 voting on city government, distinct from the December 9 state filing and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "editorial",
+        "0705",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "3a46346f4e11a9ab28b77acaadfd3f303729446a7c511c22be60189015f3f84b",
+      "replacement": "Later histories differ about the first election. City government came through a resolution, vote and filing in 1899. Those steps kept East Orange’s name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0706",
+      "path": [
+        "editorial",
+        "0706",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "8d2c6bbc40e7c23bad96361232c156979bd8f996f3461aa59be53fd1cad4bca5",
+      "replacement": "The compound is only partly clear. Essex points to the county. Fells may connect with a Fell family member linked to Drexel, with the landscape word for uplands, or with both. Competing personal references leave the intended family member unresolved. A biography of engineer Charles Wellford Leavitt Jr. establishes development employment in 1891–1896, without identifying the original name choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0706",
+      "path": [
+        "editorial",
+        "0706",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "38f47dc3c545960d2a1898c92a5048d0f73b7d1e277cdda45e10877e037f9c45",
+      "replacement": "The legal index dates borough creation March 31, 1902 from Caldwell and Livingston. Government adopted the older development name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0706",
+      "path": [
+        "editorial",
+        "0706",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "38f47dc3c545960d2a1898c92a5048d0f73b7d1e277cdda45e10877e037f9c45",
+      "replacement": "The legal index dates borough creation March 31, 1902 from Caldwell and Livingston. Government adopted the older development name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0706",
+      "path": [
+        "editorial",
+        "0706",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "0232e71139f9c1e4410038945f7bf105af61c29c46c37663a4961186b32a7ec7",
+      "replacement": "Later development accounts place Essex Fells around 1889. They do not establish the exact first day it was used.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "54cd2650b7fa3c1146a3ea5e92b6afa543e9765c0e7d62702ebce0d1597f0698",
+      "replacement": "Fairfield’s modern township name came from a place already known locally. In 1963 the remaining Caldwell Township chose Fairfield for the municipality as a whole. Its older locality name may suggest a pleasant field, but its first meaning and chooser remain unknown. Reducing confusion among Caldwell-area names is a reported motive, rather than an established explanation from the original naming campaign.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "4e9d40302f00910c93c0ca845e30309ecf75d92542235dd57a94963d79bc3bb7",
+      "replacement": "This was the continuing historic Caldwell Township, rather than today’s separate Caldwell borough. Gansegat and Horseneck belong to the wider local history; Gansegat’s meaning and geographic extent remain disputed. They do not prove one orderly series of names for the entire present township. A later history reports a Fairfield entry in an 1895 federal dictionary, without establishing a confirmed first printed use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "ba053aca3af70ad477dbea4ac011a26044ca7d4b3c715acdcb615eb221382ceb",
+      "replacement": "Historic Caldwell Township followed a different path from today’s Caldwell borough. Names including Gansegat and Horseneck belong to the area’s layered history. They are not proved former names for every part of modern Fairfield. A later account reports Fairfield in an 1895 dictionary, but that report does not establish the name’s first printed use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        0,
+        "date"
+      ],
+      "expected_sha256": "a3436b8cc3e180888ca16ed32dd6071a59903d73a8162a0062fe6a26cde9f8cc",
+      "replacement": "1895 dictionary entry reported, unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        0,
+        "date"
+      ],
+      "expected_sha256": "a3436b8cc3e180888ca16ed32dd6071a59903d73a8162a0062fe6a26cde9f8cc",
+      "replacement": "1895 dictionary entry reported, unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "04fb27530cd9713caaa25db71ee90fd41e8f82813c89cde36edd1453a9c80b3a",
+      "replacement": "The locality’s early use remains uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "04fb27530cd9713caaa25db71ee90fd41e8f82813c89cde36edd1453a9c80b3a",
+      "replacement": "The locality’s early use remains uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8ac45eaab2e8da9dde8c951fc5ea71f02b79df2f43b83ba52aa990fcebcde9dc",
+      "replacement": "The reported dictionary entry does not establish confirmed first use. Neither a definite fair-field meaning nor a complete Gansegat-to-Fairfield naming sequence has been established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8ac45eaab2e8da9dde8c951fc5ea71f02b79df2f43b83ba52aa990fcebcde9dc",
+      "replacement": "The reported dictionary entry does not establish confirmed first use. Neither a definite fair-field meaning nor a complete Gansegat-to-Fairfield naming sequence has been established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "9ce5399ab8f085459c8d715e7f5dd3403cf168d18181b4f48519510511e9e6b3",
+      "replacement": "The remaining historic Caldwell Township adopted Fairfield. The index separates November 5 voting, November 6 reported effect and November 14 state filing in 1963.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "9ce5399ab8f085459c8d715e7f5dd3403cf168d18181b4f48519510511e9e6b3",
+      "replacement": "The remaining historic Caldwell Township adopted Fairfield. The index separates November 5 voting, November 6 reported effect and November 14 state filing in 1963.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "44b18d1d5ee93576e156fc0b0f748fa77cf45832c76111f4fe48eaac81ecd42e",
+      "replacement": "The 1964 borough proposal was defective, rather than completed incorporation. Later corrective legislation and government titles retained Fairfield; the exact local implementation remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "44b18d1d5ee93576e156fc0b0f748fa77cf45832c76111f4fe48eaac81ecd42e",
+      "replacement": "The 1964 borough proposal was defective, rather than completed incorporation. Later corrective legislation and government titles retained Fairfield; the exact local implementation remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b521eb2848d3c39b7c09bf933fce79bd16836af32e41018f422dacfcdbf76ca7",
+      "replacement": "A later history reports Fairfield in an 1895 federal dictionary. That attributed report does not establish a confirmed first printed use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "b521eb2848d3c39b7c09bf933fce79bd16836af32e41018f422dacfcdbf76ca7",
+      "replacement": "A later history reports Fairfield in an 1895 federal dictionary. That attributed report does not establish a confirmed first printed use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b5344d88625cf5a7d0ed38972900ec441eae970af2b5b025347fa40d2da0cdd9",
+      "replacement": "The index lists November 5 voting, November 6 reported effect and November 14 state filing in 1963. Those dates describe different steps in changing the historic township’s name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "editorial",
+        "0707",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "6d5969cbd18580e9a69025ee7dbfab85fba102d8697d399716fa938a835635f6",
+      "replacement": "The index lists November 5 voting, November 6 reported effect and November 14 state filing in 1963. Those dates describe different steps in changing the historic township’s name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "f92fcc720fc74d74d6a407f4d14d0ec79bd2e1cce522e3dffe0058c7f510b7e1",
+      "replacement": "The society reports a narrow February 12, 1895 vote, 165–142, to separate from Bloomfield. The legal index expressly infers February 13 results filing and effect from an unofficial source. A reported June 20 dismissal of Bloomfield’s challenge was a later court stage. Neither the filing inference nor the later litigation identifies the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "7927e31bb6e565c255160e02170ec4a260ae3998cc67b5d33e6ad4a6b4472fe1",
+      "replacement": "Residents later voted to separate from Bloomfield in 1895. The reported vote, an inferred filing date and a later court challenge were different steps. The June court story did not give the place its first name, and the inferred filing date remains an inference.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "35ddadec909798c709bf851231d13390c05cbd217c366d4329c2abc9297c80a0",
+      "replacement": "The historical society reports a Ridgewood platform and station in 1860. Its report concerns the older station identity, rather than first Glen Ridge use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "35ddadec909798c709bf851231d13390c05cbd217c366d4329c2abc9297c80a0",
+      "replacement": "The historical society reports a Ridgewood platform and station in 1860. Its report concerns the older station identity, rather than first Glen Ridge use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "d4da51947a8875e4ba2fec0fcd77dc9f51f7947704da25c30e98fadfcc72ba9e",
+      "replacement": "The society dates Glen Ridge postal adoption at Ridgewood Station to 1883. That reported office use does not establish who first invented the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "d4da51947a8875e4ba2fec0fcd77dc9f51f7947704da25c30e98fadfcc72ba9e",
+      "replacement": "The society dates Glen Ridge postal adoption at Ridgewood Station to 1883. That reported office use does not establish who first invented the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4939a90f395e75f45260fb83cd56f6433bc51d09790ddaf2b551b6e793e7759f",
+      "replacement": "The society reports Bloomfield council’s Glen Ridge Avenue action in 1887, before the borough vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4939a90f395e75f45260fb83cd56f6433bc51d09790ddaf2b551b6e793e7759f",
+      "replacement": "The society reports Bloomfield council’s Glen Ridge Avenue action in 1887, before the borough vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "7027a313ef9fe2834e20ea5b2831bb8353d8af59545c47081fc29ad1adcf8a57",
+      "replacement": "The society reports February 12, 1895 voting and a 165–142 result in favor of separation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "7027a313ef9fe2834e20ea5b2831bb8353d8af59545c47081fc29ad1adcf8a57",
+      "replacement": "The society reports February 12, 1895 voting and a 165–142 result in favor of separation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "5a32e24419388f6990f39eb9f88d51bedef4b6d878e982a4d96c3c6cc04b9fec",
+      "replacement": "The index expressly infers February 13, 1895 results filing and effect from an unofficial source. This is separate from both the vote and later litigation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "5a32e24419388f6990f39eb9f88d51bedef4b6d878e982a4d96c3c6cc04b9fec",
+      "replacement": "The index expressly infers February 13, 1895 results filing and effect from an unofficial source. This is separate from both the vote and later litigation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "b8ea7c1e4f0ed2ce9bf6f6c4567b13279e2b1a2a239cfee36aaf942c0dc4021e",
+      "replacement": "The society dates dismissal of Bloomfield’s challenge by the Court of Errors and Appeals to June 20, 1895. It was a later stage than the vote and inferred filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "b8ea7c1e4f0ed2ce9bf6f6c4567b13279e2b1a2a239cfee36aaf942c0dc4021e",
+      "replacement": "The society dates dismissal of Bloomfield’s challenge by the Court of Errors and Appeals to June 20, 1895. It was a later stage than the vote and inferred filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "editorial",
+        "0708",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "bc5f362b5b301ac1366a73634cf8eac20d96845ba8cb81529f1383f3b00d1b38",
+      "replacement": "The society reports a Glen Ridge post office inside Ridgewood Station in 1883. This is reported institutional use, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0ee75083ff802d9d1dadf06a105e51fb52db6c3060b066fd1de0636fb96621f0",
+      "replacement": "Irvington’s literary namesake is clearer than the details of the naming day. The municipal history reports that Camptown residents selected Irvingtown for Washington Irving at a meeting on November 2, 1852. Lydia Crawford, described as the local postmaster’s wife, is the credited proposer. The exact meeting account and the path from Irvingtown to Irvington remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "69679e525d49203f9b6acfe949b1123a1434d86302b23118637d318a1abbdf1b",
+      "replacement": "A later municipal account says residents chose Irvingtown in 1852 to honor Washington Irving, and credits Lydia Crawford with suggesting it. Those are later attributions; the meeting’s exact details remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "048173b957de75e650a859a38b7917d74aa52ff05015a8f82b7123fe29f9b448",
+      "replacement": "Camptown belonged to an older local history associated with the Camp family. The Historical Society’s collection guide describes the family’s commercial and public role. West Farms and Camp’s Town are other earlier forms. The familiar explanation connecting the rename to “Camptown Races” remains unproved; the literary honor does not establish the song as its cause.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0eb1462757f19262fd85576c64c4f648fad190b4c50c26adc2f0c759b7c37c9d",
+      "replacement": "The later municipal account reports a November 2, 1852 meeting and credits Crawford with proposing Irvingtown to honor Washington Irving. The exact meeting details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "0eb1462757f19262fd85576c64c4f648fad190b4c50c26adc2f0c759b7c37c9d",
+      "replacement": "The later municipal account reports a November 2, 1852 meeting and credits Crawford with proposing Irvingtown to honor Washington Irving. The exact meeting details remain unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "3e173b741b584ba14eab197aecc29933404a97fbce7b2ec7b1eba4b275a0f0c9",
+      "replacement": "The Historical Society’s Camp family collection guide describes the family’s local commercial and public roles, supplying context for the Camptown connection.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "b874d0b90ec43ae768df94325639e4850e63636e9834a0c977dcf2e688b6b916",
+      "replacement": "The Historical Society’s Camp family collection guide describes the family’s local commercial and public roles, supplying context for the Camptown connection.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "09af166985afc015025e4da9ce10a5c2c0d11e0a429000f67dae0f26d49e735c",
+      "replacement": "The later municipal account credits Lydia Crawford with proposing Irvingtown at a November 2, 1852 meeting. Her role remains attributed to that account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "ab23bca050478cb04b645df16c6c52258d848c16bda85dcbdd48ec2891898e93",
+      "replacement": "The later municipal account credits Lydia Crawford with proposing Irvingtown at a November 2, 1852 meeting. Her role remains attributed to that account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "preview"
+      ],
+      "expected_sha256": "aae185e0000b1063411ccc7b85d36565e7e83c3ccbee85b153471742a23268c7",
+      "replacement": "Irvington honors Washington Irving through a reported 1852 rename from Camptown. Lydia Crawford is credited with proposing Irvingtown; the exact meeting details, later spelling sequence and any role of “Camptown Races” remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "aae185e0000b1063411ccc7b85d36565e7e83c3ccbee85b153471742a23268c7",
+      "replacement": "Irvington honors Washington Irving through a reported 1852 rename from Camptown. Lydia Crawford is credited with proposing Irvingtown; the exact meeting details, later spelling sequence and any role of “Camptown Races” remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "editorial",
+        "0709",
+        "preview"
+      ],
+      "expected_sha256": "4d8287b06f51dbe1f6d797d141b2c743d6e93ada067d85cac959a7e33e64b71b",
+      "replacement": "Irvington recalls author Washington Irving. A later account credits Lydia Crawford with proposing Irvingtown in 1852; the exact meeting details and later spelling change remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "4d8287b06f51dbe1f6d797d141b2c743d6e93ada067d85cac959a7e33e64b71b",
+      "replacement": "Irvington recalls author Washington Irving. A later account credits Lydia Crawford with proposing Irvingtown in 1852; the exact meeting details and later spelling change remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "9fc6fe8acbef60852ec8081ac25e9a269197998905f0a2767ffa230333aed5f7",
+      "replacement": "Maplewood was a familiar station and community name long before it became a municipal title. An encyclopedia-based station account reports service at Stone House in September 1837, a replacement depot in 1859 and Maplewood naming around 1860. These are separate milestones. John Shedden receives credit in later accounts, but his exact role in choosing the name remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "be44f03b9875add4bc0bfe4ae4adeae242fcd1927281f05efbf030106ea8d13e",
+      "replacement": "A station name can become the name of a whole township. A later encyclopedia account describes Stone House service, a new depot and Maplewood naming around 1860. Later accounts credit John Shedden, but his exact role in choosing the name remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "0dcd36efa7eb288f98b31ac6f8149a32f32eb753e6c622ec45141a42183b641f",
+      "replacement": "That government was South Orange Township, created in 1861. South Orange Village followed its own path and became fully separate in 1904. The remaining township adopted Maplewood in 1922: the legal accounts distinguish a November 7 vote, November 8 municipal minute and November 15 state filing. Those steps changed the township title, not the older station name, and did not rename South Orange Village.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "20a67e52e63203cf08f5fef6c05904fc2ca7376295062a9a5eee5b33a9eb4076",
+      "replacement": "The encyclopedia account reports September 1837 Stone House service, without establishing an exact day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "20a67e52e63203cf08f5fef6c05904fc2ca7376295062a9a5eee5b33a9eb4076",
+      "replacement": "The encyclopedia account reports September 1837 Stone House service, without establishing an exact day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "8e78ee4bddf5e05834cbc9e9935791988730bc056183bbd555a135834cece043",
+      "replacement": "The legal account gives March 25, 1869 village authorization; the municipal history reports the 1869 year. This was a different branch from the later Maplewood township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "8e78ee4bddf5e05834cbc9e9935791988730bc056183bbd555a135834cece043",
+      "replacement": "The legal account gives March 25, 1869 village authorization; the municipal history reports the 1869 year. This was a different branch from the later Maplewood township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "4d977c67084841951bae9318e2cf9507f6c7a2f1c2221730904000d2a17bd86c",
+      "replacement": "The legal chronology gives March 4, 1904 separation; municipal history reports the same year. South Orange Village became independent of the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "4d977c67084841951bae9318e2cf9507f6c7a2f1c2221730904000d2a17bd86c",
+      "replacement": "The legal chronology gives March 4, 1904 separation; municipal history reports the same year. South Orange Village became independent of the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "15b20a53d6d901463f3f9fe3fb917eea021dd1ab83555c496cedeaeba78d557e",
+      "replacement": "The index dates the township’s Maplewood vote to November 7, 1922. It did not rename South Orange Village.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "15b20a53d6d901463f3f9fe3fb917eea021dd1ab83555c496cedeaeba78d557e",
+      "replacement": "The index dates the township’s Maplewood vote to November 7, 1922. It did not rename South Orange Village.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "bbbf4efa52f357b0bf914d40af523a24c184c2a275f8643741b15773daa7e037",
+      "replacement": "The legal account gives November 15, 1922 state filing, separate from the earlier vote and municipal minute.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "bbbf4efa52f357b0bf914d40af523a24c184c2a275f8643741b15773daa7e037",
+      "replacement": "The legal account gives November 15, 1922 state filing, separate from the earlier vote and municipal minute.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "0b5362eedcefabc7ca154efd17c0fe434d8028399ea5873d8fdddd6ae3f9416c",
+      "replacement": "The encyclopedia account separates an 1859 replacement depot from Maplewood naming around 1860. Those are different milestones.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f917d3f83c7d34659bc7ffb8e87855675a1aaa52d5bd60fda8733ba9c3bf078c",
+      "replacement": "The index distinguishes November 7 voting, November 8 municipal minute and November 15 state filing in 1922.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "088067e00edbdb21c0b78f9da2618c819a8030e5b60db696cc7a7d96a9920488",
+      "replacement": "Later accounts associate John Shedden with Maplewood’s name. His exact role in the first choice remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "editorial",
+        "0711",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "87b6de9cb057b6a30724b12cc08969bdf5ed50fe229f39885d47fcb1d2eb1bbc",
+      "replacement": "Later accounts associate John Shedden with Maplewood’s name. His exact role in the first choice remains unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0712",
+      "path": [
+        "editorial",
+        "0712",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a98cadaf92efe6710530c1a959fce18044e478953f30c59285ac5fd7cd28dfea",
+      "replacement": "Burn can mean a stream in Scots. Joined with mill, it explains Millburn’s connection to streams powering local industry. The township’s later history remembers a spelling disagreement. The first proposer and exact naming decision remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0712",
+      "path": [
+        "editorial",
+        "0712",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f0594d662076da97b09ce6170cf1a250fee4351d5ade84b29044f4022eeb7e32",
+      "replacement": "The municipal history connects the 1857 name with mill and Scots burn and reports a spelling dispute. It does not identify the individual proposer or the precise original choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0712",
+      "path": [
+        "editorial",
+        "0712",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "f0594d662076da97b09ce6170cf1a250fee4351d5ade84b29044f4022eeb7e32",
+      "replacement": "The municipal history connects the 1857 name with mill and Scots burn and reports a spelling dispute. It does not identify the individual proposer or the precise original choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0712",
+      "path": [
+        "editorial",
+        "0712",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c9a4bdbc8e5984a61e0158e2bcc98ac27a04a67f703e2bc2766ac48784bcc965",
+      "replacement": "The legal index gives March 20, 1857 township creation from Springfield. That date does not establish the exact station-name transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0712",
+      "path": [
+        "editorial",
+        "0712",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "c9a4bdbc8e5984a61e0158e2bcc98ac27a04a67f703e2bc2766ac48784bcc965",
+      "replacement": "The legal index gives March 20, 1857 township creation from Springfield. That date does not establish the exact station-name transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0712",
+      "path": [
+        "editorial",
+        "0712",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d7d421a27a04d41f98a0ace0bc15d6acaf8a4df8fb2f02bf1db7116b1622cd86",
+      "replacement": "The municipal history gives 1835 railway completion; the station encyclopedia reports 1837 service. The relationship between those claims remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0712",
+      "path": [
+        "editorial",
+        "0712",
+        "preview"
+      ],
+      "expected_sha256": "2cd827949fc1d1ca4a935c232a0f0ad1864db7d4b41ec1f1d9f0d7acdac01db4",
+      "replacement": "Millburn joins the local mill economy with the Scots word burn, meaning stream. The township adopted the name in 1857; the first proposer, exact spelling decision and station-name transition remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0712",
+      "path": [
+        "views",
+        "0712",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "2cd827949fc1d1ca4a935c232a0f0ad1864db7d4b41ec1f1d9f0d7acdac01db4",
+      "replacement": "Millburn joins the local mill economy with the Scots word burn, meaning stream. The township adopted the name in 1857; the first proposer, exact spelling decision and station-name transition remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "9e234d9ce8510c1d16688abfc7350dc9e9255ae374c4e90a3d935b4952d94546",
+      "replacement": "Whittemore credits Julius H. Pratt with rearranging Claremont into Montclair, and associates Robert M. Hening with the postal petition. Those remain later attributions. The familiar “clear” or “bright mountain” explanation is a separate reading of the French-looking name, rather than an established original naming statement. Cranetown and West Bloomfield were older local identities, while Eagleton and Hillside remained proposals.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "dc6a65883efb9de83593fa78f7a8810d0b42e83dc144324dcfd7b96d474ad0ff",
+      "replacement": "That history credits Julius H. Pratt with rearranging Claremont and Robert M. Hening with a postal petition. Those are later attributions. The “bright mountain” explanation is another interpretation, rather than a certain account of the choice. Cranetown and West Bloomfield were older community names; Eagleton and Hillside were proposals.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "07004529ca3e757aae93178757c788eb9cfafe13eaacb99a8a7c7c01962e6b6d",
+      "replacement": "Whittemore’s 1894 history reports Eagleton 73, Montclair 57 and Hillside 7 in the 1860 naming vote. These totals remain attributed to that later history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "07004529ca3e757aae93178757c788eb9cfafe13eaacb99a8a7c7c01962e6b6d",
+      "replacement": "Whittemore’s 1894 history reports Eagleton 73, Montclair 57 and Hillside 7 in the 1860 naming vote. These totals remain attributed to that later history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "aee7f2150953d0bc113e29bffdfdc24239bac0b8b76f861608f5386c60fe57b0",
+      "replacement": "Whittemore’s later account says railway use helped Montclair prevail after the local vote. It does not establish an exact first railway naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "aee7f2150953d0bc113e29bffdfdc24239bac0b8b76f861608f5386c60fe57b0",
+      "replacement": "Whittemore’s later account says railway use helped Montclair prevail after the local vote. It does not establish an exact first railway naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "d5265a64656baedc743007ff1dd4f8d7fe51db3b57624205f84e172480ff518e",
+      "replacement": "Whittemore’s account associates Robert M. Hening’s petition with postal adoption of Montclair. The attribution does not establish an exact original naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "d5265a64656baedc743007ff1dd4f8d7fe51db3b57624205f84e172480ff518e",
+      "replacement": "Whittemore’s account associates Robert M. Hening’s petition with postal adoption of Montclair. The attribution does not establish an exact original naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "5056d7c5b617be83e8997cd63057a5ba34c5fdf8b0e0edda37528c46c78319e7",
+      "replacement": "The index gives April 15, 1868 act approval, separate from the April 21 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "5056d7c5b617be83e8997cd63057a5ba34c5fdf8b0e0edda37528c46c78319e7",
+      "replacement": "The index gives April 15, 1868 act approval, separate from the April 21 commencement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "9db34025ffff4064ca69551f71079e82c3cf0481f259d33dd39e85112c39ca3c",
+      "replacement": "The index gives February 21, 1894 for the town-form vote. State filing and reported effect followed February 24.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "9db34025ffff4064ca69551f71079e82c3cf0481f259d33dd39e85112c39ca3c",
+      "replacement": "The index gives February 21, 1894 for the town-form vote. State filing and reported effect followed February 24.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "406cb7043b6b23b7793c0cc5516172f61e8b216ef2ed902c53c5ff18fa881414",
+      "replacement": "Whittemore’s 1894 history reports an 1860 vote with Eagleton 73, Montclair 57 and Hillside 7. It does not establish the exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "406cb7043b6b23b7793c0cc5516172f61e8b216ef2ed902c53c5ff18fa881414",
+      "replacement": "Whittemore’s 1894 history reports an 1860 vote with Eagleton 73, Montclair 57 and Hillside 7. It does not establish the exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "8cb40439a1f797c74e4453df4c068111a3b45785758f879ce462ca266672055f",
+      "replacement": "Whittemore’s later account describes railway adoption and Robert M. Hening’s postal petition after the local vote. These institutional uses helped Montclair prevail, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "editorial",
+        "0713",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "f8b9fc2bce92f56695882299e276f731818113d877d151fd3b1adfc519b8c1c7",
+      "replacement": "Whittemore’s later account describes railway adoption and Robert M. Hening’s postal petition after the local vote. These institutional uses helped Montclair prevail, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0703",
+      "path": [
+        "views",
+        "0703",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "be5c98927ea212c23217fe1c3a1683b475cbef88f23228302e79163a89dc2cdc",
+      "replacement": "The index expressly infers filing and effect from an unofficial source; that date remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0703",
+      "path": [
+        "views",
+        "0703",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "be5c98927ea212c23217fe1c3a1683b475cbef88f23228302e79163a89dc2cdc",
+      "replacement": "The index expressly infers filing and effect from an unofficial source; that date remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "views",
+        "0704",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "898d9f75f44991e1398455e31bfd31d72b27218b84ce03ad7f42f2f18096a778",
+      "replacement": "The index gives April 30, 1907 election and effect after the April 18 enabling act. The historic-resources survey separately reports a 224–77 tally.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0704",
+      "path": [
+        "views",
+        "0704",
+        "sources",
+        "S931",
+        "publication"
+      ],
+      "expected_sha256": "16ec0dae5d2989cc9c7e3f6a2b17f2a6991fd7f902646e719d13d15207061b05",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "views",
+        "0704",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "898d9f75f44991e1398455e31bfd31d72b27218b84ce03ad7f42f2f18096a778",
+      "replacement": "The index gives April 30, 1907 election and effect after the April 18 enabling act. The historic-resources survey separately reports a 224–77 tally.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0704",
+      "path": [
+        "views",
+        "0704",
+        "sources",
+        "S931",
+        "publication"
+      ],
+      "expected_sha256": "16ec0dae5d2989cc9c7e3f6a2b17f2a6991fd7f902646e719d13d15207061b05",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "5d986cd53a63cb10d5937cac68ede4a998158c0feccada39b4146c49becd4041",
+      "replacement": "The municipal history calls April 16 the election; Pierson distinguishes an April 13 scheduled election from April 16 committee action. The exact election day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "5144a602ef0243d7604f65941eec86c78b2a8e87ed167b7b222ac75554d863cb",
+      "replacement": "An election schedule and committee organization are different stages; the accounts do not securely establish the actual election day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "11d2aa563ae653494e3c7a6d37a4dbd3f357f69f8bf7cb68798d480fc1f1d488",
+      "replacement": "Exact date reported by legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "c76a997970270dbc7d0f6d075e3d6e07da10e66a0a4c02554cc2b679c7493b46",
+      "replacement": "The legal index reports December 7, 1899 as the city-incorporation election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "5887f79ced88f87a1517168cb2c5f2656a73058a4e401771e03b820e1a8ec78d",
+      "replacement": "The index reports December 9 state filing and city effect following the December 7 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "sources",
+        "S888",
+        "publication"
+      ],
+      "expected_sha256": "6e919238b937c7003a53d069677660cb5fe45b8c5065afab746c8b3c4857ca2e",
+      "replacement": "Historical book; edition publication year unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "5d986cd53a63cb10d5937cac68ede4a998158c0feccada39b4146c49becd4041",
+      "replacement": "The municipal history calls April 16 the election; Pierson distinguishes an April 13 scheduled election from April 16 committee action. The exact election day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "5144a602ef0243d7604f65941eec86c78b2a8e87ed167b7b222ac75554d863cb",
+      "replacement": "An election schedule and committee organization are different stages; the accounts do not securely establish the actual election day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "11d2aa563ae653494e3c7a6d37a4dbd3f357f69f8bf7cb68798d480fc1f1d488",
+      "replacement": "Exact date reported by legal index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "c76a997970270dbc7d0f6d075e3d6e07da10e66a0a4c02554cc2b679c7493b46",
+      "replacement": "The legal index reports December 7, 1899 as the city-incorporation election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "5887f79ced88f87a1517168cb2c5f2656a73058a4e401771e03b820e1a8ec78d",
+      "replacement": "The index reports December 9 state filing and city effect following the December 7 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0705",
+      "path": [
+        "views",
+        "0705",
+        "sources",
+        "S888",
+        "publication"
+      ],
+      "expected_sha256": "6e919238b937c7003a53d069677660cb5fe45b8c5065afab746c8b3c4857ca2e",
+      "replacement": "Historical book; edition publication year unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0706",
+      "path": [
+        "views",
+        "0706",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "cdb75412cd8856788c755f763b91c5d097c46301907d4901a5ca6e9f8ea06ebd",
+      "replacement": "Later development histories report the older name without establishing its exact first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0706",
+      "path": [
+        "views",
+        "0706",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "b44798ae03ba23db03d1a9595db9714a292119cd05d36d2e831ca3b884061383",
+      "replacement": "Reported construction range",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0706",
+      "path": [
+        "views",
+        "0706",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "cdb75412cd8856788c755f763b91c5d097c46301907d4901a5ca6e9f8ea06ebd",
+      "replacement": "Later development histories report the older name without establishing its exact first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0706",
+      "path": [
+        "views",
+        "0706",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "b44798ae03ba23db03d1a9595db9714a292119cd05d36d2e831ca3b884061383",
+      "replacement": "Reported construction range",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "be5c98927ea212c23217fe1c3a1683b475cbef88f23228302e79163a89dc2cdc",
+      "replacement": "The index expressly infers filing and effect from an unofficial source; that date remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "08d5fd38cd19cf915ce283af2715f5298c4647be03414427b80f33f9f5a58389",
+      "replacement": "Reported year; dictionary entry unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        8,
+        "type"
+      ],
+      "expected_sha256": "a6a8f7041bbf7121531acc99241eb25627d431718a91fe5d1b688f2930194bec",
+      "replacement": "Reported dictionary name use, unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "e4014bc264b52a3162853673b5973d58da484260bc5987612de3c64da2d4cdd0",
+      "replacement": "A later history reports Fairfield village in an 1895 federal dictionary. The entry is unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "8083c10bd69145d6d7c8f70f9e4e4ef8e40ce28bfb4a99d95b283873ce477687",
+      "replacement": "The reported entry does not establish confirmed first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "57400c96da01040eefd2f419efcf28b2711eaef2f9625fe1abd7b4dc59c691da",
+      "replacement": "Chapter 5, pp. 19–20, approves West Caldwell incorporation on February 24, 1904 with immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "be5c98927ea212c23217fe1c3a1683b475cbef88f23228302e79163a89dc2cdc",
+      "replacement": "The index expressly infers filing and effect from an unofficial source; that date remains qualified.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "08d5fd38cd19cf915ce283af2715f5298c4647be03414427b80f33f9f5a58389",
+      "replacement": "Reported year; dictionary entry unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        8,
+        "type"
+      ],
+      "expected_sha256": "a6a8f7041bbf7121531acc99241eb25627d431718a91fe5d1b688f2930194bec",
+      "replacement": "Reported dictionary name use, unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "e4014bc264b52a3162853673b5973d58da484260bc5987612de3c64da2d4cdd0",
+      "replacement": "A later history reports Fairfield village in an 1895 federal dictionary. The entry is unconfirmed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "8083c10bd69145d6d7c8f70f9e4e4ef8e40ce28bfb4a99d95b283873ce477687",
+      "replacement": "The reported entry does not establish confirmed first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0707",
+      "path": [
+        "views",
+        "0707",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "57400c96da01040eefd2f419efcf28b2711eaef2f9625fe1abd7b4dc59c691da",
+      "replacement": "Chapter 5, pp. 19–20, approves West Caldwell incorporation on February 24, 1904 with immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0708",
+      "path": [
+        "views",
+        "0708",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "417b23f7e5dcbc69097d368ae5203f969431dba86a5dc0773b62e3a46f92481a",
+      "replacement": "The inferred filing differs from the June 20 dismissal of the challenge; neither establishes the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0708",
+      "path": [
+        "views",
+        "0708",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "417b23f7e5dcbc69097d368ae5203f969431dba86a5dc0773b62e3a46f92481a",
+      "replacement": "The inferred filing differs from the June 20 dismissal of the challenge; neither establishes the first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "7437ffbccc07ed645adbe9361edc3f7c41c7c271ad7248eda8ad4d638203a7ca",
+      "replacement": "Broad period before 1852",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "33b1c7d4933c474af2c988df4dfbfe61f3e74adf3955e38becb6e04aef6dd111",
+      "replacement": "The later municipal account reports a November 2 community meeting and Lydia Crawford’s proposal honoring Washington Irving.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "de96455265ec492bf9aa516113b9a3493fcfb12887c7f86b4561f2e32ad795b3",
+      "replacement": "The naming remains attributed to the later account; the exact meeting details and first spelling sequence remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "sources",
+        "S899",
+        "author"
+      ],
+      "expected_sha256": "7bcbe65568ebc7439afc41ad72117f6526b8b9b3fb51d348f163300ad22a38ad",
+      "replacement": "New Jersey Historical Society; collection guide by Kim Charlton",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "sources",
+        "S899",
+        "publication"
+      ],
+      "expected_sha256": "af006c5c8293a08b93b5959c850e74c8f46beac3a928eb92ee45a2aa026d4347",
+      "replacement": "Collection guide prepared 2000-01",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "7437ffbccc07ed645adbe9361edc3f7c41c7c271ad7248eda8ad4d638203a7ca",
+      "replacement": "Broad period before 1852",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "33b1c7d4933c474af2c988df4dfbfe61f3e74adf3955e38becb6e04aef6dd111",
+      "replacement": "The later municipal account reports a November 2 community meeting and Lydia Crawford’s proposal honoring Washington Irving.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "de96455265ec492bf9aa516113b9a3493fcfb12887c7f86b4561f2e32ad795b3",
+      "replacement": "The naming remains attributed to the later account; the exact meeting details and first spelling sequence remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "sources",
+        "S899",
+        "author"
+      ],
+      "expected_sha256": "7bcbe65568ebc7439afc41ad72117f6526b8b9b3fb51d348f163300ad22a38ad",
+      "replacement": "New Jersey Historical Society; collection guide by Kim Charlton",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0709",
+      "path": [
+        "views",
+        "0709",
+        "sources",
+        "S899",
+        "publication"
+      ],
+      "expected_sha256": "af006c5c8293a08b93b5959c850e74c8f46beac3a928eb92ee45a2aa026d4347",
+      "replacement": "Collection guide prepared 2000-01",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "views",
+        "0711",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "cd2b53875a3650a749341c6663daa442d98fcb2ede2033cf9695a0786172a54b",
+      "replacement": "The legal account gives March 25, 1869 village authorization; municipal history reports the 1869 year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "views",
+        "0711",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "bd6e5fbbe2a784f49cfb71af42cf8be24e69f83d393acca28f0ba92ed5be8d86",
+      "replacement": "The legal chronology gives March 4, 1904 separation; municipal history reports the 1904 year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0711",
+      "path": [
+        "views",
+        "0711",
+        "sources",
+        "S906",
+        "publication"
+      ],
+      "expected_sha256": "67a65cb004d9660922411d67aca0f3dcec88a034aedccba723386b6fa87d4679",
+      "replacement": "Encyclopedia article; accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "views",
+        "0711",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "cd2b53875a3650a749341c6663daa442d98fcb2ede2033cf9695a0786172a54b",
+      "replacement": "The legal account gives March 25, 1869 village authorization; municipal history reports the 1869 year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "views",
+        "0711",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "bd6e5fbbe2a784f49cfb71af42cf8be24e69f83d393acca28f0ba92ed5be8d86",
+      "replacement": "The legal chronology gives March 4, 1904 separation; municipal history reports the 1904 year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0711",
+      "path": [
+        "views",
+        "0711",
+        "sources",
+        "S906",
+        "publication"
+      ],
+      "expected_sha256": "67a65cb004d9660922411d67aca0f3dcec88a034aedccba723386b6fa87d4679",
+      "replacement": "Encyclopedia article; accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0712",
+      "path": [
+        "views",
+        "0712",
+        "sources",
+        "S909",
+        "publication"
+      ],
+      "expected_sha256": "67a65cb004d9660922411d67aca0f3dcec88a034aedccba723386b6fa87d4679",
+      "replacement": "Encyclopedia article; accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0712",
+      "path": [
+        "views",
+        "0712",
+        "sources",
+        "S909",
+        "publication"
+      ],
+      "expected_sha256": "67a65cb004d9660922411d67aca0f3dcec88a034aedccba723386b6fa87d4679",
+      "replacement": "Encyclopedia article; accessed 2026-10-03",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0713",
+      "path": [
+        "views",
+        "0713",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cc8eec2db3fa37a1b4ee605b7d2347aa46f113d16d415bc6b6957544001e6da2",
+      "replacement": "Broad period before 1860",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0713",
+      "path": [
+        "views",
+        "0713",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cc8eec2db3fa37a1b4ee605b7d2347aa46f113d16d415bc6b6957544001e6da2",
+      "replacement": "Broad period before 1860",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0714",
+      "path": [
+        "views",
+        "0714",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "3f4e94e6e3d6df9b2872a0b5c81a792414f8347d7a246cd9c0854584e56c1110",
+      "replacement": "Old Style dual year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0714",
+      "path": [
+        "views",
+        "0714",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3ce818d4dc709d71277679193afac926c3bc79159ab623dbff4a5251669b218d",
+      "replacement": "The historical accounts report Dutch-period New Worke usage in 1673.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0714",
+      "path": [
+        "views",
+        "0714",
+        "sources",
+        "S914",
+        "publication"
+      ],
+      "expected_sha256": "4d3d8676151714fdca4a134430e6bfcaa8cb02ab9124e15e3de8abf0a3014a15",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0714",
+      "path": [
+        "views",
+        "0714",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "3f4e94e6e3d6df9b2872a0b5c81a792414f8347d7a246cd9c0854584e56c1110",
+      "replacement": "Old Style dual year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0714",
+      "path": [
+        "views",
+        "0714",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3ce818d4dc709d71277679193afac926c3bc79159ab623dbff4a5251669b218d",
+      "replacement": "The historical accounts report Dutch-period New Worke usage in 1673.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0714",
+      "path": [
+        "views",
+        "0714",
+        "sources",
+        "S914",
+        "publication"
+      ],
+      "expected_sha256": "4d3d8676151714fdca4a134430e6bfcaa8cb02ab9124e15e3de8abf0a3014a15",
+      "replacement": "Publication date unknown",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
