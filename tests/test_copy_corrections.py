@@ -1,8 +1,9 @@
 """Reject stale, duplicate or protected edits in explicit copy proposal application."""
 import copy,sys,unittest
+from unittest.mock import patch
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'))
-from project_public_copy import apply_copy_corrections,digest
+from project_public_copy import apply_copy_corrections,digest,REVIEWED_JOURNEY_LABELS
 
 class CopyCorrectionTests(unittest.TestCase):
  def setUp(self):
@@ -52,5 +53,33 @@ class CopyCorrectionTests(unittest.TestCase):
   row=self.proposal(['editorial','0001','paragraphs',0],'Original story','New story')
   apply_copy_corrections(self.payload,'young-explorers',row)
   self.assertEqual(self.payload['editorial']['0001']['paragraphs'],['Original story'])
+ def test_reviewed_journey_qualifier_preserves_historical_name_and_context(self):
+  path=['editorial','0810','journey',0,'names',0]
+  before='Synthetic Name (process qualifier)';after='Synthetic Name (reported, provisional)'
+  approval={tuple(path):(digest(before),after)}
+  for edition in ['primary','young-explorers']:
+   with self.subTest(edition=edition),patch.dict(REVIEWED_JOURNEY_LABELS,approval,clear=True):
+    payload=copy.deepcopy(self.payload)
+    payload['views']['0810']=payload['views'].pop('0001')
+    payload['editorial']['0810']=payload['editorial'].pop('0001')
+    payload['editorial']['0810']['journey']=[{'names':[before,'Another name'],'date':'1655 (reported)'}]
+    protected=copy.deepcopy(payload['views']['0810'])
+    corrections={'towns':['0810'],'changes':[{'edition':edition,'code':'0810','path':path,'expected_sha256':digest(before),'replacement':after}]}
+    apply_copy_corrections(payload,edition,corrections)
+    self.assertEqual(payload['editorial']['0810']['journey'],[{'names':[after,'Another name'],'date':'1655 (reported)'}])
+    self.assertEqual(payload['views']['0810'],protected)
+ def test_journey_name_exception_rejects_identity_scope_and_stale_changes(self):
+  path=['editorial','0810','journey',0,'names',0]
+  expected,after=REVIEWED_JOURNEY_LABELS[tuple(path)]
+  base={'edition':'primary','code':'0810','path':path,'expected_sha256':expected,'replacement':after}
+  variants=[dict(base,replacement='Another historical name'),dict(base,expected_sha256=digest('A different original')),dict(base,path=['editorial','0810','journey',0,'names',1]),dict(base,code='0001',path=['editorial','0001','journey',0,'names',0])]
+  for row in variants:
+   with self.subTest(row=row):
+    with self.assertRaisesRegex(ValueError,'Protected'):apply_copy_corrections(copy.deepcopy(self.payload),'primary',{'towns':['0810','0001'],'changes':[row]})
+  payload=copy.deepcopy(self.payload)
+  payload['views']['0810']=payload['views'].pop('0001')
+  payload['editorial']['0810']=payload['editorial'].pop('0001')
+  payload['editorial']['0810']['journey']=[{'names':['An unrelated actual original']}]
+  with self.assertRaisesRegex(ValueError,'Stale'):apply_copy_corrections(payload,'primary',{'towns':['0810'],'changes':[base]})
 
 if __name__=='__main__':unittest.main()

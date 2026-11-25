@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_33",
+  "checkpoint": "PUBLIC_COPY_34",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -378,7 +378,19 @@
     "0801",
     "0802",
     "0803",
-    "0804"
+    "0804",
+    "0805",
+    "0806",
+    "0807",
+    "0808",
+    "0809",
+    "0810",
+    "0811",
+    "0812",
+    "0813",
+    "0814",
+    "0815",
+    "0816"
   ],
   "changes": [
     {
@@ -142669,6 +142681,2880 @@
       ],
       "expected_sha256": "5c8273de0f14aa047b9c0cb193accb5944a8e7ac83f16b517f42efc84ccbf6ec",
       "replacement": "The local-history account reports Shoestring Township as an informal nickname.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "1c2ad4bf34ffcf398b2210e93916cab3360ed53714640ae1348f3d28c60a5809",
+      "replacement": "The township came from Greenwich and Woolwich. Its act passed January 27, 1820 and arranged a first meeting. Those instructions do not establish that the meeting occurred. Older hamlets retained their own identities within the new township, rather than becoming former official names for all of Franklin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "9e7840428f80e0fed8b5884fe72e4d0603ce15750ce0edb1b1d5b61c2a29be0b",
+      "replacement": "The township formed from Greenwich and Woolwich land in 1820. Its law scheduled early proceedings. That schedule does not establish that the meeting occurred as planned. Older hamlets kept their own local names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1e5a68c29cf624a069ee4d247fc3f92a2c3160f4d4a74dce9a334393d4bf9ec0",
+      "replacement": "The index gives March 8, 1924 approval subject to voter acceptance. The law’s conditions are separate from evidence of the actual result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1e5a68c29cf624a069ee4d247fc3f92a2c3160f4d4a74dce9a334393d4bf9ec0",
+      "replacement": "The index gives March 8, 1924 approval subject to voter acceptance. The law’s conditions are separate from evidence of the actual result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "9b91218e1ff3edf4d562e40e569880335a172d17581f7619c28d920899de026d",
+      "replacement": "The municipal history says a first council meeting was called for May 5, 1924. That is a reported schedule, without establishing actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "9b91218e1ff3edf4d562e40e569880335a172d17581f7619c28d920899de026d",
+      "replacement": "The municipal history says a first council meeting was called for May 5, 1924. That is a reported schedule, without establishing actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "b9b02fb023abcebf23fe94582dd365e5c139792cc851dbf2879853c6fcb5f02a",
+      "replacement": "The municipal history calls May 26, 1924 official separation. The exact legal effect of that described milestone remains unresolved; it does not replace the reported April vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "b9b02fb023abcebf23fe94582dd365e5c139792cc851dbf2879853c6fcb5f02a",
+      "replacement": "The municipal history calls May 26, 1924 official separation. The exact legal effect of that described milestone remains unresolved; it does not replace the reported April vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "2cccdda5f614fd80e2723ec58a6a7a6319bd905d124a897938667c326d243fe0",
+      "replacement": "The first-meeting provisions prescribe a schedule without establishing attendance. Newfield’s reported April vote and separate May accounts describe different stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0805",
+      "path": [
+        "editorial",
+        "0805",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "ccc3b78b61c041c0a1551a6c977c1bad41467e3eacbe00943d0f6127c04fce6a",
+      "replacement": "The first-meeting provisions prescribe a schedule without establishing attendance. Newfield’s reported April vote and separate May accounts describe different stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "6176fb2eeabb8be60ca5324f2cf31d00bd8491ab95e8a668c5eabd0bb08a5124",
+      "replacement": "A 1964 town history tells a more personal naming story: an unidentified guest at an 1802 banquet at Heston’s house suggested Glassborough. The account links the community word to its industry, but it was written long afterward. The first contemporary use and guest’s identity remain unknown. Later rail and postal use reinforced a name already associated with the settlement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "730229722d646f1805940bf0cc098d05dec67eecd17bf2c6ea932752b2287e18",
+      "replacement": "The 1964 history reports a Glassborough suggestion at an 1802 banquet. The guest is unnamed, and the account does not establish the first contemporary use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "730229722d646f1805940bf0cc098d05dec67eecd17bf2c6ea932752b2287e18",
+      "replacement": "The 1964 history reports a Glassborough suggestion at an 1802 banquet. The guest is unnamed, and the account does not establish the first contemporary use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "614df050094004d292e6672d39aa0810456a526fe3703f2da109dd36160e4b28",
+      "replacement": "The compilation reports March 11, 1878 township creation. Government adopted an older industrial community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "614df050094004d292e6672d39aa0810456a526fe3703f2da109dd36160e4b28",
+      "replacement": "The compilation reports March 11, 1878 township creation. Government adopted an older industrial community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "503cc79ea396235e7cefffe6e1f13627e3d0b24d63891ef24b985b36d9433dd4",
+      "replacement": "The 1920 act gives March 8 immediate effect, replacing the township with a same-bounds borough without a referendum clause. March 18 remains a conflicting later webpage account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "503cc79ea396235e7cefffe6e1f13627e3d0b24d63891ef24b985b36d9433dd4",
+      "replacement": "The 1920 act gives March 8 immediate effect, replacing the township with a same-bounds borough without a referendum clause. March 18 remains a conflicting later webpage account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "83a3dbcc841f54108cf977f8d50b96044e614ddd8353bce07ece6b041f6155bf",
+      "replacement": "The 1878 township preceded the 1920 borough replacement. The 1920 act took immediate effect without a referendum clause.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "editorial",
+        "0806",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "bbed6dd6bd5df2e98efd58f699ea065c7ebd2cf3bd1174d943ff7371bb18f1f0",
+      "replacement": "The 1920 act gives March 8 immediate effect; a municipal webpage gives March 18. Those are competing dates for one change, without establishing another borough event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "898e26d45fd2c78b0ec1302a9b18f9155bfaa760c42fe0461cce7327760ea968",
+      "replacement": "The likely deeper connection is Greenwich in England, as later accounts explain. Mickle’s copied request does not state that reason or identify an individual first proposer. A modern municipal account reproducing secondary material does not provide independent contemporary evidence of the same naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a4ba860629c1177534b97065975eca712b5b17cee9fc3a9edbaac165cb02f5dd",
+      "replacement": "Later accounts probably connect the word with Greenwich in England. The copied court request does not explain that connection or identify the first person to propose it. The deeper reason remains a separate question from the reported request.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8cada73208cb449f55ac43c16dd48981fac0ecfc779de4490abbd08186b2d357",
+      "replacement": "Mickle’s later transcription preserves the Greenwich request and court assent under the dual year 1694/95. It transmits one reported naming action.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8cada73208cb449f55ac43c16dd48981fac0ecfc779de4490abbd08186b2d357",
+      "replacement": "Mickle’s later transcription preserves the Greenwich request and court assent under the dual year 1694/95. It transmits one reported naming action.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b85ad832a8882e1a4c4e2627b038b499c6ad667a882054d1b2cc6e28451f9fc5",
+      "replacement": "The index gives March 7, 1767 Woolwich letters patent; the municipal account gives March 17. That date conflict remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b85ad832a8882e1a4c4e2627b038b499c6ad667a882054d1b2cc6e28451f9fc5",
+      "replacement": "The index gives March 7, 1767 Woolwich letters patent; the municipal account gives March 17. That date conflict remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "081e7fcabaf351de6b2aaa193d6247bb39a56282b89a6a1f752efa12c8e75433",
+      "replacement": "The February 10, 1881 act created East Greenwich from Greenwich and Mantua with immediate effect. Its meeting instructions do not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "081e7fcabaf351de6b2aaa193d6247bb39a56282b89a6a1f752efa12c8e75433",
+      "replacement": "The February 10, 1881 act created East Greenwich from Greenwich and Mantua with immediate effect. Its meeting instructions do not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "e48ac731756e2181f69feae40677e7379d3c400ff1bacc098d2d0985b78e7423",
+      "replacement": "No earlier European township title or rejected alternative has been established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "9a188283ba70303f4248745ec5abb273f18a6a27d2282825e1e65e4c85180f4f",
+      "replacement": "Mickle’s later transcription gives March 1, 1694/95 for the request and court assent. The dual-year form describes one reported action.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0807",
+      "path": [
+        "editorial",
+        "0807",
+        "preview"
+      ],
+      "expected_sha256": "a11da2ab8f5cd3344a43d1e5984bd549cd473a68c5d3625c12d79fd97ef199e7",
+      "replacement": "Greenwich’s naming action survives in a later transcription of residents requesting the name and a court agreeing. The English namesake is a separate probable attribution; the copied request does not state that reason or identify the first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0807",
+      "path": [
+        "views",
+        "0807",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "a11da2ab8f5cd3344a43d1e5984bd549cd473a68c5d3625c12d79fd97ef199e7",
+      "replacement": "Greenwich’s naming action survives in a later transcription of residents requesting the name and a court agreeing. The English namesake is a separate probable attribution; the copied request does not state that reason or identify the first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "editorial",
+        "0808",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "75cc8f0b3a06180f88a1b534727d34bfbd89011e8d060d2266ad62a50be7e429",
+      "replacement": "The Spicer act passed January 26, 1844 and scheduled operation for the second Wednesday in March. March 13 follows from that calendar rule, rather than a record that a meeting occurred. An April 1, 1845 supplement renamed the township Harrison with immediate effect. South Harrison separated in 1883, carrying the parent identity into another government. Proposal, statutory start and actual proceedings remain different kinds of events.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "editorial",
+        "0808",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "8bc2388c071cad6e3fe41db124d96c4f11c8e9cfbefe760cabac4b8b6b6ce86f",
+      "replacement": "The Spicer act passed January 26, 1844. January 31 is a conflicting later account, rather than evidence of another act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0808",
+      "path": [
+        "editorial",
+        "0808",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "8bc2388c071cad6e3fe41db124d96c4f11c8e9cfbefe760cabac4b8b6b6ce86f",
+      "replacement": "The Spicer act passed January 26, 1844. January 31 is a conflicting later account, rather than evidence of another act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "editorial",
+        "0808",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "1a50f9c149207dab2f5ab2e62e82f67c38e5135506dbf890acf1a0d244be282f",
+      "replacement": "The supplement changed Spicer to Harrison with immediate April 1, 1845 effect. Its wording does not establish the later partisan explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0808",
+      "path": [
+        "editorial",
+        "0808",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "1a50f9c149207dab2f5ab2e62e82f67c38e5135506dbf890acf1a0d244be282f",
+      "replacement": "The supplement changed Spicer to Harrison with immediate April 1, 1845 effect. Its wording does not establish the later partisan explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "editorial",
+        "0808",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "ae4a95980640dadb54e8b8d88e1a73a57ece7ef40cb9453f56c02d479ba6f7e2",
+      "replacement": "The South Harrison act gives March 2, 1883 immediate effect. Its scheduled first-meeting arrangements do not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0808",
+      "path": [
+        "editorial",
+        "0808",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "ae4a95980640dadb54e8b8d88e1a73a57ece7ef40cb9453f56c02d479ba6f7e2",
+      "replacement": "The South Harrison act gives March 2, 1883 immediate effect. Its scheduled first-meeting arrangements do not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "editorial",
+        "0808",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "8fc551ab3ebab2eadfdcfb373624a92486e904f4b8718e39775161ad04c87a95",
+      "replacement": "The April 1, 1845 supplement replaced Spicer with Harrison immediately. It does not establish the later political explanation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "acc5389f9bff74ca979ed1b9e812a70caacf744d05d5ead7e2b996ce7a70d415",
+      "replacement": "The legal chronology dates the change to Logan to March 6, 1878. Hutchinson’s 1945 compilation identifies General John Alexander Logan as the honoree. That attribution does not identify the local person who suggested him. The precise original reason for the choice and the speed of everyday adoption remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "4d22763bbc3a0ab5a464ab13b1d7a2043fc04598b1dfe34084b8f79b04844cb3",
+      "replacement": "A later state name book says Logan honors General John Alexander Logan. That is a reported namesake, without identifying the person who first suggested honoring him or the exact local reason for the choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d1a444d45c13cf59354ca973957b63edb798cfa4a3cb4720ebda0996bf5a07d3",
+      "replacement": "The West Woolwich law gives March 7, 1877 creation with immediate effect. A later township webpage gives March 12; that is a conflicting account of the same beginning, rather than a second creation. The law’s first-meeting instructions do not establish that a meeting occurred. Part returned to Woolwich in 1901, changing territory while Logan’s name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "dd131cdd7dc4a67813159543970d2a9ee171a5be5fe62a472a6416cb008422ed",
+      "replacement": "The West Woolwich act gives March 7, 1877 immediate effect. The webpage’s March 12 claim conflicts with that law; it does not establish another creation or a first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "dd131cdd7dc4a67813159543970d2a9ee171a5be5fe62a472a6416cb008422ed",
+      "replacement": "The West Woolwich act gives March 7, 1877 immediate effect. The webpage’s March 12 claim conflicts with that law; it does not establish another creation or a first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "7aae6bf49bd35fb76814a28a4a4c43f9070d72638be81a1801185e3fec7e09bb",
+      "replacement": "The compilation dates the rename March 6, 1878; Hutchinson identifies General John Alexander Logan. The original local proposer and exact naming intention remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "7aae6bf49bd35fb76814a28a4a4c43f9070d72638be81a1801185e3fec7e09bb",
+      "replacement": "The compilation dates the rename March 6, 1878; Hutchinson identifies General John Alexander Logan. The original local proposer and exact naming intention remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0f06b651512f033f6dc788bff604607368e21d39b9e9ff95af67843db9e49994",
+      "replacement": "The compilation reports a transfer of part of Logan back to Woolwich in 1901. It does not establish an exact day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0f06b651512f033f6dc788bff604607368e21d39b9e9ff95af67843db9e49994",
+      "replacement": "The compilation reports a transfer of part of Logan back to Woolwich in 1901. It does not establish an exact day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "67c38857b5db33d63cc84a57e9428aa427205d9778614612305928c082bf1082",
+      "replacement": "Hutchinson’s later compilation identifies General John Alexander Logan as the honoree. The first local proposer and exact reason for selecting him remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "056001a4f08de18aa8cb8f8ea7e5621ac9662dc4433327e03ef634ee63f674a1",
+      "replacement": "The West Woolwich act gives March 7, 1877 immediate effect; the later township webpage gives March 12. No second creation follows from the date conflict.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "editorial",
+        "0809",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "2957c5dca176b7c792b9abd1b5071c277e0e0dd32166dbc6abb659dce0150971",
+      "replacement": "The compilation dates the change from West Woolwich to Logan to March 6, 1878. That was separate from the township’s creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "290f73c32903b9b8879d706de705861dc4f8067b7dbc9aad425d8598399c0a87",
+      "replacement": "Local tradition connects Mantua with frogs. Reported older forms include Manteskÿl, Mantoes and Manto, while another interpretation proposes Italian influence on the later form. Their full relationship and literal meanings remain unsettled. A reported 1655 map form and early-nineteenth-century dating of Mantua Creek remain provisional. They do not establish a settled translation or a series of legal township renames.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "62215c23ee2e23e163e8f180aa5d9f647c99c2215351134ce496c8a92702f92f",
+      "replacement": "The frog story is a local interpretation, rather than a settled translation. Older spellings and a possible Italian influence offer other interpretations. Their relationship to Mantua is still uncertain. The older map form and later creek dating remain provisional, rather than a proved complete name history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        0,
+        "date"
+      ],
+      "expected_sha256": "109175c5e277ab6e20dc772691b92eb1fa57ff454fc9a342730a82bd3eb7f7ba",
+      "replacement": "1655 (reported map form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        0,
+        "date"
+      ],
+      "expected_sha256": "109175c5e277ab6e20dc772691b92eb1fa57ff454fc9a342730a82bd3eb7f7ba",
+      "replacement": "1655 (reported map form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "75ad1ea1f70502d6a34e89eacef156a8960572706d76a7d6c8c94501e7c18bdb",
+      "replacement": "An early map form is reported provisionally",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "75ad1ea1f70502d6a34e89eacef156a8960572706d76a7d6c8c94501e7c18bdb",
+      "replacement": "An early map form is reported provisionally",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ccadc5e4e9aa55ae3409b322a1647837a9595100aca8c0ce282ba69a51cd9afb",
+      "replacement": "Manteskÿl is reported on a 1655 map. The reading, location and direct relationship to modern Mantua remain provisional.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ccadc5e4e9aa55ae3409b322a1647837a9595100aca8c0ce282ba69a51cd9afb",
+      "replacement": "Manteskÿl is reported on a 1655 map. The reading, location and direct relationship to modern Mantua remain provisional.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        1,
+        "date"
+      ],
+      "expected_sha256": "596b2759342502010a10a21e6dcff55c2a96ba244997baec9846c2a14547bd4d",
+      "replacement": "Early nineteenth century (reported, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        1,
+        "date"
+      ],
+      "expected_sha256": "596b2759342502010a10a21e6dcff55c2a96ba244997baec9846c2a14547bd4d",
+      "replacement": "Early nineteenth century (reported, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "17c8882ebf594744c2cbe0a43ab40f04e92b8e23fffbc7ff7f898ac3ebd8422a",
+      "replacement": "The modern Mantua Creek form is provisionally placed in the early nineteenth century. That broad reported period does not establish an exact first-use day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "17c8882ebf594744c2cbe0a43ab40f04e92b8e23fffbc7ff7f898ac3ebd8422a",
+      "replacement": "The modern Mantua Creek form is provisionally placed in the early nineteenth century. That broad reported period does not establish an exact first-use day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "8f6ef8007daeba232470f0b9b9718d2fafb4ccd2a79c85034fd9ca5faaa4d1bd",
+      "replacement": "The chronology reports February 23, 1853 Mantua creation from Greenwich. Later histories identify the older creek name as the township’s source.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "8f6ef8007daeba232470f0b9b9718d2fafb4ccd2a79c85034fd9ca5faaa4d1bd",
+      "replacement": "The chronology reports February 23, 1853 Mantua creation from Greenwich. Later histories identify the older creek name as the township’s source.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "081e7fcabaf351de6b2aaa193d6247bb39a56282b89a6a1f752efa12c8e75433",
+      "replacement": "The February 10, 1881 act created East Greenwich from Greenwich and Mantua with immediate effect. Meeting instructions do not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "081e7fcabaf351de6b2aaa193d6247bb39a56282b89a6a1f752efa12c8e75433",
+      "replacement": "The February 10, 1881 act created East Greenwich from Greenwich and Mantua with immediate effect. Meeting instructions do not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "alternatives",
+        "label"
+      ],
+      "expected_sha256": "c0c5bc8131177310b21591ce3d5b254db65d5cd0cecb96e03aee36f55dc83707",
+      "replacement": "Older spellings remain uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "alternatives",
+        "label"
+      ],
+      "expected_sha256": "c0c5bc8131177310b21591ce3d5b254db65d5cd0cecb96e03aee36f55dc83707",
+      "replacement": "Older spellings remain uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "label"
+      ],
+      "expected_sha256": "52526b8c454c6284f61f76dcd39198ad06b3df921881f28c4fb5f017bf29c55c",
+      "replacement": "Provisional older name uses",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "label"
+      ],
+      "expected_sha256": "52526b8c454c6284f61f76dcd39198ad06b3df921881f28c4fb5f017bf29c55c",
+      "replacement": "Provisional older name uses",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "alternatives",
+        "text"
+      ],
+      "expected_sha256": "788c829908fbd7eecafbcd11bf70cda785d46646eebd219d2355efbc12847635",
+      "replacement": "The reported Manteskÿl, Mantoes, Manto and Mantua forms have not been established as one continuous name history. They were not former legal township titles.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "language",
+        "text"
+      ],
+      "expected_sha256": "8ba4cd2f257bdbe807bb54162a0f235d44b7bf8ba60eb8b2cad4075aca42b85c",
+      "replacement": "Later accounts suggest a frog connection or Italian influence. Those remain interpretations, rather than a settled literal translation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "5f25535e513aa7c3e11ee24469dea9076433d340cd6d4efd329ac495c2bf022d",
+      "replacement": "The reported 1655 map form and early-nineteenth-century dating of Mantua Creek remain provisional. Neither establishes an exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "5370236869575fd65db20160ad90fc943e41de0669d131df272bb4d033254905",
+      "replacement": "The older map form and later creek dating remain provisional. They do not establish an exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "db08a2429478aaf814b8fc5e02cc0183bdaa740ed66ab5e662ede281e14fa43a",
+      "replacement": "East Greenwich and Pitman belong to later boundary history. Their formation did not settle the creek word’s meaning or identify the township’s original name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ebdf83b027bd6a732d8d1863b39736e108e4665a3e719623b57c63c264636cf1",
+      "replacement": "Manteskÿl (reported form, provisional); Mantua Creek (reported later form); Mantua Township (part of later East Greenwich territory); Mantua Township; East Greenwich Township; East Greenwich Township separated; Pitman Borough",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        0,
+        "names",
+        0
+      ],
+      "expected_sha256": "1adcf6732cab0e465f15d22a2af586d85cea0b650552aa76044948b9541cb49c",
+      "replacement": "Manteskÿl (reported form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "profile",
+        "earlier"
+      ],
+      "expected_sha256": "ebdf83b027bd6a732d8d1863b39736e108e4665a3e719623b57c63c264636cf1",
+      "replacement": "Manteskÿl (reported form, provisional); Mantua Creek (reported later form); Mantua Township (part of later East Greenwich territory); Mantua Township; East Greenwich Township; East Greenwich Township separated; Pitman Borough",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "editorial",
+        "0810",
+        "journey",
+        0,
+        "names",
+        0
+      ],
+      "expected_sha256": "1adcf6732cab0e465f15d22a2af586d85cea0b650552aa76044948b9541cb49c",
+      "replacement": "Manteskÿl (reported form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "e0c10e1e7ff61cee808bb0a6a429c1ec3bcd1e8b350255331cdf8b8affe1c5fe",
+      "replacement": "Monroe’s legal beginning is clearer than its naming motive. James Monroe is the reported honoree, but the original local reason for choosing him remains unproved. A similarly named township’s entry in a statewide catalogue concerns Middlesex, rather than this municipality, so it does not establish Gloucester’s naming story.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "522c14a245198146f1ac56f4e26e896ec4df39c65d3375df917ee9a984402a0e",
+      "replacement": "A town’s creation can be clearer than the reason for its name. James Monroe is the reported honoree, but the original local reason for choosing him remains unproved. An explanation for another Monroe Township does not establish this one’s story.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2a5bb1cd679672cc811ee712d4dc68a32ce993447bf68eef327a41ae6b9b8a91",
+      "replacement": "Monroe formed from Washington Township in Camden County. The 1859 act created it with immediate March 3 effect and prescribed a first meeting at Williamstown on March 9. A much later commemorative quotation calls March 9 the act’s passage day, conflicting with the law’s March 3 date. The meeting schedule does not establish actual proceedings or reconcile those accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "fafdb49ea2b8914705e807c7dce3467e59c1b40754fbbc5fa0198de3941e63ae",
+      "replacement": "The law created Monroe from Washington Township in Camden County on March 3, 1859 and planned a first meeting for March 9. A later quotation gives March 9 as the law’s passage day, conflicting with the law. The scheduled meeting does not establish that people actually met that day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "09ab2f1d829fcd7a40e9eceaa53b5aadf3e185e6de0e73b264e077bcd2c8930a",
+      "replacement": "The 1859 act created Monroe in Camden County with immediate March 3 effect. It does not establish an original local naming declaration.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "09ab2f1d829fcd7a40e9eceaa53b5aadf3e185e6de0e73b264e077bcd2c8930a",
+      "replacement": "The 1859 act created Monroe in Camden County with immediate March 3 effect. It does not establish an original local naming declaration.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "5c8e45e7e134d262e8e5f6e3131fe5cbf035857ee6bd087e7677f6b619580d71",
+      "replacement": "The act schedules a Williamstown meeting for March 9, 1859. That provision does not establish actual proceedings or resolve the later conflicting passage-date quotation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "5c8e45e7e134d262e8e5f6e3131fe5cbf035857ee6bd087e7677f6b619580d71",
+      "replacement": "The act schedules a Williamstown meeting for March 9, 1859. That provision does not establish actual proceedings or resolve the later conflicting passage-date quotation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "897eb993246a2a03c4335db799134f80e18c2d0a795373f6d2eebd35b487df2d",
+      "replacement": "James Monroe is the reported honoree. The original local naming reason and proposer remain unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "ed26d7f729f7891e3f08b3a14cef5718852f43554b5b9ab8474c7d70e8f1d10f",
+      "replacement": "The 1859 act gives immediate March 3 effect and schedules a March 9 meeting. Those are different stages; a schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "6d0a5b8ebf98c7ac9250b007b5c6b3d2263440a5289bedb3080aabbc32975675",
+      "replacement": "The 2009 commemorative quotation gives March 9 passage, conflicting with the law’s March 3 date. A meeting is not inferred to reconcile the two.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "preview"
+      ],
+      "expected_sha256": "3c302a0e4bb29171760262b04d20d3c5926e2312a5ad675d4a7bab817ee19b8a",
+      "replacement": "Monroe’s reported James Monroe namesake remains unproved as the original local naming intention. The township formed in Camden County in 1859 and moved to Gloucester in 1871, keeping its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0811",
+      "path": [
+        "views",
+        "0811",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "3c302a0e4bb29171760262b04d20d3c5926e2312a5ad675d4a7bab817ee19b8a",
+      "replacement": "Monroe’s reported James Monroe namesake remains unproved as the original local naming intention. The township formed in Camden County in 1859 and moved to Gloucester in 1871, keeping its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0811",
+      "path": [
+        "editorial",
+        "0811",
+        "preview"
+      ],
+      "expected_sha256": "50e96610151bb2aa3bbd75a615e207094c5a880863f077a89e0f0b6b7c9c1476",
+      "replacement": "Monroe formed in Camden County before moving to Gloucester. James Monroe is its reported namesake, while the original local reason for the choice remains unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0811",
+      "path": [
+        "views",
+        "0811",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "50e96610151bb2aa3bbd75a615e207094c5a880863f077a89e0f0b6b7c9c1476",
+      "replacement": "Monroe formed in Camden County before moving to Gloucester. James Monroe is its reported namesake, while the original local reason for the choice remains unproved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0812",
+      "path": [
+        "editorial",
+        "0812",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "88987718e1694efbec3f47367019dd75dfd529ad6c6521b91b862ac44542a9fa",
+      "replacement": "National Park’s name belonged to a community before it belonged to a borough. Later histories describe a private association and religious-resort development called National Park on the Delaware, with James E. Lake associated with founding activity. A family biography gives organization in 1894; another local history gives incorporation in 1895. These different descriptions do not establish two proved corporate filings, and founding a project does not prove Lake invented its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0812",
+      "path": [
+        "editorial",
+        "0812",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "bdc59411c1c987aa93010fa9a7b9e89d172be2cc139708fcb0cbbff0f516515b",
+      "replacement": "Two accounts give organization in 1894 and incorporation in 1895. Those descriptions remain separately attributed, without establishing two proved corporate acts. Nearby Red Bank battlefield may have influenced the name, but the exact connection remains open.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0812",
+      "path": [
+        "editorial",
+        "0812",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "15b5abd3d26cdfc121daa0a99461bd6fa0565a41fa57114fd3c7d3453038ee50",
+      "replacement": "The 1905 report describes a lease dated March 25, 1899. That later account does not establish a complete land-title sequence or the original naming rationale.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0812",
+      "path": [
+        "editorial",
+        "0812",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "15b5abd3d26cdfc121daa0a99461bd6fa0565a41fa57114fd3c7d3453038ee50",
+      "replacement": "The 1905 report describes a lease dated March 25, 1899. That later account does not establish a complete land-title sequence or the original naming rationale.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0812",
+      "path": [
+        "editorial",
+        "0812",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "96cdb695407dc0c49b15969ebc2c916e7e178653410f88a305e3a82cdb2833c0",
+      "replacement": "The legal chronology reports April 15, 1902 formation from West Deptford, after community use of National Park.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0812",
+      "path": [
+        "editorial",
+        "0812",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "96cdb695407dc0c49b15969ebc2c916e7e178653410f88a305e3a82cdb2833c0",
+      "replacement": "The legal chronology reports April 15, 1902 formation from West Deptford, after community use of National Park.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0812",
+      "path": [
+        "editorial",
+        "0812",
+        "sidebar",
+        "fields",
+        "named_period",
+        "text"
+      ],
+      "expected_sha256": "c1fa1908ffa555d5f12b597e21341b5e215ffc591331c5bb6a8327eac0581a75",
+      "replacement": "The 1894 organization and 1895 incorporation accounts remain separately attributed. They do not establish two proved corporate filings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0812",
+      "path": [
+        "editorial",
+        "0812",
+        "sidebar",
+        "fields",
+        "named_period",
+        "text"
+      ],
+      "expected_sha256": "fdb3ed756608604f4ddab1f0253eece8350beb18c2fc33982eb80ea33ca6d892",
+      "replacement": "The 1894 organization and 1895 incorporation accounts remain separately attributed. They do not establish two proved corporate filings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "91dc9c4a0e8d46b5999de8af4c97806a606775b50a5aab841411638f7446bcd3",
+      "replacement": "Newfield’s separation from Franklin had several reported stages. The legal index gives March 8, 1924 authorization and an April 1 election date expressly attributed to an unofficial source. Local history says a first council meeting was called for May 5 and describes May 26 as official separation. The exact legal effect of the latter milestone remains unresolved. Those accounts describe different steps, rather than interchangeable founding days.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "27595ba929ff55f464752808fc07cde48f9d7e479024f3493868377c50f9c2b8",
+      "replacement": "The borough later separated from Franklin. A law, a reported election and local accounts of May meetings and separation describe different steps in 1924. A meeting called for a date does not establish that it actually took place. The precise legal effect of the later separation milestone remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "892a45722ce84c354e21e53f394e6e8cb7512ec929a796193f559f43377b9fce",
+      "replacement": "The 1924 parent-boundary account groups the enabling act, reported April vote and separate May accounts. It does not establish another incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "892a45722ce84c354e21e53f394e6e8cb7512ec929a796193f559f43377b9fce",
+      "replacement": "The 1924 parent-boundary account groups the enabling act, reported April vote and separate May accounts. It does not establish another incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "683fa75b45b6887a215947a027fcf3e84723b5c8383047b049be3f820b5d3644",
+      "replacement": "The index gives April 1, 1924 election with an explicit unofficial-source date qualification. That reported vote remains separate from later May milestones.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "683fa75b45b6887a215947a027fcf3e84723b5c8383047b049be3f820b5d3644",
+      "replacement": "The index gives April 1, 1924 election with an explicit unofficial-source date qualification. That reported vote remains separate from later May milestones.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "3beb322cfa5d03471c68fc7b115c40f6aa745fe503caecf5cdeb2b3f9edfb242",
+      "replacement": "The local history describes May 26, 1924 as official separation. Its exact legal effect remains unresolved, and it does not replace the reported April vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "3beb322cfa5d03471c68fc7b115c40f6aa745fe503caecf5cdeb2b3f9edfb242",
+      "replacement": "The local history describes May 26, 1924 as official separation. Its exact legal effect remains unresolved, and it does not replace the reported April vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "0cd81c53c838863f5ca18a9bb5482fe60d710196683967a58cc8100ace402eff",
+      "replacement": "Neufeld’s study reports October 18, 1864 office establishment. That administrative date does not establish the office’s first operating day or first-ever name use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "21989d07e9ee47264e18950a16770cc03b32ced34c40a9ed141c1d13ba80d91e",
+      "replacement": "The legal index gives March 8, 1924 authorization and an April 1 election date expressly attributed to an unofficial source.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "06e4bb4af9352eaf9fc818fd5047b95a4caf8fd9a16b516758a3c7f5800a6e3a",
+      "replacement": "Local history reports a meeting planned for May 5 and a May 26 separation milestone. A schedule does not establish actual proceedings, and the latter date’s precise legal effect remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "editorial",
+        "0813",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "69719637263e37bff1fe3d0be41b75b2de3fc3565270f0c14a14ebb7e73b2607",
+      "replacement": "Local history reports a meeting planned for May 5 and a May 26 separation milestone. A schedule does not establish actual proceedings, and the latter date’s precise legal effect remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0814",
+      "path": [
+        "editorial",
+        "0814",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "1d09f0c9e9d19eb6981f6ae3738106f5ffa278fa43dc3bfc578de4da4d80df55",
+      "replacement": "Paulsboro preserves a family connection with an unresolved personal detail. Later histories associate it with the Paul family but disagree about the individual honoree. Municipal history credits Samuel Paul, its historic tour credits Philip Paul, and an 1883 county history favors Samuel P. Paul. Those are distinct attributions, without a settled exact honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0814",
+      "path": [
+        "editorial",
+        "0814",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "39e3a841df47ce8372485261cc9678ce4a8b6ff8f7c2d324415b4d8fb8fb58c7",
+      "replacement": "Crown Point and Paul’s Fishing Place are earlier locality accounts, rather than a documented sequence of formal municipal renames. A later account calls Jacob Price the first postmaster in 1844. That supplies postal context without independently establishing when the office opened or first operated. Property and family histories add background without establishing an original naming declaration.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0814",
+      "path": [
+        "editorial",
+        "0814",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "da4b9c84bafaa7b1b38ef4b87a2009023e8c1650a07fc72bf8d11663c585c6b1",
+      "replacement": "Paulsboro Borough formed from Greenwich territory in 1904, according to later histories. It included Billingsport, a nearby community with its own name. The borough carried an established family-related name forward while the exact first chooser and individual namesake remained uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0814",
+      "path": [
+        "editorial",
+        "0814",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "c2d4bbf84260cd6c5323bff4198710b1a27268db585a036bceead62372f44f87",
+      "replacement": "Later histories report Crown Point and Paul’s Fishing Place as earlier locality names. They do not establish a series of formal municipal renames.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0814",
+      "path": [
+        "editorial",
+        "0814",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "1812ba196c3c1a548bae02e83e8c9fcb50ba89fe2ea59dc713a7f55a9889e308",
+      "replacement": "Municipal history identifies Jacob Price as first postmaster in 1844. That report does not independently establish the office’s opening or first operating day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0814",
+      "path": [
+        "editorial",
+        "0814",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "e82973435f198c6eec5b2aaf4a8f6a86bee95e6489c37e8c8ca0f50f3aa99d18",
+      "replacement": "Snyder and municipal history report March 2, 1904 borough formation from Greenwich. Government adopted an older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0815",
+      "path": [
+        "editorial",
+        "0815",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "90df9cc2fdde86831b595f8453a4e65dea86daf8d989972508dad07835cc5df0",
+      "replacement": "Pitman’s municipal name carries a religious memorial from an older community. The historic-district nomination reports a camp established in 1871 and named Pitman Grove for Rev. Charles Pitman, a prominent Methodist preacher. The association is the reported naming body, while the first individual proposer remains unknown. The nomination supplies a later account of that choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0815",
+      "path": [
+        "editorial",
+        "0815",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "1e9eb2adc157d70c8bbb17b1831027182e2933caa01afb89ed370a72708e18f4",
+      "replacement": "The move toward government had different actors. The nomination reports an October 20, 1904 meeting at the Knights of the Golden Eagle Hall, where participants voted 122–35 to petition the Legislature for borough incorporation. That was a decision to seek incorporation, rather than proof of a statutory referendum. The nomination and Snyder report May 24, 1905 borough formation from Mantua and Glassboro territory.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0815",
+      "path": [
+        "editorial",
+        "0815",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d9039dcd15bf71e01306afcde594fa9a77773b180fd9302045321e66ba8b9bd6",
+      "replacement": "In 1904, a public meeting reportedly voted to ask lawmakers for a borough. Asking was different from completing a statutory incorporation referendum. Later accounts report a borough in 1905 from Mantua and Glassboro land, carrying an older community name into government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0815",
+      "path": [
+        "editorial",
+        "0815",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "a9e20456dc0a2db55fb407c9be06a45414afedb1665f7913d72fc84225108f29",
+      "replacement": "The later historic-district nomination dates Pitman Grove’s camp to 1871. It does not establish an exact month or first individual proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0815",
+      "path": [
+        "editorial",
+        "0815",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "df60467873d96a5e832d0fa61804b381b79daa90d154d94cfd17c606a3d93988",
+      "replacement": "The later historic-district nomination dates Pitman Grove’s camp to 1871. It does not establish an exact month or first individual proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0815",
+      "path": [
+        "editorial",
+        "0815",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "4a95079787a908c13e3586f68a418949376c885ef4132320ad11fa72b8ba3dc1",
+      "replacement": "The nomination and Snyder report May 24, 1905 borough formation from Mantua and Glassboro.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0816",
+      "path": [
+        "editorial",
+        "0816",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "e3dd533a3aa515386b52a7fc2d5140b7fe7f7cea4813ae580d8a5fc7a31f8599",
+      "replacement": "The act gives March 2, 1883 immediate effect. March 21 is a conflicting later report. The first proposer remains unknown, and the statutory meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0816",
+      "path": [
+        "editorial",
+        "0816",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "e3dd533a3aa515386b52a7fc2d5140b7fe7f7cea4813ae580d8a5fc7a31f8599",
+      "replacement": "The act gives March 2, 1883 immediate effect. March 21 is a conflicting later report. The first proposer remains unknown, and the statutory meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0805",
+      "path": [
+        "views",
+        "0805",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "9c05a752480658878d44cdac8e298665249f10993ef96aacad2b74454ff1f177",
+      "replacement": "Newfield’s enabling act, reported April vote and local May accounts describe separate stages of its 1924 formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0805",
+      "path": [
+        "views",
+        "0805",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "A reported meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0805",
+      "path": [
+        "views",
+        "0805",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "The later local account’s separation milestone does not replace the reported April vote or settle its exact legal effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0805",
+      "path": [
+        "views",
+        "0805",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "9c05a752480658878d44cdac8e298665249f10993ef96aacad2b74454ff1f177",
+      "replacement": "Newfield’s enabling act, reported April vote and local May accounts describe separate stages of its 1924 formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0805",
+      "path": [
+        "views",
+        "0805",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "A reported meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0805",
+      "path": [
+        "views",
+        "0805",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "The later local account’s separation milestone does not replace the reported April vote or settle its exact legal effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "views",
+        "0806",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "95044939259a9ae28beb213f030b94962f376cc176d93e1834132cc8869ad852",
+      "replacement": "The later history reports an 1802 Glassborough suggestion, without establishing first contemporary use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "views",
+        "0806",
+        "sources",
+        "S1450",
+        "author"
+      ],
+      "expected_sha256": "4785f389a60b3306e08115131ced665965345aea4995463fbac74c629a788062",
+      "replacement": "Historic-district nomination submitted to National Park Service / National Register; preparer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0806",
+      "path": [
+        "views",
+        "0806",
+        "sources",
+        "S1450",
+        "publication"
+      ],
+      "expected_sha256": "aad9b42897d8d416696ad3e3ebab638a5978472595910bacd29ea3f15fd75743",
+      "replacement": "Nomination received 1976-12-13; National Register stamp 1977-08-19",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0806",
+      "path": [
+        "views",
+        "0806",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "95044939259a9ae28beb213f030b94962f376cc176d93e1834132cc8869ad852",
+      "replacement": "The later history reports an 1802 Glassborough suggestion, without establishing first contemporary use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0806",
+      "path": [
+        "views",
+        "0806",
+        "sources",
+        "S1450",
+        "author"
+      ],
+      "expected_sha256": "4785f389a60b3306e08115131ced665965345aea4995463fbac74c629a788062",
+      "replacement": "Historic-district nomination submitted to National Park Service / National Register; preparer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0806",
+      "path": [
+        "views",
+        "0806",
+        "sources",
+        "S1450",
+        "publication"
+      ],
+      "expected_sha256": "aad9b42897d8d416696ad3e3ebab638a5978472595910bacd29ea3f15fd75743",
+      "replacement": "Nomination received 1976-12-13; National Register stamp 1977-08-19",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "c5533707fdc385804c1275152ef65488197c6afa2bb3d712d405604dca190cce",
+      "replacement": "Applicants, reported by Mickle; individuals unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "51eb1763f4a143b5d50e11375fb948567cd65b49c3a0bcf8d9ccf0f248b75fba",
+      "replacement": "Exact date in published supplement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "27dcad02bb397cecf5cf0b4cd57031fd1a3f0475127acc3b199ee037b4ca6c11",
+      "replacement": "The supplement replaced Spicer with Harrison with immediate April 1, 1845 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "978472b4c5e01d821386e07bdf84750136c735c7d9ed6f72e67a3144b656aa37",
+      "replacement": "The 1883 act created South Harrison with immediate March 2 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "sources",
+        "S1432",
+        "publication"
+      ],
+      "expected_sha256": "6d97b8a272b9ddc98092a2e8e290ceea527a27a276a0120a32b1d7ba04bd023c",
+      "replacement": "Public hearing July 16, 1998",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "c5533707fdc385804c1275152ef65488197c6afa2bb3d712d405604dca190cce",
+      "replacement": "Applicants, reported by Mickle; individuals unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "51eb1763f4a143b5d50e11375fb948567cd65b49c3a0bcf8d9ccf0f248b75fba",
+      "replacement": "Exact date in published supplement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "27dcad02bb397cecf5cf0b4cd57031fd1a3f0475127acc3b199ee037b4ca6c11",
+      "replacement": "The supplement replaced Spicer with Harrison with immediate April 1, 1845 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "978472b4c5e01d821386e07bdf84750136c735c7d9ed6f72e67a3144b656aa37",
+      "replacement": "The 1883 act created South Harrison with immediate March 2 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0808",
+      "path": [
+        "views",
+        "0808",
+        "sources",
+        "S1432",
+        "publication"
+      ],
+      "expected_sha256": "6d97b8a272b9ddc98092a2e8e290ceea527a27a276a0120a32b1d7ba04bd023c",
+      "replacement": "Public hearing July 16, 1998",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0809",
+      "path": [
+        "views",
+        "0809",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "de8467cc76433a628b0dd84dd9b3b8b4f4ff75b0adafceef87b1e798d1e6428c",
+      "replacement": "Reported year of boundary transfer",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0809",
+      "path": [
+        "views",
+        "0809",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "de8467cc76433a628b0dd84dd9b3b8b4f4ff75b0adafceef87b1e798d1e6428c",
+      "replacement": "Reported year of boundary transfer",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "109175c5e277ab6e20dc772691b92eb1fa57ff454fc9a342730a82bd3eb7f7ba",
+      "replacement": "1655 (reported map form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "109175c5e277ab6e20dc772691b92eb1fa57ff454fc9a342730a82bd3eb7f7ba",
+      "replacement": "1655 (reported map form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "c252ee08bc5bb3f0143b3c97a56f20ab4ef53619878239d2b62d18c587fe0f63",
+      "replacement": "Reported year of provisional map form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "after"
+      ],
+      "expected_sha256": "1adcf6732cab0e465f15d22a2af586d85cea0b650552aa76044948b9541cb49c",
+      "replacement": "Manteskÿl (reported form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "f51b099eef159bc99e3a23b8d820099281525b2cf97483a30ab92cf898dcc72e",
+      "replacement": "Provisional reported map-name form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "8f0355fe08d4bae05345c1998bdce4fd5138daaf9f70b0216e3788e98756af04",
+      "replacement": "Mapmaker not securely identified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "0182a32c342c20ecffbd22a66dbfa2972f3a83e9edd5b72bbd7518a89e54831c",
+      "replacement": "Manteskÿl is reported on a 1655 map. Its reading, location and relationship to modern Mantua remain provisional.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "530b2c7ebc7e70f56e7a7f93824a19594fa155c4b99af3b345080ba582f533c6",
+      "replacement": "The reported form is a possible older link, rather than a settled name history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "596b2759342502010a10a21e6dcff55c2a96ba244997baec9846c2a14547bd4d",
+      "replacement": "Early nineteenth century (reported, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        1,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "596b2759342502010a10a21e6dcff55c2a96ba244997baec9846c2a14547bd4d",
+      "replacement": "Early nineteenth century (reported, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "1ebaa3161876220710fa5679078ef71c5e1c4178985087f311fa85bd38eed6e9",
+      "replacement": "The modern Mantua Creek form is provisionally placed in the early nineteenth century, without an established exact first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "sources",
+        "S1450",
+        "author"
+      ],
+      "expected_sha256": "4785f389a60b3306e08115131ced665965345aea4995463fbac74c629a788062",
+      "replacement": "Historic-district nomination submitted to National Park Service / National Register; preparer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "sources",
+        "S1450",
+        "publication"
+      ],
+      "expected_sha256": "aad9b42897d8d416696ad3e3ebab638a5978472595910bacd29ea3f15fd75743",
+      "replacement": "Nomination received 1976-12-13; National Register stamp 1977-08-19",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "sources",
+        "S2131",
+        "publication"
+      ],
+      "expected_sha256": "d540e1994c3e79dc919bccd9ba29cc35d10c6ef4b76d74af2e5b1d101ddacb82",
+      "replacement": "Undated webpage; accessed 2026-10-11",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "109175c5e277ab6e20dc772691b92eb1fa57ff454fc9a342730a82bd3eb7f7ba",
+      "replacement": "1655 (reported map form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "109175c5e277ab6e20dc772691b92eb1fa57ff454fc9a342730a82bd3eb7f7ba",
+      "replacement": "1655 (reported map form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "c252ee08bc5bb3f0143b3c97a56f20ab4ef53619878239d2b62d18c587fe0f63",
+      "replacement": "Reported year of provisional map form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "after"
+      ],
+      "expected_sha256": "1adcf6732cab0e465f15d22a2af586d85cea0b650552aa76044948b9541cb49c",
+      "replacement": "Manteskÿl (reported form, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "f51b099eef159bc99e3a23b8d820099281525b2cf97483a30ab92cf898dcc72e",
+      "replacement": "Provisional reported map-name form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "8f0355fe08d4bae05345c1998bdce4fd5138daaf9f70b0216e3788e98756af04",
+      "replacement": "Mapmaker not securely identified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "0182a32c342c20ecffbd22a66dbfa2972f3a83e9edd5b72bbd7518a89e54831c",
+      "replacement": "Manteskÿl is reported on a 1655 map. Its reading, location and relationship to modern Mantua remain provisional.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "530b2c7ebc7e70f56e7a7f93824a19594fa155c4b99af3b345080ba582f533c6",
+      "replacement": "The reported form is a possible older link, rather than a settled name history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "596b2759342502010a10a21e6dcff55c2a96ba244997baec9846c2a14547bd4d",
+      "replacement": "Early nineteenth century (reported, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        1,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "596b2759342502010a10a21e6dcff55c2a96ba244997baec9846c2a14547bd4d",
+      "replacement": "Early nineteenth century (reported, provisional)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "1ebaa3161876220710fa5679078ef71c5e1c4178985087f311fa85bd38eed6e9",
+      "replacement": "The modern Mantua Creek form is provisionally placed in the early nineteenth century, without an established exact first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "sources",
+        "S1450",
+        "author"
+      ],
+      "expected_sha256": "4785f389a60b3306e08115131ced665965345aea4995463fbac74c629a788062",
+      "replacement": "Historic-district nomination submitted to National Park Service / National Register; preparer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "sources",
+        "S1450",
+        "publication"
+      ],
+      "expected_sha256": "aad9b42897d8d416696ad3e3ebab638a5978472595910bacd29ea3f15fd75743",
+      "replacement": "Nomination received 1976-12-13; National Register stamp 1977-08-19",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0810",
+      "path": [
+        "views",
+        "0810",
+        "sources",
+        "S2131",
+        "publication"
+      ],
+      "expected_sha256": "d540e1994c3e79dc919bccd9ba29cc35d10c6ef4b76d74af2e5b1d101ddacb82",
+      "replacement": "Undated webpage; accessed 2026-10-11",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0812",
+      "path": [
+        "views",
+        "0812",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "ac7c8d425a6373c15c55faabfe142e1db89b373acca96ccb63232bb6ccb80944",
+      "replacement": "Lease reported in later correspondence",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0812",
+      "path": [
+        "views",
+        "0812",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "ac7c8d425a6373c15c55faabfe142e1db89b373acca96ccb63232bb6ccb80944",
+      "replacement": "Lease reported in later correspondence",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "views",
+        "0813",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "The reproduced New Field spelling does not establish a legal municipal rename or first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "views",
+        "0813",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "9c05a752480658878d44cdac8e298665249f10993ef96aacad2b74454ff1f177",
+      "replacement": "Newfield’s enabling act, reported April vote and local May accounts describe separate stages of its 1924 formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "views",
+        "0813",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "A reported meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0813",
+      "path": [
+        "views",
+        "0813",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "The later local account’s separation milestone does not replace the reported April vote or settle its exact legal effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "views",
+        "0813",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "The reproduced New Field spelling does not establish a legal municipal rename or first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "views",
+        "0813",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "9c05a752480658878d44cdac8e298665249f10993ef96aacad2b74454ff1f177",
+      "replacement": "Newfield’s enabling act, reported April vote and local May accounts describe separate stages of its 1924 formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "views",
+        "0813",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "A reported meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0813",
+      "path": [
+        "views",
+        "0813",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "0a02c09b8370883e10e1b7819f0399c691b900f6b853d3565332ee8cacd4d6f3",
+      "replacement": "The later local account’s separation milestone does not replace the reported April vote or settle its exact legal effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0815",
+      "path": [
+        "views",
+        "0815",
+        "sources",
+        "S1450",
+        "author"
+      ],
+      "expected_sha256": "4785f389a60b3306e08115131ced665965345aea4995463fbac74c629a788062",
+      "replacement": "Historic-district nomination submitted to National Park Service / National Register; preparer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0815",
+      "path": [
+        "views",
+        "0815",
+        "sources",
+        "S1450",
+        "publication"
+      ],
+      "expected_sha256": "aad9b42897d8d416696ad3e3ebab638a5978472595910bacd29ea3f15fd75743",
+      "replacement": "Nomination received 1976-12-13; National Register stamp 1977-08-19",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0815",
+      "path": [
+        "views",
+        "0815",
+        "sources",
+        "S1450",
+        "author"
+      ],
+      "expected_sha256": "4785f389a60b3306e08115131ced665965345aea4995463fbac74c629a788062",
+      "replacement": "Historic-district nomination submitted to National Park Service / National Register; preparer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0815",
+      "path": [
+        "views",
+        "0815",
+        "sources",
+        "S1450",
+        "publication"
+      ],
+      "expected_sha256": "aad9b42897d8d416696ad3e3ebab638a5978472595910bacd29ea3f15fd75743",
+      "replacement": "Nomination received 1976-12-13; National Register stamp 1977-08-19",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "51eb1763f4a143b5d50e11375fb948567cd65b49c3a0bcf8d9ccf0f248b75fba",
+      "replacement": "Exact date in published supplement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "27dcad02bb397cecf5cf0b4cd57031fd1a3f0475127acc3b199ee037b4ca6c11",
+      "replacement": "The supplement replaced Spicer with Harrison with immediate April 1, 1845 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "de808ba6d0c63eade7715cee243b57700aadb352da066069c2213ee4198883c2",
+      "replacement": "The later preservation study reports Harrisonville usage by 1868.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "978472b4c5e01d821386e07bdf84750136c735c7d9ed6f72e67a3144b656aa37",
+      "replacement": "The 1883 act created South Harrison with immediate March 2 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "sources",
+        "S1432",
+        "publication"
+      ],
+      "expected_sha256": "6d97b8a272b9ddc98092a2e8e290ceea527a27a276a0120a32b1d7ba04bd023c",
+      "replacement": "Public hearing July 16, 1998",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "51eb1763f4a143b5d50e11375fb948567cd65b49c3a0bcf8d9ccf0f248b75fba",
+      "replacement": "Exact date in published supplement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "27dcad02bb397cecf5cf0b4cd57031fd1a3f0475127acc3b199ee037b4ca6c11",
+      "replacement": "The supplement replaced Spicer with Harrison with immediate April 1, 1845 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "de808ba6d0c63eade7715cee243b57700aadb352da066069c2213ee4198883c2",
+      "replacement": "The later preservation study reports Harrisonville usage by 1868.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "978472b4c5e01d821386e07bdf84750136c735c7d9ed6f72e67a3144b656aa37",
+      "replacement": "The 1883 act created South Harrison with immediate March 2 effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0816",
+      "path": [
+        "views",
+        "0816",
+        "sources",
+        "S1432",
+        "publication"
+      ],
+      "expected_sha256": "6d97b8a272b9ddc98092a2e8e290ceea527a27a276a0120a32b1d7ba04bd023c",
+      "replacement": "Public hearing July 16, 1998",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]

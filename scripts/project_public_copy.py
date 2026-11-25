@@ -20,6 +20,13 @@ EDITIONS = ('primary', 'young-explorers')
 PROFILE_FIELDS = frozenset('name form category etymology_status county code municipal_code municipality_id current_origin current_origin_label source_ids urls'.split())
 EVENT_FIELDS = frozenset('id municipality date year precision before after type actor action significance sources urls municipality_ids version date_review'.split())
 SOURCE_FIELDS = frozenset('id author title publication url'.split())
+# Exact reviewed label approvals contain hashes, never private before text.
+REVIEWED_JOURNEY_LABELS = {
+    ('editorial','0810','journey',0,'names',0):
+        ('1adcf6732cab0e465f15d22a2af586d85cea0b650552aa76044948b9541cb49c',
+         'Manteskÿl (reported form, provisional)'),
+}
+
 
 
 def digest(value):
@@ -122,6 +129,11 @@ def apply_copy_corrections(payload, edition, corrections):
             (len(path)==4 and path[2]=='paragraphs' and type(path[3]) is int) or
             (len(path)==5 and path[2]=='journey' and path[-1] in {'date','label','detail'}) or
             (len(path)==6 and path[2:4]==['sidebar','fields'] and path[-1] in {'label','text'}))
+        # General journey names remain protected. A reviewed qualifier may
+        # change only at its exact target, original hash and approved wording.
+        approved_label=REVIEWED_JOURNEY_LABELS.get(tuple(path))
+        if approved_label:
+            allowed=(row['expected_sha256'],row['replacement'])==approved_label
         if path[0]=='views':
             allowed=(path[2]=='events' and (path[-1] in allowed_event or path[-2:]==['date_review','display'])) or (path[2]=='sources' and path[-1] in {'author','title','publication'}) or (len(path)==4 and path[2]=='profile' and path[-1] in {'earlier','referent'})
         if not allowed:raise ValueError('Protected field in copy correction')
