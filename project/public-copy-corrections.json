@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_38",
+  "checkpoint": "PUBLIC_COPY_39",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -438,7 +438,19 @@
     "1613",
     "1614",
     "1615",
-    "1616"
+    "1616",
+    "1701",
+    "1702",
+    "1703",
+    "1704",
+    "1705",
+    "1706",
+    "1707",
+    "1708",
+    "1709",
+    "1710",
+    "1711",
+    "1712"
   ],
   "changes": [
     {
@@ -165663,6 +165675,1655 @@
       ],
       "expected_sha256": "36ba258536c7856a18a89d803eeed3dbdbf0c83e18a831ca84e2232f0d40a160",
       "replacement": "February passage preceded March statutory operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1701",
+      "path": [
+        "editorial",
+        "1701",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "6f12e4f89f2cbbd191cf2fbc2f73dfc3bb4171897eac2b37896da4b9210054ca",
+      "replacement": "Alloway brings an older creek and village identity into a continuing township name. Later histories connect it with Allowayes, an Indigenous grantor named in a November 1675 deed calendar. The calendar prints November 7, while a later compilation reports November 17 from a photostat. The accounts differ on the day, and the personal-name occurrence does not establish that the creek was named for that person.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1701",
+      "path": [
+        "editorial",
+        "1701",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "ec9110988cf6a70b7ccdd9f73a55e4f66abd39f56a2dfd89894d5f06de8335e3",
+      "replacement": "Histories report the village name shortening to Alloway in 1882. That attributed account is separate from the township’s later legal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1701",
+      "path": [
+        "editorial",
+        "1701",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "ec9110988cf6a70b7ccdd9f73a55e4f66abd39f56a2dfd89894d5f06de8335e3",
+      "replacement": "Histories report the village name shortening to Alloway in 1882. That attributed account is separate from the township’s later legal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "c85d1b491284d0481133e9cbca493e57a2bec864d1e19f3f48f5ac89e7247bd4",
+      "replacement": "Carneys Point carries a landowner’s name from river geography into modern government. County place-name histories identify Thomas Carney, an Irish immigrant who bought a large tract in 1727, as the namesake. His land lay between Bout and Handbey creeks and extended toward Game Creek. The first written use of the point’s name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "12eec82c72826d07be46924c66b6baa8213cd85fd815c0500a61987bc6734522",
+      "replacement": "Thomas Carney bought land near the Delaware River in 1727. Later histories identify him as the namesake of Carneys Point. The exact first use of the point’s name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "a0510bc4dcd2d5c6e364f12478051e6fdbe527852a4bb197b352029ebb83b3cf",
+      "replacement": "In 1976 voters chose that familiar identity for the continuing Upper Penns Neck Township. The index separates the November 2 vote, November 10 committee records and November 18 filing. Sources disagree about when the change legally took effect. The committee action and filing remain distinct steps whose relationship to the effective day is unresolved. No separate apostrophe decision is established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "906f041e867a56f7acba9427c4d5b4cc385983751be4589257b625ac906bd523",
+      "replacement": "Voters changed Upper Penns Neck Township’s name to Carneys Point in 1976. The same government continued. The vote, committee action and filing happened on different November dates. Sources disagree about when the change legally took effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "journey",
+        4,
+        "label"
+      ],
+      "expected_sha256": "f698772512a5b3c326d7089692fb01c31cb61c0cceaf1bfa1315bc949e158a6e",
+      "replacement": "Committee action followed the vote",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "journey",
+        4,
+        "label"
+      ],
+      "expected_sha256": "f698772512a5b3c326d7089692fb01c31cb61c0cceaf1bfa1315bc949e158a6e",
+      "replacement": "Committee action followed the vote",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "d004c832ae8f1854f600867dfd73434d05f17edf301d5f5597b550abd841b36a",
+      "replacement": "The index reports committee action on November 10. Its relationship to the disputed legal effective day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "d004c832ae8f1854f600867dfd73434d05f17edf301d5f5597b550abd841b36a",
+      "replacement": "The index reports committee action on November 10. Its relationship to the disputed legal effective day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "5396bf1e45ce77e4f6a8c172297055bfa472f206fcf77e3afd5826ebc4819334",
+      "replacement": "The index reports a separate November 18 filing. Its relationship to the other steps and the legal effective day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "5396bf1e45ce77e4f6a8c172297055bfa472f206fcf77e3afd5826ebc4819334",
+      "replacement": "The index reports a separate November 18 filing. Its relationship to the other steps and the legal effective day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "sidebar",
+        "fields",
+        "legal",
+        "label"
+      ],
+      "expected_sha256": "9bc3225a99a4959bfe158819c74e8b610386c0f2619f00e3b86b71eaff9105db",
+      "replacement": "Separate November steps and a disputed effective day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "sidebar",
+        "fields",
+        "legal",
+        "label"
+      ],
+      "expected_sha256": "9bc3225a99a4959bfe158819c74e8b610386c0f2619f00e3b86b71eaff9105db",
+      "replacement": "Separate November steps and a disputed effective day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1702",
+      "path": [
+        "editorial",
+        "1702",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "49f26f2a8c3942006412b3e332afd43cd2966756a8ece5c15d54459ea6f74e38",
+      "replacement": "Voters chose the name, the committee acted and papers were filed on different November days. Sources disagree about when the change legally began.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "502d7cfd09fe2dfa4b68f072067fa69212affe80a9730ad52b4e89cf1c12d3f5",
+      "replacement": "Elmer’s naming story begins with a post-office problem in the community called Pittstown. Later borough and local histories credit Lucius Quintius Cincinnatus Elmer with helping obtain the office and identify him as the honoree. Thomas’s 2001 account dates the change to July 18, 1844. The local proposer and the details of the original federal naming decision remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "3140a8807b1c34d5ac45a65611aa49b412c6ff64c62c98a4cead05dbdf3426d2",
+      "replacement": "Elmer was called Pittstown before its reported postal name change. Later histories credit Lucius Elmer with helping obtain a post office and say the new name honored him. They report 1844; the first local proposer and details of the original naming decision remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "db3491e05187f18651c2a5343c932357f3087af76cbd3cb5e5fb28e88f2d18ee",
+      "replacement": "A short county summary gives an Ebenezer-or-Lucius alternative, while the dedicated local history and biographical source specifically identify Lucius. Ticktown and other locality traditions are separate accounts; the proposed meaning of Cohockan remains uncertain. Railway service from 1862 reinforced an already existing Elmer identity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "a1be8ba9ccc749b37994d0b93b161bd0c6ba785526376ec1434573f002f9f4f3",
+      "replacement": "Residents voted on borough formation on January 24, 1893. The index infers January 28 as the filing and effective day from an unofficial source, so that day remains provisional. The borough drew from Pittsgrove and Upper Pittsgrove territory; a later boundary realignment and 1895 separation were different government stages. None establishes a new first choice of Elmer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "6b945e06e4ceb94321bb2c250fca2df63217b89c3a702cd38f829088302ea58b",
+      "replacement": "Residents voted for borough government in January 1893. The vote and later filing were separate steps. The index infers January 28 as the filing day from an unofficial account, so it remains provisional.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b9b6eb362ab0878325bbc7fbf702a67d39ba551d16a69c8dc53f5250adf259e8",
+      "replacement": "Local histories place Pittstown immediately before Elmer. Other locality names belong to separate traditions, rather than a proved sequence of official renamings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b9b6eb362ab0878325bbc7fbf702a67d39ba551d16a69c8dc53f5250adf259e8",
+      "replacement": "Local histories place Pittstown immediately before Elmer. Other locality names belong to separate traditions, rather than a proved sequence of official renamings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "206a96c87b58b6d2d4c13e9ca842ee176026a71c913a70bf48f12aabb19791d9",
+      "replacement": "Thomas’s later account reports the July 18, 1844 change and credits Lucius Elmer’s postal assistance. The original local proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "206a96c87b58b6d2d4c13e9ca842ee176026a71c913a70bf48f12aabb19791d9",
+      "replacement": "Thomas’s later account reports the July 18, 1844 change and credits Lucius Elmer’s postal assistance. The original local proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "2942c0643d666bacc713b49d9bf4492c83afb3cea7af1c922b8f772b182720d4",
+      "replacement": "The index infers January 28 as the filing and effective day from an unofficial source. The day remains provisional and separate from the reported January 24 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "2942c0643d666bacc713b49d9bf4492c83afb3cea7af1c922b8f772b182720d4",
+      "replacement": "The index infers January 28 as the filing and effective day from an unofficial source. The day remains provisional and separate from the reported January 24 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "1c5022c3525ebbbff6b8df236cd86be0f286c35cccc54c6ba36f789e7ad8968a",
+      "replacement": "Ticktown and other locality names belong to separate traditions. The proposed meaning of Cohockan remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "1c5022c3525ebbbff6b8df236cd86be0f286c35cccc54c6ba36f789e7ad8968a",
+      "replacement": "Ticktown and other locality names belong to separate traditions. The proposed meaning of Cohockan remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "60ae09a57a8cd9d818a514c5525fc98164cce5da436c684846875e09b4cb98c7",
+      "replacement": "Thomas’s 2001 account reports July 18 for the postal and community name change. The original local proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "60ae09a57a8cd9d818a514c5525fc98164cce5da436c684846875e09b4cb98c7",
+      "replacement": "Thomas’s 2001 account reports July 18 for the postal and community name change. The original local proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0909a95d6169a9ad7c6598fc94fb40996f97ed764afa843566d7871b9fc38a3e",
+      "replacement": "January 24, 1893 voting is reported. The index infers January 28 as the filing and effective day from an unofficial source; it remains provisional.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1703",
+      "path": [
+        "editorial",
+        "1703",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "16739de788f71293073c4490442f63874eb3ef1a566c54ef3dd9bbcd8b43679f",
+      "replacement": "The vote and filing were separate steps. The index infers the filing day from an unofficial account, so it remains provisional.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "editorial",
+        "1704",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "887ae75c33fc276ffee5e21efc7de85ab973e26c50404088166075710fd48c33",
+      "replacement": "Elsinboro carries a Swedish fort name into a modern Salem County township. The established historical account traces it to Nya Elfsborg, built under New Sweden governor Johan Printz in 1643 and named for Älvsborg near Gothenburg, Sweden. This is the connection described in later histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "editorial",
+        "1704",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "595306756ed1930303768483ba0f0df41ed630b6dbab868721350c27e833dc3a",
+      "replacement": "The name also entered government records. An 1881 reprint of a tax act from the May 12–21, 1701 session pairs Salem with Elfinburgh. That is the printed form; the session’s opening day does not establish the act’s exact passage date. Later references report township continuity under the February 21, 1798 law. Who settled on modern Elsinboro, and when that spelling became standard, remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "editorial",
+        "1704",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4336f7c1b34a85b728ed46c415e586456750fccfb8c234ccd34f87eab98d1b05",
+      "replacement": "Later histories describe Nya Elfsborg under Johan Printz and its connection with Älvsborg in Sweden.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1704",
+      "path": [
+        "editorial",
+        "1704",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "4336f7c1b34a85b728ed46c415e586456750fccfb8c234ccd34f87eab98d1b05",
+      "replacement": "Later histories describe Nya Elfsborg under Johan Printz and its connection with Älvsborg in Sweden.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "editorial",
+        "1704",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e141e832dc05543530752ccb4197c92ddb48c16aeb4182ae46e5f4b7a04eeae4",
+      "replacement": "The published calendar calls Guy’s Point formerly Elsingburg Fort. It gives a separate spelling from the November 12 warrant, without establishing an official rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1704",
+      "path": [
+        "editorial",
+        "1704",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e141e832dc05543530752ccb4197c92ddb48c16aeb4182ae46e5f4b7a04eeae4",
+      "replacement": "The published calendar calls Guy’s Point formerly Elsingburg Fort. It gives a separate spelling from the November 12 warrant, without establishing an official rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "editorial",
+        "1704",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "7ea6f7415b75e953fe445b07c7cb5e7e422ec19d105127a2a91358911da5aa81",
+      "replacement": "Later civil-boundary and municipal references report township continuity under the February 21, 1798 law. The first chooser and date of standardization for modern Elsinboro remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1704",
+      "path": [
+        "editorial",
+        "1704",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "d97ae1a9d709b0e01bbfa446b9ce92266507d8cbfeb8df602c67b7558dfaf5d7",
+      "replacement": "Later references connect the township with the February 21, 1798 law. The person who chose today’s spelling and the date it became usual remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1705",
+      "path": [
+        "editorial",
+        "1705",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "924e7652142a8e5913bab34c18f0d6678c74180634f7f1b1c43d0a245f976a12",
+      "replacement": "The separate calendar entry uses Allowayes Creeks. The spelling does not establish a formal rename from Allowaies Creek.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1705",
+      "path": [
+        "editorial",
+        "1705",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "924e7652142a8e5913bab34c18f0d6678c74180634f7f1b1c43d0a245f976a12",
+      "replacement": "The separate calendar entry uses Allowayes Creeks. The spelling does not establish a formal rename from Allowaies Creek.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1706",
+      "path": [
+        "editorial",
+        "1706",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "6869575d3017e85d6eb3d5579b8c9ac416d5519e518f33b12df4356380b57aad",
+      "replacement": "An 1881 legal reprint names Maneton precinct in a tax act from the May 12–21, 1701 session. That interval does not establish an exact act day or the precinct’s creation. The township webpage instead reports May 12, 1721. The basis for that different date remains unexplained.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1706",
+      "path": [
+        "editorial",
+        "1706",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "f6a8f5b4b8459cbd1863daeced9c83aa7e261dd02c46742dfdb7008da7917179",
+      "replacement": "A reprinted law names Maneton precinct during a 1701 session. The modern township page gives a different year, 1721. The reason for the difference remains unexplained.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1706",
+      "path": [
+        "editorial",
+        "1706",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "50c60b5e68670c93fdb6da5573e55aecc473b71cd38b18208424a663c522ab25",
+      "replacement": "The reprinted law names Maneton during the May 12–21, 1701 session. The township webpage gives a different first-mention year, 1721, whose basis remains unexplained. Township continuity in 1798 is a later stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1706",
+      "path": [
+        "editorial",
+        "1706",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "e2015ad2f6892aace6a5a997ea216478ec9cc406bdbeb5837ebbf70f08a907c4",
+      "replacement": "The reprinted law names Maneton during the May 12–21, 1701 session. The township webpage gives a different first-mention year, 1721, whose basis remains unexplained. Township continuity in 1798 is a later stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1707",
+      "path": [
+        "editorial",
+        "1707",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "df62ab0bcb58c78d85dded07d92b76fe8a05c5c950a472ae8f50c74d3cbe5d42",
+      "replacement": "The deeper explanation remains unresolved. Later sources discuss Alderman’s Creek or Kil and differ over Swedish and Dutch connections. The survey calendar does not establish that derivation or identify the original colonial namer. The printed form Masaeksey and web transcription Masaecksey differ slightly.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1707",
+      "path": [
+        "editorial",
+        "1707",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "954cb018f6b62d1ff101c64cf40eeb77630c6fef930e1662c49b7e620cf695b7",
+      "replacement": "Later accounts differ over Swedish and Dutch connections with Alderman’s Creek or Kil. The calendar does not establish either derivation or identify the original coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1707",
+      "path": [
+        "editorial",
+        "1707",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "954cb018f6b62d1ff101c64cf40eeb77630c6fef930e1662c49b7e620cf695b7",
+      "replacement": "Later accounts differ over Swedish and Dutch connections with Alderman’s Creek or Kil. The calendar does not establish either derivation or identify the original coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1708",
+      "path": [
+        "editorial",
+        "1708",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0df2555a93550dd77f979951f3ed8a469db579a498f2e12c348a3d1428d4ac1e",
+      "replacement": "Penns Grove grew as a Delaware River village before it became a borough. County place-name history and the Library of Congress newspaper account identify William Penn as its namesake. Grove fits the settlement name, but the particular grove and the first occasion when the words were joined remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1708",
+      "path": [
+        "editorial",
+        "1708",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "9aa5ab3d0dbc1761c63601422d7f1a3e14d61b31f356a65a8bcfe70e3655b4f6",
+      "replacement": "Residents voted for borough government in 1894. The index infers March 8 as the later filing and effective day from an unofficial source, so that date remains provisional. A 1917 change concerned the formal government title. It does not by itself establish that officials meant to remove an apostrophe.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1708",
+      "path": [
+        "editorial",
+        "1708",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "5419a53523ced5377661fde17b667c86b9255e748e75be111dacfbd8b500ba2a",
+      "replacement": "The index infers March 8 as the filing and effective day from an unofficial source. It remains provisional and separate from the March 6 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1708",
+      "path": [
+        "editorial",
+        "1708",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "5419a53523ced5377661fde17b667c86b9255e748e75be111dacfbd8b500ba2a",
+      "replacement": "The index infers March 8 as the filing and effective day from an unofficial source. It remains provisional and separate from the March 6 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1709",
+      "path": [
+        "editorial",
+        "1709",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d14726d8927b6a99405fc901fafdbd0f142e6bcc7af3120cb591b911d1121074",
+      "replacement": "Residents selected the principal village name for their township in 1965, replacing Lower Penns Neck while keeping the same government. The index assigns November 2 to the vote and effect, November 15 to committee records and December 15 to statutory filing. These are separate steps in the indexed account. The earlier locality names were not all former titles of the whole township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1709",
+      "path": [
+        "editorial",
+        "1709",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "a0d85b75ba70bb3e6f1cca388ad3502114ebb0ce8d77f16afdaa983c5dd21f1d",
+      "replacement": "The index reports December 15 as the state-filing date, separate from the November vote and committee records.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1709",
+      "path": [
+        "editorial",
+        "1709",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "a0d85b75ba70bb3e6f1cca388ad3502114ebb0ce8d77f16afdaa983c5dd21f1d",
+      "replacement": "The index reports December 15 as the state-filing date, separate from the November vote and committee records.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1709",
+      "path": [
+        "editorial",
+        "1709",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "7006b2aaa29c3e574b6dc8847133f1474f9bb402e9b3dd9944333169ba70e58f",
+      "replacement": "The index separates the November 2, 1965 vote and assigned effect, November 15 committee records and December 15 state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1710",
+      "path": [
+        "editorial",
+        "1710",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "83e0232a137a09e1e79a3c5ea19d2ac03ee3db3f90734d2d4e27be7ca0e0d73a",
+      "replacement": "Later guide and index references report the township by 1701. The separate Mannington tax list does not name Pilesgrove; that list does not establish Pilesgrove’s formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1710",
+      "path": [
+        "editorial",
+        "1710",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "83e0232a137a09e1e79a3c5ea19d2ac03ee3db3f90734d2d4e27be7ca0e0d73a",
+      "replacement": "Later guide and index references report the township by 1701. The separate Mannington tax list does not name Pilesgrove; that list does not establish Pilesgrove’s formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1710",
+      "path": [
+        "editorial",
+        "1710",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cbceac33860ee35ccf09ff922029c71ffb4d9a3e28fca44f5b5c07f55494785a",
+      "replacement": "Later guide and index references report the township by 1701 and its continuation in 1798. They do not establish an exact original municipal naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1710",
+      "path": [
+        "editorial",
+        "1710",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cbceac33860ee35ccf09ff922029c71ffb4d9a3e28fca44f5b5c07f55494785a",
+      "replacement": "Later guide and index references report the township by 1701 and its continuation in 1798. They do not establish an exact original municipal naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1711",
+      "path": [
+        "editorial",
+        "1711",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "00d92d64e73dae12bc691a00ca3f8c82402323f20dfdde00e092dc75d3ed5039",
+      "replacement": "The new township came from Pilesgrove. Its ending resembles the parent’s -grove form and may have been deliberate wordplay or continuity, but that intention and the first proposer remain unknown. The reported William Pitt honor does not establish who chose the compound.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1711",
+      "path": [
+        "editorial",
+        "1711",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4e62d063e21af8d78d5d155c427278ee684057a847eadd487be1db6a2d1e1697",
+      "replacement": "State law continued Pittsgrove in 1798. Later divisions changed its territory, including Upper Pittsgrove in 1846. The index distinguishes March 6 approval of that division from March 10 effect. These later government changes did not originate the older Pittsgrove name. Related New Pilesgrove history does not establish a simple sequence of official names for Pittsgrove.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1711",
+      "path": [
+        "editorial",
+        "1711",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "0c09f58dc6b256b3471caf3a7e40433d51ec4bb816ad360184400c0073f9257d",
+      "replacement": "Pittsgrove came from Pilesgrove territory. The related New Pilesgrove name does not by itself establish a former legal title for Pittsgrove.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1711",
+      "path": [
+        "editorial",
+        "1711",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "0c09f58dc6b256b3471caf3a7e40433d51ec4bb816ad360184400c0073f9257d",
+      "replacement": "Pittsgrove came from Pilesgrove territory. The related New Pilesgrove name does not by itself establish a former legal title for Pittsgrove.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1711",
+      "path": [
+        "editorial",
+        "1711",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "9fcf6493dbfc8933988adb4a540c5de9c7fdb924cee769ae7f9fa6abb569cf9f",
+      "replacement": "A deliberate echo of Pilesgrove’s ending is plausible but remains unproved. The first proposer and exact naming intention remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1711",
+      "path": [
+        "editorial",
+        "1711",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "3ac7cd0c8c37acc594f0244e0354317bbb95d90f0a3c239bb536a687e952ba87",
+      "replacement": "Pittsgrove and Pilesgrove share grove. That could be deliberate, but the resemblance alone does not establish what the namers intended.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1711",
+      "path": [
+        "editorial",
+        "1711",
+        "preview"
+      ],
+      "expected_sha256": "5483aaec252407f58e284c95fbb9f14806cc24b45bb7155cc63eceed4d028c76",
+      "replacement": "Pittsgrove is named for William Pitt the Elder. Its resemblance to Pilesgrove may be intentional, but the original naming intention remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1711",
+      "path": [
+        "views",
+        "1711",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "5483aaec252407f58e284c95fbb9f14806cc24b45bb7155cc63eceed4d028c76",
+      "replacement": "Pittsgrove is named for William Pitt the Elder. Its resemblance to Pilesgrove may be intentional, but the original naming intention remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1712",
+      "path": [
+        "editorial",
+        "1712",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5faf0bf1458ec8f9c1ae654fbaf4d18d7e24eabcdc626ed02d0bf651b8c7cb9c",
+      "replacement": "Published calendars name Tobias Quainton in two August 8, 1687 grants and a later 1689 assignment. These establish the personal name in records, rather than the naming of Quinton’s Bridge. An earlier personal deed does not establish that the bridge honored that person. The exact first bridge-name use and original chooser remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1712",
+      "path": [
+        "editorial",
+        "1712",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "ccbf6317a73982d3c2d783ebc33cefd5ccb2909e5ad19cf67ce15dbc488bf794",
+      "replacement": "Old published calendars name Tobias Quainton in land records. That establishes a person with the name there, without proving that he named the bridge or that it honored him. The exact first use of the bridge’s name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1712",
+      "path": [
+        "editorial",
+        "1712",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d888b792a60dcdfaad7d6dbf31528c89e77131836a984e6efedecb50c27697f4",
+      "replacement": "Later history places Quinton’s Bridge in the eighteenth-century landscape, without establishing an exact year for its naming. The township adopted the older locality identity when it formed from Upper Alloways Creek on February 18, 1873. An 1878 expansion from Mannington was a later boundary change, rather than another first naming of Quinton.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1712",
+      "path": [
+        "editorial",
+        "1712",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "23de9052ecf4dc87c0ebfc2f37c069379b68e2f0cbb6df82f8398f6b020cc1db",
+      "replacement": "The township was created in 1873 using the older locality identity. It later gained land from Mannington. Those government dates do not give the bridge’s first naming day. The older account gives an eighteenth-century setting without an exact year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1712",
+      "path": [
+        "editorial",
+        "1712",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "8862d3bc08a2b5e8e1019e3f538f3fdc953d83812119b7386a43fbd1fe3ce9a3",
+      "replacement": "The later account gives an eighteenth-century setting. The exact naming year and particular family member remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1712",
+      "path": [
+        "editorial",
+        "1712",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "8862d3bc08a2b5e8e1019e3f538f3fdc953d83812119b7386a43fbd1fe3ce9a3",
+      "replacement": "The later account gives an eighteenth-century setting. The exact naming year and particular family member remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1712",
+      "path": [
+        "editorial",
+        "1712",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "5da17a4f4fda4ed5afed892367fce99c810c7d16ac0380892153f7b02e70d9a4",
+      "replacement": "February 18, 1873 creation and February 7, 1878 expansion from Mannington were separate stages. The older bridge tradition gives an eighteenth-century setting, without an exact naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1712",
+      "path": [
+        "editorial",
+        "1712",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "5da17a4f4fda4ed5afed892367fce99c810c7d16ac0380892153f7b02e70d9a4",
+      "replacement": "February 18, 1873 creation and February 7, 1878 expansion from Mannington were separate stages. The older bridge tradition gives an eighteenth-century setting, without an exact naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1701",
+      "path": [
+        "views",
+        "1701",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "dbf5db0a2e786d5b973cfe3511821fa0fcb4a11efc08a0bf7cea0499d56d1620",
+      "replacement": "A separate dated creek-name use preceding the later 1679 examples, without establishing a naming cause.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1701",
+      "path": [
+        "views",
+        "1701",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "dbf5db0a2e786d5b973cfe3511821fa0fcb4a11efc08a0bf7cea0499d56d1620",
+      "replacement": "A separate dated creek-name use preceding the later 1679 examples, without establishing a naming cause.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1701",
+      "path": [
+        "views",
+        "1701",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "c17ab49617b52e4dd3d3b68214bb53b84807cfeba61d1f5ee1a208c7d8e066bb",
+      "replacement": "Later geographic use follows the September 1676 creek-name records. No naming cause is stated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1701",
+      "path": [
+        "views",
+        "1701",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "c17ab49617b52e4dd3d3b68214bb53b84807cfeba61d1f5ee1a208c7d8e066bb",
+      "replacement": "Later geographic use follows the September 1676 creek-name records. No naming cause is stated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1701",
+      "path": [
+        "views",
+        "1701",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "062234cfbaf1df56c5c409f4f91c494cca5f39f90072024f6d565ba812b5a473",
+      "replacement": "A later architectural survey quotes an 1826 deed conveying a tavern lot in the village of Allowaystown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1701",
+      "path": [
+        "views",
+        "1701",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "062234cfbaf1df56c5c409f4f91c494cca5f39f90072024f6d565ba812b5a473",
+      "replacement": "A later architectural survey quotes an 1826 deed conveying a tavern lot in the village of Allowaystown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1701",
+      "path": [
+        "views",
+        "1701",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "d3b9e353b6a2579953796c5d6bf9734dd8a24471f506477f5aef505d09b293d7",
+      "replacement": "The quoted deed describes nineteenth-century village usage before the reported shortening to Alloway.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1701",
+      "path": [
+        "views",
+        "1701",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "d3b9e353b6a2579953796c5d6bf9734dd8a24471f506477f5aef505d09b293d7",
+      "replacement": "The quoted deed describes nineteenth-century village usage before the reported shortening to Alloway.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1702",
+      "path": [
+        "views",
+        "1702",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "4f2f008d90142a594cb34b37fe68a768e8fe3fb1a618713c87587bcc1412c3f6",
+      "replacement": "The index reports a separate filing step; its relationship to the disputed legal effective day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1702",
+      "path": [
+        "views",
+        "1702",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "4f2f008d90142a594cb34b37fe68a768e8fe3fb1a618713c87587bcc1412c3f6",
+      "replacement": "The index reports a separate filing step; its relationship to the disputed legal effective day remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "views",
+        "1704",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2082d5e358b2767f7d15b03d47f146fff1c46ff7fcde6ad6e74d304331b16302",
+      "replacement": "A separate dated spelling from the November 12 Elsingeburge warrant.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1704",
+      "path": [
+        "views",
+        "1704",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2082d5e358b2767f7d15b03d47f146fff1c46ff7fcde6ad6e74d304331b16302",
+      "replacement": "A separate dated spelling from the November 12 Elsingeburge warrant.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "views",
+        "1704",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6e0b0d4079b093d90c5831088d1342333ec6e8de80a9fa099eb84f1f39253a00",
+      "replacement": "The calendar gives a locality spelling in an address, separate from the August 10 use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1704",
+      "path": [
+        "views",
+        "1704",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6e0b0d4079b093d90c5831088d1342333ec6e8de80a9fa099eb84f1f39253a00",
+      "replacement": "The calendar gives a locality spelling in an address, separate from the August 10 use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "views",
+        "1704",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "37fd44dd8db3dbe93f724c29edaca1475c729e7ba547ded640ef1f251c55db39",
+      "replacement": "A later locality-name use in 1685, distinct from the April 10 address.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1704",
+      "path": [
+        "views",
+        "1704",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "37fd44dd8db3dbe93f724c29edaca1475c729e7ba547ded640ef1f251c55db39",
+      "replacement": "A later locality-name use in 1685, distinct from the April 10 address.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1704",
+      "path": [
+        "views",
+        "1704",
+        "sources",
+        "S372",
+        "publication"
+      ],
+      "expected_sha256": "b1de54f361d4d681fa0adfd023a2ca67fa82e8ff005b40289d68bc697514f583",
+      "replacement": "Paper read December 10, 1907; publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1704",
+      "path": [
+        "views",
+        "1704",
+        "sources",
+        "S372",
+        "publication"
+      ],
+      "expected_sha256": "b1de54f361d4d681fa0adfd023a2ca67fa82e8ff005b40289d68bc697514f583",
+      "replacement": "Paper read December 10, 1907; publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1705",
+      "path": [
+        "views",
+        "1705",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "dbf5db0a2e786d5b973cfe3511821fa0fcb4a11efc08a0bf7cea0499d56d1620",
+      "replacement": "A separate dated creek-name use preceding the later 1679 examples, without establishing a naming cause.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1705",
+      "path": [
+        "views",
+        "1705",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "dbf5db0a2e786d5b973cfe3511821fa0fcb4a11efc08a0bf7cea0499d56d1620",
+      "replacement": "A separate dated creek-name use preceding the later 1679 examples, without establishing a naming cause.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1705",
+      "path": [
+        "views",
+        "1705",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "c17ab49617b52e4dd3d3b68214bb53b84807cfeba61d1f5ee1a208c7d8e066bb",
+      "replacement": "Later geographic use follows the September 1676 creek-name records. No naming cause is stated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1705",
+      "path": [
+        "views",
+        "1705",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "c17ab49617b52e4dd3d3b68214bb53b84807cfeba61d1f5ee1a208c7d8e066bb",
+      "replacement": "Later geographic use follows the September 1676 creek-name records. No naming cause is stated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1706",
+      "path": [
+        "views",
+        "1706",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "ec25b1143ab4d54844f2db4c64b20a4915a3c8b3ad78cdb4ecdb1d40332fef89",
+      "replacement": "The calendar gives an explicit Manneton Creek address before the later 1688 examples.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1706",
+      "path": [
+        "views",
+        "1706",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "ec25b1143ab4d54844f2db4c64b20a4915a3c8b3ad78cdb4ecdb1d40332fef89",
+      "replacement": "The calendar gives an explicit Manneton Creek address before the later 1688 examples.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1706",
+      "path": [
+        "views",
+        "1706",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c3bd0f0e5a4a86812d88933fcbab5c6d5421d2f6bf05877ff682d110a3f10ea2",
+      "replacement": "Later examples follow the Mannatons form in 1676 and the Manneton Creek address in 1684.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1706",
+      "path": [
+        "views",
+        "1706",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c3bd0f0e5a4a86812d88933fcbab5c6d5421d2f6bf05877ff682d110a3f10ea2",
+      "replacement": "Later examples follow the Mannatons form in 1676 and the Manneton Creek address in 1684.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1708",
+      "path": [
+        "views",
+        "1708",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "94bcf42b62ae245b68bff51add4fc3e17383c6a86482bba275e3a96e4dc3ded7",
+      "replacement": "Gordon’s published account describes a hamlet and ferry under the name, without establishing first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1708",
+      "path": [
+        "views",
+        "1708",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "94bcf42b62ae245b68bff51add4fc3e17383c6a86482bba275e3a96e4dc3ded7",
+      "replacement": "Gordon’s published account describes a hamlet and ferry under the name, without establishing first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1709",
+      "path": [
+        "views",
+        "1709",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "1d29d1de801b941a885320a8b50584556ed0e5bf3324c56506d7b53f144ff074",
+      "replacement": "Map year; later reproduction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1709",
+      "path": [
+        "views",
+        "1709",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "1d29d1de801b941a885320a8b50584556ed0e5bf3324c56506d7b53f144ff074",
+      "replacement": "Map year; later reproduction",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1710",
+      "path": [
+        "views",
+        "1710",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "14d9c8e0a8fbad6bd26900119a83b4a639f921878bbf685d68e06045752f191e",
+      "replacement": "The reported survey gives landholding context, without establishing Pile Grove name use in 1682.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1710",
+      "path": [
+        "views",
+        "1710",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "14d9c8e0a8fbad6bd26900119a83b4a639f921878bbf685d68e06045752f191e",
+      "replacement": "The reported survey gives landholding context, without establishing Pile Grove name use in 1682.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1710",
+      "path": [
+        "views",
+        "1710",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "7092090b29dafb233db99ed31e3a007768c5cacfc56e4815ab19209559ce4baf",
+      "replacement": "The named-tract account is separate from the April 1686 address and from township establishment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1710",
+      "path": [
+        "views",
+        "1710",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "7092090b29dafb233db99ed31e3a007768c5cacfc56e4815ab19209559ce4baf",
+      "replacement": "The named-tract account is separate from the April 1686 address and from township establishment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1710",
+      "path": [
+        "views",
+        "1710",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2b5e78f17f9c75e7e9bfb792cfd73f6ece2b64e53633bfb60bed0dc5e01557a7",
+      "replacement": "The later references report a municipal stage without establishing its exact original naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1710",
+      "path": [
+        "views",
+        "1710",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2b5e78f17f9c75e7e9bfb792cfd73f6ece2b64e53633bfb60bed0dc5e01557a7",
+      "replacement": "The later references report a municipal stage without establishing its exact original naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1712",
+      "path": [
+        "views",
+        "1712",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d81729fa60ae0928d8b468a6d3886df5602675651a1b386cf6cc106b16a75d35",
+      "replacement": "Broad eighteenth-century period; exact naming year unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1712",
+      "path": [
+        "views",
+        "1712",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "d81729fa60ae0928d8b468a6d3886df5602675651a1b386cf6cc106b16a75d35",
+      "replacement": "Broad eighteenth-century period; exact naming year unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1712",
+      "path": [
+        "views",
+        "1712",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3f3a9d3ab6b1ccc5d1589f70cf625306220d3406c48421c2fc9ad9a9fe5ea849",
+      "replacement": "Later county history places Quinton’s Bridge in the Revolutionary-era locality landscape. The exact original naming date remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1712",
+      "path": [
+        "views",
+        "1712",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3f3a9d3ab6b1ccc5d1589f70cf625306220d3406c48421c2fc9ad9a9fe5ea849",
+      "replacement": "Later county history places Quinton’s Bridge in the Revolutionary-era locality landscape. The exact original naming date remains unknown.",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
