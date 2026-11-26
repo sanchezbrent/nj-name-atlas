@@ -160,7 +160,7 @@ def transform(source, css):
     edits = [
         (head["close"], head["close"], '<style id="primary-layout-overlay">\n' + css + '\n</style>\n'),
         (root["start"], root["inner"], source[root["start"]:root["inner"]].replace('class="atlas-sheet"', 'class="atlas-sheet primary-layout-preview"')),
-        (masthead["start"], masthead["end"], '<header class="masthead">\n    <p class="layout-brand">New Jersey · An Atlas of Names</p>\n    <h1>Why is your town <span>called that?</span></h1>\n    <p class="subtitle">Find a place. Follow its names. Explore the stories behind them.</p>\n  </header>'),
+        (masthead["start"], masthead["end"], '<header class="masthead">\n    <p class="layout-brand">New Jersey Name Atlas</p>\n    <h1>Why is your town <span>called that?</span></h1>\n  </header>'),
         (title["inner"], title["close"], "Find your town"),
         (filters["start"], filters["inner"], '<section class="origin-filters" id="atlas-filters" aria-label="Map colors and name origins">'),
         (filters["close"], filters["end"], '</section>'),

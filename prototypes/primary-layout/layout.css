@@ -39,13 +39,6 @@
   text-transform: none;
 }
 #nj-name-atlas.primary-layout-preview .masthead h1 span { color: var(--layout-accent); }
-#nj-name-atlas.primary-layout-preview .masthead .subtitle {
-  font-size: 1rem;
-  font-style: normal;
-  line-height: 1.5;
-  margin-top: 12px;
-  color: var(--secondary-ink);
-}
 #nj-name-atlas.primary-layout-preview .atlas-columns {
   display: grid;
   grid-template-columns: minmax(0, 1.08fr) minmax(340px, .92fr);
@@ -125,7 +118,9 @@
   margin: 8px 0;
 }
 #nj-name-atlas.primary-layout-preview .legend button {
-  display: flex;
+  display: grid;
+  grid-template-columns: 17px minmax(0, 1fr) auto;
+  align-content: center;
   align-items: center;
   gap: 7px;
   width: auto;
@@ -138,7 +133,7 @@
   background: var(--control);
   font-size: .875rem;
 }
-#nj-name-atlas.primary-layout-preview .legend .swatch { width: 17px; height: 17px; flex: 0 0 17px; }
+#nj-name-atlas.primary-layout-preview .legend .swatch { width: 17px; height: auto; min-height: 0; align-self: stretch; }
 #nj-name-atlas.primary-layout-preview .legend button[aria-pressed="true"] {
   border-color: var(--layout-accent);
   box-shadow: inset 0 0 0 1px var(--layout-accent);
@@ -149,7 +144,7 @@
 #nj-name-atlas.primary-layout-preview .legend button[aria-pressed="true"] .swatch::after { content: "✓"; color: #fff; font-size: 14px; font-weight: 700; line-height: 1; text-shadow: 0 1px 2px #111; }
 #nj-name-atlas.primary-layout-preview #atlas-all-origins { min-height: 44px; margin: 0; padding: 8px 12px; border: 1px solid var(--soft-rule); border-radius: 6px; background: var(--control); font-size: .875rem; }
 #nj-name-atlas.primary-layout-preview .legend-name { min-width: 0; overflow-wrap: anywhere; }
-#nj-name-atlas.primary-layout-preview .legend-count { flex-shrink: 0; }
+#nj-name-atlas.primary-layout-preview .legend-count { line-height: 1.3; }
 #nj-name-atlas.primary-layout-preview .layout-more { flex: 0 1 auto; margin-left: auto; }
 #nj-name-atlas.primary-layout-preview .layout-more[open] { flex-basis: 100%; }
 #nj-name-atlas.primary-layout-preview .layout-more-body {
@@ -279,7 +274,6 @@
   #nj-name-atlas.primary-layout-preview { width: calc(100% - 16px); margin: 8px auto; padding: 16px; border-radius: 12px; }
   #nj-name-atlas.primary-layout-preview .masthead { padding: 0 0 16px; }
   #nj-name-atlas.primary-layout-preview .masthead h1 { font-size: 1.75rem; }
-  #nj-name-atlas.primary-layout-preview .masthead .subtitle { margin-top: 8px; font-size: .9375rem; }
   #nj-name-atlas.primary-layout-preview .explore > select { flex-basis: 100%; }
   #nj-name-atlas.primary-layout-preview .origin-filters { flex-basis: 100%; }
   #nj-name-atlas.primary-layout-preview .legend button { flex-basis: calc(50% - 4px); }
@@ -296,6 +290,11 @@
   #nj-name-atlas.primary-layout-preview.is-reading .event-name { grid-row: 3; }
   #nj-name-atlas.primary-layout-preview.is-reading .event-kind,
   #nj-name-atlas.primary-layout-preview.is-reading .event-heading:not(:has(.event-kind)) .event-name { grid-row: 2; }
+}
+/* Give narrow-phone labels room for whole words without hiding the key. */
+@media (max-width: 400px) {
+  #nj-name-atlas.primary-layout-preview .legend button { grid-template-columns: 17px minmax(0, 1fr); gap: 3px 6px; padding-inline: 8px; }
+  #nj-name-atlas.primary-layout-preview .legend-count { grid-column: 2; justify-self: start; }
 }
 @media print {
   #nj-name-atlas.primary-layout-preview { --layout-accent: #315d45; --layout-accent-wash: #e6eddf; border: 0; border-radius: 0; padding: 0; }

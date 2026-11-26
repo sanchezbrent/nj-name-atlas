@@ -2,7 +2,7 @@
 
 November 23, 2026. **Interactive local prototype; no production change.**
 
-Latest revision: **UI-1.3**, earlier onward links and clearer legend filtering; see the addenda below.
+Latest revision: **UI-1.4**, requested branding, text-height legend blocks and tagline removal; see the addenda below.
 The original UI-1 evidence and hashes remain recorded as that checkpoint.
 
 The interface and editorial paths remain separate. Editorial PR #5 owns copy,
@@ -351,3 +351,76 @@ combined acceptance and separately authorized release/live readback. Provisional
 active work remains 30–60 minutes for a bounded design revision or 45–90 minutes
 for the selected-source integration rehearsal, excluding waits; no editorial or
 publication completion ETA is asserted.
+
+## UI-1.4 — browser annotation refinements
+
+November 26, 2026. The three owner annotations are implemented on the separate
+Primary prototype. The checkpoint 23 content pin and all earlier UI/editorial
+recovery points remain unchanged.
+
+- The masthead brand now reads exactly “New Jersey Name Atlas.”
+- Legend color blocks stretch from the top to the bottom of their own label's
+  text lines, including labels with different line counts in the same row.
+  Category names, colors, counts and filtering remain owned by the original
+  runtime. Below 400px, counts move below labels and padding is slightly reduced
+  to prevent awkward word breaks in the exposed two-column phone legend.
+- The extra “Find a place. Follow its names. Explore the stories behind them.”
+  tagline is removed. The existing question and “Find your town” controls already
+  introduce the experience. No historical narrative or editorial proposal changes.
+
+### Preservation and verification
+
+Builder SHA-256:
+`32d1369019a1c517f231ded696f9b400ac5bf87566ac8ee01607a1cc3f669ce7`.
+Overlay SHA-256:
+`91a5bd8014f00175b83b2bf0a91facee00aee597f2279754255f1328119070c3`.
+
+| Composed source | UI-1.4 generated Primary SHA-256 |
+| --- | --- |
+| Main base, unchanged | `78f61eb557c3346bdbed7f50bccc42860ffce3c9e103829ef5007e500fb73e9c` |
+| Checkpoint 23, still pinned | `f53787c278900e79743078b5b33f250f762985623a40477a56405e0e8ebb83c8` |
+| Checkpoint 24, independent rehearsal | `c3e687b9826620d9b6883566b35f12511414d524323fd06e6e0df9c63362e217` |
+
+Each composition preserves all four original scripts/data blocks and original
+styles byte-for-byte, all 186 existing IDs, metadata/CSP and the six unaffected
+assets, including Young Explorers. No new IDs beyond UI-1's three, JavaScript,
+dependencies, schema or storage code are introduced. Published assets, committed
+baselines, the content pin and the editorial path remain untouched.
+
+All 22 Python tests and required publishing-source project/script, notebook and
+corpus checks pass. The final three compositions each pass their selected
+source's project/script checks, 16 fake-storage notebook assertions and statewide
+corpus checks: 5,941 assertions for each editorial snapshot, 5,921 for main.
+The unchanged older publishing source's report-only public-copy audit still
+reports NEEDS_REVIEW with 21,724 heuristic candidates. This is not publication
+clearance or a statement of the active editorial path's latest coverage.
+
+Browser QA on checkpoint 23 verifies the exact brand and absent tagline at 320,
+390, 768, 900, 1280, 1430 and 1600px. All seven legend blocks match their own
+label's top and bottom edges (zero measured difference at these widths). Every
+button is at least 44px high and there is no horizontal page overflow. The legend
+retains one row at 1280/1430/1600px and two columns on narrow phones. Whole-word
+wrapping and selected/unselected light/dark appearances were visually inspected.
+All seven filters select with their original counts (42, 153, 148, 115, 23, 28,
+55), expose the existing reset and clear normally. Selected blocks still match
+their labels. Enter opens Cinnaminson's reading view with its 22 chronology
+records; Escape returns to browse. The preview is restored to Cinnaminson in
+light appearance and the temporary viewport override is reset.
+
+Screenshots, measured rectangles and preservation receipts remain outside Git.
+Existing browser notes were not inspected or changed; notebook checks use fake
+storage and invented text only. This bounded revision does not repeat the prior
+full interaction pass, Young rendered check, checkpoint 24 browser acceptance,
+printing/download checks or assistive-technology certification. Prior QA limits
+and publication holds remain in force.
+
+### Stage and remaining milestones
+
+UI-1.4 implementation, targeted browser QA and immutable-source rehearsals are
+complete. The draft PR records this checkpoint and its CI status. Stop for design
+review; editorial, research and export work continue independently. Remaining
+milestones are layout acceptance, deliberate selection of a later completed
+editorial snapshot, a new combined integration checkpoint, combined acceptance
+and separately authorized release/live readback. Provisional active work remains
+30–60 minutes for a bounded design revision or 45–90 minutes for the selected-source
+integration rehearsal, excluding waits; no editorial or publication ETA is asserted.
