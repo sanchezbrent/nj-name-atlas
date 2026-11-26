@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_35",
+  "checkpoint": "PUBLIC_COPY_36",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -402,7 +402,19 @@
     "0901",
     "0902",
     "0903",
-    "0904"
+    "0904",
+    "0905",
+    "0906",
+    "0907",
+    "0908",
+    "0909",
+    "0910",
+    "0911",
+    "0912",
+    "1101",
+    "1102",
+    "1103",
+    "1104"
   ],
   "changes": [
     {
@@ -149684,6 +149696,3800 @@
       ],
       "expected_sha256": "6ccf20dc1c7fb40f0e616a65992115188aab034e92e6ef6f691c5ce599c9e159",
       "replacement": "A survey caption dates a development map around 1859. A modern caption does not establish the map’s original naming label or the day the town borrowed the word. Bergen Neck and older local places belong to a larger landscape with their own histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "315d7476eeac5831ad1ba5adeec234d14547a0bda3e5e054c787cd2bcf3e7695",
+      "replacement": "Hoboken’s older regional name is traditionally linked with Indigenous origins and later Dutch and English forms. John Stevens did not invent it. Its exact early spelling and literal meaning remain unsettled. Pipe-related explanations remain interpretations, rather than a settled translation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "5392e1d731fee74337a5c6c64d7182a6b73ff9460bc736ebb979081136a152cf",
+      "replacement": "Government adoption came later. An index separates township approval on March 1, 1849 from operation on April 9. The March 28, 1855 city charter prescribed majority acceptance at a March 29 poll before operation. The index reports success. That reported result and the charter’s voting requirement are distinct kinds of evidence, and neither settles the older name’s meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "2316f3a1fe558b09f54105d3602fd34b37012630933091305f18ece11607a379",
+      "replacement": "Hoboken’s government came later. An index gives separate dates for township approval and operation in 1849. The 1855 city charter required a majority to accept it at a poll before operation. The charter’s voting rule and the index’s report of success are different kinds of evidence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "ae0a57682aef157bd6b3a9077d490c2df3d121a5bb74716c50641272730f6eff",
+      "replacement": "The museum reports Stevens’s purchase on May 1, 1784. Purchase does not establish when he selected the Hoboken spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "ae0a57682aef157bd6b3a9077d490c2df3d121a5bb74716c50641272730f6eff",
+      "replacement": "The museum reports Stevens’s purchase on May 1, 1784. Purchase does not establish when he selected the Hoboken spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "d5df0de8002b7894c350d0c89f930568d9619723a8088d28db598b7c8f0302b9",
+      "replacement": "The index dates township approval to March 1, 1849. April 9 operation is a separate legal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "d5df0de8002b7894c350d0c89f930568d9619723a8088d28db598b7c8f0302b9",
+      "replacement": "The index dates township approval to March 1, 1849. April 9 operation is a separate legal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "e9ea756c89c53609865f3ac6a7539b476497aefafe4c210965fd6ac17c19764e",
+      "replacement": "The March 28, 1855 charter combines immediate-force language with a majority-acceptance condition. Approval and acceptance are distinct stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "e9ea756c89c53609865f3ac6a7539b476497aefafe4c210965fd6ac17c19764e",
+      "replacement": "The March 28, 1855 charter combines immediate-force language with a majority-acceptance condition. Approval and acceptance are distinct stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "87cee7d73ae231ebae6b293718ccf22079dbf56a71948e2eb0950a7d182a40d0",
+      "replacement": "The charter prescribes majority acceptance at a March 29, 1855 poll; the index reports success. A statutory requirement and a reported result are distinct evidence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "87cee7d73ae231ebae6b293718ccf22079dbf56a71948e2eb0950a7d182a40d0",
+      "replacement": "The charter prescribes majority acceptance at a March 29, 1855 poll; the index reports success. A statutory requirement and a reported result are distinct evidence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "c1839ba4b0361da36beb61c4b6bb5385177bfe59014a50b50a5eb0950751f02f",
+      "replacement": "The March 15, 1859 act creates Weehawken from Hoboken City and North Bergen with immediate effect. Its boundary-map reference does not establish the map’s full contents.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "c1839ba4b0361da36beb61c4b6bb5385177bfe59014a50b50a5eb0950751f02f",
+      "replacement": "The March 15, 1859 act creates Weehawken from Hoboken City and North Bergen with immediate effect. Its boundary-map reference does not establish the map’s full contents.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "0fc495867fea5086abd021244feacd416d12ae6845364f3c72937d5bebedb3a4",
+      "replacement": "The claimed Hobocan Hackingh form is not established as a securely dated early use. The claim alone does not establish a 1630 naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "0fc495867fea5086abd021244feacd416d12ae6845364f3c72937d5bebedb3a4",
+      "replacement": "The claimed Hobocan Hackingh form is not established as a securely dated early use. The claim alone does not establish a 1630 naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "2928296caa129b21d51fd15eeee6ca30704aa52c51b7c889e0fda7a4bbec5de0",
+      "replacement": "The museum describes Hoebuck and Hoboken. The claimed Hobocan Hackingh form and other very early spellings remain uncertain as securely dated uses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "aed153bad1f8309dcc09a257d81165a93a1651becc9782f245ea19aea6b62472",
+      "replacement": "The museum describes Hoebuck and Hoboken. The claimed Hobocan Hackingh form and other very early spellings remain uncertain as securely dated uses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "sidebar",
+        "fields",
+        "language",
+        "text"
+      ],
+      "expected_sha256": "a23c74a3299d5ca0a87bad3d3b372d9a180d6d4f2dff281a402d9da781e9539c",
+      "replacement": "The name is traditionally linked with Indigenous origins and later Dutch and English use. Its exact early forms and literal meaning remain unsettled.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "95570217d390ce924151c3cc3c8f7054f2d6037b3f26fa24dc7834c28fad50a3",
+      "replacement": "The index separates March 1, 1849 township approval from April 9 operation. Those dates do not establish actual first-meeting proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "editorial",
+        "0905",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "3514b45f2a9797d2f1c7378fa60a828b2e8f2eea9eaed3ab08988c8e057627b6",
+      "replacement": "The March 28, 1855 charter required majority acceptance at the March 29 poll before operation. The index reports success; the law’s requirement and that reported result are distinct evidence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0906",
+      "path": [
+        "editorial",
+        "0906",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "58e77b33152047aff3ec1661a6278f922bfb8d0561bcfe6036d657ed6193e191",
+      "replacement": "Later history links the Jersey Company, development and municipal wording. It does not establish an original coiner or a separate direct Channel Island dedication. A later reference filing is distinct from an original formation record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0906",
+      "path": [
+        "editorial",
+        "0906",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "58e77b33152047aff3ec1661a6278f922bfb8d0561bcfe6036d657ed6193e191",
+      "replacement": "Later history links the Jersey Company, development and municipal wording. It does not establish an original coiner or a separate direct Channel Island dedication. A later reference filing is distinct from an original formation record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0906",
+      "path": [
+        "editorial",
+        "0906",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "247422124d53100dd8fd03f8c454f9dfc9951d8e0315e5c72584a3518544d36c",
+      "replacement": "The index gives May 2, 1870 effect for the merger of Jersey City, Bergen City and Hudson City. Greenville joined later, while its reported vote totals remain conflicting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0906",
+      "path": [
+        "editorial",
+        "0906",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "247422124d53100dd8fd03f8c454f9dfc9951d8e0315e5c72584a3518544d36c",
+      "replacement": "The index gives May 2, 1870 effect for the merger of Jersey City, Bergen City and Hudson City. Greenville joined later, while its reported vote totals remain conflicting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0906",
+      "path": [
+        "editorial",
+        "0906",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0d112b1c7ad438dea08f9a355e325bf44095a7b952385553a9eeb8ffba1fa37d",
+      "replacement": "Later history reports the company in 1804 and an 1829 title amendment; the index places the City of Jersey/Jersey City framework in 1820. These are separate corporate and municipal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "editorial",
+        "0907",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b00bb1c424cb76b0fc2af1f68f6c36f3b02d2ea5b2d161e9f0762c02925f2e29",
+      "replacement": "Kearny separated from Harrison in 1867. Town history describes Halsted leading the separation campaign, without establishing him as the first name proposer. The act was approved March 14 and set April 8 for operation. It separately prescribed a first meeting; town history reports officers elected that day. The law required no acceptance referendum. A meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "editorial",
+        "0907",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "cda8d06a4e05095027a96158dd0c6e77a23cfd4267c76f9465b7680e47ee1c21",
+      "replacement": "A January 1899 vote changed the government to a town. The index infers filing and operation two days later from a later account. That conversion does not establish when the extra e first disappeared or prove a deliberate spelling-change resolution. The memorial name and government form have different histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "editorial",
+        "0907",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "a9897191132f0d87df0c8a916abc2524a1f942ec546446a9dbeb8ce47fa919a2",
+      "replacement": "Town history supplies the memorial attribution. The 1867 law separately prescribed a meeting, while town history reports officers elected that day. The law required no acceptance referendum; a schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "editorial",
+        "0907",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "a9897191132f0d87df0c8a916abc2524a1f942ec546446a9dbeb8ce47fa919a2",
+      "replacement": "Town history supplies the memorial attribution. The 1867 law separately prescribed a meeting, while town history reports officers elected that day. The law required no acceptance referendum; a schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "editorial",
+        "0907",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "a0cc45b59a861f2746ae1fe59832a0c10f15b4d24d2a72f64418ab113037c383",
+      "replacement": "The 1867 act prints Kearney, with an extra e. That historical spelling differs from the modern municipality’s name, whose first spelling transition remains undated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "editorial",
+        "0907",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "a0cc45b59a861f2746ae1fe59832a0c10f15b4d24d2a72f64418ab113037c383",
+      "replacement": "The 1867 act prints Kearney, with an extra e. That historical spelling differs from the modern municipality’s name, whose first spelling transition remains undated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "editorial",
+        "0907",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "951df093437ccb8442e81fd6c43c31d5a72a97efa1ac8f998f81d49e12ced525",
+      "replacement": "The index gives a January 17, 1899 vote and infers January 19 filing and effect. That inferred date does not establish the first Kearny spelling or a deliberate spelling-change resolution.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "editorial",
+        "0907",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "951df093437ccb8442e81fd6c43c31d5a72a97efa1ac8f998f81d49e12ced525",
+      "replacement": "The index gives a January 17, 1899 vote and infers January 19 filing and effect. That inferred date does not establish the first Kearny spelling or a deliberate spelling-change resolution.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "aefb8fb1a3e0b02e4b68d5f91bc543c7adad7a42f2c83d82f867a736e87354cd",
+      "replacement": "The legal index separates February 10 approval from April 10 operation in 1843. These are two stages in creating the township, rather than two separate name adoptions. The first local proposer and actual first-meeting proceedings remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d1ba86a975a1b2a31ec39993c47b811f5885f11337361e456b7e55864bacc851",
+      "replacement": "North Bergen inherited Bergen rather than demonstrably choosing a new European namesake in 1843. The deeper root belongs to the older name’s history. Later formations, including Hoboken, Weehawken and Secaucus, changed parent territory. Guttenberg’s earlier town form remained within a parent township. Each had its own legal sequence; their beginnings were not further North Bergen renames or evidence of identical territories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "b3345487947c13f4d8d92972d66561800556f01566140bca31152c0695763f84",
+      "replacement": "The index gives February 10 approval and April 10 operation in 1843. These are separate legal stages, rather than two naming days. Later municipalities changed the area’s boundaries while North Bergen kept its name. Its first local proposer and actual first-meeting proceedings remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "37916e597b9d8de4d8e8f0d8875a3475d2d54ce7ae082d47b58b6840110ae487",
+      "replacement": "The legal-history index transcribes the 1843 boundary wording naming the northern portion of Bergen Township. It does not identify the first local proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "37916e597b9d8de4d8e8f0d8875a3475d2d54ce7ae082d47b58b6840110ae487",
+      "replacement": "The legal-history index transcribes the 1843 boundary wording naming the northern portion of Bergen Township. It does not identify the first local proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d5df0de8002b7894c350d0c89f930568d9619723a8088d28db598b7c8f0302b9",
+      "replacement": "The index dates Hoboken township approval to March 1, 1849. April 9 operation is a separate legal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d5df0de8002b7894c350d0c89f930568d9619723a8088d28db598b7c8f0302b9",
+      "replacement": "The index dates Hoboken township approval to March 1, 1849. April 9 operation is a separate legal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "9ee176fc9e46e7644a2562a4b311e5550428dc5c3ef4fa444eabcfff008b85a5",
+      "replacement": "The index describes the 1859 Guttenberg town as remaining within North Bergen, rather than fully separating at that stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "9ee176fc9e46e7644a2562a4b311e5550428dc5c3ef4fa444eabcfff008b85a5",
+      "replacement": "The index describes the 1859 Guttenberg town as remaining within North Bergen, rather than fully separating at that stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "c1839ba4b0361da36beb61c4b6bb5385177bfe59014a50b50a5eb0950751f02f",
+      "replacement": "The March 15, 1859 act identifies Hoboken City and North Bergen as parents and gives immediate effect. Its boundary-map reference does not establish that map’s full contents.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "c1839ba4b0361da36beb61c4b6bb5385177bfe59014a50b50a5eb0950751f02f",
+      "replacement": "The March 15, 1859 act identifies Hoboken City and North Bergen as parents and gives immediate effect. Its boundary-map reference does not establish that map’s full contents.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "6faf4e057665c7135a476734bac496f326853cb80c8e08bac8f0e746e00e7185",
+      "replacement": "The government index places Guttenberg within the new Union Township in 1861. That Union Township was distinct from the Town of Union.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "6faf4e057665c7135a476734bac496f326853cb80c8e08bac8f0e746e00e7185",
+      "replacement": "The government index places Guttenberg within the new Union Township in 1861. That Union Township was distinct from the Town of Union.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "cf2726ec22bd634651d79eb7f85c68ae8d0e686e9df5abe3a166f1c5af7b88c7",
+      "replacement": "The index dates Secaucus Borough’s creation from North Bergen to March 12, 1900. Borough formation was separate from the older name’s origin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "cf2726ec22bd634651d79eb7f85c68ae8d0e686e9df5abe3a166f1c5af7b88c7",
+      "replacement": "The index dates Secaucus Borough’s creation from North Bergen to March 12, 1900. Borough formation was separate from the older name’s origin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "c613b82b09211cbf359679c130216679de616f14119d8ba0560cbbcfa5f8871f",
+      "replacement": "Later municipal formations changed parent territory. They were distinct legal sequences, rather than additional adoptions of North Bergen’s name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "editorial",
+        "0908",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "bdc41fab2d841f761ee443a0d49cf260d3b53808259c36e183db045395aa83ef",
+      "replacement": "The index gives February 10, 1843 approval and April 10 operation. Those dates do not establish actual first-meeting proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0909",
+      "path": [
+        "editorial",
+        "0909",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "e51da66a773f81009047d3af94e15276b3da15c89522aa9118953b9a8325388b",
+      "replacement": "A later history quotes Siskakes in a passage attributed to 1658. Other reported forms, including Sikakes, remain uncertain as securely dated early uses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0909",
+      "path": [
+        "editorial",
+        "0909",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "ae6681f664803e4e60da9389987703e30ea18db3949b17f823d80d6226c184cf",
+      "replacement": "A later history quotes Siskakes in a passage attributed to 1658. Other reported forms, including Sikakes, remain uncertain as securely dated early uses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "cdd553d9954595ed9292ea19029a81a1bfd96f033f41116ff9b6a028752ea86f",
+      "replacement": "Voters approved joining. The law gave the governing bodies the task of choosing and certifying the new name. A printed notice records The City of Union City and an October 1924 filing. The first individual proposer and exact local naming discussion remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "35d495f065bc249f26778d845cbcc8e1c92a93b0b67606dec57c7b14a90f0556",
+      "replacement": "Under the law, corporate existence began January 1, 1925 after the required proceedings. A later supplement provided for a May officer election and a June 1 government transition, the date commemorated in municipal history. A statutory schedule does not establish actual proceedings. January legal existence and June government organization describe different stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d7f3baeee260d43efc93dc08b56772b9e1ecaabf2960f519085065dea614e0f6",
+      "replacement": "The city’s legal existence began January 1, 1925 after the required steps. A later law provided an officer election in May and a government transition on June 1. These dates describe different parts of starting a city. A legal schedule does not establish that a meeting actually took place.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "2a277f99d26d6c330fbadee20366e4b3c066b67dc4792c7a241cb6c3f9248d57",
+      "replacement": "The statutory sequence provides January 1, 1925 corporate existence after the required order and filings. This legal stage was separate from the later transition to elected government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "2a277f99d26d6c330fbadee20366e4b3c066b67dc4792c7a241cb6c3f9248d57",
+      "replacement": "The statutory sequence provides January 1, 1925 corporate existence after the required order and filings. This legal stage was separate from the later transition to elected government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "7375c9a43c2e933da72108492a54772cc57a020cfc85e33ac68dc29f9cfe8e72",
+      "replacement": "The 1925 supplement provided a May officer election and June 1 government transition. May remains month-only; the schedule does not establish actual voting, oaths or first-meeting proceedings. January corporate existence was a separate stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "7375c9a43c2e933da72108492a54772cc57a020cfc85e33ac68dc29f9cfe8e72",
+      "replacement": "The 1925 supplement provided a May officer election and June 1 government transition. May remains month-only; the schedule does not establish actual voting, oaths or first-meeting proceedings. January corporate existence was a separate stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1b4cb02407eccfa2350c0c62531a4444afc265f25eb7a3b825fa2cab1a852be8",
+      "replacement": "A notice printed in 1925 records The City of Union City and an October 27, 1924 filing. Publication and filing occurred in different years; the first individual name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1b4cb02407eccfa2350c0c62531a4444afc265f25eb7a3b825fa2cab1a852be8",
+      "replacement": "A notice printed in 1925 records The City of Union City and an October 27, 1924 filing. Publication and filing occurred in different years; the first individual name proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "edce8877011371a765d9061e0c45374e40bc70c9408ad8ad21e5a7705aceffde",
+      "replacement": "The law provides January 1, 1925 corporate existence after the required proceedings. The city’s legal existence was separate from the later elected officers’ government transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "b5f9412310cf1dcd6f177f9bcf4c49a9544c350a43236a2ff02ee988c0560700",
+      "replacement": "The law provides January 1, 1925 corporate existence after the required proceedings. The city’s legal existence was separate from the later elected officers’ government transition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "9504008444b1d8d0d50fef3d8cd223eaa45351ccffea1f352e020ff59474598f",
+      "replacement": "A later law provided an officer election in May and government transition on June 1. An exact May polling day remains unknown. The statutory schedule does not establish actual proceedings; this was separate from January corporate existence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "editorial",
+        "0910",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0d9ee707e7bffbff01e3b3e3a549dad586c4b2881d7079fcd518340038d0c44e",
+      "replacement": "A later law provided an officer election in May and government transition on June 1. An exact May polling day remains unknown. The statutory schedule does not establish actual proceedings; this was separate from January corporate existence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "37a0f6524d11a26d03f8bcf1a66004b51d73369647c2e11d141cb6a150b62269",
+      "replacement": "Weehawken’s township name carries an older locality name along the Hudson and Palisades. It is traditionally connected with Indigenous, Munsee-related language through Dutch and English transmission. The exact literal meaning remains unsettled; “at the big land” is one interpretation, rather than a settled translation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "bdd2451b8f731a372deb09fd926d18f2881891988607cb0882f0a0d4c95cdbcb",
+      "replacement": "Weehawken was a place name before it became a township name. It is traditionally linked with Indigenous language and later Dutch and English use along the Hudson. Its exact literal meaning remains unsettled.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "8ef761737efce57de25ff6ff2c2f6fdf2d2c354b3138ef7d4c921f68077550fc",
+      "replacement": "A later Union City history reproduces Wiehacken in a passage attributed to 1658. That is a later transcription of a reported early use. The separate claimed 1647 Awiehaken form remains uncertain as a securely dated use. The forms do not establish successive legal township names, a complete spelling sequence or a settled translation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "e9d81ed859e1c0ba740f2599095584d12e0a146f5384bfeb1e4f4fd6e4f1805f",
+      "replacement": "A later history prints Wiehacken in a passage attributed to 1658. That is a later account of an early use. The separate claimed Awiehaken form remains uncertain. These spellings are clues to the older place name, rather than a list of official township renames.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8c149b40f2472164feb763a1c1f29b84bba41f2b020dc2b5f8f431ebf7ad5f12",
+      "replacement": "A later history reproduces Wiehacken in a passage attributed to 1658. The separate claimed 1647 Awiehaken form remains uncertain as a securely dated use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "8c149b40f2472164feb763a1c1f29b84bba41f2b020dc2b5f8f431ebf7ad5f12",
+      "replacement": "A later history reproduces Wiehacken in a passage attributed to 1658. The separate claimed 1647 Awiehaken form remains uncertain as a securely dated use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c1839ba4b0361da36beb61c4b6bb5385177bfe59014a50b50a5eb0950751f02f",
+      "replacement": "The March 15, 1859 act creates Weehawken from Hoboken City and North Bergen with immediate effect. Its boundary-map reference does not establish that map’s full contents.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c1839ba4b0361da36beb61c4b6bb5385177bfe59014a50b50a5eb0950751f02f",
+      "replacement": "The March 15, 1859 act creates Weehawken from Hoboken City and North Bergen with immediate effect. Its boundary-map reference does not establish that map’s full contents.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "6110d929015ba46f29b7faaf9f6240d4fe3f0d0a5146a2e01c5f717f531610c0",
+      "replacement": "The act prescribes the second Wednesday in April, April 13, 1859. That schedule does not establish actual meeting proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "6110d929015ba46f29b7faaf9f6240d4fe3f0d0a5146a2e01c5f717f531610c0",
+      "replacement": "The act prescribes the second Wednesday in April, April 13, 1859. That schedule does not establish actual meeting proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "6ff2451254f63600e5b71490c8c24f208c9e228a4382374c734f49f4cbcbde66",
+      "replacement": "The relationship between the older and modern locality forms remains uncertain. A complete spelling sequence and exact literal meaning have not been established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "6ff2451254f63600e5b71490c8c24f208c9e228a4382374c734f49f4cbcbde66",
+      "replacement": "The relationship between the older and modern locality forms remains uncertain. A complete spelling sequence and exact literal meaning have not been established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "ba760188287b6963150cf75527bcd0462fea6dea1751839cda2c879d1e6c4eb7",
+      "replacement": "A later history prints Wiehacken in a passage attributed to 1658. The separate claimed 1647 Awiehaken form remains uncertain as a securely dated use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "24aa0911cdeada1030cd9a193a6e27c74c79ff0a8260d6f38a563e3615ce2ae5",
+      "replacement": "A later history prints Wiehacken in a passage attributed to 1658. The separate claimed 1647 Awiehaken form remains uncertain as a securely dated use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "editorial",
+        "0911",
+        "sidebar",
+        "fields",
+        "legal_procedure",
+        "text"
+      ],
+      "expected_sha256": "1d4189f4a6e6f106486911e65c5750be12a0a63af0c48114ddb776e06e5b79d0",
+      "replacement": "The act gives March 15, 1859 immediate effect and prescribes an April 13 annual meeting. That schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "cf25dd1c4d6df2f81f5f7bdc65e08e5c9b9c0efddf151f44fdc2566bbd684df2",
+      "replacement": "Later history reports West New York as a label on an 1854 Robert C. Bacot map. An 1855 West New York Land Verein use is also claimed. These accounts do not establish absolute first use, the first chooser or the exact original naming decision. A mapmaker could record an existing name. Brower’s Point, Gregory’s Dock and Little Old West New York describe overlapping localities, rather than successive names for the whole modern town.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "bfac32755017d5b90b3ccec3cb1c11806c4f97c2052d6f18d278dab417aa0434",
+      "replacement": "An 1854 map label is reported, and an 1855 company use is claimed. Those accounts do not establish who invented West New York or exactly when. A mapmaker can use an existing name. Older local names also described their own places, rather than every part of today’s town.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "4dbcfd6af30770785d5d661d0fb5524f718d929b34b80745ee04ddf515e86e25",
+      "replacement": "The government developed from the remaining Union Township after Guttenberg separated. The index distinguishes a March 2, 1898 enabling law, June 6 election ordinance, July 5 vote and July 8 filing and effect. That Union Township was distinct from the Town of Union later merged into Union City. These are different governments and separate legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "da48dc2998d0e0e491d7d3abd01ef826bf759e3e0e3b6344d56e4a6e3e3409a1",
+      "replacement": "Early map and company uses are reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "da48dc2998d0e0e491d7d3abd01ef826bf759e3e0e3b6344d56e4a6e3e3409a1",
+      "replacement": "Early map and company uses are reported",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "474f832911267cb3ea2310e5394d48aff2f1ec15179d20b27d119e73979c340d",
+      "replacement": "Later history reports Bacot’s 1854 map label, and an 1855 Land Verein use is claimed. Those accounts do not establish absolute first use or a first name chooser; a mapmaker could record an existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "474f832911267cb3ea2310e5394d48aff2f1ec15179d20b27d119e73979c340d",
+      "replacement": "Later history reports Bacot’s 1854 map label, and an 1855 Land Verein use is claimed. Those accounts do not establish absolute first use or a first name chooser; a mapmaker could record an existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "decffc32c303b24a0a3c6004c5dc1262f4da8897a6a247ce2449c72707417ca7",
+      "replacement": "The index separates March 2 enabling law, June 6 ordinance, July 5 vote and July 8 filing and effect in 1898. Union Township was distinct from the Town of Union.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "decffc32c303b24a0a3c6004c5dc1262f4da8897a6a247ce2449c72707417ca7",
+      "replacement": "The index separates March 2 enabling law, June 6 ordinance, July 5 vote and July 8 filing and effect in 1898. Union Township was distinct from the Town of Union.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1352035ba057d65f074c7174e59c54c0bfdc35dc571e129bfd8d724fa9ab37a0",
+      "replacement": "Later history reports an 1854 Bacot map label, while an 1855 Land Verein use is claimed. These do not establish absolute first use or the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "9fee006d6a7acbf4dbcaa72e3ce9a22240d5c1889637b1cd3e99808b93958c1d",
+      "replacement": "Later history reports an 1854 Bacot map label, while an 1855 Land Verein use is claimed. These do not establish absolute first use or the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "4d67e8c15b7bd9e083e86f16a5d5cbe8bbc7fd6fd6e0f8115e9bad69a2a288db",
+      "replacement": "The index separates March 2 enabling law, June 6 election ordinance, July 5 vote and July 8 state filing and effect in 1898. They are distinct legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "4d67e8c15b7bd9e083e86f16a5d5cbe8bbc7fd6fd6e0f8115e9bad69a2a288db",
+      "replacement": "The index separates March 2 enabling law, June 6 election ordinance, July 5 vote and July 8 state filing and effect in 1898. They are distinct legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "preview"
+      ],
+      "expected_sha256": "2fc675307ed25b631a08e0a8a886ffb323d749cdd344659dc697165562ed7a99",
+      "replacement": "West New York’s directional name is reported before town government. Early map and development uses remain qualified; the remaining Union Township adopted the name in 1898.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "2fc675307ed25b631a08e0a8a886ffb323d749cdd344659dc697165562ed7a99",
+      "replacement": "West New York’s directional name is reported before town government. Early map and development uses remain qualified; the remaining Union Township adopted the name in 1898.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "editorial",
+        "0912",
+        "preview"
+      ],
+      "expected_sha256": "5a3cdbf76e7b08baf143b4018a85b069bba5f3615b066f88770f011985953fc9",
+      "replacement": "West New York points west of New York City. An early map label is reported and a company use claimed, while the first name chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "5a3cdbf76e7b08baf143b4018a85b069bba5f3615b066f88770f011985953fc9",
+      "replacement": "West New York points west of New York City. An early map label is reported and a company use claimed, while the first name chooser remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5655fb35defc49ee6213ecdb8a5fe02cbfbe00a91cd58da5e6bd77561d7d7422",
+      "replacement": "Robert W. Craig’s later historical account reports New Winsor in an April 1731 county record. That spelling differs from the normalized New Windsor. A reported March 9, 1751 patent marks a later chartered Windsor stage. A bibliographic recording notation does not establish a second charter.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d00c1f6c6bbe6c865c8bea25c82e7e3df4e6722f6939207bc8fe9d1ab99fe7c5",
+      "replacement": "The historical-society account dates the division into East and West Windsor to February 9, 1797, while another account gives February 7. That date difference remains unresolved. General township continuation followed in 1798. These stages carried an older name without establishing an actual first meeting or a new English namesake choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "28d427182740453979fffe5951dfada63ac69e38f28a9526cce2975463e6dc11",
+      "replacement": "Accounts give February 7 or February 9, 1797 for the division into East and West Windsor. The relationship between those dates remains unresolved. The 1798 township law came later. A division date does not establish when people first met as a government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "354bd9ec1015bd1d07237f60b571f289e03646f703d6aecb53f725328ec43711",
+      "replacement": "A later account reports New Winsor in April 1731; New Windsor is a normalized rendering. The reported March 9, 1751 charter is a later stage. A bibliographic recording notation does not establish another charter.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "354bd9ec1015bd1d07237f60b571f289e03646f703d6aecb53f725328ec43711",
+      "replacement": "A later account reports New Winsor in April 1731; New Windsor is a normalized rendering. The reported March 9, 1751 charter is a later stage. A bibliographic recording notation does not establish another charter.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "85c07b92290788c25c0369e63c6693df9bf185b5b7c0827936f15e394bd24447",
+      "replacement": "February 9 and February 7, 1797 remain alternative accounts of the division. February 21, 1798 continuation was later. Neither stage establishes an original English naming intention or actual first-meeting proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "85c07b92290788c25c0369e63c6693df9bf185b5b7c0827936f15e394bd24447",
+      "replacement": "February 9 and February 7, 1797 remain alternative accounts of the division. February 21, 1798 continuation was later. Neither stage establishes an original English naming intention or actual first-meeting proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "344b2f229bedbf75fb41e11999642af8df6bbcf67860e302d40b1b86c513858f",
+      "replacement": "The cited account gives February 9, 1797 for the division; another gives February 7. The difference remains unresolved. Neither date establishes an actual first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1101",
+      "path": [
+        "editorial",
+        "1101",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "344b2f229bedbf75fb41e11999642af8df6bbcf67860e302d40b1b86c513858f",
+      "replacement": "The cited account gives February 9, 1797 for the division; another gives February 7. The difference remains unresolved. Neither date establishes an actual first meeting.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1102",
+      "path": [
+        "editorial",
+        "1102",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "912c1e47759621aec4cba8068b24ccf08d737888ad96f05b8bc37709a116aa13",
+      "replacement": "Accounts disagree about the 1834 date: municipal history gives February 22, while a legal-history index gives March 1. Their relationship remains unresolved; the two dates do not establish separate creations or an approval-and-operation sequence. Ewing’s later inclusion in Mercer County belongs to a different 1838 decision, carrying the existing name forward.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1102",
+      "path": [
+        "editorial",
+        "1102",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "22ea2847bd70a1fd84322cb2d83e6b09ccf7e2c66a1bbf5707d4ede65052e03b",
+      "replacement": "The municipal history gives February 22 for Ewing’s 1834 beginning; a guide to government records gives March 1. Their relationship remains unresolved. The dates do not establish two creations or separate approval and operation. Becoming part of Mercer County in 1838 was a later change, with Ewing already in use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1102",
+      "path": [
+        "editorial",
+        "1102",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "39cefa9627b522a2ea25604b5212564a38ab7d53656e293852553643d042bc5d",
+      "replacement": "Municipal history gives February 22 and the index March 1 for Ewing’s 1834 creation. Their relationship remains unresolved. Trenton city kept its own identity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1102",
+      "path": [
+        "editorial",
+        "1102",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "39cefa9627b522a2ea25604b5212564a38ab7d53656e293852553643d042bc5d",
+      "replacement": "Municipal history gives February 22 and the index March 1 for Ewing’s 1834 creation. Their relationship remains unresolved. Trenton city kept its own identity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1102",
+      "path": [
+        "editorial",
+        "1102",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "4cda9393a5588df13898b4c49ef217c48e6786c36dc3c84632c66174cb56ab66",
+      "replacement": "Municipal history gives February 22 and the index March 1 for the 1834 creation. Their relationship remains unresolved. Mercer County affiliation followed as a separate 1838 decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1102",
+      "path": [
+        "editorial",
+        "1102",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c1ef4be2d02a93849a70b6f521302876d3c558232fe393ad749f65897f8fa42d",
+      "replacement": "Municipal history gives February 22 and the index March 1 for the 1834 creation. Their relationship remains unresolved. Mercer County affiliation followed as a separate 1838 decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1103",
+      "path": [
+        "editorial",
+        "1103",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "12feb6fbcc106d0d419eacbdc7c0c19f991bba36879486e26699cbdcc43da7ea",
+      "replacement": "Hamilton Township is usually linked with Alexander Hamilton, while its original local naming explanation remains unknown. The township name entered the law in 1842, when territory separated from Nottingham Township. The village’s name has a more complicated chronology.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1103",
+      "path": [
+        "editorial",
+        "1103",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "2a91e1a7f08c813c89aae691fbae4a1ff9dcfdfdf0e11efce23c55c3d8eb313a",
+      "replacement": "The township law passed March 11, 1842 and began operating April 11. It prescribed a first annual meeting at John Ginglen’s house in Yarasville. That schedule does not establish actual attendance or proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1103",
+      "path": [
+        "editorial",
+        "1103",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "94b8d76aa778f3c4296870d8940e9371e30d8f3ad120d023518de4b130bc4988",
+      "replacement": "Those accounts differ from a familiar War of 1812 naming story. The exact sequence of the village-name change remains unresolved. Alexander Hamilton is the probable honoree, while the original local naming explanation remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1103",
+      "path": [
+        "editorial",
+        "1103",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "c2f5ca55680fa7dffb4610107a21cc17c73079f451cd1c283c7402370580bfaf",
+      "replacement": "The familiar War of 1812 village-renaming account conflicts with the later township-first chronology. The precise sequence and exact original village naming day remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "59106ba83bf1aff91581fc975b30540d6dd97121287e01e4116a411c0d2f366b",
+      "replacement": "Hightstown’s name grew around the Hight family’s property, mill and tavern, especially John and Mary. A traditional account places their arrival in 1721, while historian Robert Craig challenged that chronology. The family connection is clearer than an exact first naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c81d62e68466a6ff51c44371ce8e70ef7a7d4b43e59994c5b5a305626a70b47f",
+      "replacement": "Craig’s 1993 article reports Hytes Town in a 1765 deed and quotes Haights Town in a 1781 tavern petition. These are later accounts of early locality spellings, without establishing a formal name coiner or absolute first use. A separate claim of Hight’s-Town in a 1779 newspaper advertisement remains uncertain. Craig’s March 1779 passage describes a house sale, which does not establish the advertisement’s wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "cb2ae0c2f472f6ee0ebbf6473c45131b2df8fe3e5aca8210f94f5434f5cf5612",
+      "replacement": "Craig reports Hytes Town in a 1765 deed and Haights Town in a 1781 tavern petition. These are later accounts of early spellings. A claimed 1779 newspaper use remains uncertain: the house sale in Craig’s article does not establish that newspaper claim.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "094d5d96849f35e8e27d6ae48fefc8ee1e98a0738988edec6a6426c48a2fbeaa",
+      "replacement": "Craig’s later article quotes Hytes Town from a 1765 deed. That reported use does not establish a formal name coiner or absolute first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "094d5d96849f35e8e27d6ae48fefc8ee1e98a0738988edec6a6426c48a2fbeaa",
+      "replacement": "Craig’s later article quotes Hytes Town from a 1765 deed. That reported use does not establish a formal name coiner or absolute first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e39da23c85de0920974bb3bf9f596d58dcedf07c3f95e0ecdb76d9184eef7f21",
+      "replacement": "Craig’s later article quotes Haights Town from a 1781 tavern petition. An exact petition day remains unknown; this is a separate account from the 1779 newspaper claim.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e39da23c85de0920974bb3bf9f596d58dcedf07c3f95e0ecdb76d9184eef7f21",
+      "replacement": "Craig’s later article quotes Haights Town from a 1781 tavern petition. An exact petition day remains unknown; this is a separate account from the 1779 newspaper claim.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "d5fff32f7c6b055730033114a59655d0183b39dd392b5ab7b451bd0ec0d2520b",
+      "replacement": "The Hight family’s mill, tavern and property supplied the naming context. Craig challenges the traditional 1721 arrival account; an individual formal name coiner remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "d5fff32f7c6b055730033114a59655d0183b39dd392b5ab7b451bd0ec0d2520b",
+      "replacement": "The Hight family’s mill, tavern and property supplied the naming context. Craig challenges the traditional 1721 arrival account; an individual formal name coiner remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f234659dbe4994c1f6bc2269922b44a4ff34102b45be98e456aa9a9586a9904c",
+      "replacement": "The exact original naming day remains unknown. Reported deed and petition uses, the uncertain newspaper claim and later government stages describe different parts of Hightstown’s history. Mill-building accounts do not establish one naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f234659dbe4994c1f6bc2269922b44a4ff34102b45be98e456aa9a9586a9904c",
+      "replacement": "The exact original naming day remains unknown. Reported deed and petition uses, the uncertain newspaper claim and later government stages describe different parts of Hightstown’s history. Mill-building accounts do not establish one naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "editorial",
+        "1104",
+        "preview"
+      ],
+      "expected_sha256": "5ec69d2c3197de3ee8bfa1afc541a3540962f30fe0a02dfc8e8979e44249db80",
+      "replacement": "Hightstown remembers the Hight family, especially John and Mary. Later historical accounts report early forms including Hytes Town and Haights Town.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "5ec69d2c3197de3ee8bfa1afc541a3540962f30fe0a02dfc8e8979e44249db80",
+      "replacement": "Hightstown remembers the Hight family, especially John and Mary. Later historical accounts report early forms including Hytes Town and Haights Town.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "1d30021e380b1f3b3b8ada39f3945982b8d68525a217e60eac11eb13f5cdc7a3",
+      "replacement": "Exact statutory approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "d533ef029b67b9f309a1585fe41b92f8999d92c0ece5e25e8a98cac22145d3a0",
+      "replacement": "Sections 69–72 distinguish approval from required majority acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "ebafa4a59257c88e6235735c8e20622992f35cc07cb726373f887cb10cfbddd3",
+      "replacement": "The charter governs city formation; it does not settle the older name’s linguistic history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "4c3a827e81fe6f4e75a6e7987628a64fbf8456f09e3d6fa7c3a331860e359e98",
+      "replacement": "Prescribed poll date; success reported by index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "58193fdcfee5a713b875d5fe877c9d2e53af2e14adef5f7738b5a9e5d46c4fd2",
+      "replacement": "The law prescribes majority acceptance at a March 29 poll; the index reports election and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "806f8afe688c094957b88dc70bb3569d28a0fc52c3988f10ede2283daf7c0d41",
+      "replacement": "The statutory condition and reported success are distinct kinds of evidence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "f4e48e2886cdab12a8a18f5ec8a366b4e7815b63c9283e705ce428ad0031eb00",
+      "replacement": "Exact statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "49a80c702cac0ce7ec6b9feb0546d90bd3c78f59b5d8c2ce0fc358b13ccccf5d",
+      "replacement": "Sections 1, 6 and 9 identify Hoboken City and North Bergen as parents and give immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "7d7efb4621db24df382c61014604349ca89ef252f15bd7e638d0cf8db2fe02bf",
+      "replacement": "Weehawken formed partly from Hoboken City, rather than an earlier Hoboken township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "f5a1edc09d44a69fb3b61609abe81fef997a680cf613b6e85be5e7a53eee7964",
+      "replacement": "Date of claimed early form unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "type"
+      ],
+      "expected_sha256": "991e1ba1efb3f963bf25b8e83b8146acf9052bc0ed5156baabafcfbb9f424da7",
+      "replacement": "Uncertain early-name account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "actor"
+      ],
+      "expected_sha256": "564926b96b87906d79af1d6f40956a69bcac17255b467aa80becdf20fe9d63a6",
+      "replacement": "Original recorders not securely identified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "dd59dcb1e98bbdf218bcaa7b389a17b133683bb962b534dec750bd45f90e7adb",
+      "replacement": "The claimed Hobocan Hackingh form is not established as a securely dated 1630-era use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "28c01c6211810425ad9b5191dfae65e7cf76958eea0965ec39aa9f3952028ad2",
+      "replacement": "The claimed form does not establish an absolute first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "sources",
+        "S2131",
+        "publication"
+      ],
+      "expected_sha256": "d540e1994c3e79dc919bccd9ba29cc35d10c6ef4b76d74af2e5b1d101ddacb82",
+      "replacement": "Undated webpage; accessed 2026-10-11",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "1d30021e380b1f3b3b8ada39f3945982b8d68525a217e60eac11eb13f5cdc7a3",
+      "replacement": "Exact statutory approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "d533ef029b67b9f309a1585fe41b92f8999d92c0ece5e25e8a98cac22145d3a0",
+      "replacement": "Sections 69–72 distinguish approval from required majority acceptance.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "ebafa4a59257c88e6235735c8e20622992f35cc07cb726373f887cb10cfbddd3",
+      "replacement": "The charter governs city formation; it does not settle the older name’s linguistic history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "4c3a827e81fe6f4e75a6e7987628a64fbf8456f09e3d6fa7c3a331860e359e98",
+      "replacement": "Prescribed poll date; success reported by index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "58193fdcfee5a713b875d5fe877c9d2e53af2e14adef5f7738b5a9e5d46c4fd2",
+      "replacement": "The law prescribes majority acceptance at a March 29 poll; the index reports election and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "806f8afe688c094957b88dc70bb3569d28a0fc52c3988f10ede2283daf7c0d41",
+      "replacement": "The statutory condition and reported success are distinct kinds of evidence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "f4e48e2886cdab12a8a18f5ec8a366b4e7815b63c9283e705ce428ad0031eb00",
+      "replacement": "Exact statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "49a80c702cac0ce7ec6b9feb0546d90bd3c78f59b5d8c2ce0fc358b13ccccf5d",
+      "replacement": "Sections 1, 6 and 9 identify Hoboken City and North Bergen as parents and give immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "7d7efb4621db24df382c61014604349ca89ef252f15bd7e638d0cf8db2fe02bf",
+      "replacement": "Weehawken formed partly from Hoboken City, rather than an earlier Hoboken township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "f5a1edc09d44a69fb3b61609abe81fef997a680cf613b6e85be5e7a53eee7964",
+      "replacement": "Date of claimed early form unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "type"
+      ],
+      "expected_sha256": "991e1ba1efb3f963bf25b8e83b8146acf9052bc0ed5156baabafcfbb9f424da7",
+      "replacement": "Uncertain early-name account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "actor"
+      ],
+      "expected_sha256": "564926b96b87906d79af1d6f40956a69bcac17255b467aa80becdf20fe9d63a6",
+      "replacement": "Original recorders not securely identified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "dd59dcb1e98bbdf218bcaa7b389a17b133683bb962b534dec750bd45f90e7adb",
+      "replacement": "The claimed Hobocan Hackingh form is not established as a securely dated 1630-era use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "28c01c6211810425ad9b5191dfae65e7cf76958eea0965ec39aa9f3952028ad2",
+      "replacement": "The claimed form does not establish an absolute first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0905",
+      "path": [
+        "views",
+        "0905",
+        "sources",
+        "S2131",
+        "publication"
+      ],
+      "expected_sha256": "d540e1994c3e79dc919bccd9ba29cc35d10c6ef4b76d74af2e5b1d101ddacb82",
+      "replacement": "Undated webpage; accessed 2026-10-11",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0906",
+      "path": [
+        "views",
+        "0906",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "c71fe5964d6b9bde73f2faaf1d877951eb5309bf9d85471a9b32c42b75b54a8d",
+      "replacement": "The listed election does not establish its precise type or operative legal effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0906",
+      "path": [
+        "views",
+        "0906",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "47612bef7efe1f230d6923e00b52c5cd327a851835a7dbcd2a67133e2d6ce332",
+      "replacement": "The index and later history report the consolidation vote, separately from charter approval and operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0906",
+      "path": [
+        "views",
+        "0906",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "c71fe5964d6b9bde73f2faaf1d877951eb5309bf9d85471a9b32c42b75b54a8d",
+      "replacement": "The listed election does not establish its precise type or operative legal effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0906",
+      "path": [
+        "views",
+        "0906",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "47612bef7efe1f230d6923e00b52c5cd327a851835a7dbcd2a67133e2d6ce332",
+      "replacement": "The index and later history report the consolidation vote, separately from charter approval and operation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "0f0e30bfb539f7cb47ac33a6be9ec987800b2892c1bdf81dc3140cef84674afb",
+      "replacement": "Exact statutory approval date and spelling",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "c5625b3622e5be4ff549b0d3bb1b1a4a79d3890cb96dc3457819b83789fab29f",
+      "replacement": "Chapter 134 approves the township under the Kearney spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "4d064f6925b111bcfff5106e245221acd8988d17535b4605d6ae0435ba311b8a",
+      "replacement": "The statutory spelling differs from the modern name; the reported honoree comes from later town history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "b1f8a147fe90bbb24e452f52ad9e981dd5d7ce8c9f49b03b151409bdd7013f7c",
+      "replacement": "Exact statutory effect derived from weekday rule",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "945a6c74e8b699a0fc1c827f7279ec1b1e7f8f18e661a434226d9fff9d8d283f",
+      "replacement": "Section 3 schedules a first meeting; town history separately reports officers elected on April 8.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "e9fd273fc1fc87ae3db8642552b4332d8fa8ba33e5537420e737064136cae5c8",
+      "replacement": "A meeting schedule does not establish actual proceedings or an acceptance referendum.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "0f0e30bfb539f7cb47ac33a6be9ec987800b2892c1bdf81dc3140cef84674afb",
+      "replacement": "Exact statutory approval date and spelling",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "c5625b3622e5be4ff549b0d3bb1b1a4a79d3890cb96dc3457819b83789fab29f",
+      "replacement": "Chapter 134 approves the township under the Kearney spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "4d064f6925b111bcfff5106e245221acd8988d17535b4605d6ae0435ba311b8a",
+      "replacement": "The statutory spelling differs from the modern name; the reported honoree comes from later town history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "b1f8a147fe90bbb24e452f52ad9e981dd5d7ce8c9f49b03b151409bdd7013f7c",
+      "replacement": "Exact statutory effect derived from weekday rule",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "945a6c74e8b699a0fc1c827f7279ec1b1e7f8f18e661a434226d9fff9d8d283f",
+      "replacement": "Section 3 schedules a first meeting; town history separately reports officers elected on April 8.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0907",
+      "path": [
+        "views",
+        "0907",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "e9fd273fc1fc87ae3db8642552b4332d8fa8ba33e5537420e737064136cae5c8",
+      "replacement": "A meeting schedule does not establish actual proceedings or an acceptance referendum.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "f4e48e2886cdab12a8a18f5ec8a366b4e7815b63c9283e705ce428ad0031eb00",
+      "replacement": "Exact statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "49a80c702cac0ce7ec6b9feb0546d90bd3c78f59b5d8c2ce0fc358b13ccccf5d",
+      "replacement": "Sections 1, 6 and 9 identify Hoboken City and North Bergen as parents and give immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "7d7efb4621db24df382c61014604349ca89ef252f15bd7e638d0cf8db2fe02bf",
+      "replacement": "Weehawken formed partly from Hoboken City, rather than an earlier Hoboken township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "127774242f24c876c2e4cd37a31be52e763ea8a1fd824534bbcabf5c1c8c6cc4",
+      "replacement": "The northern division explains the immediate directional name. A separate community naming day is unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "3bb92c4fe77d16b87302c86ded614c07d72874ddcf292e74e06376cd821f1e38",
+      "replacement": "The direction describes the division, rather than establishing another naming event in 1843.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "f4e48e2886cdab12a8a18f5ec8a366b4e7815b63c9283e705ce428ad0031eb00",
+      "replacement": "Exact statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "49a80c702cac0ce7ec6b9feb0546d90bd3c78f59b5d8c2ce0fc358b13ccccf5d",
+      "replacement": "Sections 1, 6 and 9 identify Hoboken City and North Bergen as parents and give immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "7d7efb4621db24df382c61014604349ca89ef252f15bd7e638d0cf8db2fe02bf",
+      "replacement": "Weehawken formed partly from Hoboken City, rather than an earlier Hoboken township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "127774242f24c876c2e4cd37a31be52e763ea8a1fd824534bbcabf5c1c8c6cc4",
+      "replacement": "The northern division explains the immediate directional name. A separate community naming day is unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0908",
+      "path": [
+        "views",
+        "0908",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "3bb92c4fe77d16b87302c86ded614c07d72874ddcf292e74e06376cd821f1e38",
+      "replacement": "The direction describes the division, rather than establishing another naming event in 1843.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0909",
+      "path": [
+        "views",
+        "0909",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "5da0599385c963d7d50e20cf254eb1548a2f42ff6bdbc57d1dab21020150626d",
+      "replacement": "The later history reproduces Siskakes as a 1658 spelling, without establishing first use or literal meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0909",
+      "path": [
+        "views",
+        "0909",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "3d1c89eb8b47aada1e143b0c56f81eb8231672b8ff3d2ac9605267136730ba76",
+      "replacement": "Later histories describe an older locality identity, while a continuous sequence of its spellings remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0909",
+      "path": [
+        "views",
+        "0909",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "6f75b2366f4a0b1bb5f13be79b717d7d383780c36613deed461ec23a2959c1b0",
+      "replacement": "The name’s transmission remains undated; the accounts do not establish a 1680 adoption event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0909",
+      "path": [
+        "views",
+        "0909",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "5da0599385c963d7d50e20cf254eb1548a2f42ff6bdbc57d1dab21020150626d",
+      "replacement": "The later history reproduces Siskakes as a 1658 spelling, without establishing first use or literal meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0909",
+      "path": [
+        "views",
+        "0909",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "3d1c89eb8b47aada1e143b0c56f81eb8231672b8ff3d2ac9605267136730ba76",
+      "replacement": "Later histories describe an older locality identity, while a continuous sequence of its spellings remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0909",
+      "path": [
+        "views",
+        "0909",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "6f75b2366f4a0b1bb5f13be79b717d7d383780c36613deed461ec23a2959c1b0",
+      "replacement": "The name’s transmission remains undated; the accounts do not establish a 1680 adoption event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "14f5cc7029220ad1b64b5d1261ec2d14d9a18801e863a5f1c14622c46f228b33",
+      "replacement": "Exact statutory approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "7cdf194f02433a095a3833ab4768abcb002544c168f334791a5c87da6e45f697",
+      "replacement": "Exact filing date in official published notice",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "a36e862220222750027e45e4ad98a860a84e358082bae15ef56ccfb9a2286437",
+      "replacement": "The published page-771 notice records the two consolidating towns and city title, filed October 27.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "cdfd59387e0a595ee2756188b198960be81295addf86422dccceb6af08f551f3",
+      "replacement": "The published filing records the city title without identifying the first local name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "164da9e2b8a57b94180e9534516bf0b6b5885a6d9de5689f7f1d4175fe3eba4a",
+      "replacement": "Exact corporate-existence date under statute and filing sequence",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "76af4c6cd75b371187bf53ad0e8f530cc5cecce50946a04c2a6be574d1138da9",
+      "replacement": "Exact statutory approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "b27cff95cea0f9803da387828c746bd9494b82529e3b735f0877a5944bb8ca9a",
+      "replacement": "Prescribed month; exact polling day unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "b677146c288db143e67ce84f93bddf3d404fab9cbb3d446825c62bcef40dbdda",
+      "replacement": "Chapter 10 provides the May officer-election stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "c8fb6904b2e99fe2df530e16cef3fdabc0e0044a8079d11b0857736aadd766c0",
+      "replacement": "The statutory election schedule does not establish actual voting proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "14f5cc7029220ad1b64b5d1261ec2d14d9a18801e863a5f1c14622c46f228b33",
+      "replacement": "Exact statutory approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "7cdf194f02433a095a3833ab4768abcb002544c168f334791a5c87da6e45f697",
+      "replacement": "Exact filing date in official published notice",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "a36e862220222750027e45e4ad98a860a84e358082bae15ef56ccfb9a2286437",
+      "replacement": "The published page-771 notice records the two consolidating towns and city title, filed October 27.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "cdfd59387e0a595ee2756188b198960be81295addf86422dccceb6af08f551f3",
+      "replacement": "The published filing records the city title without identifying the first local name proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "164da9e2b8a57b94180e9534516bf0b6b5885a6d9de5689f7f1d4175fe3eba4a",
+      "replacement": "Exact corporate-existence date under statute and filing sequence",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "76af4c6cd75b371187bf53ad0e8f530cc5cecce50946a04c2a6be574d1138da9",
+      "replacement": "Exact statutory approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "b27cff95cea0f9803da387828c746bd9494b82529e3b735f0877a5944bb8ca9a",
+      "replacement": "Prescribed month; exact polling day unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "b677146c288db143e67ce84f93bddf3d404fab9cbb3d446825c62bcef40dbdda",
+      "replacement": "Chapter 10 provides the May officer-election stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0910",
+      "path": [
+        "views",
+        "0910",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "c8fb6904b2e99fe2df530e16cef3fdabc0e0044a8079d11b0857736aadd766c0",
+      "replacement": "The statutory election schedule does not establish actual voting proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "2cafcbb6082feb5809188294f5293f8b59e5c31bd239488622702c159e9adb95",
+      "replacement": "The later transcription reports an early Wiehacken use, without establishing absolute first use or a settled literal meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "f4e48e2886cdab12a8a18f5ec8a366b4e7815b63c9283e705ce428ad0031eb00",
+      "replacement": "Exact statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "49a80c702cac0ce7ec6b9feb0546d90bd3c78f59b5d8c2ce0fc358b13ccccf5d",
+      "replacement": "Sections 1, 6 and 9 identify Hoboken City and North Bergen as parents and give immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "7d7efb4621db24df382c61014604349ca89ef252f15bd7e638d0cf8db2fe02bf",
+      "replacement": "Weehawken formed partly from Hoboken City, rather than an earlier Hoboken township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "f948972693ba4a7c85aa9d6596cdf604ad7b09b31f15183b0864e35cf4d4df96",
+      "replacement": "Exact meeting date prescribed by weekday rule",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "286b12ec8139574684547d192e50d5957e46a6f2ece1a4f342763a18a991dc48",
+      "replacement": "The statutory meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "e51193b08d9c34b228faac4e765e6dbcb7b0072cd9c1371c5db310676939ad51",
+      "replacement": "The relationship between older and modern locality forms remains uncertain, without a complete spelling sequence or settled literal meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "91813160e5b0dfcdf95c45e7ed07a49b913f3e9eece7089b34c1206a9f7634f4",
+      "replacement": "The older-to-modern relationship remains undated, without an established 1700 transition event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "sources",
+        "S2131",
+        "publication"
+      ],
+      "expected_sha256": "d540e1994c3e79dc919bccd9ba29cc35d10c6ef4b76d74af2e5b1d101ddacb82",
+      "replacement": "Undated webpage; accessed 2026-10-11",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "2cafcbb6082feb5809188294f5293f8b59e5c31bd239488622702c159e9adb95",
+      "replacement": "The later transcription reports an early Wiehacken use, without establishing absolute first use or a settled literal meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "f4e48e2886cdab12a8a18f5ec8a366b4e7815b63c9283e705ce428ad0031eb00",
+      "replacement": "Exact statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "49a80c702cac0ce7ec6b9feb0546d90bd3c78f59b5d8c2ce0fc358b13ccccf5d",
+      "replacement": "Sections 1, 6 and 9 identify Hoboken City and North Bergen as parents and give immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "7d7efb4621db24df382c61014604349ca89ef252f15bd7e638d0cf8db2fe02bf",
+      "replacement": "Weehawken formed partly from Hoboken City, rather than an earlier Hoboken township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "f948972693ba4a7c85aa9d6596cdf604ad7b09b31f15183b0864e35cf4d4df96",
+      "replacement": "Exact meeting date prescribed by weekday rule",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "286b12ec8139574684547d192e50d5957e46a6f2ece1a4f342763a18a991dc48",
+      "replacement": "The statutory meeting schedule does not establish actual proceedings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "e51193b08d9c34b228faac4e765e6dbcb7b0072cd9c1371c5db310676939ad51",
+      "replacement": "The relationship between older and modern locality forms remains uncertain, without a complete spelling sequence or settled literal meaning.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "91813160e5b0dfcdf95c45e7ed07a49b913f3e9eece7089b34c1206a9f7634f4",
+      "replacement": "The older-to-modern relationship remains undated, without an established 1700 transition event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0911",
+      "path": [
+        "views",
+        "0911",
+        "sources",
+        "S2131",
+        "publication"
+      ],
+      "expected_sha256": "d540e1994c3e79dc919bccd9ba29cc35d10c6ef4b76d74af2e5b1d101ddacb82",
+      "replacement": "Undated webpage; accessed 2026-10-11",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "80d467417c1946c9b2bb6bcc78e025db5cd092940dc1af1ca8dba5934cd0fdf7",
+      "replacement": "Reported map year; first use uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "59bc879c0e329132e58900ab0b30ae3ff9b2cb01d68b485c11ad93a2e7736a72",
+      "replacement": "Reported cartographic name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "27202eab98cb079696cac597316ed07fc3964862ec4a66b94c4233ae4eafeffd",
+      "replacement": "Later local history reports West New York as a label on an 1854 map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "bb32a645f2e4191676038ecdcfc4849c79a53f78cb953aa452822a7cd3313f70",
+      "replacement": "The reported label does not establish absolute first use or identify a name inventor.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "be71522910ed294c05d84734dddd6b0174d105876055b2319dea7674b8f82d40",
+      "replacement": "Claimed year of company-name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        7,
+        "type"
+      ],
+      "expected_sha256": "d60cbc16420d43c1d190cb67496630b40c2f72c4d92d1a3feb5fce4bbecde1a8",
+      "replacement": "Claimed development-name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "3fb1400c485430dde0c655ccf790d997894ff8b35e411079d74bdee247fd890b",
+      "replacement": "A West New York Land Verein use is claimed for 1855.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "6fe5ae5eb84b619ae82c20278263b8e26e53cc5b6122411581b68de8fddec631",
+      "replacement": "The claimed use does not establish absolute first use, a first chooser or the original naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "80d467417c1946c9b2bb6bcc78e025db5cd092940dc1af1ca8dba5934cd0fdf7",
+      "replacement": "Reported map year; first use uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "59bc879c0e329132e58900ab0b30ae3ff9b2cb01d68b485c11ad93a2e7736a72",
+      "replacement": "Reported cartographic name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "27202eab98cb079696cac597316ed07fc3964862ec4a66b94c4233ae4eafeffd",
+      "replacement": "Later local history reports West New York as a label on an 1854 map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "bb32a645f2e4191676038ecdcfc4849c79a53f78cb953aa452822a7cd3313f70",
+      "replacement": "The reported label does not establish absolute first use or identify a name inventor.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "be71522910ed294c05d84734dddd6b0174d105876055b2319dea7674b8f82d40",
+      "replacement": "Claimed year of company-name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        7,
+        "type"
+      ],
+      "expected_sha256": "d60cbc16420d43c1d190cb67496630b40c2f72c4d92d1a3feb5fce4bbecde1a8",
+      "replacement": "Claimed development-name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "3fb1400c485430dde0c655ccf790d997894ff8b35e411079d74bdee247fd890b",
+      "replacement": "A West New York Land Verein use is claimed for 1855.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0912",
+      "path": [
+        "views",
+        "0912",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "6fe5ae5eb84b619ae82c20278263b8e26e53cc5b6122411581b68de8fddec631",
+      "replacement": "The claimed use does not establish absolute first use, a first chooser or the original naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "views",
+        "1101",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "2a3b27b5785fe2c5213bea14fc9235abff0382cab8be6887f326050705df0470",
+      "replacement": "County-record name use reported in later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "views",
+        "1101",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "2a3b27b5785fe2c5213bea14fc9235abff0382cab8be6887f326050705df0470",
+      "replacement": "County-record name use reported in later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "views",
+        "1101",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "d9a9dab6b4b9b40d42272d4f6675afc84fde518b481d3ea9b42e4e7a4b407070",
+      "replacement": "County affiliation continued existing municipal names; it did not supply an original municipal naming motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1101",
+      "path": [
+        "views",
+        "1101",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "ee0494e139b4af1537c812dab2da316410e86f03109fa710208afcc9b55760b3",
+      "replacement": "Exact statutory approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1101",
+      "path": [
+        "views",
+        "1101",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "2a3b27b5785fe2c5213bea14fc9235abff0382cab8be6887f326050705df0470",
+      "replacement": "County-record name use reported in later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1101",
+      "path": [
+        "views",
+        "1101",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "2a3b27b5785fe2c5213bea14fc9235abff0382cab8be6887f326050705df0470",
+      "replacement": "County-record name use reported in later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1101",
+      "path": [
+        "views",
+        "1101",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "d9a9dab6b4b9b40d42272d4f6675afc84fde518b481d3ea9b42e4e7a4b407070",
+      "replacement": "County affiliation continued existing municipal names; it did not supply an original municipal naming motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1101",
+      "path": [
+        "views",
+        "1101",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "ee0494e139b4af1537c812dab2da316410e86f03109fa710208afcc9b55760b3",
+      "replacement": "Exact statutory approval date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1102",
+      "path": [
+        "views",
+        "1102",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "52230cb7fdce05dc733c2215a32c36a2289b0d9a4a4c53b795eabbc4c7133a78",
+      "replacement": "Municipal history gives February 22 and the legal-history index March 1 for Ewing’s 1834 creation from territory outside Trenton city. The relationship between those dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1102",
+      "path": [
+        "views",
+        "1102",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "d9a9dab6b4b9b40d42272d4f6675afc84fde518b481d3ea9b42e4e7a4b407070",
+      "replacement": "County affiliation continued existing municipal names; it did not supply an original municipal naming motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1102",
+      "path": [
+        "views",
+        "1102",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "52230cb7fdce05dc733c2215a32c36a2289b0d9a4a4c53b795eabbc4c7133a78",
+      "replacement": "Municipal history gives February 22 and the legal-history index March 1 for Ewing’s 1834 creation from territory outside Trenton city. The relationship between those dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1102",
+      "path": [
+        "views",
+        "1102",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "d9a9dab6b4b9b40d42272d4f6675afc84fde518b481d3ea9b42e4e7a4b407070",
+      "replacement": "County affiliation continued existing municipal names; it did not supply an original municipal naming motive.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1103",
+      "path": [
+        "views",
+        "1103",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "9d1cfcc172a821c8cb2f6c12f6836352a261177b3fd9245408e8c33f8461af06",
+      "replacement": "Exact statutory passage date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1103",
+      "path": [
+        "views",
+        "1103",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "9d1cfcc172a821c8cb2f6c12f6836352a261177b3fd9245408e8c33f8461af06",
+      "replacement": "Exact statutory passage date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "6e500d3449d2a36ce8be67f92d650d0e558914b400e2c63341170f44b071022b",
+      "replacement": "Deed-name use reported in later historical account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "6b590c39b36b035c3988a8791fd0b9e789caa17d26aa341c9063e92a8305fe12",
+      "replacement": "The later article reports an early locality spelling, without establishing absolute first use or a formal naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "b86d7f79a090c5b108771c767a3bf97e72a3d648ac61797e7f1fa3e494d75edc",
+      "replacement": "Claimed newspaper name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "6c702d22e2c777839125f85165af119035379106c006f98eddc794cbc46e8cbf",
+      "replacement": "Hight’s-Town is claimed in a 1779 newspaper advertisement. Craig’s March 1779 passage describes a house sale, a separate account that does not establish the advertisement’s wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "431c35f4383d382d0bf7c4c10046bbca55883ebf0d9cea12c6e46cf6eb0675d0",
+      "replacement": "The newspaper claim remains uncertain and is distinct from the reported deed and tavern-petition uses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "d56fa049b8377c007f5f53ab6ee127fa682e63d69bb43307c145e53e89e31d23",
+      "replacement": "Reported autonomy followed borough formation and continued the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "6e500d3449d2a36ce8be67f92d650d0e558914b400e2c63341170f44b071022b",
+      "replacement": "Deed-name use reported in later historical account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "6b590c39b36b035c3988a8791fd0b9e789caa17d26aa341c9063e92a8305fe12",
+      "replacement": "The later article reports an early locality spelling, without establishing absolute first use or a formal naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "b86d7f79a090c5b108771c767a3bf97e72a3d648ac61797e7f1fa3e494d75edc",
+      "replacement": "Claimed newspaper name use",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "6c702d22e2c777839125f85165af119035379106c006f98eddc794cbc46e8cbf",
+      "replacement": "Hight’s-Town is claimed in a 1779 newspaper advertisement. Craig’s March 1779 passage describes a house sale, a separate account that does not establish the advertisement’s wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "431c35f4383d382d0bf7c4c10046bbca55883ebf0d9cea12c6e46cf6eb0675d0",
+      "replacement": "The newspaper claim remains uncertain and is distinct from the reported deed and tavern-petition uses.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1104",
+      "path": [
+        "views",
+        "1104",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "d56fa049b8377c007f5f53ab6ee127fa682e63d69bb43307c145e53e89e31d23",
+      "replacement": "Reported autonomy followed borough formation and continued the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0906",
+      "path": [
+        "editorial",
+        "0906",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "0d112b1c7ad438dea08f9a355e325bf44095a7b952385553a9eeb8ffba1fa37d",
+      "replacement": "Later history reports the Jersey Company in 1804 and an 1829 title amendment. The index places the City of Jersey/Jersey City framework in 1820. These are separate company and municipal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1103",
+      "path": [
+        "editorial",
+        "1103",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "c2f5ca55680fa7dffb4610107a21cc17c73079f451cd1c283c7402370580bfaf",
+      "replacement": "The familiar War of 1812 village-renaming account conflicts with the later township-first chronology. The precise sequence and exact original village naming day remain unresolved.",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
