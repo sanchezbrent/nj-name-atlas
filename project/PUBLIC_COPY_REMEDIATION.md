@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 34 — November 25, 2026
+## Current checkpoint 35 — November 25, 2026
+
+[Checkpoint 35](PUBLIC_COPY_CHECKPOINT_35.md) completes twelve towns in Gloucester and Hudson counties
+in both editions, adding 293 proposals for 10,677 cumulative. All
+10,384 earlier rows and prior 387 reviewed reader/view records remain exact.
+Agent text review is **399/564 per edition**, with 165 remaining and zero human
+sign-offs. Strict candidates: 730 primary and 680 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 23 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Continue the remaining eight Hudson and first four Mercer towns as checkpoint 36, save both PRs and issue #4, then stop after all 24.
+
+## Historical checkpoint 34 — November 25, 2026
 
 [Checkpoint 34](PUBLIC_COPY_CHECKPOINT_34.md) completes twelve towns in Gloucester County
 in both editions, adding 205 proposals for 10,384 cumulative. All
