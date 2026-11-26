@@ -50,6 +50,13 @@ class LayoutBoundaryTests(unittest.TestCase):
         with self.assertRaisesRegex(layout.ContractError, "Masthead changed upstream"):
             layout.transform(self.source.replace('<h1>New Jersey</h1>', '<h1>A later editorial heading</h1>', 1), self.css)
 
+    def test_new_upstream_browse_controls_cannot_be_discarded(self):
+        # A later source may add a control inside the span this prototype moves.
+        # Stop for reconciliation instead of silently dropping that new UI.
+        for anchor in ['<select id="atlas-county">', '<label class="sr-only" for="atlas-town">']:
+            with self.subTest(anchor=anchor), self.assertRaises(layout.ContractError):
+                layout.transform(self.source.replace(anchor, '<button>New upstream control</button>' + anchor, 1), self.css)
+
     def test_young_edition_is_not_a_primary_input(self):
         with self.assertRaises(layout.ContractError):
             layout.transform((ROOT / "docs/young-explorers/index.html").read_text(), self.css)

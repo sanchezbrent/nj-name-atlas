@@ -1,4 +1,4 @@
-# Primary layout prototype — checkpoint UI-1.4
+# Primary layout prototype — checkpoint UI-1.5
 
 This is the separate interface path toward the shared Atlas release. It does not
 modify the editorial branch, either published edition, a content checkpoint or an
@@ -31,8 +31,13 @@ review. GitHub stores the overlay/tooling and checks, not another content copy.
 ## What is being tried
 
 - An inviting question and a single search row across the top.
+- Search has the main space, with the original county/town menus grouped under
+  “More ways to explore.” Matching-name links and the full index stay available
+  while the menus are closed; active filter chips stay outside the disclosure.
 - The requested “New Jersey Name Atlas” brand, without a redundant tagline.
 - A map and a distinct selected-town preview instead of three competing columns.
+- A stronger selected-town outline using the existing halo/outline paths, keeping
+  category fills, map geometry, zoom and selection logic unchanged.
 - The same selected-town preview before the map on phone, with its title and
   reading action in the first screen at 390px. No duplicated story or selection.
 - A prominent existing “Read the story” control and the existing reading view.
@@ -126,9 +131,9 @@ separate. Design approval never marks the 564-by-two copy review complete.
 
 ## Checkpoint and remaining work
 
-UI-1.4 applies the three browser annotations: simpler branding, text-height legend
-colors and removal of the extra tagline, retaining the earlier reading flow and
-UI-1 integration tooling. Research, workbook exports and editorial
+UI-1.5 simplifies the town finder and strengthens selected-town outlines,
+retaining the annotation refinements, earlier reading flow and UI-1 integration
+tooling. Research, workbook exports and editorial
 remediation remain on their existing path. See
 [the recorded QA](../../project/PRIMARY_LAYOUT_PROTOTYPE.md) for actual checks and
 limits. Remaining milestones are user review of the prototype, a deliberately

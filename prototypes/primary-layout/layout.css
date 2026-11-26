@@ -62,9 +62,8 @@
   font-style: normal;
   font-weight: 500;
 }
-#nj-name-atlas.primary-layout-preview .explore > input,
-#nj-name-atlas.primary-layout-preview .explore > select {
-  flex: 1 1 180px;
+#nj-name-atlas.primary-layout-preview .explore > input {
+  flex: 1 1 400px;
   width: auto;
   min-width: 0;
   min-height: 46px;
@@ -73,7 +72,6 @@
   background: var(--control);
   font-size: 1rem;
 }
-#nj-name-atlas.primary-layout-preview .explore > input { flex: 1.7 1 250px; }
 #nj-name-atlas.primary-layout-preview #atlas-results { margin: 0; font-size: .875rem; }
 #nj-name-atlas.primary-layout-preview :is(.active-filters, .search-matches) { width: 100%; }
 #nj-name-atlas.primary-layout-preview .origin-filters {
@@ -159,6 +157,33 @@
   border-radius: 8px;
 }
 #nj-name-atlas.primary-layout-preview .layout-more-body > * { flex: 1 1 200px; min-width: 0; }
+#nj-name-atlas.primary-layout-preview .layout-more-body > .layout-browse-fields {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  flex-basis: 100%;
+  gap: 16px;
+  min-width: 0;
+  margin: 0;
+  padding: 0 0 16px;
+  border: 0;
+  border-bottom: 1px solid var(--soft-rule);
+}
+#nj-name-atlas.primary-layout-preview .layout-browse-fields legend { margin-bottom: 12px; padding: 0; font-size: 1rem; font-weight: 500; }
+#nj-name-atlas.primary-layout-preview .layout-browse-field { min-width: 0; }
+#nj-name-atlas.primary-layout-preview .layout-browse-field label {
+  position: static;
+  display: block;
+  width: auto;
+  height: auto;
+  margin: 0 0 6px;
+  padding: 0;
+  overflow: visible;
+  clip: auto;
+  clip-path: none;
+  white-space: normal;
+  font-size: .875rem;
+}
+#nj-name-atlas.primary-layout-preview .layout-browse-field select { width: 100%; min-width: 0; min-height: 46px; margin: 0; border-radius: 7px; background: var(--control); font-size: 1rem; }
 #nj-name-atlas.primary-layout-preview .layout-more-body :is(.discovery, .county-index, .recent-towns) {
   margin: 0;
   padding: 0;
@@ -178,6 +203,9 @@
 #nj-name-atlas.primary-layout-preview .layout-map-heading p { display: none; }
 #nj-name-atlas.primary-layout-preview .map-browse-toolbar { margin-top: 10px; }
 #nj-name-atlas.primary-layout-preview .map-wrap { max-width: 500px; margin: 0 auto; border-radius: 9px; }
+/* Use the runtime's two existing strokes; retain the original category fill. */
+#nj-name-atlas.primary-layout-preview .selected-halo { stroke-width: 6.5; }
+#nj-name-atlas.primary-layout-preview .selected-outline { stroke: var(--layout-accent); stroke-width: 2.5; }
 #nj-name-atlas.primary-layout-preview .map-caption { padding-top: 12px; }
 #nj-name-atlas.primary-layout-preview .map-step-hook { font-size: 1rem; line-height: 1.6; }
 /* The identical summary remains beside the map, including its qualifications. */
@@ -274,7 +302,7 @@
   #nj-name-atlas.primary-layout-preview { width: calc(100% - 16px); margin: 8px auto; padding: 16px; border-radius: 12px; }
   #nj-name-atlas.primary-layout-preview .masthead { padding: 0 0 16px; }
   #nj-name-atlas.primary-layout-preview .masthead h1 { font-size: 1.75rem; }
-  #nj-name-atlas.primary-layout-preview .explore > select { flex-basis: 100%; }
+  #nj-name-atlas.primary-layout-preview .layout-more-body > .layout-browse-fields { grid-template-columns: minmax(0, 1fr); }
   #nj-name-atlas.primary-layout-preview .origin-filters { flex-basis: 100%; }
   #nj-name-atlas.primary-layout-preview .legend button { flex-basis: calc(50% - 4px); }
   #nj-name-atlas.primary-layout-preview .layout-more { margin-left: 0; }

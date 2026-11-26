@@ -2,7 +2,7 @@
 
 November 23, 2026. **Interactive local prototype; no production change.**
 
-Latest revision: **UI-1.4**, requested branding, text-height legend blocks and tagline removal; see the addenda below.
+Latest revision: **UI-1.5**, a simpler finder and stronger selected-town outline; see the addenda below.
 The original UI-1 evidence and hashes remain recorded as that checkpoint.
 
 The interface and editorial paths remain separate. Editorial PR #5 owns copy,
@@ -424,3 +424,102 @@ editorial snapshot, a new combined integration checkpoint, combined acceptance
 and separately authorized release/live readback. Provisional active work remains
 30–60 minutes for a bounded design revision or 45–90 minutes for the selected-source
 integration rehearsal, excluding waits; no editorial or publication ETA is asserted.
+
+## UI-1.5 — search-led finder and clearer map selection
+
+November 26, 2026. This implements the two approved design experiments on the
+separate Primary prototype. The content pin and all earlier UI/content recovery
+points remain unchanged.
+
+- Search receives the main space. The existing county and town selects move,
+  together with their original labels, into a visibly labeled fieldset under
+  “More ways to explore.” They use two columns on desktop and stack on phone.
+  The disclosure follows search/count in both DOM and visual order, ahead of
+  active filter chips and matching results. No CSS ordering or duplicated fields.
+- The original runtime already supplies four matching-name links plus access to
+  the full matching index. These remain outside the disclosure, so searching and
+  choosing a result do not require opening optional menus. Active filter chips
+  and reset actions also stay visible when the menus are closed.
+- The original selected-town halo grows from 4.5px to 6.5px, and its outline from
+  1.5px to 2.5px using the existing theme-aware green accent. The existing
+  non-scaling strokes keep that thickness through zoom. Category fill, geometry,
+  callout placement, selection, panning and zoom logic remain unchanged.
+- Moving the controls is bounded by new upstream label/group/order checks. A new
+  negative boundary test proves a later control inserted into the moved span
+  stops integration instead of being silently discarded. No runtime patch or
+  focus-repair script is needed: the existing direct town-focus path belongs to
+  the recent-town clear action inside the same open disclosure.
+
+### Preservation and automated checks
+
+Builder SHA-256:
+`5a624c7529229d73e7028fd6ca833aac842eab15fcb127d77896a3dcde9ba984`.
+Overlay SHA-256:
+`e774298fd8e504da49b17c1cec894a0ab8d2fc48aeeeedd07ba503c735cad10c`.
+
+| Composed source | UI-1.5 generated Primary SHA-256 |
+| --- | --- |
+| Main base, unchanged | `dc8b0b35374d4d3891f0a0bfe26eac36d1e4948c8d0edf3d0e78d6925e6cf6a9` |
+| Checkpoint 23, still pinned | `832fd18d4b2f3492283e2a721809407260310df71b1b633a3e86a0c1ac843fb1` |
+| Checkpoint 24, independent rehearsal | `1917fc7857242adbf794ee96d475933831fcfc2c57b6545791de84587f89c16b` |
+
+All four original scripts/data blocks, original styles, metadata/CSP and 186
+existing IDs are preserved in each composition. There are no new IDs beyond
+UI-1's three. Only generated Primary HTML changes; the other six assets remain
+exact. No new JavaScript, dependency, schema, storage code or publication setting.
+Published files, committed baselines, the manifest and the editorial path remain
+untouched.
+
+All 23 Python tests pass, including the added upstream-control preservation test.
+Required publishing-source checks pass. Each of the three final compositions
+passes its own source's project/script checks, 16 fake-storage notebook assertions
+and corpus checks (5,941 per editorial snapshot; 5,921 for main). The unchanged
+older publishing source's report-only copy audit still reports NEEDS_REVIEW with
+21,724 heuristic candidates; it grants no publication clearance and does not
+describe the active editorial path's current review coverage.
+
+### Browser checks on checkpoint 23
+
+- Closed and open finder layouts have no horizontal page overflow at 320, 390,
+  768, 900, 1280, 1430 and 1600px. Original menu labels are visible when open;
+  both selects are 46px high. The exposed legend retains its earlier wrapping
+  and targets of at least 44px. At 1430px, search is about 1,023px wide, compared
+  with about 429px in UI-1.4. At 390px, Cinnaminson's reading action starts around
+  495px rather than 660px, still in the first screen.
+- With menus closed, Bottle Hill finds Madison through the existing historical
+  match and its link works with Enter. Washington returns 43 matches, four
+  immediate links and a working full-index action (12 entries on the first page).
+  An unmatched query shows zero matches/disabled reading; clearing restores browse.
+- The grouped county/town menus select Burlington (40 towns) and Palmyra, updating
+  the map and preview together. With the menus closed, county view, actual map
+  selection of Cinnaminson and zoom work. The selected outline remains 2.5px
+  with non-scaling strokes. Origin-only reset retains Burlington and the typed
+  query; visible filter chips identify both while optional menus remain closed.
+- Keyboard Tab reaches the disclosure after search; Enter opens it, then Tab
+  reaches county followed by town. Clearing the prototype's recent-town list
+  focuses the town menu inside the still-open disclosure. Enter opens the existing reading view and
+  Escape returns. Cinnaminson retains all 22 chronology records. Origin citation
+  return restores its reference focus, and the timeline jump focuses an original
+  event summary. A fresh town/event URL opens T1582 (the qualified 1655 record)
+  with the alternate glance still closed.
+- Phone finder, optional menus and selected-map light/dark appearances were
+  inspected. Young Explorers remains byte-identical and opens Madison with its
+  original adapted Bottle Hill summary and no prototype overlay. No existing
+  browser notes were inspected, changed, migrated or transmitted.
+
+Local screenshots, measurements and receipts stay outside Git. This is sampled
+QA; the prior limits for printing, native downloads, assistive technology, all
+tours, full-corpus rendered/editorial acceptance and checkpoint 24 rendered
+acceptance continue. This revision does not repeat every earlier filter/card test.
+
+### Stage and next milestone
+
+UI-1.5 implementation, local/browser QA and immutable-source rehearsals are
+complete; the updated preview is usable. The draft PR records the checkpoint and
+CI status. Stop for design review. Editorial/research/export work stays on its
+independent path, with no new copy reviews or publication sign-offs here. Remaining
+milestones are layout acceptance, deliberate selection of a completed editorial
+snapshot, a new combined integration checkpoint, combined acceptance and separately
+authorized release/live readback. Provisional active work remains 30–60 minutes
+for a bounded revision or 45–90 minutes for selected-source integration, excluding
+waits; no editorial/publication completion ETA is asserted.

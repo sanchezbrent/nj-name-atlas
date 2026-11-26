@@ -156,7 +156,26 @@ def transform(source, css):
     require(explore["inner"] < tour["start"] < tour["end"] < explore["close"], "Advanced tools moved upstream.")
     search_tag = source[search["start"]:search["inner"]]
     require(search_tag.count('placeholder="Town or former name"') == 1, "Search markup changed upstream.")
+    county, town, results = doc.one(id="atlas-county"), doc.one(id="atlas-town"), doc.one(id="atlas-results")
+    field_labels = {}
+    for field in (county, town):
+        labels = [n for n in doc.nodes if n["tag"] == "label" and n["attrs"].get("for") == field["attrs"]["id"]]
+        require(len(labels) == 1 and "end" in labels[0], "Browse field label changed upstream.")
+        label = labels[0]
+        require(label["attrs"].get("class") == "sr-only" and label["end"] < field["start"]
+                and not source[label["end"]:field["start"]].strip(), "Browse field grouping changed upstream.")
+        field_labels[field["attrs"]["id"]] = label
+    county_label, town_label = field_labels["atlas-county"], field_labels["atlas-town"]
+    require(search["end"] < county_label["start"] < county["end"] < town_label["start"]
+            < town["end"] < results["start"] < results["end"] < filters["start"] < tour["start"],
+            "Finder controls moved upstream; reconcile browse order first.")
+    require(not source[county["end"]:town_label["start"]].strip(), "Unexpected content between browse fields.")
+    browse_fields = '<fieldset class="layout-browse-fields"><legend>Browse by county or town</legend>'
+    for field in (county, town):
+        browse_fields += '<div class="layout-browse-field">' + doc.raw(field_labels[field["attrs"]["id"]]) + doc.raw(field) + '</div>'
+    browse_fields += '</fieldset>'
     advanced = source[tour["start"]:explore["close"]]
+    more = '<details id="layout-more" class="layout-more"><summary>More ways to explore</summary><div class="layout-more-body">\n' + browse_fields + '\n' + advanced + '\n</div></details>'
     edits = [
         (head["close"], head["close"], '<style id="primary-layout-overlay">\n' + css + '\n</style>\n'),
         (root["start"], root["inner"], source[root["start"]:root["inner"]].replace('class="atlas-sheet"', 'class="atlas-sheet primary-layout-preview"')),
@@ -169,7 +188,9 @@ def transform(source, css):
         (filter_summary["close"], filter_summary["end"], '</h3><p class="layout-legend-instruction">Choose a category to filter towns.</p></div>'),
         (clear_origin["inner"], clear_origin["close"], "Clear origin filter"),
         (search["start"], search["inner"], search_tag.replace('placeholder="Town or former name"', 'placeholder="Search a town or an older name"')),
-        (tour["start"], explore["close"], '<details id="layout-more" class="layout-more"><summary>More ways to explore</summary><div class="layout-more-body">\n' + advanced + '\n</div></details>\n    '),
+        (county_label["start"], town["end"], ""),
+        (results["end"], results["end"], "\n" + more),
+        (tour["start"], explore["close"], ""),
         (map_panel["inner"], map_panel["inner"], '<div class="layout-map-heading"><h2 id="layout-map-heading">Choose a place</h2><p>Select a town to discover its name story.</p></div>'),
         (origin["end"], origin["end"], '<p class="layout-reading-hint">Read the full story, follow earlier names, and explore its sources.</p>'),
     ]
