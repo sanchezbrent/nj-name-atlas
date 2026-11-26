@@ -45,8 +45,8 @@ behavior with isolated fake storage. Its negative tests prove that accidental
 asset changes and private files are rejected.
 
 The current remediation branch has blocked copy proposals; see
-[checkpoint 48](project/PUBLIC_COPY_CHECKPOINT_48.md). Passing integrity tests does
-not complete the 564-by-two contextual copy review. The frozen source baseline
+[checkpoint 49](project/PUBLIC_COPY_CHECKPOINT_49.md). Agent text review is complete
+for 564 towns in both editions. Human acceptance and publication QA remain open. The frozen source baseline
 and the candidate public projection have separate identity records.
 
 ## Notes and publishing

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_48",
+  "checkpoint": "PUBLIC_COPY_49",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -558,7 +558,16 @@
     "0258",
     "0259",
     "0260",
-    "0261"
+    "0261",
+    "0262",
+    "0263",
+    "0264",
+    "0265",
+    "0266",
+    "0267",
+    "0268",
+    "0269",
+    "0270"
   ],
   "changes": [
     {
@@ -202926,6 +202935,2727 @@
       ],
       "expected_sha256": "1e5bff88e184efa9bc7b78e942989a53831852462dbd76741ba1f5eb703b9efd",
       "replacement": "The 1688 naming story is a later tradition; the exact original wording and naming choice remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0262",
+      "path": [
+        "views",
+        "0262",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "sources",
+        "S288",
+        "publication"
+      ],
+      "expected_sha256": "b3c05675c3a3b2dc903d171bc23b53c8c9b5db9fb3aad29d37f0824768e704be",
+      "replacement": "Current digital edition of historical newspaper material",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0266",
+      "path": [
+        "views",
+        "0266",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0269",
+      "path": [
+        "views",
+        "0269",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0262",
+      "path": [
+        "views",
+        "0262",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "sources",
+        "S288",
+        "publication"
+      ],
+      "expected_sha256": "b3c05675c3a3b2dc903d171bc23b53c8c9b5db9fb3aad29d37f0824768e704be",
+      "replacement": "Current digital edition of historical newspaper material",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0266",
+      "path": [
+        "views",
+        "0266",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0269",
+      "path": [
+        "views",
+        "0269",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0262",
+      "path": [
+        "editorial",
+        "0262",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4258569f9496d6c18a7eaa46382f094cbf5d6110cfcf7ef64864a99245132559",
+      "replacement": "The name returned in 1943. The listed day is unofficially sourced, and the restoration procedure and reasons remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0262",
+      "path": [
+        "editorial",
+        "0262",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "4258569f9496d6c18a7eaa46382f094cbf5d6110cfcf7ef64864a99245132559",
+      "replacement": "The name returned in 1943. The listed day is unofficially sourced, and the restoration procedure and reasons remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "49289dc22d5e4678e7bac6d1dfecde8a5d47de151528b5a0db6cdc23c798f2fd",
+      "replacement": "Upper Saddle River began as a geographic description of a community, not a new name invented for the borough. Upper points to the northern or upper part of the Saddle River valley. A place-name compilation cites the expression in Charity Ackerman’s 1836 diary and an 1859 newspaper. These are reported uses of an existing expression; its first coiner remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c6132bbd9460b1d4472521566aa1d5a196b75558425e4bbf124fd641991e6921",
+      "replacement": "Wardell reports the expression in Charity Ackerman’s 1836 diary. Its first coiner remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "c6132bbd9460b1d4472521566aa1d5a196b75558425e4bbf124fd641991e6921",
+      "replacement": "Wardell reports the expression in Charity Ackerman’s 1836 diary. Its first coiner remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "9eea066431dd93e86cae049369a09e4379d39024c1ede13c17b1cca146003970",
+      "replacement": "Wardell cites the expression in the April 4, 1859 Paterson Guardian.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "9eea066431dd93e86cae049369a09e4379d39024c1ede13c17b1cca146003970",
+      "replacement": "Wardell cites the expression in the April 4, 1859 Paterson Guardian.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "7084c51bc6662c9698cb1b4b7d480a575c765673971fcf8372a3ff5f4d518c7e",
+      "replacement": "The legal-history index lists November 22 for result filing and effect, separately from the election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "7084c51bc6662c9698cb1b4b7d480a575c765673971fcf8372a3ff5f4d518c7e",
+      "replacement": "The legal-history index lists November 22 for result filing and effect, separately from the election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "26b44e212513ca6a19054fb8d3963e476f24f7ce011917f712288097c05c272d",
+      "replacement": "Wardell cites Upper Saddle River in Charity Ackerman’s 1836 diary and the April 4, 1859 Paterson Guardian. These reported occurrences do not identify the expression’s first coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "4840f16b932edd09e1a1445979e7c7d30d8cab9612e3c85ffbd8157d4ce95110",
+      "replacement": "Wardell cites Upper Saddle River in Charity Ackerman’s 1836 diary and the April 4, 1859 Paterson Guardian. These reported occurrences do not identify the expression’s first coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "6ebdd624ae42c8e8e42a60fdce1e0f9a85d82bffe5dfeeae9aeebe3c904cd3eb",
+      "replacement": "Wardell describes mail through Allendale and later Saddle River, serving the older geographic community.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "71e90a7bdb419ddea953e197b5a16f8413a2938c9e3f7be8eeea62e641e559cd",
+      "replacement": "A later account describes mail handled through neighboring post offices.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "eb73381877aa6db346b3068ecdc3c0d8699fbef91cb3155757463fd22b4af785",
+      "replacement": "Upper helps place this name on the landscape. It describes the northern or upper Saddle River community. A later place-name book points to the phrase in an 1836 diary and an 1859 newspaper. We do not know who first used it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "editorial",
+        "0263",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "4a40eec7669b4bc2857567ec8dc2a8544d11dc684bbecdc4c8c0c17072f57393",
+      "replacement": "The district also had smaller section names, including DeBauntown, Duffy’s Mills, Hopper’s Mills and Sparrowbush. They belong to local geography rather than a list of rejected borough names. The deeper Scottish Sadle Burn explanation for Saddle River remains a later tradition. Wardell describes mail handled through neighboring offices.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "editorial",
+        "0264",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "0d69a32a91f5d8c345006fc3df1f71b9eb1084fc2c11f83059ababb4f742e85f",
+      "replacement": "Wardell reports postal adoption of Waldwick on April 1, 1890, before borough government used the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "editorial",
+        "0264",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "0d69a32a91f5d8c345006fc3df1f71b9eb1084fc2c11f83059ababb4f742e85f",
+      "replacement": "Wardell reports postal adoption of Waldwick on April 1, 1890, before borough government used the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "editorial",
+        "0264",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1e8275b6f7ebf7506dfb297722e1c056d6a0d142ef11e96c1e1e36f296d25ba3",
+      "replacement": "Wardell reports Waldwic Cottage at the Hermitage in 1849, Waldwick in an October 1, 1885 newspaper, Waldeck in 1887 and Waldwick again in 1889. The exact connection between cottage and station naming remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "editorial",
+        "0264",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "1e8275b6f7ebf7506dfb297722e1c056d6a0d142ef11e96c1e1e36f296d25ba3",
+      "replacement": "Wardell reports Waldwic Cottage at the Hermitage in 1849, Waldwick in an October 1, 1885 newspaper, Waldeck in 1887 and Waldwick again in 1889. The exact connection between cottage and station naming remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "editorial",
+        "0264",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "57fbef653d80d5e3517098e0209a7a140a7eddf6e901a9318e38f7287c8163bd",
+      "replacement": "Traphagen’s later history credits residents, Orvil Victor’s committee and Elizabeth Rosencrantz in the station-naming story. Wardell reports the post office adopting Waldwick on April 1, 1890.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "editorial",
+        "0264",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "57fbef653d80d5e3517098e0209a7a140a7eddf6e901a9318e38f7287c8163bd",
+      "replacement": "Traphagen’s later history credits residents, Orvil Victor’s committee and Elizabeth Rosencrantz in the station-naming story. Wardell reports the post office adopting Waldwick on April 1, 1890.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "editorial",
+        "0264",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "66936fd1df8443b134d34c3d78ff75719a9c41a9ba7fbab2b0977380e0b3e229",
+      "replacement": "The familiar story is that Waldwick means “a light in the woods.” That remains a traditional explanation; its precise meaning is unsettled.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "d9f9cdb2d4b14595f64af2a4b0968ec646095575409ecde68f5320246f84354b",
+      "replacement": "Wallington’s name is linked in later accounts to early settlers, including Walling Jacobse Van Winkle. Walling is the personal-name element in that story; it should not simply be treated as a family surname. The borough’s history credits landowner Hugh McCleerey with studying the settlers and suggesting Wallington. Andersonville was reportedly considered and rejected.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "62fb1e8ddf3457ffc9a39f733dec2c01a2420f4581d7caf19960b5c3abd6a1d5",
+      "replacement": "Wallington’s name story reaches back to settlers such as Walling Jacobse Van Winkle. Walling was part of a personal name, rather than a proved family surname. The borough’s later history says landowner Hugh McCleerey studied those settlers and proposed Wallington. It says Andersonville was considered but rejected.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "1f18a7f026f26b29b094117c9d39bfab371f52e6d3a3d87799f7bdf0320ced1a",
+      "replacement": "The borough’s later formation dates are less tidy. Its history gives January 1, 1895, while a legal index gives January 2 for filing and effect. Wallington later lost territory when Garfield formed in 1898; that boundary change belongs to the borough’s development, rather than its first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "980e697599fe16c4e88c150d3add2c74b11c001dd022cef925dd0113492d1114",
+      "replacement": "The petition is dated December 12, 1894. Its cover records filing of the petition and order on December 18, separately from the later election results.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "980e697599fe16c4e88c150d3add2c74b11c001dd022cef925dd0113492d1114",
+      "replacement": "The petition is dated December 12, 1894. Its cover records filing of the petition and order on December 18, separately from the later election results.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "a3c0733bf5fd30f051c1a0439348639e8354e1f964b35abfa88e9abce7a54eac",
+      "replacement": "The original return gives 99 for, 14 against and none rejected. A January 1 tradition conflicts with the index’s January 2 filing and effect; their relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "a3c0733bf5fd30f051c1a0439348639e8354e1f964b35abfa88e9abce7a54eac",
+      "replacement": "The original return gives 99 for, 14 against and none rejected. A January 1 tradition conflicts with the index’s January 2 filing and effect; their relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e63f2c1a3a2fd2e1436126a38f342d2cf7c441c260116058edb3e4336eb7d0bb",
+      "replacement": "The borough’s later history reports Wallington Hose Company No. 1 on October 10, 1894. The original December 12 petition directly uses Wallington.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "e63f2c1a3a2fd2e1436126a38f342d2cf7c441c260116058edb3e4336eb7d0bb",
+      "replacement": "The borough’s later history reports Wallington Hose Company No. 1 on October 10, 1894. The original December 12 petition directly uses Wallington.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c2b2377a512f7c967514d9440e33d16d4e869ba5de44e711b3cbd26e2a32b106",
+      "replacement": "The original December 31, 1894 return gives 113 votes: 99 for, 14 against and none rejected. January 1, 1895 in a local history conflicts with January 2 filing and effect in the legal index; their relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c2b2377a512f7c967514d9440e33d16d4e869ba5de44e711b3cbd26e2a32b106",
+      "replacement": "The original December 31, 1894 return gives 113 votes: 99 for, 14 against and none rejected. January 1, 1895 in a local history conflicts with January 2 filing and effect in the legal index; their relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "902a717d92d6687b566bc8185c65b2e7b50cfd7644473bf88ff62945c3f1e082",
+      "replacement": "The borough’s later history credits Hugh McCleerey with studying early settlers and proposing Wallington. It also describes Walter Kip representing the petitioners. The precise original name formation remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "editorial",
+        "0265",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "902a717d92d6687b566bc8185c65b2e7b50cfd7644473bf88ff62945c3f1e082",
+      "replacement": "The borough’s later history credits Hugh McCleerey with studying early settlers and proposing Wallington. It also describes Walter Kip representing the petitioners. The precise original name formation remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "editorial",
+        "0267",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "1fa87db0e3b20acd77bda83b6f7facb34c41a355f6fc25196fcc9972972e5c97",
+      "replacement": "Postal compilations report the Pleasantville office established in 1862, closed in 1866 and restored in 1868.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "editorial",
+        "0267",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "1fa87db0e3b20acd77bda83b6f7facb34c41a355f6fc25196fcc9972972e5c97",
+      "replacement": "Postal compilations report the Pleasantville office established in 1862, closed in 1866 and restored in 1868.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "editorial",
+        "0267",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0b90cae2fa529ab2af2ee7cb4b9f7cb3a30c1df9381e47512ca4450258e3c46e",
+      "replacement": "Westwood forms from Washington Township. The legal-history index lists the election separately from filing and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "editorial",
+        "0267",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0b90cae2fa529ab2af2ee7cb4b9f7cb3a30c1df9381e47512ca4450258e3c46e",
+      "replacement": "Westwood forms from Washington Township. The legal-history index lists the election separately from filing and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "editorial",
+        "0267",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "7925745aa723e723b94eaf0b54db863a1c7dea94bcb459b33ac74993547e3877",
+      "replacement": "A legal index gives May 8, 1894 for the vote and May 9 for result filing and effect. County and municipal summaries often use May 8 as incorporation shorthand.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "editorial",
+        "0267",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "7925745aa723e723b94eaf0b54db863a1c7dea94bcb459b33ac74993547e3877",
+      "replacement": "A legal index gives May 8, 1894 for the vote and May 9 for result filing and effect. County and municipal summaries often use May 8 as incorporation shorthand.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "editorial",
+        "0267",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "41f32f03ee02fde3be2defc020f9897249112138a1f442c213b88ba82379e61c",
+      "replacement": "The municipal history reports a June 1914 change from Mayor and Council of the Borough of Westwood to Borough of Westwood. The exact day and legal instrument remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "editorial",
+        "0267",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "41f32f03ee02fde3be2defc020f9897249112138a1f442c213b88ba82379e61c",
+      "replacement": "The municipal history reports a June 1914 change from Mayor and Council of the Borough of Westwood to Borough of Westwood. The exact day and legal instrument remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "editorial",
+        "0268",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "0c92728bf54dc83676a8a3190fd97f7021fd49972ba45743059f254b550cf21a",
+      "replacement": "Postal compilations report Woodcliff Lake on April 19, 1907. The municipal name followed on a separate track: an index lists a March 1, 1910 resolution and March 8 filings and effect. A claim that postal-name confusion caused the 1907 change remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "editorial",
+        "0268",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "9bf5ccdc522944a270dae9831f474bbef9df29a4bf909382614c84bd52823111",
+      "replacement": "Postal compilations report Woodcliff Lake. A claim that duplicate-name confusion caused the change remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "editorial",
+        "0268",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "9bf5ccdc522944a270dae9831f474bbef9df29a4bf909382614c84bd52823111",
+      "replacement": "Postal compilations report Woodcliff Lake. A claim that duplicate-name confusion caused the change remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "editorial",
+        "0268",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "e21d945753bad1503e9486201fe90f796461efd4ad4da4044eec3e57f27998e9",
+      "replacement": "The legal-history index lists the resolution separately from later county and state filings and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "editorial",
+        "0268",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "e21d945753bad1503e9486201fe90f796461efd4ad4da4044eec3e57f27998e9",
+      "replacement": "The legal-history index lists the resolution separately from later county and state filings and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "editorial",
+        "0268",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "3f173ebc746b7b3ee51b218a476a13bd5defbd0eb27007fbe3509f919d829aa6",
+      "replacement": "A legal index lists a March 1, 1910 resolution and March 8 county and state filings and effect as separate stages of the municipal name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "editorial",
+        "0268",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "3f173ebc746b7b3ee51b218a476a13bd5defbd0eb27007fbe3509f919d829aa6",
+      "replacement": "A legal index lists a March 1, 1910 resolution and March 8 county and state filings and effect as separate stages of the municipal name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0269",
+      "path": [
+        "editorial",
+        "0269",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "83050aad5f0b5a0aeb3918647a507d36d0c26a7b0b555763e0765187fb5e801b",
+      "replacement": "Station accounts disagree. A list dates Herrmanns’s appointment April 15, 1872; Wardell dates office establishment August 15. The relationship between these dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0269",
+      "path": [
+        "editorial",
+        "0269",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "83050aad5f0b5a0aeb3918647a507d36d0c26a7b0b555763e0765187fb5e801b",
+      "replacement": "Station accounts disagree. A list dates Herrmanns’s appointment April 15, 1872; Wardell dates office establishment August 15. The relationship between these dates remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0269",
+      "path": [
+        "editorial",
+        "0269",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "aab1e6e7730af8ab271f667b7cfef1e4d855ba74ce33d0b643c17ddc248f2a73",
+      "replacement": "A station is dated around 1867 in one history and around 1870 in Wardell. A postal transcription dates Joseph Herrmanns’s appointment April 15, 1872; Wardell dates establishment August 15. Their relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0269",
+      "path": [
+        "editorial",
+        "0269",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "aab1e6e7730af8ab271f667b7cfef1e4d855ba74ce33d0b643c17ddc248f2a73",
+      "replacement": "A station is dated around 1867 in one history and around 1870 in Wardell. A postal transcription dates Joseph Herrmanns’s appointment April 15, 1872; Wardell dates establishment August 15. Their relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0269",
+      "path": [
+        "editorial",
+        "0269",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cd1386125e3b8e13c062966933fbd5efe4e9e8f804764dac950d9d1ddee23907",
+      "replacement": "For ordinance 16, the index gives April 9, 1897 adoption and approval, April 12 state filing and April 17 effect. Wardell’s April 2 claim conflicts with that sequence; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0269",
+      "path": [
+        "editorial",
+        "0269",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "cd1386125e3b8e13c062966933fbd5efe4e9e8f804764dac950d9d1ddee23907",
+      "replacement": "For ordinance 16, the index gives April 9, 1897 adoption and approval, April 12 state filing and April 17 effect. Wardell’s April 2 claim conflicts with that sequence; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "98f56d44bf4dc93f25f082175e5f8f61b85d05314e081fbf07ebf0ea7ad28d3f",
+      "replacement": "Wyckoff’s modern township name came from an older local identity. A place-name compilation cites Wikehoff and Wikhoof in a 1720 deed through later histories. Church and postal use carried Wyckoff forward long before the 1926 change. The precise sequence of early spellings remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "ee3c88a3360f3bc1066bdeb0fbb67df91c9c670938d03f777bdca7679f2f9af2",
+      "replacement": "The township did not invent Wyckoff in 1926. A later book cites similar spellings in a 1720 deed, and the name was used by a church and post office. Those later references do not identify the first name chooser.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "addb5a604542c989ffe886ca711ddbb87de1f392a7e1eddf2831442fd5f444c4",
+      "replacement": "The deeper meaning is unresolved. Proposed Indigenous explanations include high ground and water; a competing Dutch explanation uses wijk hof. The underlying derivation remains disputed. Those are different possible language origins, rather than several equally certain translations of one word.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "09975c6c3f486bf14aed45e5e779e5b8602c2f5fecfc4fbb3daa18b43065cd1d",
+      "replacement": "Wardell cites Wikehoff and Wikhoof as variant readings of an August 17, 1720 deed through later histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "09975c6c3f486bf14aed45e5e779e5b8602c2f5fecfc4fbb3daa18b43065cd1d",
+      "replacement": "Wardell cites Wikehoff and Wikhoof as variant readings of an August 17, 1720 deed through later histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "98f70a8c1e91791823ebcc9c577603b93184abbce8064bdf2a6329b586628825",
+      "replacement": "Wardell cites Wyckof in published marriage records for 1747, as another reported early spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "98f70a8c1e91791823ebcc9c577603b93184abbce8064bdf2a6329b586628825",
+      "replacement": "Wardell cites Wyckof in published marriage records for 1747, as another reported early spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "97f831101cb678bd9f9f006f8e05426a33dcf514315943a930128006e2db3d40",
+      "replacement": "Township history reports 243 of 337 in favor; the index lists November 2 and reports immediate effect. The later filing notice does not establish the vote count or effective-date rule.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "97f831101cb678bd9f9f006f8e05426a33dcf514315943a930128006e2db3d40",
+      "replacement": "Township history reports 243 of 337 in favor; the index lists November 2 and reports immediate effect. The later filing notice does not establish the vote count or effective-date rule.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "b232a54cc7181a8af0989e3861d5268e52f7348f282b6077711866597f083421",
+      "replacement": "Wardell gives Wikehoff and Wikhoof for a 1720 deed through later histories. These are reported early forms; the precise spelling sequence remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "f7a13020752887de8c0a2ccc886730ef075b19ea1f0c0eed6879ae7c98f7a082",
+      "replacement": "A later book reports early spellings from a 1720 deed. Their exact sequence remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "4e6151a713b2ceeb386b49b55a77bf97b4778b006bc201c3f871fea912be3850",
+      "replacement": "The name has competing Indigenous high-ground or water explanations and a Dutch wijk hof proposal. Its underlying derivation remains disputed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "editorial",
+        "0270",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "2cf8f2173a644503eadfc8ad33faa7a5d88ae327ffd8379cbebe322b0f2a1eab",
+      "replacement": "The name has competing Indigenous high-ground or water explanations and a Dutch wijk hof proposal. Its underlying derivation remains disputed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "fc5854b9003c76e2235fbf5786a344eb6d23810dd8137ef6cb59a7d80d133a5c",
+      "replacement": "Wardell cites Upper Saddle River in Charity Ackerman’s 1836 diary.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ed5ab9c6024109c2e52d8274d31eaa8f1d5d49ccd3cbba15eb71dbfb02af98eb",
+      "replacement": "Wardell cites Upper Saddle River in the April 4, 1859 Paterson Guardian.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "fa42677b4deea7744fea7db5a688f9a303f8005ebf294364d1caeaed10f9c7eb",
+      "replacement": "A reported newspaper occurrence of the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "b3e4d738fd36e277c519f4ed4f77a4139c5f169e9a8f5433bc7229bb35c249de",
+      "replacement": "The legal-history index lists an October 17, 1894 county entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "5d31e908eb50015be48a6bc8a305d99876b5132fd4528091546c9134c1cb2cbc",
+      "replacement": "The entry’s exact function in borough formation remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "f0cf31e7c8c7b5e101adefef88a28ae33f4edc94006b6d5f15e9a2831c290e06",
+      "replacement": "Wardell reports Waldwic Cottage at the Hermitage in 1849.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        5,
+        "actor"
+      ],
+      "expected_sha256": "add0da8528d0460b05bc745c0aabcebc1171ef547d4ddbe1353c821dc0ebd2f7",
+      "replacement": "Hackensack Republican, as cited by Wardell",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "3111df41ebd6504f794d9ab9731c8a92dab3053bb519fac8d493bcb42105d378",
+      "replacement": "Wardell lists a newspaper occurrence of Waldwick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        8,
+        "actor"
+      ],
+      "expected_sha256": "add0da8528d0460b05bc745c0aabcebc1171ef547d4ddbe1353c821dc0ebd2f7",
+      "replacement": "Hackensack Republican, as cited by Wardell",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "c940e518204f99b75cb32c03a97dc2e8405ef2952bb92de5fad490e99011213e",
+      "replacement": "Wardell lists a newspaper occurrence of Waldeck.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        9,
+        "actor"
+      ],
+      "expected_sha256": "077d8329d0c5196302c2dcd4127d2a9d7e6e4d92007d60be367bd69b1825505d",
+      "replacement": "Newspaper writers, as cited by Wardell",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "560f81894d29b60fc4ddacfeab3356f600e31fc7bac513a1965ae1b7239580ea",
+      "replacement": "Wardell lists the modern form in two newspapers.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "1fb53114ca9092ec71641343b70f4a28aa5cf1e3d650a9d71e8cebc3b93c5faf",
+      "replacement": "Wardell reports the post office adopting Waldwick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "54286dcb2a045db09b3c3fc466312027f87f597c187cb5b3506de9233f5f0fd1",
+      "replacement": "The later borough history reports community use before incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "0093178933f376e0e627e19dcc53eded2049b25b2d5bca516b283b43eed460a9",
+      "replacement": "The original petition proposes Mayor and Council of Borough of Wallington and is dated December 12, 1894.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "8b0a1d8573d2a25fd01a67fc41cf5dafca36a98fc2c87e553977aff9a69a7614",
+      "replacement": "The later local history gives a date that differs from the indexed county filing and effect; the relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "f19d93111935a2b16de1adf9481a9686316d0b967bbea8a4700b26b9d4cd5459",
+      "replacement": "The legal-history index gives January 2, 1895 for county result filing and effect, separately from the original December 31 vote return.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "22306b2a929ffa9bf6fa69fc1f1b535423abda3dc63b73aa46d9904860c10069",
+      "replacement": "The indexed filing and effect differ from the January 1 date in the later local history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "a692829147e984053d67fc241b3408591f2622e984f2a3dcb5000a5beeee7f5a",
+      "replacement": "The 1895 law, chapter 107, separates borough territory from underlying township jurisdiction with immediate effect March 7.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0266",
+      "path": [
+        "views",
+        "0266",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "667c6778d05b02d76ea784f7b23fa7011f192349ef36a0c8ae4a701167d90c8d",
+      "replacement": "Wardell and the government index report later expansion from Hohokus in 1852.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "ae6d1e8b721f1b0b9f0c10f41b4b6f46eddaf974ded1a2c7bb175015bbddf004",
+      "replacement": "Wardell and the postal compilation report establishment of Pleasantville Post Office on June 21, 1862.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "f9b1110d46b55956f66a8679606575c5289ecb3c7f3f01c1c925faa125c55c12",
+      "replacement": "Wardell and the postal compilation report discontinuance of Pleasantville Post Office on May 21, 1866.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "c76f7c305fa11eb4a9d26d99fc922888d9d3434d1805ae18ef53e5d7f53f1662",
+      "replacement": "Wardell and the postal compilation report reestablishment February 26, 1868 with Richard Hopper; the 1942 history describes the 1868 resumption without an exact day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "4dc0f8a8b31479c3c8c0a52cafae3f9cc5fed6090f07267f255a77da0157eae6",
+      "replacement": "Wardell and the postal compilation list Isaac D. Bogert’s appointment on March 10, 1870.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "74e2c34c86f8a5ea49720d9a7b825c53943eed23c2f8b14f1dbd3f1023f53e6e",
+      "replacement": "The municipal narrative and the 1942 history, p. 34, describe the railroad extension through the Westwood area in 1870.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "b917765cc92ec6df9bf417cc6dee3e640e33c300fabcbe2f860b0cd061587a4c",
+      "replacement": "Wardell cites Westwood in the September 12, 1873 Bergen County Democrat.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "b99f841c03f7af3f6a6f0f1e8643d2a9086d4a8685f32ed00cf5103f23965354",
+      "replacement": "The legal-history index lists a May 8, 1894 incorporation election; municipal and county histories use that date as incorporation shorthand.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "a01f152a993e176abaa63c1b1aa95202a3072ec96105180a20eb77ddfe49e990",
+      "replacement": "The legal-history index lists result filing and effect on May 9, 1894 under the general borough process.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e6eb5ac27f0147981f2f75976c61e22f08e6c2f345bbbf9332f1bb9b0e3529cc",
+      "replacement": "Wardell reports the station under the older Pascack name in 1871.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "74ffc943fa5d571615e73f16b7e4c66b4e1908e97f9051d9a87625673b833076",
+      "replacement": "Wardell reports a June 30, 1891 change from Pascack to Woodcliff; the postal compilation lists Nicholas B. Ackerman’s appointment that day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "bf0465e289deab474a09a6d7f0480597d518c58b60ac91d981f30da8c83a9903",
+      "replacement": "The legal-history index lists an August 28 election; a later local narrative reports a 38–8 vote for Woodcliff.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "fcb3d8e71c368c025f8273578ed3b8234b1fca55ae861bf2aeca37f88dab9172",
+      "replacement": "The legal-history index lists August 31 result filing and effect for Woodcliff Borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "f22e120cc45f6287c0e19dec5a49e645c4d3e43a67a4c8965538444ebe8e010a",
+      "replacement": "The later local history reports a first council meeting on October 16, 1894 at Mayor Samuel Burrage Reed’s home.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "4646a2d16326c0f46e64d3e9536fe4b3601b2ee3799db517bd6022db48427c32",
+      "replacement": "The reported meeting marks organization of the new borough government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "fe334c6faab9364f8aef1bad12413d9df51f3fb15c14c7abdb0bec71c43b99a0",
+      "replacement": "The later reservoir history describes construction in 1903–1905 amid local political conflict.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "8ab434286dfd4fa805d1a40826043b43d99bf7a9f86b7040896fc35ed0657c38",
+      "replacement": "Wardell and the postal compilation report a postal change from Woodcliff to Woodcliff Lake on April 19, 1907.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "70cfb6f78579085013f2fec93df41d0158d010512d5c9a0a3f3d271b33e959cd",
+      "replacement": "The legal-history index lists a March 1, 1910 resolution to change the borough name to Woodcliff Lake.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "eb75c6eb2efd1aedeb62695167074f1f5b3661117b5cafcf8b29a6215386f929",
+      "replacement": "The legal-history index lists March 8, 1910 county and state filings and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0269",
+      "path": [
+        "views",
+        "0269",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "7422490246032ac58c479629397fa27729af0ad922133c20ec81b24a650ff6f0",
+      "replacement": "The Genealogical Society’s postal transcription lists Joseph Herrmanns’s appointment on April 15, 1872.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0269",
+      "path": [
+        "views",
+        "0269",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c682e7b504418278569276de1351f654995276aaa76cf2d9ee112b7f461c123b",
+      "replacement": "A listed appointment date, distinct from Wardell’s conflicting office-establishment date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0269",
+      "path": [
+        "views",
+        "0269",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "a692829147e984053d67fc241b3408591f2622e984f2a3dcb5000a5beeee7f5a",
+      "replacement": "The 1895 law, chapter 107, separates borough territory from underlying township jurisdiction with immediate effect March 7.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "f36fe7e706da089d28ef7dc4c06e0dc2fecc9d8a3d36831c3f9fe6eef439bb3b",
+      "replacement": "Wardell cites these variant readings of an August 17, 1720 deed through two later histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "96a49691ac8af8b84cbd1bb14f3083bcc966dcb79a206c87d378435a24244e22",
+      "replacement": "Later histories report a locality name long before the modern township adopted it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "9f5b725894e06a72d3365c10c0a2983422c68269a0ba0c2a26908f9515c559bd",
+      "replacement": "Wardell cites Wyckof in published marriage records for 1747.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "07f17e5af3a807b8789e3acec3e3ccd6cb70db7cbb2f122591917d969d4fc69c",
+      "replacement": "Wardell reports establishment of the Reformed Dutch Church of Wyckoff in 1806.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "bb0c58b764e81fb0431a859edc97337cf373193b257739a3cf730ee401d6c3cc",
+      "replacement": "The reported establishment does not establish the exact title used by the church at its founding.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "6854752350613690055c6c06eb03302ab1f9711ddef0992dc2c448b7033357c4",
+      "replacement": "The township’s later history places Franklin Lakes separation four years before the 1926 renaming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "321771945d9c08f1f12f98197ac67d235f987879b8071621c79d63d986f362f7",
+      "replacement": "The township’s later history credits the Chamber of Commerce with initiating the campaign.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "3ea547524ebc276351be11d2e099f673666bf40805cf716aed01a120bd409195",
+      "replacement": "The township’s later history reports 243 of 337 votes in favor; the legal-history index lists the November 2 election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "066afdc5a454d9b3a6905075b023040e8eb497c56ce90fb4f0840c25ecfe6385",
+      "replacement": "The index reports immediate effect; the filing notice alone does not establish the effective-date rule.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "sources",
+        "S13",
+        "publication"
+      ],
+      "expected_sha256": "9777462c17c875542a4046bf3c512ee8bd214ebc5c9a7f626bf00e94616b1b00",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "sources",
+        "S56",
+        "author"
+      ],
+      "expected_sha256": "e3aba18e699e47e24ec25e1a6a5a83de0a368201d3aaaa04786ca02b4c6cdf76",
+      "replacement": "Pascack Press / Pascack Historical Society",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "fc5854b9003c76e2235fbf5786a344eb6d23810dd8137ef6cb59a7d80d133a5c",
+      "replacement": "Wardell cites Upper Saddle River in Charity Ackerman’s 1836 diary.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "ed5ab9c6024109c2e52d8274d31eaa8f1d5d49ccd3cbba15eb71dbfb02af98eb",
+      "replacement": "Wardell cites Upper Saddle River in the April 4, 1859 Paterson Guardian.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "fa42677b4deea7744fea7db5a688f9a303f8005ebf294364d1caeaed10f9c7eb",
+      "replacement": "A reported newspaper occurrence of the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "b3e4d738fd36e277c519f4ed4f77a4139c5f169e9a8f5433bc7229bb35c249de",
+      "replacement": "The legal-history index lists an October 17, 1894 county entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0263",
+      "path": [
+        "views",
+        "0263",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "5d31e908eb50015be48a6bc8a305d99876b5132fd4528091546c9134c1cb2cbc",
+      "replacement": "The entry’s exact function in borough formation remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "f0cf31e7c8c7b5e101adefef88a28ae33f4edc94006b6d5f15e9a2831c290e06",
+      "replacement": "Wardell reports Waldwic Cottage at the Hermitage in 1849.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        5,
+        "actor"
+      ],
+      "expected_sha256": "add0da8528d0460b05bc745c0aabcebc1171ef547d4ddbe1353c821dc0ebd2f7",
+      "replacement": "Hackensack Republican, as cited by Wardell",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "3111df41ebd6504f794d9ab9731c8a92dab3053bb519fac8d493bcb42105d378",
+      "replacement": "Wardell lists a newspaper occurrence of Waldwick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        8,
+        "actor"
+      ],
+      "expected_sha256": "add0da8528d0460b05bc745c0aabcebc1171ef547d4ddbe1353c821dc0ebd2f7",
+      "replacement": "Hackensack Republican, as cited by Wardell",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "c940e518204f99b75cb32c03a97dc2e8405ef2952bb92de5fad490e99011213e",
+      "replacement": "Wardell lists a newspaper occurrence of Waldeck.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        9,
+        "actor"
+      ],
+      "expected_sha256": "077d8329d0c5196302c2dcd4127d2a9d7e6e4d92007d60be367bd69b1825505d",
+      "replacement": "Newspaper writers, as cited by Wardell",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "560f81894d29b60fc4ddacfeab3356f600e31fc7bac513a1965ae1b7239580ea",
+      "replacement": "Wardell lists the modern form in two newspapers.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "1fb53114ca9092ec71641343b70f4a28aa5cf1e3d650a9d71e8cebc3b93c5faf",
+      "replacement": "Wardell reports the post office adopting Waldwick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "54286dcb2a045db09b3c3fc466312027f87f597c187cb5b3506de9233f5f0fd1",
+      "replacement": "The later borough history reports community use before incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "0093178933f376e0e627e19dcc53eded2049b25b2d5bca516b283b43eed460a9",
+      "replacement": "The original petition proposes Mayor and Council of Borough of Wallington and is dated December 12, 1894.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "8b0a1d8573d2a25fd01a67fc41cf5dafca36a98fc2c87e553977aff9a69a7614",
+      "replacement": "The later local history gives a date that differs from the indexed county filing and effect; the relationship remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "f19d93111935a2b16de1adf9481a9686316d0b967bbea8a4700b26b9d4cd5459",
+      "replacement": "The legal-history index gives January 2, 1895 for county result filing and effect, separately from the original December 31 vote return.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "22306b2a929ffa9bf6fa69fc1f1b535423abda3dc63b73aa46d9904860c10069",
+      "replacement": "The indexed filing and effect differ from the January 1 date in the later local history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0265",
+      "path": [
+        "views",
+        "0265",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "a692829147e984053d67fc241b3408591f2622e984f2a3dcb5000a5beeee7f5a",
+      "replacement": "The 1895 law, chapter 107, separates borough territory from underlying township jurisdiction with immediate effect March 7.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0266",
+      "path": [
+        "views",
+        "0266",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "667c6778d05b02d76ea784f7b23fa7011f192349ef36a0c8ae4a701167d90c8d",
+      "replacement": "Wardell and the government index report later expansion from Hohokus in 1852.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "ae6d1e8b721f1b0b9f0c10f41b4b6f46eddaf974ded1a2c7bb175015bbddf004",
+      "replacement": "Wardell and the postal compilation report establishment of Pleasantville Post Office on June 21, 1862.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "f9b1110d46b55956f66a8679606575c5289ecb3c7f3f01c1c925faa125c55c12",
+      "replacement": "Wardell and the postal compilation report discontinuance of Pleasantville Post Office on May 21, 1866.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "c76f7c305fa11eb4a9d26d99fc922888d9d3434d1805ae18ef53e5d7f53f1662",
+      "replacement": "Wardell and the postal compilation report reestablishment February 26, 1868 with Richard Hopper; the 1942 history describes the 1868 resumption without an exact day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "4dc0f8a8b31479c3c8c0a52cafae3f9cc5fed6090f07267f255a77da0157eae6",
+      "replacement": "Wardell and the postal compilation list Isaac D. Bogert’s appointment on March 10, 1870.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "74e2c34c86f8a5ea49720d9a7b825c53943eed23c2f8b14f1dbd3f1023f53e6e",
+      "replacement": "The municipal narrative and the 1942 history, p. 34, describe the railroad extension through the Westwood area in 1870.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "b917765cc92ec6df9bf417cc6dee3e640e33c300fabcbe2f860b0cd061587a4c",
+      "replacement": "Wardell cites Westwood in the September 12, 1873 Bergen County Democrat.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "b99f841c03f7af3f6a6f0f1e8643d2a9086d4a8685f32ed00cf5103f23965354",
+      "replacement": "The legal-history index lists a May 8, 1894 incorporation election; municipal and county histories use that date as incorporation shorthand.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0267",
+      "path": [
+        "views",
+        "0267",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "a01f152a993e176abaa63c1b1aa95202a3072ec96105180a20eb77ddfe49e990",
+      "replacement": "The legal-history index lists result filing and effect on May 9, 1894 under the general borough process.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e6eb5ac27f0147981f2f75976c61e22f08e6c2f345bbbf9332f1bb9b0e3529cc",
+      "replacement": "Wardell reports the station under the older Pascack name in 1871.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "74ffc943fa5d571615e73f16b7e4c66b4e1908e97f9051d9a87625673b833076",
+      "replacement": "Wardell reports a June 30, 1891 change from Pascack to Woodcliff; the postal compilation lists Nicholas B. Ackerman’s appointment that day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "bf0465e289deab474a09a6d7f0480597d518c58b60ac91d981f30da8c83a9903",
+      "replacement": "The legal-history index lists an August 28 election; a later local narrative reports a 38–8 vote for Woodcliff.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "fcb3d8e71c368c025f8273578ed3b8234b1fca55ae861bf2aeca37f88dab9172",
+      "replacement": "The legal-history index lists August 31 result filing and effect for Woodcliff Borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "f22e120cc45f6287c0e19dec5a49e645c4d3e43a67a4c8965538444ebe8e010a",
+      "replacement": "The later local history reports a first council meeting on October 16, 1894 at Mayor Samuel Burrage Reed’s home.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "4646a2d16326c0f46e64d3e9536fe4b3601b2ee3799db517bd6022db48427c32",
+      "replacement": "The reported meeting marks organization of the new borough government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "fe334c6faab9364f8aef1bad12413d9df51f3fb15c14c7abdb0bec71c43b99a0",
+      "replacement": "The later reservoir history describes construction in 1903–1905 amid local political conflict.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "8ab434286dfd4fa805d1a40826043b43d99bf7a9f86b7040896fc35ed0657c38",
+      "replacement": "Wardell and the postal compilation report a postal change from Woodcliff to Woodcliff Lake on April 19, 1907.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "70cfb6f78579085013f2fec93df41d0158d010512d5c9a0a3f3d271b33e959cd",
+      "replacement": "The legal-history index lists a March 1, 1910 resolution to change the borough name to Woodcliff Lake.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "events",
+        11,
+        "action"
+      ],
+      "expected_sha256": "eb75c6eb2efd1aedeb62695167074f1f5b3661117b5cafcf8b29a6215386f929",
+      "replacement": "The legal-history index lists March 8, 1910 county and state filings and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0269",
+      "path": [
+        "views",
+        "0269",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "7422490246032ac58c479629397fa27729af0ad922133c20ec81b24a650ff6f0",
+      "replacement": "The Genealogical Society’s postal transcription lists Joseph Herrmanns’s appointment on April 15, 1872.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0269",
+      "path": [
+        "views",
+        "0269",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c682e7b504418278569276de1351f654995276aaa76cf2d9ee112b7f461c123b",
+      "replacement": "A listed appointment date, distinct from Wardell’s conflicting office-establishment date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0269",
+      "path": [
+        "views",
+        "0269",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "a692829147e984053d67fc241b3408591f2622e984f2a3dcb5000a5beeee7f5a",
+      "replacement": "The 1895 law, chapter 107, separates borough territory from underlying township jurisdiction with immediate effect March 7.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "f36fe7e706da089d28ef7dc4c06e0dc2fecc9d8a3d36831c3f9fe6eef439bb3b",
+      "replacement": "Wardell cites these variant readings of an August 17, 1720 deed through two later histories.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "96a49691ac8af8b84cbd1bb14f3083bcc966dcb79a206c87d378435a24244e22",
+      "replacement": "Later histories report a locality name long before the modern township adopted it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "9f5b725894e06a72d3365c10c0a2983422c68269a0ba0c2a26908f9515c559bd",
+      "replacement": "Wardell cites Wyckof in published marriage records for 1747.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "07f17e5af3a807b8789e3acec3e3ccd6cb70db7cbb2f122591917d969d4fc69c",
+      "replacement": "Wardell reports establishment of the Reformed Dutch Church of Wyckoff in 1806.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "bb0c58b764e81fb0431a859edc97337cf373193b257739a3cf730ee401d6c3cc",
+      "replacement": "The reported establishment does not establish the exact title used by the church at its founding.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "6854752350613690055c6c06eb03302ab1f9711ddef0992dc2c448b7033357c4",
+      "replacement": "The township’s later history places Franklin Lakes separation four years before the 1926 renaming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "321771945d9c08f1f12f98197ac67d235f987879b8071621c79d63d986f362f7",
+      "replacement": "The township’s later history credits the Chamber of Commerce with initiating the campaign.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "3ea547524ebc276351be11d2e099f673666bf40805cf716aed01a120bd409195",
+      "replacement": "The township’s later history reports 243 of 337 votes in favor; the legal-history index lists the November 2 election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0270",
+      "path": [
+        "views",
+        "0270",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "066afdc5a454d9b3a6905075b023040e8eb497c56ce90fb4f0840c25ecfe6385",
+      "replacement": "The index reports immediate effect; the filing notice alone does not establish the effective-date rule.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0264",
+      "path": [
+        "views",
+        "0264",
+        "sources",
+        "S13",
+        "publication"
+      ],
+      "expected_sha256": "9777462c17c875542a4046bf3c512ee8bd214ebc5c9a7f626bf00e94616b1b00",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0268",
+      "path": [
+        "views",
+        "0268",
+        "sources",
+        "S56",
+        "author"
+      ],
+      "expected_sha256": "e3aba18e699e47e24ec25e1a6a5a83de0a368201d3aaaa04786ca02b4c6cdf76",
+      "replacement": "Pascack Press / Pascack Historical Society",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]

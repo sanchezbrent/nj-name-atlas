@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 48 — November 26, 2026
+## Current checkpoint 49 — November 26, 2026
+
+[Checkpoint 49](PUBLIC_COPY_CHECKPOINT_49.md) completes nine towns in Bergen County
+in both editions, adding 193 proposals for 14,655 cumulative. All
+14,462 earlier rows and prior 555 reviewed reader/view records remain exact.
+Agent text review is **564/564 per edition**, with 0 remaining and zero human
+sign-offs. Strict candidates: 18 primary and 21 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 23 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The final nine-town run is complete and stopped under the standing up-to-24-town
+authorization. No unreviewed-town queue remains. Stop after the final nine-town checkpoint. Agent text review reaches 564/564 per edition; source holds, human acceptance, candidate disposition, rendered QA and separately authorized release remain open.
+
+## Historical checkpoint 48 — November 26, 2026
 
 [Checkpoint 48](PUBLIC_COPY_CHECKPOINT_48.md) completes twelve towns in Bergen County
 in both editions, adding 179 proposals for 14,462 cumulative. All
