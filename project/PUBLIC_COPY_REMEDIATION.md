@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 36 — November 25, 2026
+## Current checkpoint 37 — November 25, 2026
+
+[Checkpoint 37](PUBLIC_COPY_CHECKPOINT_37.md) completes twelve towns in Mercer and Passaic counties
+in both editions, adding 353 proposals for 11,301 cumulative. All
+10,948 earlier rows and prior 411 reviewed reader/view records remain exact.
+Agent text review is **423/564 per edition**, with 141 remaining and zero human
+sign-offs. Strict candidates: 658 primary and 613 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 23 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Continue the remaining twelve authorized Passaic towns as checkpoint 38, save both PRs and issue #4, then stop after all 24.
+
+## Historical checkpoint 36 — November 25, 2026
 
 [Checkpoint 36](PUBLIC_COPY_CHECKPOINT_36.md) completes twelve towns in Hudson and Mercer counties
 in both editions, adding 271 proposals for 10,948 cumulative. All
