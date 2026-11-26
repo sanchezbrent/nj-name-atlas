@@ -4,7 +4,21 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 59 — November 26, 2026
+## Current checkpoint 60 — November 26, 2026
+
+[Checkpoint 60](PUBLIC_COPY_CHECKPOINT_60.md) adds twelve towns to bounded agent
+rendered QA in both editions, for **128/564 per edition** at desktop/mobile sizes.
+The unchanged website/payloads and all 14,681 proposals are preserved. All required
+checks pass: 26 Python tests, six syntax checks, 16 notebook and 5,944 runtime
+assertions; unchanged strict scanner **0 primary / 0 Young**. Discovery eligibility
+and all source holds remain unchanged. Two hidden Young tour UI limits are
+recorded; broader rendered and human acceptance remain open.
+
+Agent text review remains **564/564 per edition**; human/publication sign-offs
+remain **zero**. **Release BLOCKED.** Nothing merged or deployed; live Pages is
+unchanged. Stop after the authorized 24-town run. No further batch has been selected or started.
+
+## Historical checkpoint 59 — November 26, 2026
 
 [Checkpoint 59](PUBLIC_COPY_CHECKPOINT_59.md) adds twelve towns to bounded agent
 rendered QA in both editions, for **116/564 per edition** at desktop/mobile sizes.
