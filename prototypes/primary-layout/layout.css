@@ -248,6 +248,22 @@
 #nj-name-atlas.primary-layout-preview.is-reading .story { grid-column: 2; grid-row: 1; padding: 28px; }
 #nj-name-atlas.primary-layout-preview.is-reading > .atlas-columns > .origin-filters { display: none; }
 #nj-name-atlas.primary-layout-preview.is-reading .story-tools { position: sticky; top: 0; padding: 10px 0; background: var(--control); z-index: 3; }
+#nj-name-atlas.primary-layout-preview.is-reading .story-tools { flex-wrap: wrap; gap: 8px 16px; border-bottom: 1px solid var(--soft-rule); }
+#nj-name-atlas.primary-layout-preview.is-reading.layout-tall-navigation .story-tools { position: static; }
+#nj-name-atlas.primary-layout-preview.is-reading .reader-view-label { display: none; }
+#nj-name-atlas.primary-layout-preview.is-reading .story-tools #atlas-reader-show-map { min-height: 44px; margin: 0; padding: 8px 10px; }
+#nj-name-atlas.primary-layout-preview.is-reading .story-tools .map-stepper { flex: 1 1 320px; grid-template-columns: auto minmax(0, 1fr) auto; width: auto; min-width: 0; margin: 0; padding: 0; border: 0; gap: 8px; }
+#nj-name-atlas.primary-layout-preview.is-reading .story-tools #atlas-map-stepper[hidden] { display: grid !important; }
+#nj-name-atlas.primary-layout-preview.is-reading .map-step-current { min-width: 0; }
+#nj-name-atlas.primary-layout-preview.is-reading .map-stepper :is(#atlas-step-county, .map-story-cue) { display: none; }
+#nj-name-atlas.primary-layout-preview.is-reading .map-stepper #atlas-open-map-story { min-height: 44px; overflow-wrap: anywhere; }
+#nj-name-atlas.primary-layout-preview.is-reading .map-step-arrow { width: auto; min-width: 64px; min-height: 44px; padding: 6px; font-size: .875rem; }
+#nj-name-atlas.primary-layout-preview.is-reading #atlas-prev-town::after { content: " Previous"; }
+#nj-name-atlas.primary-layout-preview.is-reading #atlas-next-town::before { content: "Next "; }
+#nj-name-atlas.primary-layout-preview.is-reading .map-step-arrow span { margin: 0 3px; }
+#nj-name-atlas.primary-layout-preview .story-tools .map-stepper button:focus-visible { outline-offset: 2px; }
+#nj-name-atlas.primary-layout-preview .story { scroll-margin-top: 12px; }
+#nj-name-atlas.primary-layout-preview.is-reading .story [id] { scroll-margin-top: var(--layout-toolbar-offset, 160px); }
 #nj-name-atlas.primary-layout-preview.is-reading .layout-reading-hint { display: none; }
 #nj-name-atlas.primary-layout-preview.is-reading #atlas-pilot-story { font-size: 1.125rem; line-height: 1.75; max-width: 65ch; }
 #nj-name-atlas.primary-layout-preview.is-reading .story-onward { margin: 24px 0 20px; padding: 18px 0 0; border-top-color: var(--soft-rule); }
@@ -311,6 +327,11 @@
   #nj-name-atlas.primary-layout-preview .story-tools { padding-bottom: 0; }
   #nj-name-atlas.primary-layout-preview.is-reading .masthead { padding: 0 0 16px; }
   #nj-name-atlas.primary-layout-preview.is-reading .story { padding: 16px; }
+  #nj-name-atlas.primary-layout-preview.is-reading .story-tools .reading-toggle { padding: 8px 12px; }
+  #nj-name-atlas.primary-layout-preview.is-reading .story-tools .map-stepper { flex-basis: 100%; }
+  #nj-name-atlas.primary-layout-preview.is-reading .map-step-arrow { min-width: 44px; }
+  #nj-name-atlas.primary-layout-preview.is-reading #atlas-prev-town::after,
+  #nj-name-atlas.primary-layout-preview.is-reading #atlas-next-town::before { content: none; }
   #nj-name-atlas.primary-layout-preview .story-onward ul { grid-template-columns: minmax(0, 1fr); }
   #nj-name-atlas.primary-layout-preview.is-reading .event-heading { grid-template-columns: minmax(0, 1fr); gap: 3px; }
   #nj-name-atlas.primary-layout-preview.is-reading .event-date { grid-column: 1; grid-row: auto; }

@@ -5,6 +5,7 @@ on:
       - 'prototypes/primary-layout/**'
       - 'scripts/build_layout_prototype.py'
       - 'tests/test_layout_prototype.py'
+      - 'tests/layout_navigation.mjs'
       - 'project/PRIMARY_LAYOUT_PROTOTYPE.md'
       - '.github/workflows/layout-prototype.yml'
 permissions:
@@ -24,6 +25,8 @@ jobs:
           persist-credentials: false
       - name: Test overwrite and content-preservation boundaries
         run: python3 -m unittest discover -s tests -p test_layout_prototype.py -v
+      - name: Test prototype navigation with invented controls and scroll positions
+        run: node tests/layout_navigation.mjs
       - name: Compose from the pinned editorial checkpoint
         run: python3 scripts/build_layout_prototype.py --verify --output-dir "$RUNNER_TEMP/atlas-editorial-preview"
       - name: Compose independently from this branch's source

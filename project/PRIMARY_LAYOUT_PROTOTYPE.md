@@ -2,7 +2,7 @@
 
 November 23, 2026. **Interactive local prototype; no production change.**
 
-Latest revision: **UI-1.5**, a simpler finder and stronger selected-town outline; see the addenda below.
+Latest revision: **UI-1.6**, reading navigation and return-view preservation; see the addenda below.
 The original UI-1 evidence and hashes remain recorded as that checkpoint.
 
 The interface and editorial paths remain separate. Editorial PR #5 owns copy,
@@ -524,3 +524,124 @@ snapshot, a new combined integration checkpoint, combined acceptance and separat
 authorized release/live readback. Provisional active work remains 30–60 minutes
 for a bounded revision or 45–90 minutes for selected-source integration, excluding
 waits; no editorial/publication completion ETA is asserted.
+
+## UI-1.6 — reading navigation and preserved map views
+
+November 26, 2026. Site design/navigation only, as explicitly scoped by the owner.
+Editorial work remains in its separate chat and branch. The content pin, prior
+checkpoints, historical wording and both published editions remain unchanged.
+
+### Interaction and implementation
+
+- The original previous/next navigation moves into the reading toolbar and back
+  to its map position on exit. It keeps the runtime's matching-town order, filter
+  scope, boundary disabling, target town names and focus fallback. Each new town
+  opens at the top. The current-town action also returns to the story top.
+- The single original “Show on map” action moves from the locator into the same
+  toolbar, including on phone. It reveals the selected town using the runtime's
+  map framing. “Return to atlas” and Escape restore the entry page position and
+  saved zoom/pan after stepping. These are deliberately distinct destinations.
+- One original navigation/status/action DOM is reused. The status travels with
+  the stepper. In reading view only, CSS reveals the stepper even when the index
+  has set its original hidden flag; returning to the index retains that flag.
+- A small adapter captures the browse view before entry, handles its click work
+  after the runtime's target handlers, and restores after original focus frames.
+  Escape restoration runs after the original document handler. Dialog/form or
+  already-handled Escape is left alone. It does not prevent default actions,
+  intercept history, create selection state, parse content or access storage.
+- A narrow bridge inside the existing runtime closure reads/restores numeric
+  map viewport state and requests the original selected-town reveal. Restoration
+  is skipped if county or browse view changed. The runtime's town/category/filter
+  rules, dates, source guards, geometry and original event handlers are retained.
+- The toolbar sticks while reading, with measured clearance for focused event
+  and source targets. If taller than 200px or one-third of the viewport, it scrolls
+  as ordinary content. Controls wrap; phone arrows retain full accessible names.
+
+### Updated integration contract
+
+UI-1.1 through UI-1.5 were CSS/markup-only revisions. UI-1.6 deliberately adds
+`prototypes/primary-layout/navigation.js` and its isolated event/viewport tests.
+The generated runtime script container now includes that exact approved extension
+immediately before its guarded closing scope. There are still four script tags.
+The builder requires the known closure, navigation and viewport anchors. Removing
+only the exact extension must recover all four original script blocks byte-for-
+byte. Changed, removed, duplicated or relocated extensions and changed original
+runtime/data are rejected. Negative tests cover these cases. Source checks and
+CSP remain intact; the selected source's own project check validates the complete
+extended script. Receipts report `original_scripts_identical: false` and
+`original_script_bytes_preserved: true` to distinguish these facts explicitly.
+
+Builder SHA-256:
+`3e4b8da69540c53ab2ab0e5c7c370dc29fb88b485f9c5b5385bdbeb94a8ab2c3`.
+CSS SHA-256:
+`0dba42a9e7748f04f264120fa6b9a1aaa5e35255b38e7a59a29b8ec05d2c54c3`.
+Navigation adapter SHA-256:
+`601058b4bd11e40d9a5c5b215b1265b70735dca3b2995c061094a8c7b3f9ba2b`.
+
+| Composed source | UI-1.6 generated Primary SHA-256 |
+| --- | --- |
+| Main base, unchanged | `efaef501a4e9fd3eeec15aae83c5d44ca5bc196aba422ec2e75a4202965889aa` |
+| Checkpoint 23, still pinned | `f658d608e177ad0daf80c7bfcea691c77d8b6316b3ade648fa9ff0095a2386c5` |
+| Checkpoint 24, independent rehearsal | `96831bd1617c3f13b18be28e3fa5c9f254c0d217fdba52704d967c317d1349da` |
+
+All original styles, metadata/CSP and 186 existing IDs remain preserved. There are
+no new IDs beyond UI-1's three. The six unaffected assets remain exact, including
+Young Explorers. No dependency, schema, storage, tracking or publication change.
+Published assets, committed baselines, the manifest and editorial refs are untouched.
+
+### Validation and observed behavior
+
+All 24 Python tests pass. The actual adapter passes 20 isolated assertions using
+invented controls, event ordering, scroll values and viewport values. No browser
+storage, historical content or network is available to that harness. CI runs it
+separately. Required unchanged publishing-source checks pass; each final composed
+source passes its own project/script, 16 fake-storage notebook and corpus checks
+(5,941 per editorial snapshot, 5,921 for main). Existing publication holds remain
+unchanged; these checks grant no editorial sign-off.
+
+Browser QA on checkpoint 23:
+
+- No horizontal overflow at 320, 390, 640, 768, 900, 1280, 1430 or 1600px in the
+  reading layout. All five toolbar buttons are at least 44px wide/high. There is
+  one stepper and one Show on map control. Light/dark phone appearance was inspected.
+- Burlington + Township search + Indigenous origin produces a two-town pool.
+  Previous is disabled at Cinnaminson, Next at Shamong; the original focus falls
+  back to the current-town action at the boundary. Enter steps and Escape returns
+  with county, query and origin intact. Stepping from the town index works while
+  retaining its original hidden flag; normal return preserves index view.
+- After a real map drag at 1.6×, a coordinate click enters reading at page Y=197.5.
+  Four forward steps reach Cliffside Park. Return restores Y=197.5 and the exact
+  same fixed municipality's SVG path geometry. Explicit Show on map then reveals
+  Cliffside Park and focuses the map control. Earlier locator clicks were excluded
+  from scroll comparisons because automation can scroll its target before clicking.
+- Phone timeline and source-return focus remain below the sticky toolbar: focused
+  T1582/reference top around 160px, toolbar bottom around 137px. Dialog Escape closes
+  the name-journey dialog and retains reading view. Earlier event/citation checks
+  remain separately recorded; no source or historical text was edited.
+- A QA-only copy outside Git enlarges all five navigation controls to 32px and
+  the position label to 24px. It has no horizontal overflow at 320, 390, 640 or
+  1280px. Tall phone/tablet bars become ordinary scrolling content; the 1280px bar
+  fits and remains sticky. At 390px, the focused event starts around 12px with the
+  tall bar already above the viewport. This is a controlled enlarged-text fixture
+  and reflow check, not a claim of native browser/OS zoom certification.
+- Young Explorers opens Madison without the prototype overlay. Original notebook
+  behavior remains covered by isolated tests; existing notes were not inspected,
+  changed, relabeled, migrated or transmitted. Temporary viewport overrides are
+  reset; the enlarged-text QA tab/server are closed.
+
+Screenshots and measured rectangles remain outside Git. This is sampled behavior,
+not assistive-technology certification, all-browser coverage, every tour, native
+download/print acceptance or checkpoint 24 rendered acceptance. Exact map geometry
+restoration is verified at a fixed viewport; a resized viewport may reframe it.
+Future runtime/content integrations require fresh browser acceptance of the bridge.
+
+### Stage and next checkpoint
+
+UI-1.6 implementation, local/browser QA and immutable-source rehearsals are complete;
+the reading-navigation prototype is usable. The draft PR records the checkpoint and
+CI results. Stop for design review. Remaining milestones are UI acceptance,
+deliberate selection of a completed content snapshot, a new combined integration
+checkpoint and separately authorized release/live readback. Editorial work stays
+independent. Provisional next active work: 30–60 minutes for a bounded UI revision
+or 45–90 minutes for selected-source integration, excluding waits; no editorial or
+publication completion ETA is asserted.

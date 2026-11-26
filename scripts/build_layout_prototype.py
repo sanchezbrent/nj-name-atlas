@@ -103,9 +103,32 @@ REQUIRED_IDS = ("nj-name-atlas", "explore-heading", "atlas-search", "atlas-count
                 "atlas-events", "atlas-all-sources", "atlas-pilot-data", "atlas-reader-context")
 
 
+def navigation_extension():
+    script = (PROTOTYPE / "navigation.js").read_text()
+    require("</script" not in script.lower(), "Invalid navigation overlay.")
+    bridge = """({
+  readViewport: () => ({zoom: state.zoom, pan: [...state.pan], county: state.county, view: state.view}),
+  revealTown: () => { lastMapSelected = ''; },
+  restoreViewport: saved => {
+    if (!saved || saved.county !== state.county || saved.view !== state.view) return;
+    state.zoom = saved.zoom; state.pan = [...saved.pan]; lastMapSelected = state.town; drawMap();
+  }
+});"""
+    return "\n/* Primary layout navigation overlay (UI-1.6). */\n" + script + bridge + "\n/* End primary layout navigation overlay. */\n"
+
+
 def verify_preservation(source, candidate):
     before, after = Document(source), Document(candidate)
-    require(before.blocks("script") == after.blocks("script"),
+    scripts = [n for n in after.nodes if n["tag"] == "script"]
+    extension = navigation_extension()
+    require(len(scripts) == len(before.blocks("script"))
+            and after.raw(scripts[-1]).count(extension) == 1
+            and candidate[scripts[-1]["close"]-len(extension)-len("\n})();\n"):scripts[-1]["close"]]
+                == extension + "\n})();\n",
+            "Missing or changed navigation overlay.")
+    last = scripts[-1]
+    restored_scripts = after.blocks("script")[:-1] + [after.raw(last).replace(extension, "", 1)]
+    require(before.blocks("script") == restored_scripts,
             "Runtime or embedded content changed; UI integration rejected.")
     original_styles = before.blocks("style")
     require(after.blocks("style")[:-1] == original_styles
@@ -119,7 +142,9 @@ def verify_preservation(source, candidate):
     require(before_meta == after_meta, "CSP or metadata changed.")
     return {
         "source_sha256": digest(source), "preview_sha256": digest(candidate),
-        "original_scripts_identical": True,
+        "original_scripts_identical": False,
+        "original_script_bytes_preserved": True,
+        "navigation_overlay_sha256": digest((PROTOTYPE / "navigation.js").read_bytes()),
         "script_sha256": [digest(x) for x in before.blocks("script")],
         "original_styles_identical": True, "existing_dom_ids_preserved": len(before.ids()),
         "metadata_and_csp_identical": True,
@@ -135,6 +160,21 @@ def transform(source, css):
     require("primary-layout-overlay" not in doc.ids(), "Prototype is already applied.")
     require("</style" not in css.lower(), "Invalid style overlay.")
     require(len(doc.blocks("script")) == 4, "Unexpected script ownership; review integration contract.")
+    runtime = [n for n in doc.nodes if n["tag"] == "script"][-1]
+    require(runtime["attrs"].get("type", "") in ("", "text/javascript")
+            and "Primary layout navigation overlay" not in source, "Runtime extension contract changed.")
+    require(source[runtime["inner"]:runtime["close"]].endswith("\n})();\n")
+            and "let readingReturn=null,lastMapSelected='';" in source
+            and "function drawMap(){" in source, "Map viewport bridge changed upstream.")
+    stepper, story_tools = doc.one(id="atlas-map-stepper"), doc.one(cls="story-tools")
+    require(doc.one(cls="map-panel")["inner"] < stepper["start"] < stepper["end"] < doc.one(cls="map-panel")["close"],
+            "Town navigation moved upstream.")
+    for id in ("atlas-prev-town", "atlas-next-town", "atlas-open-map-story"):
+        control = doc.one(id=id)
+        require(stepper["inner"] < control["start"] < control["end"] < stepper["close"]
+                and control["tag"] == "button", "Town navigation controls changed upstream.")
+    require(story_tools["inner"] < doc.one(id="atlas-reading-toggle")["start"] < story_tools["close"],
+            "Reading tools changed upstream.")
     head, masthead = doc.one(tag="head"), doc.one(tag="header", cls="masthead")
     expected_masthead = '<header class="masthead">\n    <h1>New Jersey</h1>\n    <p class="subtitle">An atlas of names</p>\n    <p class="edition">564 municipalities <span aria-hidden="true">·</span> 21 counties</p>\n  </header>'
     require(doc.raw(masthead) == expected_masthead, "Masthead changed upstream; reconcile UI copy before applying.")
@@ -177,6 +217,7 @@ def transform(source, css):
     advanced = source[tour["start"]:explore["close"]]
     more = '<details id="layout-more" class="layout-more"><summary>More ways to explore</summary><div class="layout-more-body">\n' + browse_fields + '\n' + advanced + '\n</div></details>'
     edits = [
+        (runtime["close"]-len("\n})();\n"), runtime["close"]-len("\n})();\n"), navigation_extension()),
         (head["close"], head["close"], '<style id="primary-layout-overlay">\n' + css + '\n</style>\n'),
         (root["start"], root["inner"], source[root["start"]:root["inner"]].replace('class="atlas-sheet"', 'class="atlas-sheet primary-layout-preview"')),
         (masthead["start"], masthead["end"], '<header class="masthead">\n    <p class="layout-brand">New Jersey Name Atlas</p>\n    <h1>Why is your town <span>called that?</span></h1>\n  </header>'),

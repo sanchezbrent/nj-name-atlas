@@ -18,7 +18,8 @@ class LayoutBoundaryTests(unittest.TestCase):
         cls.candidate, cls.report = layout.transform(cls.source, cls.css)
 
     def test_runtime_data_sources_styles_and_existing_ids_are_exact(self):
-        self.assertTrue(self.report["original_scripts_identical"])
+        self.assertFalse(self.report["original_scripts_identical"])
+        self.assertTrue(self.report["original_script_bytes_preserved"])
         self.assertTrue(self.report["original_styles_identical"])
         self.assertTrue(self.report["metadata_and_csp_identical"])
         self.assertEqual(len(self.report["script_sha256"]), 4)
@@ -34,7 +35,7 @@ class LayoutBoundaryTests(unittest.TestCase):
         future = self.source[:script["inner"]] + "\n  " + self.source[script["inner"]:]
         future = future.replace("function setReadingView(", "/* later runtime revision */ function setReadingView(", 1)
         candidate, report = layout.transform(future, self.css)
-        self.assertTrue(report["original_scripts_identical"])
+        self.assertTrue(report["original_script_bytes_preserved"])
         self.assertNotEqual(report["script_sha256"], self.report["script_sha256"])
         self.assertIn("/* later runtime revision */", candidate)
 
@@ -64,6 +65,17 @@ class LayoutBoundaryTests(unittest.TestCase):
     def test_overlay_cannot_introduce_a_script(self):
         with self.assertRaises(layout.ContractError):
             layout.transform(self.source, "</style><script>unexpected()</script>")
+
+    def test_navigation_extension_cannot_be_changed_or_duplicated(self):
+        extension = layout.navigation_extension()
+        for replacement in ["", extension + extension, extension.replace("preventScroll: true", "preventScroll: false", 1)]:
+            with self.subTest(replacement=replacement[:20]), self.assertRaises(layout.ContractError):
+                layout.verify_preservation(self.source, self.candidate.replace(extension, replacement, 1))
+        without = self.candidate.replace(extension, "", 1)
+        last = [n for n in layout.Document(without).nodes if n["tag"] == "script"][-1]
+        moved = without[:last["close"]] + extension + without[last["close"]:]
+        with self.assertRaises(layout.ContractError):
+            layout.verify_preservation(self.source, moved)
 
     def test_reapplying_the_prototype_is_rejected(self):
         with self.assertRaises(layout.ContractError):
