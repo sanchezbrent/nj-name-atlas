@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_47",
+  "checkpoint": "PUBLIC_COPY_48",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -546,7 +546,19 @@
     "0246",
     "0247",
     "0248",
-    "0249"
+    "0249",
+    "0250",
+    "0251",
+    "0252",
+    "0253",
+    "0254",
+    "0255",
+    "0256",
+    "0257",
+    "0258",
+    "0259",
+    "0260",
+    "0261"
   ],
   "changes": [
     {
@@ -200401,6 +200413,2519 @@
       ],
       "expected_sha256": "28859ce238f3276e3f844823e3c46ee55b52c333607dc3f6da67f62cecf987d0",
       "replacement": "The law adopted the township name before later postal and borough use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0250",
+      "path": [
+        "views",
+        "0250",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "2299507d4306f07cad9d3817fd71cbeffc435db6f20f1a315403bc9debdcce87",
+      "replacement": "The 1873 fare advertisement uses Bogota before the 1876 atlas cited by Wardell.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0250",
+      "path": [
+        "views",
+        "0250",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "sources",
+        "S326",
+        "publication"
+      ],
+      "expected_sha256": "1632de4a3d69a0cc07ee96cddeec1e4b04991cf3a3643ea74b9e22dbe65594a3",
+      "replacement": "Municipal/local history; publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0254",
+      "path": [
+        "views",
+        "0254",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "views",
+        "0256",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "views",
+        "0256",
+        "sources",
+        "S1913",
+        "publication"
+      ],
+      "expected_sha256": "85741e9c0e1e36dfa7dc61f34c5abba655cc4702f66e5363dd174fd60353c244",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0257",
+      "path": [
+        "views",
+        "0257",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0259",
+      "path": [
+        "views",
+        "0259",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "bb551cd9375bf99c57b385616f72d788b22f03b2606af624d987262a12795e89",
+      "replacement": "The legislative name Lodi appears in the act before its delayed effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0261",
+      "path": [
+        "views",
+        "0261",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0250",
+      "path": [
+        "views",
+        "0250",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "2299507d4306f07cad9d3817fd71cbeffc435db6f20f1a315403bc9debdcce87",
+      "replacement": "The 1873 fare advertisement uses Bogota before the 1876 atlas cited by Wardell.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0250",
+      "path": [
+        "views",
+        "0250",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "sources",
+        "S326",
+        "publication"
+      ],
+      "expected_sha256": "1632de4a3d69a0cc07ee96cddeec1e4b04991cf3a3643ea74b9e22dbe65594a3",
+      "replacement": "Municipal/local history; publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0254",
+      "path": [
+        "views",
+        "0254",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "views",
+        "0256",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "views",
+        "0256",
+        "sources",
+        "S1913",
+        "publication"
+      ],
+      "expected_sha256": "85741e9c0e1e36dfa7dc61f34c5abba655cc4702f66e5363dd174fd60353c244",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0257",
+      "path": [
+        "views",
+        "0257",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0259",
+      "path": [
+        "views",
+        "0259",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "bb551cd9375bf99c57b385616f72d788b22f03b2606af624d987262a12795e89",
+      "replacement": "The legislative name Lodi appears in the act before its delayed effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0261",
+      "path": [
+        "views",
+        "0261",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "editorial",
+        "0251",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "278e4d193b8852625c1c9724f0ce6a3aa9f04c3cbf0e2c88c4a861dcfd1f6027",
+      "replacement": "That sequence matters to the story: the railroad’s agreement was not necessarily the first time anyone used Ridgewood. Dayton’s role is attributed to that later civic history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "editorial",
+        "0251",
+        "paragraphs",
+        3
+      ],
+      "expected_sha256": "7a90b833c6566f330ec9d5be09fd2f7a7167f06c9ae88334489628c4ede4dc40",
+      "replacement": "The township was created from Franklin Township in 1876, and village government followed in 1894. By then, Ridgewood was already the community’s name. Cornelia Dayton’s part in the story comes from the later civic history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0252",
+      "path": [
+        "editorial",
+        "0252",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ee1c7a0928eee6c9a820d512f637f13a6eab9a6fe507643c9aea82bd5cc28a27",
+      "replacement": "In September 1930, the council agreed to put the change before voters. The legal history records voter approval on November 4, followed by a municipal record on December 1 and a state filing on December 5. The exact legal timing remains uncertain, but the return to River Edge is clear.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0255",
+      "path": [
+        "editorial",
+        "0255",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "644bf8e907eacd31ba9a186578b2c230f8feff53df27dde19fc9d566aa754102",
+      "replacement": "The law was approved March 13, 1923 and required majority acceptance within sixty days. A published notice records April 10 adoption. March 23 in a later account matches neither step.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0255",
+      "path": [
+        "editorial",
+        "0255",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "644bf8e907eacd31ba9a186578b2c230f8feff53df27dde19fc9d566aa754102",
+      "replacement": "The law was approved March 13, 1923 and required majority acceptance within sixty days. A published notice records April 10 adoption. March 23 in a later account matches neither step.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0255",
+      "path": [
+        "editorial",
+        "0255",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "77f0fbdc834bc896d1b5aab565c0c77af3a6d62b56b968c25507c20198163f42",
+      "replacement": "Rockleigh’s name may have traveled from Virginia. A 1945 place-name book says it belonged to an estate owned by the first mayor, Robert L. Tait. But a photographer’s caption names William L. Tait as the first mayor and an owner of the Haring-Corning House. The identity conflict and the original name chooser remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "631cdef5ce248f8639a90958ce69f43f7e967af0d2db12b724cdc79b880eafed",
+      "replacement": "Postal records transcribed in later compilations list a postmaster appointment in 1867 and a February 14, 1876 change from Rutherford Park to Rutherford. That supports dropping Park, not the claim that the Rutherford spelling first appeared that day. Clerical error and a connection with Rutherford B. Hayes are competing later explanations for the spelling; neither is proved by chronology alone.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "649a34eb4651e44268ae970e2ff6133315098dd23e1fc3391e166aca8102e49e",
+      "replacement": "Later accounts describe marketing former estate land in the 1860s. The exact association date and person who chose its name remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "649a34eb4651e44268ae970e2ff6133315098dd23e1fc3391e166aca8102e49e",
+      "replacement": "Later accounts describe marketing former estate land in the 1860s. The exact association date and person who chose its name remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "9819676ded0d70656635ede96e3579369ff6f6b5707d863ef044069e93fffeb1",
+      "replacement": "A catalogue lists a June 24, 1869 map under the Rutherfurd Park Association name. This is a reported use of the family spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "9819676ded0d70656635ede96e3579369ff6f6b5707d863ef044069e93fffeb1",
+      "replacement": "A catalogue lists a June 24, 1869 map under the Rutherfurd Park Association name. This is a reported use of the family spelling.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "5e88ec9bda293aad01b98a362e293788c9c576a928eb264d1b61fa5af7fb4a12",
+      "replacement": "The later chronology dates the borough vote to September 20, 1881, separately from filing the result the next day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "5e88ec9bda293aad01b98a362e293788c9c576a928eb264d1b61fa5af7fb4a12",
+      "replacement": "The later chronology dates the borough vote to September 20, 1881, separately from filing the result the next day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "3f7a0032a987ce172c4be9c77f46c60972f7d564847031e532751cef8922f7b2",
+      "replacement": "The legal index dates county result filing and effect to September 21. Filing the result was a different step from submitting the earlier petition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "3f7a0032a987ce172c4be9c77f46c60972f7d564847031e532751cef8922f7b2",
+      "replacement": "The legal index dates county result filing and effect to September 21. Filing the result was a different step from submitting the earlier petition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "eb0dbdf78dfc960ca571648763bb65de74b6de7be60e59b35e06ba84cd9a7386",
+      "replacement": "Later histories report enlargement and separation on June 10, 1890. These were government and boundary changes under the existing Rutherford name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "eb0dbdf78dfc960ca571648763bb65de74b6de7be60e59b35e06ba84cd9a7386",
+      "replacement": "Later histories report enlargement and separation on June 10, 1890. These were government and boundary changes under the existing Rutherford name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "bf9372b0024351da690a442e502537bae4735f4fbf740a0d29b8afd9ae779a2d",
+      "replacement": "A catalogue lists a June 24, 1869 Rutherfurd Park Association development map.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "5978a0ecb096aaf44a6958316e8a7323f4eccf6d59bf9b0ac9257ef9f570b6ef",
+      "replacement": "A catalogue lists an 1869 development map under the Rutherfurd Park Association name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "fd676c0359b12b1a59bfd3f9574e64c279d9d8d0eec644e645c064686fc7d394",
+      "replacement": "The borough came from Union Township. Later histories report enlargement and separation in 1890.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "sidebar",
+        "fields",
+        "parent",
+        "text"
+      ],
+      "expected_sha256": "d6358d0b462c724c3dba656f9a01f7743d891799c8c98aae7db503a825cc5fe0",
+      "replacement": "The borough came from Union Township. Later histories report enlargement and separation in 1890.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "label"
+      ],
+      "expected_sha256": "e62f55d30e7da5b4428f21c95f3f421bf641656af9ca24ffa35f12e2883fd7f2",
+      "replacement": "Cataloged development map",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "label"
+      ],
+      "expected_sha256": "e62f55d30e7da5b4428f21c95f3f421bf641656af9ca24ffa35f12e2883fd7f2",
+      "replacement": "Cataloged development map",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0257",
+      "path": [
+        "editorial",
+        "0257",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "33e407c92eed1e04e389b79a424e213b1a7f559def202e6a4984c60a24e02731",
+      "replacement": "The Saddle Brook Diner offers a more colorful explanation, claiming that its earlier name and prominent neon sign inspired the change. That remains the business’s own tradition; its influence on the naming choice is uncertain. A certified committee record establishes the 1955 vote; a reported January 1, 1956 effective date remains unverified. Postal facilities reportedly followed in 1960, after residents had chosen the municipal name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0257",
+      "path": [
+        "editorial",
+        "0257",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "24d58ba0555820b2e45b0b2f6a2805b32cf593b1a71d6c9949d53c05cccc2182",
+      "replacement": "A local diner says its earlier Saddle Brook name and bright neon sign helped inspire the choice. That is the business’s own tradition; its influence on the naming choice remains uncertain. A reported January 1956 starting date also remains uncertain. The new municipal name came before the dedicated post office reported in 1960.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0257",
+      "path": [
+        "editorial",
+        "0257",
+        "sidebar",
+        "fields",
+        "alternatives",
+        "text"
+      ],
+      "expected_sha256": "eb09426fa51444d538becb7c06ef8586e579eafbf0336fe2163bae6c6321aec9",
+      "replacement": "The Saddle Brook Diner claims that its earlier name and neon sign inspired the change. This is the business’s own account; its influence remains uncertain. The reported naming history does not identify rejected replacement names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0257",
+      "path": [
+        "editorial",
+        "0257",
+        "sidebar",
+        "fields",
+        "alternatives",
+        "text"
+      ],
+      "expected_sha256": "eb09426fa51444d538becb7c06ef8586e579eafbf0336fe2163bae6c6321aec9",
+      "replacement": "The Saddle Brook Diner claims that its earlier name and neon sign inspired the change. This is the business’s own account; its influence remains uncertain. The reported naming history does not identify rejected replacement names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0257",
+      "path": [
+        "editorial",
+        "0257",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "8406f8767306005cec2e42d26e237d1803886fff16378da89ed14f01087699a9",
+      "replacement": "The new name retains Saddle and replaces River with Brook. The original proposer and any particular brook intended remain unknown. The older Saddle root has competing Saddell, Scotland and saddle-shape traditions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0257",
+      "path": [
+        "editorial",
+        "0257",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "8406f8767306005cec2e42d26e237d1803886fff16378da89ed14f01087699a9",
+      "replacement": "The new name retains Saddle and replaces River with Brook. The original proposer and any particular brook intended remain unknown. The older Saddle root has competing Saddell, Scotland and saddle-shape traditions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "ab8391b58acce3e6364e416acf219a2d3423db3c0155f3dfe1ac66e4fa75f4b1",
+      "replacement": "The river had a name long before the borough did. Published abstracts of colonial land records preserve Sadle R. in 1682 and list Saddle River alongside other waterway names in 1686. Those aliases coexisted in the record; they are not proof of a neat sequence of renamings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "2e2e9885759159356eaac50fbca1a65b118104a6eaa953af3ca846bdc42a229c",
+      "replacement": "A later place-name compilation attributes a Scottish Sadle Burn naming tradition to Captain Matthew Nicoll and Richard Stillwell. That remains a tradition passed down in later history. Postal adoption in 1852 reinforced an existing river and community name rather than creating it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "b79fe5a25399d9530d14ebfe171a7e1d8467bdb65c6a1ef5f864488999fc315e",
+      "replacement": "A later tradition connects the English river name with Sadle Burn in Scotland. The original namer and exact reason remain uncertain. A post office reportedly used Saddle River in 1852, helping carry a name that was already much older.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "026a5bd5c9aeebeb826f173edacf57f8e4e7138718603196ab660fc712920870",
+      "replacement": "Borough formation has its own unsettled sequence. A signed October 29, 1894 court order scheduled a November 19 election in Orvil Township. The index records that election and November 22 result filing and effect. Municipal history instead calls December 8 the formation date. What December 8 represents remains unexplained; a first meeting, oath or organization day is not established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "efb30d106e2a60210f940578d2ad90850f663dbd697c15694f92890c0f3284da",
+      "replacement": "In 1894, a court order scheduled a borough election for November 19. An index gives November 22 for filing the result and legal effect. A municipal history instead gives December 8 as formation day. What December 8 represents remains unexplained. The two accounts leave the formation sequence uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "065c31ce9ae5a78d2aca65c11b56ce256796f49a532035b35efd1db8e5466103",
+      "replacement": "Wardell cites a 1709 deed through a quotation in a later history, reporting Peramsepuss alongside Saddle River.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "065c31ce9ae5a78d2aca65c11b56ce256796f49a532035b35efd1db8e5466103",
+      "replacement": "Wardell cites a 1709 deed through a quotation in a later history, reporting Peramsepuss alongside Saddle River.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "c6bdc676a75c5776290cf382da665af2c0187a029e2d73c8678e1d68074a81e8",
+      "replacement": "Wardell reports March 11, 1852 establishment with Henry Esler as postmaster, carrying the older river name into postal use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "c6bdc676a75c5776290cf382da665af2c0187a029e2d73c8678e1d68074a81e8",
+      "replacement": "Wardell reports March 11, 1852 establishment with Henry Esler as postmaster, carrying the older river name into postal use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "632f0732d69f2fd908d208812b75db566651623b6b6861fde8b3c35b3ab9bc9f",
+      "replacement": "The legal index records a November 19 election. The earlier court order establishes its scheduled day, separately from the election’s outcome.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "632f0732d69f2fd908d208812b75db566651623b6b6861fde8b3c35b3ab9bc9f",
+      "replacement": "The legal index records a November 19 election. The earlier court order establishes its scheduled day, separately from the election’s outcome.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "b644446442b9205b5579ff647904cdc8846b89a859f8b015ca649b1acdc89a0d",
+      "replacement": "The legal index gives November 22 for result filing and effect. That is a different stage from the earlier order scheduling the election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "b644446442b9205b5579ff647904cdc8846b89a859f8b015ca649b1acdc89a0d",
+      "replacement": "The legal index gives November 22 for result filing and effect. That is a different stage from the earlier order scheduling the election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "31defe31a5c1d97f288a8191a8ff4c1bc7787b0e0309355ec20e8cd891bc9e35",
+      "replacement": "The municipal history gives December 8 as formation day. Its exact role remains unexplained; a first meeting, oath or organization day is not established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "31defe31a5c1d97f288a8191a8ff4c1bc7787b0e0309355ec20e8cd891bc9e35",
+      "replacement": "The municipal history gives December 8 as formation day. Its exact role remains unexplained; a first meeting, oath or organization day is not established.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "01b0dda27ce45e3448e6b48abc8cfcac0643dbdba0009ea9f14852eda4148d3c",
+      "replacement": "Published calendar abstracts use Sadle R. in 1682 and list several river aliases in 1686. These are reported historical occurrences.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "editorial",
+        "0258",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "ff124ba804c8820ac782f24d882500058c0d18d0657a798ba3f980c4e3cbcb42",
+      "replacement": "Wardell reports postal adoption on March 11, 1852. Postal use carried the much older river name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "editorial",
+        "0260",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "fc109620b2d3fa441d2c42560807f66f91742f34e86f31dc791b7778336cc9b9",
+      "replacement": "Wardell cites Tiene Neck in John Loots’s December 27, 1728 will; the library history gives Tien Neck and different bequest details. Later road, military and map citations add other spellings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "editorial",
+        "0260",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "fc109620b2d3fa441d2c42560807f66f91742f34e86f31dc791b7778336cc9b9",
+      "replacement": "Wardell cites Tiene Neck in John Loots’s December 27, 1728 will; the library history gives Tien Neck and different bequest details. Later road, military and map citations add other spellings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "editorial",
+        "0260",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "fa192e3165b66e19261f4c467fd048be243922439234ec438e77a148088f7afb",
+      "replacement": "A later account reports January 14, 1895 support from 46 of 53 voters for a borough proposal; another labels it township formation. The February 19 law creates the township immediately without requiring adoption by voters. Its later organizing provisions are separate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "editorial",
+        "0260",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "fa192e3165b66e19261f4c467fd048be243922439234ec438e77a148088f7afb",
+      "replacement": "A later account reports January 14, 1895 support from 46 of 53 voters for a borough proposal; another labels it township formation. The February 19 law creates the township immediately without requiring adoption by voters. Its later organizing provisions are separate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0261",
+      "path": [
+        "editorial",
+        "0261",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d00a09628ba419d5f40800f77e74d25c18b2346a089099b588096afe89a757c4",
+      "replacement": "Wardell cites a June 3, 1743 road return, Dunne fledt in Ewald’s November 1776 diary, and 1790 forms in church marriage records. A citation to Charity Ackerman’s 1836 diary uses Tenafly.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0261",
+      "path": [
+        "editorial",
+        "0261",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "d00a09628ba419d5f40800f77e74d25c18b2346a089099b588096afe89a757c4",
+      "replacement": "Wardell cites a June 3, 1743 road return, Dunne fledt in Ewald’s November 1776 diary, and 1790 forms in church marriage records. A citation to Charity Ackerman’s 1836 diary uses Tenafly.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0250",
+      "path": [
+        "views",
+        "0250",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "4f7b128383062b2f0bf9876f188ba56bc5473b10c9ddb2b42c67e1c9a2d2e932",
+      "replacement": "The Teaneck library history describes a 1669 confirmation of existing Kiersted land rights; a separate deed-grant account remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0250",
+      "path": [
+        "views",
+        "0250",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e2cf4754e3810baadc2e33008df0ac1de324e29aabd0a868304c6dfd23d5a448",
+      "replacement": "Catlin’s booklet bears the 1873 title A Glance at Ridgefield Park and describes a depot and planned villa community.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "4f4e643db376ca5aebdcce20b147b5df7a9b6c8388b2888da8bc442cb843bd60",
+      "replacement": "The 1916 civic history describes Godwinville stopping arrangements developing after the railroad opened, before the permanent 1859 depot.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "6736a698acc5e0f75616cc03f6bf3c2f550a9a00182741eefbf56f02222a65a9",
+      "replacement": "The 1916 civic history describes residents building a depot in 1859 after earlier temporary passenger accommodation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "119188cea91c28e0c52453c6c68cda3d5fa9db0b889962f72d8f360f710cf326",
+      "replacement": "The 1916 civic history reports that mail bore Ridgewood in 1865, before the railroad consented to the name in 1866.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "d1f878c93983a6e9846bcb6869aaf7ac7212992b82cc0ce7a4be4c1ba0f12e63",
+      "replacement": "The reported postal use preceded the separately reported railroad agreement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "aa5bb2a3b362ed4e5f1ee08f2d0a2da8dc81b94ddbdefe1aa1c36991c45a6f7e",
+      "replacement": "The 1916 civic history credits Dayton with the descriptive suggestion and reports railroad consent in 1866 after earlier local advocacy.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "8c45f4bbde3ba7d4f5396b0d09425b8a4fde24da460e68fb7b6167dd72bcf089",
+      "replacement": "The legal-history index lists a November 20 entry in the Ridgewood Township Incorporation Book, p. 20.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "3ae576726623a27b5d88405f69007abd60337bfef3aa9d4869fc8aeabb177f08",
+      "replacement": "The detailed legal index assigns village effect to the decree-filing stage, separately from the earlier county entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "969661edbf73bca30bf0215491690a551311ee4c441e5efad6c7b0318b038627",
+      "replacement": "Indexed name-change election",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "events",
+        6,
+        "actor"
+      ],
+      "expected_sha256": "dee683714bf09207a31a7a3271730be933e880b56cccb4ef7afbbd7b545d91fe",
+      "replacement": "Riverside voters and municipal government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "bf870bbe28fff1fb229c882a3e8c7bd9af2d34c0c907e2070f69b986313a5395",
+      "replacement": "The indexed election and reported effect precede the separate December municipal record and state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "dc121f7e038b3bb559314092a5d79a7c21577075911a3540e791fd45dc3087f4",
+      "replacement": "The indexed December municipal minute is a separate record from the earlier election; the exact legal timing remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "e9881f28762f0cf63652a8b33060d707b08870fb017cfa48dd7affb1816bc9a3",
+      "replacement": "Compilations place Greenwood Post Office in 1870; the Genealogical Society’s transcription separately dates Onderdonk’s appointment to April 11.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "6ba343744838561c377d7e2a7332e8c228d9ca30e800de78a6f291dc98a058b2",
+      "replacement": "The reported postal adoption preceded the later township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "2d619eae1c28505b79b3a2e2fde2467d26bc604361eb749e764f45238b410f43",
+      "replacement": "The indexed election and effect are dated separately from the March 27 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "f115f9d24d79d6d57d1f7c5c0df6ceaa8ec454dee2faaf30241507daa978304f",
+      "replacement": "The Genealogical Society’s transcription gives January 31, 1902 for discontinuance and January 14 for mail routing to Westwood.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0254",
+      "path": [
+        "views",
+        "0254",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "1f829cf70a5b7e35236d968f00474bb86efa9bcfddd0495f05ff08d94eb12afa",
+      "replacement": "Wardell reports the station name before township adoption; its approximate date conflicts with a later railway-opening account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0254",
+      "path": [
+        "views",
+        "0254",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c4b4c165b71de3a3dca573e9f33a3d2626d72305eac1a034030bb9845760850b",
+      "replacement": "The law’s delayed effective date is distinct from its earlier March approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "3946d1bcfe6ad09984c42f27e2153bd8e4ca3349c361e4a691d66391fe8e5649",
+      "replacement": "The enabling law used Rockleigh while making borough operation conditional on voter adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "485fba66f4019dfe7503e6adacc27c6e11de620829f81ff70c81c654edf31a43",
+      "replacement": "This secondary date differs from the law’s approval and the published voter-adoption day; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "events",
+        7,
+        "type"
+      ],
+      "expected_sha256": "4d14bf2ef90511a4bb8e662545b3b0e40e29748e4f9cd05ced4310a13675396f",
+      "replacement": "Reported anniversary publication",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "c1ae927d17c35d0f8af666e2a65f713d77b13dd0d746e7199aae09d946010f2b",
+      "replacement": "The bibliography identifies a later anniversary publication about the borough’s history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "views",
+        "0256",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "3943ea90882a8ef75635729bbf03f2a36a9aead198f2bbb0f464aaec11b6efd1",
+      "replacement": "The catalogue attributes the Rutherfurd family spelling to a development map from the postal era.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0257",
+      "path": [
+        "views",
+        "0257",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "4ba49bb8ebbcc50d80db1a3c6d0691bb76cb1d7fc4889dc2acfac259a310c716",
+      "replacement": "The certified record establishes voter adoption of the new township name, separately from later recording stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "9de1d024e0ed9f329d020940d7c64a226cf8f10ae0ec3c773394ca91e0af1c22",
+      "replacement": "Wardell cites a later quotation of the Sonmans deed contrasting Peramsepuss and Saddle River.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2074d32ef182a75bf20baa28ee82406fbcd90e82e4ba1b0e250882379a47ca34",
+      "replacement": "The later quotation reports Indigenous and colonial names together, rather than establishing a sequence of official renamings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "f79d0c45d388e7b7e5c5ddc2f2681c1573b5ea3ac3ad0158926a0f7749ba87c3",
+      "replacement": "Wardell reports a Saddle River post office established on March 11, 1852, with Henry Esler as postmaster.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "0ff7e55632dcf9f3774cbd625aa3861fa27dde4bd7cc7265efe1cedffda6605b",
+      "replacement": "The legal-history index lists the incorporation election for November 19; the signed October 29 order schedules that date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "e52d891cbb5f4dbd1a756a4d0f2c18575ffabb6c2d6ff53a14fc1ab533531381",
+      "replacement": "The legal-history index lists November 22 for result filing and reported effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "0bfd3a28769cf9db67008268fd23c0d3374b636955ddafeab1e2edae2200d467",
+      "replacement": "The municipal account gives a formation date different from the indexed filing and effect; the relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0259",
+      "path": [
+        "views",
+        "0259",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "6e54968007ef2825fe7339007dd2a07639343c9508e7d60a0f6d9dfaf7383c03",
+      "replacement": "The certified copy records the November 15, 1935 township meeting minute reporting the November 5 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "f1cbd61c1c0aaf53fdf8acdf14aed0cd49ee81b483a0a4b406cc7181d6b8e867",
+      "replacement": "Reported early name-root form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "91f723d01da706cc8bd326300792f3c548c2562c8226a46e8b3c70df1697bacc",
+      "replacement": "Wardell cites Tiene Neck in John Loots’s December 27, 1728 will; the library history transcribes Tien Neck and gives different bequest details.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "8671c1144b6a94e3481b125ccc123c6c116d005325cab8dceee064e84172bc87",
+      "replacement": "The later accounts report an early place-name occurrence with conflicting transcriptions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell reports an older road-record spelling of the locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "12275fef12ee7f6d94a5bda4bd78c54903502485c194a7cad70482057ac77659",
+      "replacement": "The later accounts report a military-map spelling of the older name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell reports a military-record spelling of the locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell reports another older spelling in a diary citation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell reports the modern spelling on a county atlas before township formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "6b42c0e18898bdc7a36294ed3347370970e0d63782e717c4857ca2f9a1e4fa93",
+      "replacement": "Wright reports January 14, 1895 borough-proposal approval by 46 of 53 voters; the county narrative calls it township formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0261",
+      "path": [
+        "views",
+        "0261",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "1e96bbdaccdfc4dc402900b9348e65f72746d586c9173eff570095f0b84c75fc",
+      "replacement": "Wardell reports an early road-record spelling through a later published reference.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0261",
+      "path": [
+        "views",
+        "0261",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "07cfd046660d46752a76018c2e596dd69dfdd502222bfedf63d5bd77ecff481b",
+      "replacement": "Wardell reports the modern spelling in a diary citation before railway and postal adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "sources",
+        "S91",
+        "publication"
+      ],
+      "expected_sha256": "122849de2fa5db8f68ab1df339bac84632d6476981d1000b6d86235241af140b",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "views",
+        "0256",
+        "sources",
+        "S267",
+        "author"
+      ],
+      "expected_sha256": "5d1ab5c881a874978d5734c02c799d6e100ed3904d775f5cb615c56acab4ad7a",
+      "replacement": "The Gazette",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0250",
+      "path": [
+        "views",
+        "0250",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "4f7b128383062b2f0bf9876f188ba56bc5473b10c9ddb2b42c67e1c9a2d2e932",
+      "replacement": "The Teaneck library history describes a 1669 confirmation of existing Kiersted land rights; a separate deed-grant account remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0250",
+      "path": [
+        "views",
+        "0250",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e2cf4754e3810baadc2e33008df0ac1de324e29aabd0a868304c6dfd23d5a448",
+      "replacement": "Catlin’s booklet bears the 1873 title A Glance at Ridgefield Park and describes a depot and planned villa community.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "4f4e643db376ca5aebdcce20b147b5df7a9b6c8388b2888da8bc442cb843bd60",
+      "replacement": "The 1916 civic history describes Godwinville stopping arrangements developing after the railroad opened, before the permanent 1859 depot.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "6736a698acc5e0f75616cc03f6bf3c2f550a9a00182741eefbf56f02222a65a9",
+      "replacement": "The 1916 civic history describes residents building a depot in 1859 after earlier temporary passenger accommodation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "119188cea91c28e0c52453c6c68cda3d5fa9db0b889962f72d8f360f710cf326",
+      "replacement": "The 1916 civic history reports that mail bore Ridgewood in 1865, before the railroad consented to the name in 1866.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "d1f878c93983a6e9846bcb6869aaf7ac7212992b82cc0ce7a4be4c1ba0f12e63",
+      "replacement": "The reported postal use preceded the separately reported railroad agreement.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "aa5bb2a3b362ed4e5f1ee08f2d0a2da8dc81b94ddbdefe1aa1c36991c45a6f7e",
+      "replacement": "The 1916 civic history credits Dayton with the descriptive suggestion and reports railroad consent in 1866 after earlier local advocacy.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "8c45f4bbde3ba7d4f5396b0d09425b8a4fde24da460e68fb7b6167dd72bcf089",
+      "replacement": "The legal-history index lists a November 20 entry in the Ridgewood Township Incorporation Book, p. 20.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0251",
+      "path": [
+        "views",
+        "0251",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "3ae576726623a27b5d88405f69007abd60337bfef3aa9d4869fc8aeabb177f08",
+      "replacement": "The detailed legal index assigns village effect to the decree-filing stage, separately from the earlier county entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "969661edbf73bca30bf0215491690a551311ee4c441e5efad6c7b0318b038627",
+      "replacement": "Indexed name-change election",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "events",
+        6,
+        "actor"
+      ],
+      "expected_sha256": "dee683714bf09207a31a7a3271730be933e880b56cccb4ef7afbbd7b545d91fe",
+      "replacement": "Riverside voters and municipal government",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "bf870bbe28fff1fb229c882a3e8c7bd9af2d34c0c907e2070f69b986313a5395",
+      "replacement": "The indexed election and reported effect precede the separate December municipal record and state filing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0252",
+      "path": [
+        "views",
+        "0252",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "dc121f7e038b3bb559314092a5d79a7c21577075911a3540e791fd45dc3087f4",
+      "replacement": "The indexed December municipal minute is a separate record from the earlier election; the exact legal timing remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "e9881f28762f0cf63652a8b33060d707b08870fb017cfa48dd7affb1816bc9a3",
+      "replacement": "Compilations place Greenwood Post Office in 1870; the Genealogical Society’s transcription separately dates Onderdonk’s appointment to April 11.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "6ba343744838561c377d7e2a7332e8c228d9ca30e800de78a6f291dc98a058b2",
+      "replacement": "The reported postal adoption preceded the later township name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "2d619eae1c28505b79b3a2e2fde2467d26bc604361eb749e764f45238b410f43",
+      "replacement": "The indexed election and effect are dated separately from the March 27 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "f115f9d24d79d6d57d1f7c5c0df6ceaa8ec454dee2faaf30241507daa978304f",
+      "replacement": "The Genealogical Society’s transcription gives January 31, 1902 for discontinuance and January 14 for mail routing to Westwood.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0254",
+      "path": [
+        "views",
+        "0254",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "1f829cf70a5b7e35236d968f00474bb86efa9bcfddd0495f05ff08d94eb12afa",
+      "replacement": "Wardell reports the station name before township adoption; its approximate date conflicts with a later railway-opening account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0254",
+      "path": [
+        "views",
+        "0254",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "c4b4c165b71de3a3dca573e9f33a3d2626d72305eac1a034030bb9845760850b",
+      "replacement": "The law’s delayed effective date is distinct from its earlier March approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "3946d1bcfe6ad09984c42f27e2153bd8e4ca3349c361e4a691d66391fe8e5649",
+      "replacement": "The enabling law used Rockleigh while making borough operation conditional on voter adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "485fba66f4019dfe7503e6adacc27c6e11de620829f81ff70c81c654edf31a43",
+      "replacement": "This secondary date differs from the law’s approval and the published voter-adoption day; the discrepancy remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "events",
+        7,
+        "type"
+      ],
+      "expected_sha256": "4d14bf2ef90511a4bb8e662545b3b0e40e29748e4f9cd05ced4310a13675396f",
+      "replacement": "Reported anniversary publication",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0255",
+      "path": [
+        "views",
+        "0255",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "c1ae927d17c35d0f8af666e2a65f713d77b13dd0d746e7199aae09d946010f2b",
+      "replacement": "The bibliography identifies a later anniversary publication about the borough’s history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "views",
+        "0256",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "3943ea90882a8ef75635729bbf03f2a36a9aead198f2bbb0f464aaec11b6efd1",
+      "replacement": "The catalogue attributes the Rutherfurd family spelling to a development map from the postal era.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0257",
+      "path": [
+        "views",
+        "0257",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "4ba49bb8ebbcc50d80db1a3c6d0691bb76cb1d7fc4889dc2acfac259a310c716",
+      "replacement": "The certified record establishes voter adoption of the new township name, separately from later recording stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "9de1d024e0ed9f329d020940d7c64a226cf8f10ae0ec3c773394ca91e0af1c22",
+      "replacement": "Wardell cites a later quotation of the Sonmans deed contrasting Peramsepuss and Saddle River.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2074d32ef182a75bf20baa28ee82406fbcd90e82e4ba1b0e250882379a47ca34",
+      "replacement": "The later quotation reports Indigenous and colonial names together, rather than establishing a sequence of official renamings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "f79d0c45d388e7b7e5c5ddc2f2681c1573b5ea3ac3ad0158926a0f7749ba87c3",
+      "replacement": "Wardell reports a Saddle River post office established on March 11, 1852, with Henry Esler as postmaster.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "0ff7e55632dcf9f3774cbd625aa3861fa27dde4bd7cc7265efe1cedffda6605b",
+      "replacement": "The legal-history index lists the incorporation election for November 19; the signed October 29 order schedules that date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "e52d891cbb5f4dbd1a756a4d0f2c18575ffabb6c2d6ff53a14fc1ab533531381",
+      "replacement": "The legal-history index lists November 22 for result filing and reported effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0258",
+      "path": [
+        "views",
+        "0258",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "0bfd3a28769cf9db67008268fd23c0d3374b636955ddafeab1e2edae2200d467",
+      "replacement": "The municipal account gives a formation date different from the indexed filing and effect; the relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0259",
+      "path": [
+        "views",
+        "0259",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "6e54968007ef2825fe7339007dd2a07639343c9508e7d60a0f6d9dfaf7383c03",
+      "replacement": "The certified copy records the November 15, 1935 township meeting minute reporting the November 5 vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "f1cbd61c1c0aaf53fdf8acdf14aed0cd49ee81b483a0a4b406cc7181d6b8e867",
+      "replacement": "Reported early name-root form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "91f723d01da706cc8bd326300792f3c548c2562c8226a46e8b3c70df1697bacc",
+      "replacement": "Wardell cites Tiene Neck in John Loots’s December 27, 1728 will; the library history transcribes Tien Neck and gives different bequest details.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "8671c1144b6a94e3481b125ccc123c6c116d005325cab8dceee064e84172bc87",
+      "replacement": "The later accounts report an early place-name occurrence with conflicting transcriptions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell reports an older road-record spelling of the locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "12275fef12ee7f6d94a5bda4bd78c54903502485c194a7cad70482057ac77659",
+      "replacement": "The later accounts report a military-map spelling of the older name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell reports a military-record spelling of the locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell reports another older spelling in a diary citation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell reports the modern spelling on a county atlas before township formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0260",
+      "path": [
+        "views",
+        "0260",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "6b42c0e18898bdc7a36294ed3347370970e0d63782e717c4857ca2f9a1e4fa93",
+      "replacement": "Wright reports January 14, 1895 borough-proposal approval by 46 of 53 voters; the county narrative calls it township formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0261",
+      "path": [
+        "views",
+        "0261",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "1e96bbdaccdfc4dc402900b9348e65f72746d586c9173eff570095f0b84c75fc",
+      "replacement": "Wardell reports an early road-record spelling through a later published reference.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0261",
+      "path": [
+        "views",
+        "0261",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "07cfd046660d46752a76018c2e596dd69dfdd502222bfedf63d5bd77ecff481b",
+      "replacement": "Wardell reports the modern spelling in a diary citation before railway and postal adoption.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0253",
+      "path": [
+        "views",
+        "0253",
+        "sources",
+        "S91",
+        "publication"
+      ],
+      "expected_sha256": "122849de2fa5db8f68ab1df339bac84632d6476981d1000b6d86235241af140b",
+      "replacement": "Publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0256",
+      "path": [
+        "views",
+        "0256",
+        "sources",
+        "S267",
+        "author"
+      ],
+      "expected_sha256": "5d1ab5c881a874978d5734c02c799d6e100ed3904d775f5cb615c56acab4ad7a",
+      "replacement": "The Gazette",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0256",
+      "path": [
+        "editorial",
+        "0256",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "75e32c819510fed3de797365c1b0932a0707c158bdb86f7bf24ae772d6310206",
+      "replacement": "Residents later chose borough government. The index dates the vote September 20, 1881 and the county result filing and effect September 21. This was filing of the result, not the petition. A reported 1890 enlargement and separation from Union Township is another government stage, rather than a new naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0257",
+      "path": [
+        "views",
+        "0257",
+        "events",
+        7,
+        "type"
+      ],
+      "expected_sha256": "32c73bee6a493e61b7509e914de62ed03b2a5e63bd5366417e3474b9d6b84516",
+      "replacement": "Reported effective date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0257",
+      "path": [
+        "views",
+        "0257",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "aca61ab6672826267b25c9f22747a21f227f570c0151b324419477db1fab0841",
+      "replacement": "The church history’s reported start date is distinct from the certified November vote; the exact legal effect remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0257",
+      "path": [
+        "views",
+        "0257",
+        "events",
+        7,
+        "type"
+      ],
+      "expected_sha256": "32c73bee6a493e61b7509e914de62ed03b2a5e63bd5366417e3474b9d6b84516",
+      "replacement": "Reported effective date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0257",
+      "path": [
+        "views",
+        "0257",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "aca61ab6672826267b25c9f22747a21f227f570c0151b324419477db1fab0841",
+      "replacement": "The church history’s reported start date is distinct from the certified November vote; the exact legal effect remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0261",
+      "path": [
+        "views",
+        "0261",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "1e5bff88e184efa9bc7b78e942989a53831852462dbd76741ba1f5eb703b9efd",
+      "replacement": "The 1688 naming story is a later tradition; the exact original wording and naming choice remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0261",
+      "path": [
+        "views",
+        "0261",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "1e5bff88e184efa9bc7b78e942989a53831852462dbd76741ba1f5eb703b9efd",
+      "replacement": "The 1688 naming story is a later tradition; the exact original wording and naming choice remain uncertain.",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]

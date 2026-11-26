@@ -2,16 +2,16 @@
 
 Public site: https://sanchezbrent.github.io/nj-name-atlas/
 
-**Current remediation candidate:** [Copy proposals checkpoint 47](PUBLIC_COPY_CHECKPOINT_47.md).
+**Current remediation candidate:** [Copy proposals checkpoint 48](PUBLIC_COPY_CHECKPOINT_48.md).
 The live editions remain unchanged and are not copy-cleared. The draft removes
 original-wording owners and private fallback stores, preserves sealed C57 originals
 and Review27 mappings, and keeps strict scanning blocking. Agent text review is
-543/564 per edition, with 21 per edition remaining. County totals are
-Morris: 39, Sussex: 24, Warren: 22, Hunterdon: 26, Somerset: 21, Middlesex: 25, Monmouth: 53, Ocean: 33, Burlington: 40, Camden: 36, Cape May: 16, Cumberland: 14, Essex: 22, Gloucester: 24, Hudson: 12, Mercer: 12, Passaic: 16, Salem: 15, Union: 21, Atlantic: 23, Bergen: 49.
+555/564 per edition, with 9 per edition remaining. County totals are
+Morris: 39, Sussex: 24, Warren: 22, Hunterdon: 26, Somerset: 21, Middlesex: 25, Monmouth: 53, Ocean: 33, Burlington: 40, Camden: 36, Cape May: 16, Cumberland: 14, Essex: 22, Gloucester: 24, Hudson: 12, Mercer: 12, Passaic: 16, Salem: 15, Union: 21, Atlantic: 23, Bergen: 61.
 The owner authorizes agent-selected runs of up to 24, with saved twelve-town
 validation checkpoints and no renewed town-selection approval; stop after 24.
 Human sign-offs and rendered/publication QA remain open. Proposed derivatives
-cover 508 primary and 507 Young C57 reader records; sealed originals remain unchanged.
+cover 516 primary and 514 Young C57 reader records; sealed originals remain unchanged.
 The implementation/browser statements below describe the earlier publication,
 not fresh acceptance of this remediation candidate.
 
