@@ -1,4 +1,4 @@
-# Primary layout prototype — checkpoint UI-1
+# Primary layout prototype — checkpoint UI-1.2
 
 This is the separate interface path toward the shared Atlas release. It does not
 modify the editorial branch, either published edition, a content checkpoint or an
@@ -32,9 +32,16 @@ review. GitHub stores the overlay/tooling and checks, not another content copy.
 
 - An inviting question and a single search row across the top.
 - A map and a distinct selected-town preview instead of three competing columns.
+- The same selected-town preview before the map on phone, with its title and
+  reading action in the first screen at 390px. No duplicated story or selection.
 - A prominent existing “Read the story” control and the existing reading view.
 - An exposed, horizontal origin legend that wraps on smaller screens.
+- A full-width desktop legend, placed directly before the map on phone.
 - Additional browsing controls under “More ways to explore.”
+- Narrative before quieter section links; one compact default chronology, with
+  each original record expandable. “Names at a glance” is an optional native
+  disclosure after that chronology. Every moment remains available; no automatic
+  choice of editorial highlights is introduced.
 - Existing qualifications remain with the origin explanation; dates, references,
   category colors, deep links, tours and source holds retain their existing logic.
 
@@ -112,8 +119,8 @@ separate. Design approval never marks the 564-by-two copy review complete.
 
 ## Checkpoint and remaining work
 
-UI-1 implements the first interactive prototype and integration tooling. Research,
-workbook exports and editorial remediation remain on their existing path. See
+UI-1.2 implements the revised reading flow and retains the UI-1 integration
+tooling. Research, workbook exports and editorial remediation remain on their existing path. See
 [the recorded QA](../../project/PRIMARY_LAYOUT_PROTOTYPE.md) for actual checks and
 limits. Remaining milestones are user review of the prototype, a deliberately
 chosen later content checkpoint, combined acceptance and release. Allow

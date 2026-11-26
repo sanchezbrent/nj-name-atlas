@@ -21,14 +21,14 @@
 #nj-name-atlas.primary-layout-preview [hidden] { display: none !important; }
 #nj-name-atlas.primary-layout-preview .masthead {
   text-align: left;
-  padding: 0 96px 26px 0;
+  padding: 0 96px 20px 0;
   margin: 0;
 }
 #nj-name-atlas.primary-layout-preview .layout-brand {
   color: var(--layout-accent);
   font-size: .875rem;
   font-weight: 500;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 #nj-name-atlas.primary-layout-preview .masthead h1 {
   max-width: 25ch;
@@ -50,15 +50,16 @@
   display: grid;
   grid-template-columns: minmax(0, 1.08fr) minmax(340px, .92fr);
   align-items: start;
-  gap: 24px !important;
+  gap: 18px 24px !important;
 }
 #nj-name-atlas.primary-layout-preview .explore {
   grid-column: 1 / -1;
+  grid-row: 1;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 10px 12px;
-  padding: 20px 0 0;
+  padding: 16px 0 0;
   border-top: 1px solid var(--soft-rule);
 }
 #nj-name-atlas.primary-layout-preview .explore h2 {
@@ -83,6 +84,8 @@
 #nj-name-atlas.primary-layout-preview #atlas-results { margin: 0; font-size: .875rem; }
 #nj-name-atlas.primary-layout-preview :is(.active-filters, .search-matches) { width: 100%; }
 #nj-name-atlas.primary-layout-preview .origin-filters {
+  grid-column: 1 / -1;
+  grid-row: 2;
   flex: 1 1 100%;
   width: 100%;
   margin: 0;
@@ -90,7 +93,7 @@
   border: 0;
 }
 #nj-name-atlas.primary-layout-preview .layout-legend-heading {
-  margin: 10px 0 6px;
+  margin: 0 0 6px;
   font-size: .9375rem;
   font-weight: 500;
   line-height: 1.4;
@@ -157,9 +160,11 @@
   border-radius: 14px;
   background: var(--control);
 }
+#nj-name-atlas.primary-layout-preview:not(.is-reading) .map-panel { grid-column: 1; grid-row: 3; }
+#nj-name-atlas.primary-layout-preview:not(.is-reading) .story { grid-column: 2; grid-row: 3; }
 #nj-name-atlas.primary-layout-preview .layout-map-heading h2 { font-size: 1.25rem; font-weight: 500; }
-#nj-name-atlas.primary-layout-preview .layout-map-heading p { margin-top: 4px; color: var(--secondary-ink); font-size: .9375rem; }
-#nj-name-atlas.primary-layout-preview .map-browse-toolbar { margin-top: 16px; }
+#nj-name-atlas.primary-layout-preview .layout-map-heading p { display: none; }
+#nj-name-atlas.primary-layout-preview .map-browse-toolbar { margin-top: 10px; }
 #nj-name-atlas.primary-layout-preview .map-wrap { max-width: 500px; margin: 0 auto; border-radius: 9px; }
 #nj-name-atlas.primary-layout-preview .map-caption { padding-top: 12px; }
 #nj-name-atlas.primary-layout-preview .map-step-hook { font-size: 1rem; line-height: 1.6; }
@@ -171,7 +176,7 @@
   overflow: visible;
   margin: 0;
 }
-#nj-name-atlas.primary-layout-preview .story-tools { position: static; padding: 0 0 22px; min-height: 0; background: transparent; }
+#nj-name-atlas.primary-layout-preview .story-tools { position: static; justify-content: flex-start; padding: 0; margin: 0 0 16px; min-height: 0; border: 0; background: transparent; }
 #nj-name-atlas.primary-layout-preview .reading-toggle {
   min-height: 44px;
   padding: 10px 14px;
@@ -182,26 +187,53 @@
   font-size: 1rem;
   font-weight: 500;
 }
-#nj-name-atlas.primary-layout-preview #atlas-title { font-size: clamp(2rem, 3.2vw, 2.75rem); margin: 6px 0 22px; line-height: 1.12; }
-#nj-name-atlas.primary-layout-preview #atlas-edition-context { color: var(--layout-accent); font-size: .875rem; margin-bottom: 8px; }
+#nj-name-atlas.primary-layout-preview #atlas-title { font-size: clamp(2rem, 3.2vw, 2.75rem); margin: 6px 0 14px; line-height: 1.12; }
+#nj-name-atlas.primary-layout-preview #atlas-edition-context { display: none; }
 #nj-name-atlas.primary-layout-preview #atlas-town-context { font-size: .875rem; text-transform: none; letter-spacing: 0; }
 #nj-name-atlas.primary-layout-preview .referent-block { margin: 0; max-width: none; border-radius: 8px; }
 #nj-name-atlas.primary-layout-preview #atlas-referent { font-size: 1.125rem; line-height: 1.65; }
-#nj-name-atlas.primary-layout-preview .layout-reading-hint { color: var(--secondary-ink); font-size: .9375rem; line-height: 1.6; margin-top: 20px; }
+#nj-name-atlas.primary-layout-preview .layout-reading-hint { display: none; }
 #nj-name-atlas.primary-layout-preview:not(.is-reading) .story-navigation { display: none; }
-#nj-name-atlas.primary-layout-preview:not(.is-reading) .story-onward { margin-top: 24px; }
+#nj-name-atlas.primary-layout-preview:not(.is-reading) .story-onward { display: none; }
+#nj-name-atlas.primary-layout-preview:not(.is-reading) .referent-block { border: 0; border-radius: 0; background: transparent; }
+#nj-name-atlas.primary-layout-preview:not(.is-reading) .referent-block > .container-heading { padding: 0; margin: 0 0 10px; border: 0; background: transparent; font-size: 1rem; }
+#nj-name-atlas.primary-layout-preview:not(.is-reading) .referent-block > .container-body { padding: 0; }
+#nj-name-atlas.primary-layout-preview:not(.is-reading) #atlas-referent { font-size: 1rem; line-height: 1.55; }
 #nj-name-atlas.primary-layout-preview .atlas-footer { margin-top: 28px; border-color: var(--soft-rule); }
 #nj-name-atlas.primary-layout-preview.is-reading .masthead { max-width: 1020px; margin: 0 auto 24px; padding: 0 90px 22px 0; }
 #nj-name-atlas.primary-layout-preview.is-reading .masthead h1 { font-size: 1.75rem; }
 #nj-name-atlas.primary-layout-preview.is-reading .layout-brand { margin-bottom: 8px; }
 #nj-name-atlas.primary-layout-preview.is-reading .atlas-columns { grid-template-columns: 140px minmax(0, 760px); max-width: 1020px; justify-content: center; gap: 32px !important; }
-#nj-name-atlas.primary-layout-preview.is-reading .reader-context { grid-column: 1; }
-#nj-name-atlas.primary-layout-preview.is-reading .story { grid-column: 2; padding: 28px; }
+#nj-name-atlas.primary-layout-preview.is-reading .reader-context { grid-column: 1; grid-row: 1; }
+#nj-name-atlas.primary-layout-preview.is-reading .story { grid-column: 2; grid-row: 1; padding: 28px; }
+#nj-name-atlas.primary-layout-preview.is-reading > .atlas-columns > .origin-filters { display: none; }
 #nj-name-atlas.primary-layout-preview.is-reading .story-tools { position: sticky; top: 0; padding: 10px 0; background: var(--control); z-index: 3; }
 #nj-name-atlas.primary-layout-preview.is-reading .layout-reading-hint { display: none; }
 #nj-name-atlas.primary-layout-preview.is-reading #atlas-pilot-story { font-size: 1.125rem; line-height: 1.75; max-width: 65ch; }
-#nj-name-atlas.primary-layout-preview.is-reading .story-navigation { gap: 8px; }
-#nj-name-atlas.primary-layout-preview .story-navigation .story-action { min-height: 44px; }
+#nj-name-atlas.primary-layout-preview.is-reading .story-navigation { gap: 0 16px; margin: 10px 0 24px; padding: 10px 0; border-top: 1px solid var(--soft-rule); }
+#nj-name-atlas.primary-layout-preview .story-navigation .story-action { min-height: 44px; border: 0; border-radius: 0; padding: 6px 0; background: transparent; font-weight: 400; text-decoration: underline; text-underline-offset: 4px; }
+#nj-name-atlas.primary-layout-preview .story-navigation .story-action svg { display: none; }
+/* One default chronology; the alternate name-moment grid is optional. Each
+   original record still opens directly, so route and source-return focus work. */
+#nj-name-atlas.primary-layout-preview .name-glance { margin-top: 18px; padding-top: 0; }
+#nj-name-atlas.primary-layout-preview .name-glance > summary { display: flex; align-items: center; justify-content: space-between; min-height: 48px; list-style: none; }
+#nj-name-atlas.primary-layout-preview .name-glance > summary::-webkit-details-marker { display: none; }
+#nj-name-atlas.primary-layout-preview .name-glance > summary::after { content: "+"; }
+#nj-name-atlas.primary-layout-preview .name-glance[open] > summary::after { content: "−"; }
+#nj-name-atlas.primary-layout-preview .name-glance .container-body { padding: 16px; }
+#nj-name-atlas.primary-layout-preview .timeline-heading-band { padding: 0 0 12px !important; border: 0; border-bottom: 1px solid var(--soft-rule); background: transparent; }
+#nj-name-atlas.primary-layout-preview.is-reading .events { margin-top: 0; padding-left: 0; border-left: 0; }
+#nj-name-atlas.primary-layout-preview.is-reading .events > li { padding: 0; border-bottom: 1px solid var(--soft-rule); }
+#nj-name-atlas.primary-layout-preview.is-reading .event-entry > summary { min-height: 56px; padding: 12px 28px 12px 0; }
+#nj-name-atlas.primary-layout-preview.is-reading .event-entry > summary::before { left: auto; right: 0; top: 14px; width: 20px; height: 20px; font-size: 16px; border: 0; background: transparent; }
+#nj-name-atlas.primary-layout-preview.is-reading .event-heading { display: grid; grid-template-columns: minmax(0, 10.5rem) minmax(0, 1fr); gap: 2px 18px; }
+#nj-name-atlas.primary-layout-preview.is-reading .event-date { grid-column: 1; grid-row: 1 / 3; font-size: .875rem; line-height: 1.5; font-weight: 400; }
+#nj-name-atlas.primary-layout-preview.is-reading .event-name { grid-column: 2; grid-row: 2; color: var(--secondary-ink); font-size: .875rem; font-weight: 400; line-height: 1.45; }
+#nj-name-atlas.primary-layout-preview.is-reading .event-kind { grid-column: 2; grid-row: 1; font-size: 1rem; font-weight: 500; line-height: 1.4; }
+/* Records without an after/before name still lead with their existing label. */
+#nj-name-atlas.primary-layout-preview.is-reading .event-name:only-child,
+#nj-name-atlas.primary-layout-preview.is-reading .event-heading:not(:has(.event-kind)) .event-name { grid-row: 1; color: var(--ink); font-size: 1rem; font-weight: 500; }
+#nj-name-atlas.primary-layout-preview.is-reading .event-body { margin: 0 0 16px; padding: 14px 16px; }
 #nj-name-atlas.primary-layout-preview :is(button, input, select, summary, a):focus-visible { outline: 2px solid var(--layout-accent); outline-offset: 3px; }
 @media (max-width: 900px) {
   #nj-name-atlas.primary-layout-preview { padding: 22px; }
@@ -215,23 +247,31 @@
 }
 @media (max-width: 600px) {
   #nj-name-atlas.primary-layout-preview { width: calc(100% - 16px); margin: 8px auto; padding: 16px; border-radius: 12px; }
-  #nj-name-atlas.primary-layout-preview .masthead { padding: 46px 0 24px; }
-  #nj-name-atlas.primary-layout-preview .masthead h1 { font-size: 2rem; }
+  #nj-name-atlas.primary-layout-preview .masthead { padding: 0 0 16px; }
+  #nj-name-atlas.primary-layout-preview .masthead h1 { font-size: 1.75rem; }
+  #nj-name-atlas.primary-layout-preview .masthead .subtitle { margin-top: 8px; font-size: .9375rem; }
   #nj-name-atlas.primary-layout-preview .explore > select { flex-basis: 100%; }
   #nj-name-atlas.primary-layout-preview .origin-filters { flex-basis: 100%; }
   #nj-name-atlas.primary-layout-preview .legend button { flex-basis: calc(50% - 4px); }
   #nj-name-atlas.primary-layout-preview .layout-more { margin-left: 0; }
   #nj-name-atlas.primary-layout-preview :is(.map-panel, .story) { padding: 16px; }
   #nj-name-atlas.primary-layout-preview .map-browse-toolbar { gap: 12px; }
-  #nj-name-atlas.primary-layout-preview .story-tools { padding-bottom: 16px; }
-  #nj-name-atlas.primary-layout-preview.is-reading .masthead { padding: 40px 0 20px; }
+  #nj-name-atlas.primary-layout-preview .story-tools { padding-bottom: 0; }
+  #nj-name-atlas.primary-layout-preview.is-reading .masthead { padding: 0 0 16px; }
   #nj-name-atlas.primary-layout-preview.is-reading .story { padding: 16px; }
+  #nj-name-atlas.primary-layout-preview.is-reading .event-heading { grid-template-columns: minmax(0, 1fr); gap: 3px; }
+  #nj-name-atlas.primary-layout-preview.is-reading .event-date { grid-column: 1; grid-row: auto; }
+  #nj-name-atlas.primary-layout-preview.is-reading :is(.event-name, .event-kind) { grid-column: 1; }
+  #nj-name-atlas.primary-layout-preview.is-reading .event-name { grid-row: 3; }
+  #nj-name-atlas.primary-layout-preview.is-reading .event-kind,
+  #nj-name-atlas.primary-layout-preview.is-reading .event-heading:not(:has(.event-kind)) .event-name { grid-row: 2; }
 }
 @media print {
   #nj-name-atlas.primary-layout-preview { --layout-accent: #315d45; --layout-accent-wash: #e6eddf; border: 0; border-radius: 0; padding: 0; }
   #nj-name-atlas.primary-layout-preview .atlas-columns,
   #nj-name-atlas.primary-layout-preview.is-reading .atlas-columns { display: block; }
   #nj-name-atlas.primary-layout-preview .explore,
+  #nj-name-atlas.primary-layout-preview .origin-filters,
   #nj-name-atlas.primary-layout-preview .story-tools,
   #nj-name-atlas.primary-layout-preview .reader-context { display: none; }
   #nj-name-atlas.primary-layout-preview .map-panel { width: 75%; margin: auto; }

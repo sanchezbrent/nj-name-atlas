@@ -2,7 +2,7 @@
 
 November 23, 2026. **Interactive local prototype; no production change.**
 
-Latest revision: **UI-1.1**, exposed horizontal legend; see the addendum below.
+Latest revision: **UI-1.2**, earlier story entry and compact chronology; see the addenda below.
 The original UI-1 evidence and hashes remain recorded as that checkpoint.
 
 The interface and editorial paths remain separate. Editorial PR #5 owns copy,
@@ -169,3 +169,101 @@ unchanged. The wider UI-1 browser/download/printing limits still apply.
 This bounded revision is complete and the updated preview is usable now. Next
 milestone is design review; the later integration milestone and provisional
 45–90 active-minute rehearsal estimate remain unchanged, excluding waits.
+
+## UI-1.2 — earlier story entry and one default chronology
+
+November 26, 2026. This implements the two proposals recorded in
+[the design review](https://github.com/sanchezbrent/nj-name-atlas/pull/7#issuecomment-7194282229).
+The content pin, its status, the original UI-1/UI-1.1 evidence and both editorial
+recovery points remain unchanged.
+
+### Presentation changes and integration decision
+
+- The existing story card moves before the legend/map in DOM and phone order.
+  Desktop uses the same card beside the map. Its original reading button now
+  follows the town heading; no story markup or live selection state is cloned.
+- The masthead and map controls use less space. The preview keeps the original
+  complete origin summary, qualification and citation, with fewer boxed labels.
+  Related-town links remain in reading view. All seven legend categories remain
+  exposed: one row at 1280/1600px, wrapping on smaller screens. On phone the legend
+  immediately precedes the map panel.
+- The narrative precedes section navigation; the five existing actions become
+  quieter text controls with 44px minimum targets. The default chronology retains
+  every source record and qualified date, using compact rows with each original
+  event's native expansion. The alternate “Names at a glance” grid follows it in
+  an initially closed native disclosure. Its complete contents remain available.
+- An extra outer accordion around all event records was rejected during
+  implementation: the unchanged runtime opens/focuses individual event summaries
+  directly and does not open a newly added ancestor. Keeping those entries in the
+  visible chronology preserves event routes, timeline jumps and citation returns
+  without new JavaScript or an asynchronous focus repair. No curated key-moment
+  selection, editorial rewrite, record deletion or sorting was introduced.
+
+### Preservation and automated verification
+
+Builder SHA-256:
+`25d03dba6643128b777b7e802b3298ac9df3e63d907ec9d10ce198bb765b0c2b`.
+Overlay SHA-256:
+`b7dc5df1e6800a44f7615f53cdfee9e3411e3e7533eeec8f78b51b40fd77a7b1`.
+
+| Composed source | Source Primary SHA-256 | UI-1.2 generated Primary SHA-256 |
+| --- | --- | --- |
+| Main base | `56d590582a0d67a08e6a9d0f071a4f88ecd1b68e4f43e55d50fbb1b0e07c2ef2` | `eacde76c20e150e4c9d3735adacd1c70b660f7799df4ffaf333e2e4667646928` |
+| Checkpoint 23, still pinned | `214ec37440200b149700208985d7b8fbb11feb07983dd26806247322c747633c` | `803b309b35c576a4eae00dd970667ca184578c6614fd9de3d51468776f03366d` |
+| Checkpoint 24, separate rehearsal | `9a03dfa9b827ae658102a2d019f24b664b1f4025ec24dedb85c5d7ee8dcc39d4` | `3c51b226dd73630f4e5c6f8421aa105b805bf4e76b892d5ddfc46531e7ce2ec4` |
+
+All four original scripts/data blocks, original style blocks, metadata/CSP and 186
+existing IDs remain exact/preserved. No IDs are added beyond UI-1's three. Six
+other output assets, including Young Explorers, remain byte-identical to their
+selected source. The seven committed publishing assets, content/asset baselines,
+checkpoint manifest and editorial branch were not changed.
+
+All 22 Python tests pass. Each composed source passes its own project/script,
+16 isolated notebook and corpus checks: 5,941 assertions for each editorial
+snapshot, 5,921 for main. Required checks against this branch's unchanged published
+source also pass. The report-only public-copy scan still reports NEEDS_REVIEW
+(21,724 heuristic candidates on this branch's older published source); it grants
+no clearance and does not describe new UI defects or the editorial path's latest
+coverage. Existing publication holds remain open.
+
+### Browser checks performed on checkpoint 23
+
+- No horizontal page overflow at 320, 390, 768, 900, 1280 or 1600px. The single
+  story precedes the map in DOM order; desktop places it alongside the map.
+- At 390 × 844, Cinnaminson's heading begins around 574px and its reading action
+  around 660px, compared with roughly 1,964px and 1,824px in UI-1.1. Both are now
+  in the first screen. The full origin explanation remains below the action.
+- All seven exposed legend filters return the original counts and reset correctly;
+  Burlington county view, actual map selection of Cinnaminson, historical search
+  for Bottle Hill/Madison, the filtered town index, empty-search recovery and the
+  disabled reading control in the empty state work.
+- Enter opens reading view. Narrative precedes the quieter section links.
+  Cinnaminson retains 22 chronology records and Madison eight. The alternate
+  glance disclosure starts closed and opens normally.
+- Origin note and event-source return links restore focus to their original
+  reference anchors. A glance link opens/focuses T1582; a fresh
+  `#town=0308&event=T1582` URL opens the record with the alternate glance still
+  closed. Timeline, full-history, name-journey dialog and Escape/return controls
+  work. The record chronology has no new hidden ancestor.
+- Light/dark phone appearance remains readable. Young Explorers still opens
+  Madison with its original adapted summary. Existing browser notes were not
+  inspected or changed; notebook assertions use fake storage only.
+
+Local screenshots and validation receipts are stored outside Git. This is sampled
+browser QA, not assistive-technology certification, every-device coverage or a
+564-story editorial review. Printing, downloads, all tours and checkpoint 24's
+rendered acceptance were not retested in this revision. The original integration
+risks and release boundaries continue to apply.
+
+### Stage and remaining milestones
+
+UI-1.2 implementation, local QA and immutable-source rehearsals are complete;
+the interactive preview is usable. The draft PR records this checkpoint and its
+CI status. Research, workbook/export authority and ongoing editorial work remain
+on their separate path, with no new content reviews or sign-offs from this UI
+revision. Stop here for design review. Remaining milestones are acceptance of the
+layout, deliberate selection of a later completed editorial checkpoint, a new
+combined integration checkpoint and separately authorized release/live readback.
+Provisional active work after review remains 30–60 minutes for a bounded revision
+and 45–90 minutes for a selected-source integration rehearsal, excluding waits;
+no editorial or publication completion ETA is asserted.

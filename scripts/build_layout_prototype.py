@@ -175,7 +175,55 @@ def transform(source, css):
     candidate = source
     for start, end, replacement in reversed(ordered):
         candidate = candidate[:start] + replacement + candidate[end:]
+    candidate = reader_flow(candidate)
     return candidate, verify_preservation(source, candidate)
+
+
+def reader_flow(source):
+    """Move existing surfaces, never copy their live state or historical text.
+
+    Keep event entries outside any new disclosure: the original runtime opens
+    and focuses those entries directly for routes, timeline jumps and citations.
+    Only the alternate glance view gains a native, initially closed disclosure.
+    """
+    doc = Document(source)
+    story, filters = doc.one(id="atlas-story"), doc.one(id="atlas-filters")
+    map_panel = doc.one(cls="map-panel")
+    tools, title = doc.one(cls="story-tools"), doc.one(id="atlas-title")
+    navigation, origin = doc.one(cls="story-navigation"), doc.one(cls="referent-block")
+    narrative, glance = doc.one(id="atlas-pilot-story"), doc.one(id="atlas-name-glance")
+    glance_title, journey = doc.one(id="atlas-name-glance-title"), doc.one(cls="journey")
+    journey_title = doc.one(id="atlas-journey-heading")
+    require(filters["end"] < map_panel["start"] < story["start"], "Browse surfaces moved upstream.")
+    require(story["inner"] < tools["start"] < tools["end"] < title["start"], "Reading control moved upstream.")
+    require(navigation["end"] < origin["start"] < narrative["start"] < glance["start"] < journey["start"],
+            "Story surfaces moved upstream.")
+    require(glance["tag"] == "section" and glance_title["tag"] == "h3", "Glance disclosure contract changed.")
+    require(source[journey_title["inner"]:journey_title["close"]] == "The name journey", "Chronology heading changed upstream.")
+    # Transform the story independently before relocating its complete span.
+    story_edits = [
+        (tools["start"], tools["end"], ""),
+        (title["end"], title["end"], "\n" + doc.raw(tools)),
+        (navigation["start"], origin["start"], ""),
+        (narrative["end"], narrative["end"], "\n" + source[navigation["start"]:origin["start"]]),
+        (glance["start"], glance["end"], ""),
+        (journey["end"], journey["end"], "\n" +
+         '<details id="atlas-name-glance" class="name-glance labeled-disclosure" aria-labelledby="atlas-name-glance-title">' +
+         "\n<summary>" + doc.raw(glance_title) + "</summary>" +
+         source[glance_title["end"]:glance["close"]] + "</details>"),
+        (journey_title["inner"], journey_title["close"], "Chronology"),
+    ]
+    story_markup = doc.raw(story)
+    for start, end, replacement in sorted(story_edits, reverse=True):
+        story_markup = story_markup[:start-story["start"]] + replacement + story_markup[end-story["start"]:]
+    # DOM and phone order: search, selected story, exposed legend, map. Desktop
+    # places the same story beside the map with explicit grid positions.
+    edits = [(story["start"], story["end"], ""), (filters["start"], filters["end"], ""),
+             (map_panel["start"], map_panel["start"], story_markup + "\n" + doc.raw(filters) + "\n")]
+    candidate = source
+    for start, end, replacement in sorted(edits, reverse=True):
+        candidate = candidate[:start] + replacement + candidate[end:]
+    return candidate
 
 
 def git_bytes(ref, path):
