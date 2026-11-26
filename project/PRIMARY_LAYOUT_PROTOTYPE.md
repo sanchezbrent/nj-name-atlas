@@ -485,7 +485,8 @@ describe the active editorial path's current review coverage.
   both selects are 46px high. The exposed legend retains its earlier wrapping
   and targets of at least 44px. At 1430px, search is about 1,023px wide, compared
   with about 429px in UI-1.4. At 390px, Cinnaminson's reading action starts around
-  495px rather than 660px, still in the first screen.
+  495px, still in the first screen. The earlier 660px phone measurement belongs
+  to UI-1.2, before the tagline removal; it is not a UI-1.4 comparison.
 - With menus closed, Bottle Hill finds Madison through the existing historical
   match and its link works with Enter. Washington returns 43 matches, four
   immediate links and a working full-index action (12 entries on the first page).
