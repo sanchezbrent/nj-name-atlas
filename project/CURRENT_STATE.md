@@ -2,15 +2,14 @@
 
 Public site: https://sanchezbrent.github.io/nj-name-atlas/
 
-**Current remediation candidate:** [Copy proposals checkpoint 50](PUBLIC_COPY_CHECKPOINT_50.md).
-Statewide agent text review remains 564/564 per edition across all 21 counties.
-Checkpoint 50 adds 26 guarded main/discovery/activity copy proposals, preserving
-all 14,655 earlier rows; cumulative total 14,681. The unchanged strict scanner now
-passes with zero candidates in each edition. Human/publication sign-offs remain
-zero and release remains BLOCKED. Targeted agent rendered QA covers eight towns
-per edition on desktop/mobile; broader statewide rendered acceptance remains open.
-All source holds continue. Stop after checkpoint 50. Next bounded checkpoint: broaden rendered QA beyond the eight sampled towns, using fresh browser contexts and no existing notes; preserve all source holds and zero human sign-offs. No merge/deploy.
-Nothing merged or deployed; the live editions remain unchanged and not copy-cleared.
+**Current remediation candidate:** [Copy proposals checkpoint 51](PUBLIC_COPY_CHECKPOINT_51.md).
+Agent text review remains 564/564 per edition across all 21 counties. All 14,681
+copy proposals are unchanged. Strict candidates remain zero in both editions.
+Targeted agent rendered QA now covers 20/564 towns per edition at desktop/mobile
+sizes; 544 per edition remain unsampled. Human/publication sign-offs remain
+zero; release remains BLOCKED. All source holds continue. Website files, payloads,
+scripts, tests and baselines remain byte exact from checkpoint 50.
+Continue only the remaining twelve towns of the authorized 24-town run in checkpoint 52, then stop. Nothing merged or deployed; live Pages is unchanged.
 The implementation/browser statements below describe the earlier publication,
 not fresh acceptance of this remediation candidate.
 
