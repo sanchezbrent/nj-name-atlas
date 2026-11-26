@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_46",
+  "checkpoint": "PUBLIC_COPY_47",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -534,7 +534,19 @@
     "0234",
     "0235",
     "0236",
-    "0237"
+    "0237",
+    "0238",
+    "0239",
+    "0240",
+    "0241",
+    "0242",
+    "0243",
+    "0244",
+    "0245",
+    "0246",
+    "0247",
+    "0248",
+    "0249"
   ],
   "changes": [
     {
@@ -196173,6 +196185,4222 @@
       ],
       "expected_sha256": "b3c05675c3a3b2dc903d171bc23b53c8c9b5db9fb3aad29d37f0824768e704be",
       "replacement": "Current digital edition of historical newspaper material",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0243",
+      "path": [
+        "views",
+        "0243",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "a132c1606f33317812856e79c05d9a6c445ba8b20afd245b55d533fbd00373bc",
+      "replacement": "The law separated existing borough governments from their parent townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0243",
+      "path": [
+        "views",
+        "0243",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "24dab623a628272a78f0abd250a1028e4583c88d6b382ba616592167dd99f0ae",
+      "replacement": "The law’s March approval preceded its specified April effective day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0243",
+      "path": [
+        "views",
+        "0243",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "a132c1606f33317812856e79c05d9a6c445ba8b20afd245b55d533fbd00373bc",
+      "replacement": "The law separated existing borough governments from their parent townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0243",
+      "path": [
+        "views",
+        "0243",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "24dab623a628272a78f0abd250a1028e4583c88d6b382ba616592167dd99f0ae",
+      "replacement": "The law’s March approval preceded its specified April effective day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "editorial",
+        "0238",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "652d4e84f43febf25d87e023f0615fd419a300ef29a675e3b029f50300150b36",
+      "replacement": "A 1945 place-name book lists Milford, Pennsylvania as the namesake, without proving the original choice. The 1922 borough law adopted the familiar New Milford name for remaining Palisades Township territory, subject to voter approval. April 18 adoption is reported in later sources.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "editorial",
+        "0238",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "6242aa076da0e57dc7be05278ada80e3f74cc42a97eb0314647efe995aacee66",
+      "replacement": "A place-name book connects New Milford with Milford, Pennsylvania, but the original reason remains uncertain. The borough law in 1922 required voters to approve the new government. Later accounts give April 18 for their vote. These places were related, without all being earlier names for the whole borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "editorial",
+        "0238",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "af2253d15eb6b000ff9a6350ed9c2158d93ac890eb33656f4029f8548927db12",
+      "replacement": "The law required majority voter adoption before borough operation. Later sources report April 18 adoption and the end of Palisades Township; these are distinct from the law’s approval and separate officer-election provision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "editorial",
+        "0238",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "af2253d15eb6b000ff9a6350ed9c2158d93ac890eb33656f4029f8548927db12",
+      "replacement": "The law required majority voter adoption before borough operation. Later sources report April 18 adoption and the end of Palisades Township; these are distinct from the law’s approval and separate officer-election provision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "editorial",
+        "0238",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "a8ee632063fc467d4b990a3b79902a246e9f6b40f43e76eb39e0c31e92bce2d0",
+      "replacement": "Compilations report New Milford in 1828 and closure in 1829 or 1832. Spring Valley reportedly adopted New Milford in 1887. Peetzburg’s office served from 1892 to the end of 1920, when its mail went to New Milford. The original office sites remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "editorial",
+        "0238",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "a8ee632063fc467d4b990a3b79902a246e9f6b40f43e76eb39e0c31e92bce2d0",
+      "replacement": "Compilations report New Milford in 1828 and closure in 1829 or 1832. Spring Valley reportedly adopted New Milford in 1887. Peetzburg’s office served from 1892 to the end of 1920, when its mail went to New Milford. The original office sites remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "editorial",
+        "0238",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "4756d63c3ea6bcbbef74f6b513cfe2caf8aa752445843fbbeddd38f8a2165873",
+      "replacement": "The March 11 law required majority voter approval before borough operation. Later sources report April 18 adoption and Palisades Township dissolution; the legal index uses an unofficial election-day source. The separate officer election was another prescribed step.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "editorial",
+        "0238",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "4756d63c3ea6bcbbef74f6b513cfe2caf8aa752445843fbbeddd38f8a2165873",
+      "replacement": "The March 11 law required majority voter approval before borough operation. Later sources report April 18 adoption and Palisades Township dissolution; the legal index uses an unofficial election-day source. The separate officer election was another prescribed step.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0239",
+      "path": [
+        "editorial",
+        "0239",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "adff3dc1bf359ceb9f3e4a8ca1e89d5c6a557da1bd6fba2b22fcb0718e25bd5a",
+      "replacement": "A legal index gives March 11 for filing and effect, a separate step after the vote. The borough came from Union Township. Postal service followed much later: a station serving it around 1919 used an Arlington designation, with North Arlington explicitly reported in 1932. The municipal name did not begin with that later postal change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0239",
+      "path": [
+        "editorial",
+        "0239",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d00aa6ff49503f9dba979ba9d35c9c130787381140b6adca7784fabd94ebcb7c",
+      "replacement": "The legal index gives March 11 for result filing and effect, separately from the March 9 election recorded by the original certificate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0239",
+      "path": [
+        "editorial",
+        "0239",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "d00aa6ff49503f9dba979ba9d35c9c130787381140b6adca7784fabd94ebcb7c",
+      "replacement": "The legal index gives March 11 for result filing and effect, separately from the March 9 election recorded by the original certificate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0239",
+      "path": [
+        "editorial",
+        "0239",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f721e0f0c0e65484911597f0e446a360e86047cb7084cd12fc54d7db4631a6de",
+      "replacement": "The original March 9, 1896 certificate gives 46 ballots, all for incorporation, and cites a February 28 order. This contradicts a later March 26 election statement. The legal index separately gives March 11 for filing and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0239",
+      "path": [
+        "editorial",
+        "0239",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f721e0f0c0e65484911597f0e446a360e86047cb7084cd12fc54d7db4631a6de",
+      "replacement": "The original March 9, 1896 certificate gives 46 ballots, all for incorporation, and cites a February 28 order. This contradicts a later March 26 election statement. The legal index separately gives March 11 for filing and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "196805df58fd50034b59be5ea6c57811297e9f8412d7369bfb1b432b1e46ae48",
+      "replacement": "Northvale combines north with vale, a word for valley, according to later place-name references. The landscape explanation fits its northern location, but the exact original intention and person who suggested the name remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "49ba73936644d5fafa76a345428077479b19d13f486ef68c1e22772aac11ba13",
+      "replacement": "The 1916 borough law covered the remaining Harrington Township territory, but required voter approval. A legal index reports April 4 adoption and an April 7 county record. In 1923, Rockleigh took territory from Northvale under another act. The borough’s boundaries changed while the older postal and community name continued.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "3119c4873435aeb545237622bf10d0ac2b9b331550f23f88f1a76fa7a7fb39ca",
+      "replacement": "A 1916 law planned a borough using the remaining Harrington Township land. It required voters to agree. A later legal history gives April 4 for their approval and April 7 for county recording. Rockleigh later took some territory in 1923. Northvale kept a name that had already been used for decades.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d3abc09bbe6aa5871868ab593ee982eb808e6793b4a5f783d70ccdba8882c972",
+      "replacement": "Postal lists report the name change and Campora’s appointment. His appointment does not establish that he chose the name; the original name-giver remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "d3abc09bbe6aa5871868ab593ee982eb808e6793b4a5f783d70ccdba8882c972",
+      "replacement": "Postal lists report the name change and Campora’s appointment. His appointment does not establish that he chose the name; the original name-giver remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "journey",
+        1,
+        "date"
+      ],
+      "expected_sha256": "08fe81df1a5918fb6648280bf02245dbf40d209b43cc2bfccd30c7be84c3ad92",
+      "replacement": "Reported picture around 1908; 1909 directory citation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "journey",
+        1,
+        "date"
+      ],
+      "expected_sha256": "08fe81df1a5918fb6648280bf02245dbf40d209b43cc2bfccd30c7be84c3ad92",
+      "replacement": "Reported picture around 1908; 1909 directory citation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e3c46323e7256d8b4dc7df225153abfe9fe3217bc8bb35dc1cc5cebc5a256c52",
+      "replacement": "A later description associates a Northvale station photograph with around 1908. Wardell separately cites a 1909 station listing; neither dates the station’s original naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e3c46323e7256d8b4dc7df225153abfe9fe3217bc8bb35dc1cc5cebc5a256c52",
+      "replacement": "A later description associates a Northvale station photograph with around 1908. Wardell separately cites a 1909 station listing; neither dates the station’s original naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0ac73ec417a7b538739e3f640709d6d296fdf7a4ab793b63f495afd5e9f88a72",
+      "replacement": "The act required voter approval. The legal index separately reports April 4 adoption and effect and an April 7 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0ac73ec417a7b538739e3f640709d6d296fdf7a4ab793b63f495afd5e9f88a72",
+      "replacement": "The act required voter approval. The legal index separately reports April 4 adoption and effect and an April 7 county record.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d3ec5868747969724520cdd6eb35037841721434d7dd7fd353bb58eb34be98e8",
+      "replacement": "Compilations report Neuvy office use in 1882 and a November 16, 1887 change to Northvale with Campora’s appointment. A later description dates a station photograph to around 1908; Wardell separately cites a 1909 directory listing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "d3ec5868747969724520cdd6eb35037841721434d7dd7fd353bb58eb34be98e8",
+      "replacement": "Compilations report Neuvy office use in 1882 and a November 16, 1887 change to Northvale with Campora’s appointment. A later description dates a station photograph to around 1908; Wardell separately cites a 1909 directory listing.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "3d120520da93db4526c3e1e3b0b60cf28c20ccc0c7a2aae6e8aa501a743dce52",
+      "replacement": "The March 15, 1916 act required majority voter approval within thirty days. The legal index reports April 4 adoption and effect and April 7 county recording as separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "editorial",
+        "0240",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "3d120520da93db4526c3e1e3b0b60cf28c20ccc0c7a2aae6e8aa501a743dce52",
+      "replacement": "The March 15, 1916 act required majority voter approval within thirty days. The legal index reports April 4 adoption and effect and April 7 county recording as separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "editorial",
+        "0241",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "7c3ca78a21c3cd080b5bfaef49f3a6c2b01f479b1e66e16da1b969f8a26e8bd7",
+      "replacement": "A later railway article and postal lists differ between the early 1890s and 1901. The station and office may have different histories; their relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "editorial",
+        "0241",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "7c3ca78a21c3cd080b5bfaef49f3a6c2b01f479b1e66e16da1b969f8a26e8bd7",
+      "replacement": "A later railway article and postal lists differ between the early 1890s and 1901. The station and office may have different histories; their relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "editorial",
+        "0241",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "67ba6a0539286192f13977a5c571d10f309b638b5dd75e0b45b87a6f81c16a43",
+      "replacement": "Norwood office use is reported in 1868 and a depot with an office in 1870. West Norwood office accounts differ between the early 1890s and 1901; the station and office may have different histories. Consolidation is reported in 1957.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "editorial",
+        "0241",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "67ba6a0539286192f13977a5c571d10f309b638b5dd75e0b45b87a6f81c16a43",
+      "replacement": "Norwood office use is reported in 1868 and a depot with an office in 1870. West Norwood office accounts differ between the early 1890s and 1901; the station and office may have different histories. Consolidation is reported in 1957.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "editorial",
+        "0242",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "6d65632b2fe7d2d531f049b6c546bff161d22e2725bb4af7bd75e40c1ab092d0",
+      "replacement": "Wardell cites Iapough and Panne forms through later published references. Their exact meanings and geographic relationship remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "editorial",
+        "0242",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "6d65632b2fe7d2d531f049b6c546bff161d22e2725bb4af7bd75e40c1ab092d0",
+      "replacement": "Wardell cites Iapough and Panne forms through later published references. Their exact meanings and geographic relationship remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "editorial",
+        "0242",
+        "sidebar",
+        "fields",
+        "alternatives",
+        "text"
+      ],
+      "expected_sha256": "998f61dc23e358c5744f645ebae8db0fd160e576eefe4fca45eb76aac7714525",
+      "replacement": "Van Valen’s later history mentions Breakcliff, Pleasant Valley and Bushville among choices. Bushville also belongs to older locality accounts; these do not establish a continuous sequence of official names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "editorial",
+        "0242",
+        "sidebar",
+        "fields",
+        "alternatives",
+        "text"
+      ],
+      "expected_sha256": "998f61dc23e358c5744f645ebae8db0fd160e576eefe4fca45eb76aac7714525",
+      "replacement": "Van Valen’s later history mentions Breakcliff, Pleasant Valley and Bushville among choices. Bushville also belongs to older locality accounts; these do not establish a continuous sequence of official names.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "editorial",
+        "0242",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "f4aba37e022ab2b52342b6cb9de2d946efe7b9561e3e562878a9def398fd9978",
+      "replacement": "The compilations give different office wording around Jacob A. Terhune’s January 15, 1872 appointment. Later newspaper and atlas references are also reported through compilations.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "editorial",
+        "0242",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "f4aba37e022ab2b52342b6cb9de2d946efe7b9561e3e562878a9def398fd9978",
+      "replacement": "The compilations give different office wording around Jacob A. Terhune’s January 15, 1872 appointment. Later newspaper and atlas references are also reported through compilations.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0243",
+      "path": [
+        "editorial",
+        "0243",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "7582323dba441c29b37432676ed941dbf356724c9277679caf391ba359102c25",
+      "replacement": "The word Old has its own puzzle. Municipal history quotes ould tappan from a 1687 patent and describes a regional land purchase in 1682. It also offers a debatable idea that Dutch uyt-tappan, or out Tappan, became oud, ould or Old. That remains a theory rather than a proven chain of changes.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0243",
+      "path": [
+        "editorial",
+        "0243",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a8281af2486e48b4e6e7080afb78edeeb8a1a48acea75b0fc40c60b06a617b35",
+      "replacement": "Why Old? A municipal history quotes ould tappan from a patent, a land-grant document, dated 1687. It also describes a theory that Dutch words meaning out Tappan changed into Old Tappan. The history itself calls that idea debatable.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0243",
+      "path": [
+        "editorial",
+        "0243",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "6bc2d60bc9490e49fdec546939a329ead5829843d87d8de138f82d191df36b3d",
+      "replacement": "Municipal history describes the 1682 purchase and quotes ould tappan from a 1687 patent. The cold-water interpretation and proposed uyt-tappan-to-Old explanation remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0243",
+      "path": [
+        "editorial",
+        "0243",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "6bc2d60bc9490e49fdec546939a329ead5829843d87d8de138f82d191df36b3d",
+      "replacement": "Municipal history describes the 1682 purchase and quotes ould tappan from a 1687 patent. The cold-water interpretation and proposed uyt-tappan-to-Old explanation remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0243",
+      "path": [
+        "editorial",
+        "0243",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b6c00d7dde337943059d7be1315f8a4911773e3c97eadb1529d852e1c4ae9534",
+      "replacement": "The legal index dates voting and filing separately. They describe different stages of annexation, rather than competing dates for a special act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0243",
+      "path": [
+        "editorial",
+        "0243",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b6c00d7dde337943059d7be1315f8a4911773e3c97eadb1529d852e1c4ae9534",
+      "replacement": "The legal index dates voting and filing separately. They describe different stages of annexation, rather than competing dates for a special act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0243",
+      "path": [
+        "editorial",
+        "0243",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "0fabd787d95817e861e486162ae492a21b041dde679f38a5f4bf28830dfdd830",
+      "replacement": "Municipal history quotes ould tappan from a 1687 patent, following its account of a 1682 regional purchase. These are reported historical forms.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0243",
+      "path": [
+        "editorial",
+        "0243",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "0fabd787d95817e861e486162ae492a21b041dde679f38a5f4bf28830dfdd830",
+      "replacement": "Municipal history quotes ould tappan from a 1687 patent, following its account of a 1682 regional purchase. These are reported historical forms.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0244",
+      "path": [
+        "editorial",
+        "0244",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c742244c984ab6dc97c972b6b4fed359ef2914bcbe589d794f715020f5c47e7a",
+      "replacement": "A later account credits Bellis with the blend and describes a rejected Midland proposal. The legal index separately dates the vote to March 7 and result filing to March 8.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0244",
+      "path": [
+        "editorial",
+        "0244",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "c742244c984ab6dc97c972b6b4fed359ef2914bcbe589d794f715020f5c47e7a",
+      "replacement": "A later account credits Bellis with the blend and describes a rejected Midland proposal. The legal index separately dates the vote to March 7 and result filing to March 8.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0244",
+      "path": [
+        "editorial",
+        "0244",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "751dc4eae6557db39f54a06038f6c0c2edf02d2fda66395780c38a24a5bb0402",
+      "replacement": "Oradell was in postal and railway-community use before borough formation. Postal lists give June 4, 1872 for Demarest’s appointment and June 11 for establishment; the relationship between those reported steps remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0244",
+      "path": [
+        "editorial",
+        "0244",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "751dc4eae6557db39f54a06038f6c0c2edf02d2fda66395780c38a24a5bb0402",
+      "replacement": "Oradell was in postal and railway-community use before borough formation. Postal lists give June 4, 1872 for Demarest’s appointment and June 11 for establishment; the relationship between those reported steps remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "62a013fbdf4847feb74cb326b55735c2e34cfb980023b0c222e6d8e680a6a203",
+      "replacement": "The successful borough law took effect on March 22, 1899, using Ridgefield Township territory. Municipal history later retells a 1902 advertisement for a rolling, park-like suburb. The advertisement’s later date cannot establish the name’s original meaning. A 1909 law transferred some land to Fort Lee and used the singular Palisade Park. That spelling does not prove the borough underwent another name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "3edd0cae13291d4f644fa79a28ed0aa3d3a88132b04aa735431f421512706f79",
+      "replacement": "A later municipal history repeats a 1902 advertisement describing attractive suburban land. That reported advertisement concerns promotion after the name began, rather than establishing its first meaning. A 1909 land-transfer law uses Palisade Park without the s. That wording alone does not establish another official rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "5f6403b9059c6eefc589f58ab5e3e47a91ddb88b391d97a94c0097611e7a3b72",
+      "replacement": "The borough law took immediate effect. The legal history reports an earlier proposal with an unresolved outcome; a later account separately places the first mayor’s oath in April 1899.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "5f6403b9059c6eefc589f58ab5e3e47a91ddb88b391d97a94c0097611e7a3b72",
+      "replacement": "The borough law took immediate effect. The legal history reports an earlier proposal with an unresolved outcome; a later account separately places the first mayor’s oath in April 1899.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0f6ec176fca9bd50b6219ec803bbc87589be79a8449211c25403970ffae1ac2a",
+      "replacement": "Municipal history retells the 1902 advertisement; Wardell separately cites a directory. The April 16, 1909 law sends land to Fort Lee and uses Palisade Park without the s; that wording does not establish a separate rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "0f6ec176fca9bd50b6219ec803bbc87589be79a8449211c25403970ffae1ac2a",
+      "replacement": "Municipal history retells the 1902 advertisement; Wardell separately cites a directory. The April 16, 1909 law sends land to Fort Lee and uses Palisade Park without the s; that wording does not establish a separate rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "sidebar",
+        "fields",
+        "mechanism",
+        "text"
+      ],
+      "expected_sha256": "86e618ddba76ce83bf0bcfa91fd38dc5df7fb79f9bf5361de69aaa0b6dec5efa",
+      "replacement": "Municipal history retells a 1902 park-like-suburb advertisement through a later book. That reported promotion is later than the postal name, so it does not establish the original naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "sidebar",
+        "fields",
+        "mechanism",
+        "text"
+      ],
+      "expected_sha256": "86e618ddba76ce83bf0bcfa91fd38dc5df7fb79f9bf5361de69aaa0b6dec5efa",
+      "replacement": "Municipal history retells a 1902 park-like-suburb advertisement through a later book. That reported promotion is later than the postal name, so it does not establish the original naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "01e5d6ddca42dd38a001c4c927630131124ce97547514c100c67d9d104854962",
+      "replacement": "The legal history reports an 1894 proposal with an unresolved outcome. The borough law began March 22, 1899 without a voter-adoption condition. A later account places the first mayor’s oath in April 1899.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "01e5d6ddca42dd38a001c4c927630131124ce97547514c100c67d9d104854962",
+      "replacement": "The legal history reports an 1894 proposal with an unresolved outcome. The borough law began March 22, 1899 without a voter-adoption condition. A later account places the first mayor’s oath in April 1899.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0a330d0644b38795b7b97f5f8c12ce1f3e170b284c4c6ce71cd5032f434c049a",
+      "replacement": "Paramus was a river and regional identity before it was a borough. Later references report early forms in deeds of 1708–1710, including a quoted Parames and names connected with the Saddle River. The exact sequence of early spellings remains uncertain. The Paramus church, precinct, post office and hamlet helped carry that older identity forward.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "933640c34946c6225de953f95d4ad2589d7a63016b0172a313211e56700d3ee7",
+      "replacement": "Paramus’s name is much older than the borough. Later sources report forms used for a river and local area in deeds from 1708–1710. These are reported forms from later accounts and quotations. A church, a post office and a community then carried the name through later generations.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "abde8a3e704385dda74fd4720ad1ee66485e837f3af9fa56d2ec59c9ecb33e69",
+      "replacement": "The Indigenous connection does not depend on choosing one literal translation. Older wild-turkey and fertile-land explanations compete with a later specialist interpretation. The broad Indigenous connection can be described while the precise linguistic derivation remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "2a6237e8aba4dd811bc56818ea2da606ef7cbad7921a69e2ea1268c407c0bd99",
+      "replacement": "The borough came from Midland Township under a law approved March 2, 1922, conditional on voter adoption. Voters adopted it April 4. The surviving first-district return records 160 yes, one no and two void ballots; that is a district result, rather than a borough-wide tally. Later boundary changes, including opposite-direction exchanges with River Edge effective in 1954, changed territory rather than the older name’s origin.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "bd30d9affd42e9718707fe88b00369f2c2a19835b9e5fd8a5b8968f01194d8a7",
+      "replacement": "In 1922, residents formed a borough from Midland Township. The March 2 law required a vote; voters adopted it on April 4. One surviving voting-district return has 160 yes, one no and two void ballots. It is only that district's result, not the whole borough's total. Later boundary exchanges changed the borough's land, not the beginning of its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "50e8ee0198ba6dcb7bf216c98119914ccea2dd05d55aa26f37515557ba1ac874",
+      "replacement": "Wardell cites Parames through a later local-history quotation of a 1708 deed. That reported occurrence does not establish the first-ever use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "50e8ee0198ba6dcb7bf216c98119914ccea2dd05d55aa26f37515557ba1ac874",
+      "replacement": "Wardell cites Parames through a later local-history quotation of a 1708 deed. That reported occurrence does not establish the first-ever use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "204a05c2dd4ef85844a4f19f87a65b6c042be2e7f6867d8a7acbcc74a34c57ce",
+      "replacement": "The specialist gazetteer is cited for the Paramauquing form and November 1709 date. A separate account gives Perampseapus; the exact spelling relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "204a05c2dd4ef85844a4f19f87a65b6c042be2e7f6867d8a7acbcc74a34c57ce",
+      "replacement": "The specialist gazetteer is cited for the Paramauquing form and November 1709 date. A separate account gives Perampseapus; the exact spelling relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "cc5c7fae426bf296503fe9960f1caa1d32271b56c40cae00e2cf0b168415c7c6",
+      "replacement": "The specialist gazetteer is cited for Parampseapuss or Sadle River in a 1710 land sale. The relationship between this reported form and earlier spellings remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "cc5c7fae426bf296503fe9960f1caa1d32271b56c40cae00e2cf0b168415c7c6",
+      "replacement": "The specialist gazetteer is cited for Parampseapuss or Sadle River in a 1710 land sale. The relationship between this reported form and earlier spellings remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "add7d934f098763dd25bf503c9cffeccf33af863b2fd220ff469e61fb15c9cb8",
+      "replacement": "The chronology reports the church and surrounding precinct in 1725, as institutions carrying the older regional name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "add7d934f098763dd25bf503c9cffeccf33af863b2fd220ff469e61fb15c9cb8",
+      "replacement": "The chronology reports the church and surrounding precinct in 1725, as institutions carrying the older regional name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "819b814e6ab7b25d8779990dddab50f7cb4edf9d6be5fd9b1d3f73d60a42e593",
+      "replacement": "The chronology reports postal adoption in 1797. Postal use carried a locality name that already existed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "819b814e6ab7b25d8779990dddab50f7cb4edf9d6be5fd9b1d3f73d60a42e593",
+      "replacement": "The chronology reports postal adoption in 1797. Postal use carried a locality name that already existed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "ce980c5eb4b6ccf16b185fce80e936912a8fedfb97c074697851c8c35db87517",
+      "replacement": "The reported Pyramus form belongs to postal history. Later accounts differ between 1840 and 1846 for discontinuance; that sequence remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "ce980c5eb4b6ccf16b185fce80e936912a8fedfb97c074697851c8c35db87517",
+      "replacement": "The reported Pyramus form belongs to postal history. Later accounts differ between 1840 and 1846 for discontinuance; that sequence remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "56b1dcd144d597ded98ddebd2c7528b67ed2d035860084d3e0964311633d261b",
+      "replacement": "The surviving April 4 first-district return gives 160 yes, 1 no and 2 void. Those figures describe one district; the borough-wide tally remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "56b1dcd144d597ded98ddebd2c7528b67ed2d035860084d3e0964311633d261b",
+      "replacement": "The surviving April 4 first-district return gives 160 yes, 1 no and 2 void. Those figures describe one district; the borough-wide tally remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "a65330c9ad4f5c513dc8404ce1b109a8359038f44d6aedaaf0ff2c7c24b0ca17",
+      "replacement": "The chronology records territory acquired from Emerson, a later boundary change under the existing Paramus name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "a65330c9ad4f5c513dc8404ce1b109a8359038f44d6aedaaf0ff2c7c24b0ca17",
+      "replacement": "The chronology records territory acquired from Emerson, a later boundary change under the existing Paramus name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "f7c79196c00e4624cd386cb572b4c46b52bc5825d7b6066cac94aac448e7be42",
+      "replacement": "The chronology records territory moving from Paramus to Maywood, separately from the older naming history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        9,
+        "detail"
+      ],
+      "expected_sha256": "f7c79196c00e4624cd386cb572b4c46b52bc5825d7b6066cac94aac448e7be42",
+      "replacement": "The chronology records territory moving from Paramus to Maywood, separately from the older naming history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        10,
+        "detail"
+      ],
+      "expected_sha256": "98bf3ccc8e8e13092d49e6d87c7ce836679f52cc8321b26978a0d746a4249dfd",
+      "replacement": "The index records ordinance 292 taking effect January 1, 1954. This moved territory from River Edge into Paramus, one direction of the paired exchange.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "journey",
+        10,
+        "detail"
+      ],
+      "expected_sha256": "98bf3ccc8e8e13092d49e6d87c7ce836679f52cc8321b26978a0d746a4249dfd",
+      "replacement": "The index records ordinance 292 taking effect January 1, 1954. This moved territory from River Edge into Paramus, one direction of the paired exchange.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "2104725c1bded98584d9b3953447adca2ad36065ba6f756349bb711e14a262d0",
+      "replacement": "Later sources report name forms in deeds from 1708–1710, including quotations in later histories. The exact spelling sequence remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "sidebar",
+        "fields",
+        "earliest_form",
+        "text"
+      ],
+      "expected_sha256": "2fadb98a58e3c6ceb4b1a588d744cf2d7caa76ed1623b810c2588abef2017aae",
+      "replacement": "Later sources report early deed forms from 1708–1710. The exact spelling sequence remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "b1bb30f88cf8837c61e837a99db9bd6a705fe97b4012b67b6bf80efff64090cd",
+      "replacement": "The surviving first-district return records 160 yes, 1 no and 2 void. Those figures describe one district; the borough-wide tally remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "editorial",
+        "0246",
+        "sidebar",
+        "fields",
+        "process",
+        "text"
+      ],
+      "expected_sha256": "9f40601aa252fc9734b177c8c0fff347557baea3fd1ae08def8c9d454994a690",
+      "replacement": "One voting district reported 160 yes, one no and two void ballots. Those figures describe that district, rather than the whole borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "9105666873eadbd4a96b6ed56cbd364235fe9ae9718cf54180cebf2a56c745f0",
+      "replacement": "A landowner’s surname became a station identity, then a borough name. Later station histories connect Peter J. Ramsey’s property with the Paterson & Ramapo Railroad. A place-name compilation cites Ramsey’s in a November 24, 1848 timetable. The individual who selected the station name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "67efd962e6d8df7e2aac11d4538a69498a3d3d7007aad0471e1c8bfe9d84418d",
+      "replacement": "Ramsey’s name followed the railway. Later histories link a station site with landowner Peter J. Ramsey. A compilation points to Ramsey’s in an 1848 timetable. We do not know the exact person who selected the station name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "a5dd1aa388e5378bfe4a931b3e9f2da8ee652a5bee4d3d1370f52fd8fb13ff60",
+      "replacement": "The possessive mattered in the name’s public life. The compilation reports Ramsey’s Post Office in 1855 and a change to Ramsey on August 12, 1889. These are later accounts of postal decisions; the original reason for dropping the possessive remains unknown. The 1848 stop also predates the later station building described in local history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "48ee21ea34bdba8473bae228142a530135a304a0fb4f0b9f0b8383a614452f32",
+      "replacement": "Wardell cites New Success in an 1811 road return. Its exact geographic extent and relationship to the New Sussex variant remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "48ee21ea34bdba8473bae228142a530135a304a0fb4f0b9f0b8383a614452f32",
+      "replacement": "Wardell cites New Success in an 1811 road return. Its exact geographic extent and relationship to the New Sussex variant remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5b67672c4f3ecea76b7c4c14d34559040552d12f93388ccbf985afb7edb93b9c",
+      "replacement": "Wardell reports Ramsey’s in the November 1848 timetable. That reported station use does not date the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "5b67672c4f3ecea76b7c4c14d34559040552d12f93388ccbf985afb7edb93b9c",
+      "replacement": "Wardell reports Ramsey’s in the November 1848 timetable. That reported station use does not date the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "98b399f4e1e2f923aa092ee4cf7330a3be7cd421a423c4ed4151299f964248cb",
+      "replacement": "Wardell reports establishment of Ramsey’s Post Office on February 9, 1855, carrying the station’s possessive name into postal use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "98b399f4e1e2f923aa092ee4cf7330a3be7cd421a423c4ed4151299f964248cb",
+      "replacement": "Wardell reports establishment of Ramsey’s Post Office on February 9, 1855, carrying the station’s possessive name into postal use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3bfadb54a0be5fbfe15fae081fea10fcbc56805cb223b7d4cf0f1fed02b38869",
+      "replacement": "Wardell dates the postal change to August 12, 1889. The reason for dropping the possessive remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3bfadb54a0be5fbfe15fae081fea10fcbc56805cb223b7d4cf0f1fed02b38869",
+      "replacement": "Wardell dates the postal change to August 12, 1889. The reason for dropping the possessive remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "34ee776fa61b0d5852d8f689f7151cdf57582bbf3ee65224ace10c635a5cc224",
+      "replacement": "Later histories link the station to Peter J. Ramsey’s land. The individual who chose the station name remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "40389763f804a923059a05246b1a1ee8e07f296d71c6a7ecc9005a97d743e131",
+      "replacement": "The station name is linked to Peter J. Ramsey’s land. We do not know who chose it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "50615c4919bd41c0dfcb6d4de04eed9a13f8df61eb5710dbec5349c56d5c1f9b",
+      "replacement": "Wardell cites the name on an 1848 railway timetable and reports later postal use. The earlier stop and later station building are separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "editorial",
+        "0248",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "8eebf2ff20e702ecdde65271ebc670ab0c5378bac0d02814ab2a05a60634338c",
+      "replacement": "Wardell cites the name on an 1848 railway timetable and reports later postal use. The earlier stop and later station building are separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "editorial",
+        "0249",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "caa0489548110822cdc2dca2a991540bfef371f7cb1aa086021a3b999ad20311",
+      "replacement": "Later compilations report postal and atlas use after the township law. Those later occurrences do not establish when the name was first chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "editorial",
+        "0249",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "caa0489548110822cdc2dca2a991540bfef371f7cb1aa086021a3b999ad20311",
+      "replacement": "Later compilations report postal and atlas use after the township law. Those later occurrences do not establish when the name was first chosen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "editorial",
+        "0249",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "ed43247f108864562537189631def41898d413749eef21f743f2514e7f45070e",
+      "replacement": "Municipal history reports a July 12 first council meeting. The later general separation law was another government stage, rather than the original naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "editorial",
+        "0249",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "ed43247f108864562537189631def41898d413749eef21f743f2514e7f45070e",
+      "replacement": "Municipal history reports a July 12 first council meeting. The later general separation law was another government stage, rather than the original naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "editorial",
+        "0249",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "b1b93392f793c8233da3ca9ee4c3ca0b0c4da64ffef33c04303860046d4cd54d",
+      "replacement": "Municipal history reports railway arrival in 1859. Later accounts describe a February 1875 postal appointment, an 1876 atlas occurrence and about forty village buildings. These describe development and public name use, rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "editorial",
+        "0249",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "b1b93392f793c8233da3ca9ee4c3ca0b0c4da64ffef33c04303860046d4cd54d",
+      "replacement": "Municipal history reports railway arrival in 1859. Later accounts describe a February 1875 postal appointment, an 1876 atlas occurrence and about forty village buildings. These describe development and public name use, rather than the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "7210e003dada87e9b3489d0a3647e13d25e24668af439d26278cb06e936733d1",
+      "replacement": "Wardell reports an early New Bridge occurrence; its exact relationship to later borough geography remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "f89942929210e26d5b0bdbbd841781e62c0befdd76b9908140fdf6b294b078c5",
+      "replacement": "Reported postal adoption",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "853061e44658779f51bacd3ff68771109e7dfc49e126866e7e82f45b5fa9779f",
+      "replacement": "Postal compilations report adoption of New Milford in 1828.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "484ee49ba222b9b2f5ecb647d15039cc1cae553be52ce6530965d64d5e49641e",
+      "replacement": "A reported early institutional use of the name, with the original office site still uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2b40af92399ad2d4c273a4342844a5eba6c7cbd821eac8139beffb923b354d66",
+      "replacement": "A reported map occurrence; the older office’s exact site remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "ec85232cfc6d258baba4cad30fb0ffd5406c59ff74c93394a3213ae4c08c0815",
+      "replacement": "This conflicts with the 1829 closure account; the discontinuance sequence remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "0fb90ec852a16d68ef69851163fc9c34a36da15a2e3b5696449b9f8a87197eff",
+      "replacement": "The law’s March approval preceded its specified April effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        13,
+        "action"
+      ],
+      "expected_sha256": "e3548de2a5893db157c3d50365fcd77b9cf2c571bd793d702462488cd32d9198",
+      "replacement": "Eric Model’s later local-history article places older New Milford west of the river around 1894 and Peetzburgh in the present borough area.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        13,
+        "significance"
+      ],
+      "expected_sha256": "579b1342272ae8384054a16f22954a7d9c2069da15bd4522ab060ce1530859eb",
+      "replacement": "That reported 1894 geography does not establish the 1828 post office’s site.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0239",
+      "path": [
+        "views",
+        "0239",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ee8ec9b90a4e8318f649389f3943044d66d2606b2d40c27054c301528bd3668f",
+      "replacement": "The detailed legal index gives March 11, 1896 for county result filing and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "d385bf0f0e8cee22622197cb1cd07c93b36995956de8a9c8d06a3393e3e84d7d",
+      "replacement": "Compilations place Neuvy establishment in 1882; the Genealogical Society’s transcription gives Dennis O’Connor’s April 25 appointment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "4867a263054a5adb11da2b82b5ac7a4609306704201f6bd261df6781ec7b7c80",
+      "replacement": "Postal compilations report the change from Neuvy to Northvale.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "75d92e32a664224572ab3abd9c6849f7a4345c0e089986eda06c75b1060bf345",
+      "replacement": "Reported postal adoption preceded the later borough name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "a3129ec7b28100b537a79b648ff00add40beb68d8f5dafa3f6718e0b53e1ec65",
+      "replacement": "Reported station-photograph date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "e82938e15e89090cb007e697799c40bd6b63d6b541704736c0c6991058bf33cd",
+      "replacement": "A later source description associates a Northvale station photograph with around 1908.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "93911f50c68ca6abe0215703c106c70425075a9faab54d17ee6d895f6b96aeaf",
+      "replacement": "The reported image date would precede borough formation, without dating the name’s first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "49808ebe078a7e6d36cec53b6bf8931bdaea7f29562888014a47c7712b2fd00d",
+      "replacement": "Beuscher’s later railway article places West Norwood station and office in the early 1890s; postal compilations place office establishment in 1901.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "0c80701e82281d133ca8e5a75ff0e954139431f599ed7c9947194012b8aa3719",
+      "replacement": "County catalogue election listing",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "5c0d514b47edb39aa8105bcc917de7db102cced81a3ad66c4636ca1fd34d2517",
+      "replacement": "The catalogue’s date and title do not establish the election’s purpose or occurrence; the later borough law took immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "cadab4cc255ec113a8cce277acee474b825b5c280686e61d97ea887b92ffce56",
+      "replacement": "The Genealogical Society’s transcription gives April 30 for effective withdrawal of the March 9 discontinuance order.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "257e3fe50c5c678344623d6c959df3d6e1827b5308edb167516725f96a5d365e",
+      "replacement": "This differs from Wardell’s May 1906 account; the withdrawal chronology remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "a88b922440a488f9fcb7d4fe86c834479d5f693e8de373af58da300902603e67",
+      "replacement": "Wardell reports withdrawal in May 1906; the Genealogical Society’s transcription gives April 30 for effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "b5a5882b19684fdeffe67c49819b2d54ae358ee797411bf61e606b7c306d47a5",
+      "replacement": "Wardell cites an August 10, 1700 deed using Iapough, through Bischoff and Kahn p. 23.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "cbf7ab23e7f3c3a4d22f8583232bcf388aa63caca71b20a3b4fc84acc6734828",
+      "replacement": "A reported early occurrence of an older regional locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "07216108d7027f6ebd0657215e6e5186cbb15b1b7e08d5778a0d3a26dffd4840",
+      "replacement": "Wardell cites Panne in a 1739 record, through New Jersey Archives 22, p. 543.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "2770082a764769f08da7e96d93ac386623282e54f1915e18395ac338d227d574",
+      "replacement": "Wardell cites The Panne in a 1748 record, through New Jersey Archives 22, p. 506; later accounts render the locality The Ponds.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "6cd3f3af42c491999f9416c7fba2d622a28064856828363a0241244ec86a0485",
+      "replacement": "Alternative retrospective naming year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "e50d55fd7f0b6fe8f6127555309dc8fdbc69adcda123285881f8d8fdf2097f15",
+      "replacement": "An older municipal account gives 1870 for the community name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "c36be07191a98a36dca5b02233157037a7d2719baf9c151717ee86e909794941",
+      "replacement": "That reported year differs from Van Valen’s 1869 meeting account, without establishing a second naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "f6776b84839fed9db92fd933b27f4ae675af55fd6f8b0f33da93cd1c7de31a0f",
+      "replacement": "Wardell reports a January 15, 1872 office; the Genealogical Society’s transcription lists Jacob A. Terhune’s appointment that day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "3162ad40d7d47312efb38c7a0c270b513b0d52c15255f46820f3cd64a231cd7e",
+      "replacement": "Wardell cites Oakland in the December 26, 1873 Bergen County Democrat.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "831bd182ad47c18dbf4ba99dd5beb5fe59441a8e5bf3829de2df4563dacc8d22",
+      "replacement": "Wardell cites Oakland on the 1876 Walker atlas, pp. 121–122.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "c23d2886cfb6235bc9e386e065a965e7b2fe139e915c25f0859e0752efaa34c4",
+      "replacement": "The legal index lists an April 15, 1902 county-book entry, Oakland book p. 1.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0243",
+      "path": [
+        "views",
+        "0243",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "06655318addd5ee3c903156829410573b84af43fa7e7c1b16162c0dfb38ea6b9",
+      "replacement": "The indexed filing and effect followed the separately dated annexation vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "3c1bdfb631a9537849bd95d4e5bf04e4cc0dd79ec3c5f11ae5d7a20faab0a881",
+      "replacement": "Wardell reports Oradell postal establishment June 11, 1872; the Genealogical Society’s transcription separately dates Daniel I. Demarest’s appointment to June 4.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d7a18ad8835558aa30bc8589c6cb29072ea977e8bbb13d2228070ad06ed50c29",
+      "replacement": "Wardell cites the name in an earlier published county history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "e1d8cf856745b5e5b27a897f79b2311e20d5c11c64895e257d2ad221bd8161cb",
+      "replacement": "A reported published occurrence before borough formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "fba47313efd510bbb83bb2c91db13f43b023cfe695a9b68ec54e1ebbe54bddc7",
+      "replacement": "Eric Model’s later local-history account attributes Delford to Bellis and reports Jacob Van Buskirk Jr.’s rejected Borough of Midland proposal.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8a22f6ef6c0d99ec9f4e28f9b7a969121a257559667fb40b5a1a442efc60b1fa",
+      "replacement": "Postal compilations report Palisades Park Post Office in 1889. December 28 is a transcribed postmaster-appointment date, which does not by itself establish an office-opening day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "b93a62ad2a7f6fa25f6fe1db26982707f687db739cf5f54b105d6dba1553310b",
+      "replacement": "Reported first-mayor chronology",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ad4323aaec1bb30bc4fd8081623b6873be9290d045919b7ea1cae2259f732b46",
+      "replacement": "A later compiled account places John S. Edsall’s first oath around April 1899.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "bd9a5d713f9a6868cbdd8ba4b4fba0ca798ed692aed0f25ab27aa08573630d9b",
+      "replacement": "The reported oath concerns government organization after the immediately effective borough law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "b23770c77ed21632eaa7898aa8a83925c20e3372fc72187aff462d0609f43e75",
+      "replacement": "The reported advertisement dates from after postal use of the name and does not establish the original naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell’s later compilation reports the singular form in a railway-directory citation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "fd09312814afd9a471af3b73211aa4c8517e7cbc0abb7c56e974d1e272112833",
+      "replacement": "Reported early spelling",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "35c5c5c84c0e73583eca1541e2d38bdc421ed482b6699d92b4865ac07b32fa57",
+      "replacement": "A reported early form from a later quotation, rather than an established first-ever use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "cb3b4259c1e2f87b71a46cd04ca8eda3dd7bcb66937b9e12fb26b6db833cd543",
+      "replacement": "Reported Indigenous river-name form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "02bac8969f63ab29f1b28984c0dab1d6d891243ab8336fc9357e628f5ee8017b",
+      "replacement": "The specialist gazetteer is cited for Paramauquing River in a deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "13b3161e6c166925d698d69238d1eb3d88da8e09088ae6e345a685dc0cad85f6",
+      "replacement": "The exact spelling relationship among the early reported forms remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "05bc23aea7c2736f00835a2a9db91011c9fb67b1b38d6132585eea8dc626b538",
+      "replacement": "Reported river-name form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "66905d2d0dd017003928cce85778b7917d46a21262aba50cc713221aa26d3324",
+      "replacement": "The specialist gazetteer is cited for Parampseapuss or Sadle River in a land sale.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "f68e4a6a907a369c6133b02ebe09cc773990d9ba13325bd4b4efe4eb8cda6ab1",
+      "replacement": "This reported wording connects an Indigenous name with the river later called Saddle River.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d57389f9e2122875dbe246b4d31b53c5c74c8c03bae684697157682d704d1cfd",
+      "replacement": "Wardell reports July 18 postal establishment; the Genealogical Society’s transcription lists John A. Blauvelt’s appointment on July 18, 1870.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "9db3b9c72e9549af3cba98fd1284b5551bdd2618338d6d7bed9f7f6c2cd971f3",
+      "replacement": "Wardell cites Park Ridge in the February 28, 1873 Paterson Guardian, through Relics, January 1978, p. 3.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "192f3c091ea64c7a978d7150ba7240b891537324fc86df3034744b1532d2ca96",
+      "replacement": "A reported printed occurrence of the name before borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "f42a750ac8bdc01bb0e7daebb82286a142448a35f798090eb4f6747b072f751a",
+      "replacement": "Wardell cites Park Ridge on the 1876 Walker atlas, pp. 111–112.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "e188f556f5223f01b15844da81fe0b364e9d9e4f2b1c158c3bd7a43ce8da7825",
+      "replacement": "The legal-history index lists a May 14, 1894 incorporation election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        7,
+        "actor"
+      ],
+      "expected_sha256": "148f13d950e5ea4e356a069d0d428067ecfb37340ca8904560d122706cab7cd6",
+      "replacement": "County clerk and Court of Common Pleas",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "11e236e3fe07f4eee3da752a351ca54b67cd10b4b64794b40d9832d615f94169",
+      "replacement": "The legal-history index lists election-result filing and effect on May 15, 1894 under the general borough framework.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "ee31be0474690b7581f9a9ac23700c264973266c117e03abcf44568367a127b6",
+      "replacement": "The legal-history index lists a May 2, 1898 resolution for the title The Borough of Park Ridge.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "440209fe0e97b38dfeb8b6b9f6197f123257d3bb98470f57ea806f86dc80861d",
+      "replacement": "Wardell cites New Success in an 1811 road return.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "9bbb9e78a3fdf102e7066795c82184d20455312784ba14de13865ccdb96ce5d6",
+      "replacement": "An older locality-name occurrence, with its exact geographic extent and later relationships uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "9af9b35a94833c3457c158829c8150785fc8dc86ade1e071008c544a2a3455ee",
+      "replacement": "Wardell cites a diary death entry at Mount Prospect’s tollgate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "f374936b3297701e8a5bfdf881e28f5a11fe9e75c6464f8b7be531dafb8efa28",
+      "replacement": "Wardell cites Ramsey’s on a November 24, 1848 timetable.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "997430f0c74c731d68f42b1e5ec06351b366ff2be475fb781a991bc7cd9f4c9d",
+      "replacement": "Reported station use carried Peter J. Ramsey’s surname into a public place name; it does not date the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "e7369e64ea0d64c54992b431e5672019e7b3c014bc2cef278221d1b2cc97a984",
+      "replacement": "Wardell reports establishment of Ramsey’s Post Office on February 9, 1855.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "a3d5074b40b63767add9683c612dda59b1f6d2cef8967affd88dbc55b0e752b3",
+      "replacement": "Wardell reports the Ramsey’s-to-Ramsey postal change on August 12, 1889.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "6cfeb2872fefabf7580a0489d2ee05cdf5de088e79633d0873ebb426e32e2254",
+      "replacement": "The legal-history index lists a March 31 county incorporation entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "622d99816318eca619d889433279868886cb939a487a9df4840a56e019f6e4eb",
+      "replacement": "Postal compilations report Ridgefield Post Office in 1875. February 24 is a transcribed postmaster-appointment date, which does not by itself establish an office-opening day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        5,
+        "after"
+      ],
+      "expected_sha256": "ca1a29cc938822b889d82a645fb4866fa42e3cd3a87e49325cc7f0a30a25c913",
+      "replacement": "Proposed Borough of Ridgefield",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "6af767b0e80b13a15a12966d2055a615ce7fae2769bb9aef1108901663f123b9",
+      "replacement": "The poll list establishes an election record and date, without certifying the yes-and-no tally or outcome.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "7210e003dada87e9b3489d0a3647e13d25e24668af439d26278cb06e936733d1",
+      "replacement": "Wardell reports an early New Bridge occurrence; its exact relationship to later borough geography remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "f89942929210e26d5b0bdbbd841781e62c0befdd76b9908140fdf6b294b078c5",
+      "replacement": "Reported postal adoption",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "853061e44658779f51bacd3ff68771109e7dfc49e126866e7e82f45b5fa9779f",
+      "replacement": "Postal compilations report adoption of New Milford in 1828.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "484ee49ba222b9b2f5ecb647d15039cc1cae553be52ce6530965d64d5e49641e",
+      "replacement": "A reported early institutional use of the name, with the original office site still uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "2b40af92399ad2d4c273a4342844a5eba6c7cbd821eac8139beffb923b354d66",
+      "replacement": "A reported map occurrence; the older office’s exact site remains uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "ec85232cfc6d258baba4cad30fb0ffd5406c59ff74c93394a3213ae4c08c0815",
+      "replacement": "This conflicts with the 1829 closure account; the discontinuance sequence remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "0fb90ec852a16d68ef69851163fc9c34a36da15a2e3b5696449b9f8a87197eff",
+      "replacement": "The law’s March approval preceded its specified April effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        13,
+        "action"
+      ],
+      "expected_sha256": "e3548de2a5893db157c3d50365fcd77b9cf2c571bd793d702462488cd32d9198",
+      "replacement": "Eric Model’s later local-history article places older New Milford west of the river around 1894 and Peetzburgh in the present borough area.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0238",
+      "path": [
+        "views",
+        "0238",
+        "events",
+        13,
+        "significance"
+      ],
+      "expected_sha256": "579b1342272ae8384054a16f22954a7d9c2069da15bd4522ab060ce1530859eb",
+      "replacement": "That reported 1894 geography does not establish the 1828 post office’s site.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0239",
+      "path": [
+        "views",
+        "0239",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ee8ec9b90a4e8318f649389f3943044d66d2606b2d40c27054c301528bd3668f",
+      "replacement": "The detailed legal index gives March 11, 1896 for county result filing and effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "d385bf0f0e8cee22622197cb1cd07c93b36995956de8a9c8d06a3393e3e84d7d",
+      "replacement": "Compilations place Neuvy establishment in 1882; the Genealogical Society’s transcription gives Dennis O’Connor’s April 25 appointment.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "4867a263054a5adb11da2b82b5ac7a4609306704201f6bd261df6781ec7b7c80",
+      "replacement": "Postal compilations report the change from Neuvy to Northvale.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "75d92e32a664224572ab3abd9c6849f7a4345c0e089986eda06c75b1060bf345",
+      "replacement": "Reported postal adoption preceded the later borough name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "a3129ec7b28100b537a79b648ff00add40beb68d8f5dafa3f6718e0b53e1ec65",
+      "replacement": "Reported station-photograph date",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "e82938e15e89090cb007e697799c40bd6b63d6b541704736c0c6991058bf33cd",
+      "replacement": "A later source description associates a Northvale station photograph with around 1908.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "93911f50c68ca6abe0215703c106c70425075a9faab54d17ee6d895f6b96aeaf",
+      "replacement": "The reported image date would precede borough formation, without dating the name’s first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "49808ebe078a7e6d36cec53b6bf8931bdaea7f29562888014a47c7712b2fd00d",
+      "replacement": "Beuscher’s later railway article places West Norwood station and office in the early 1890s; postal compilations place office establishment in 1901.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        6,
+        "type"
+      ],
+      "expected_sha256": "0c80701e82281d133ca8e5a75ff0e954139431f599ed7c9947194012b8aa3719",
+      "replacement": "County catalogue election listing",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "5c0d514b47edb39aa8105bcc917de7db102cced81a3ad66c4636ca1fd34d2517",
+      "replacement": "The catalogue’s date and title do not establish the election’s purpose or occurrence; the later borough law took immediate effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "cadab4cc255ec113a8cce277acee474b825b5c280686e61d97ea887b92ffce56",
+      "replacement": "The Genealogical Society’s transcription gives April 30 for effective withdrawal of the March 9 discontinuance order.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "257e3fe50c5c678344623d6c959df3d6e1827b5308edb167516725f96a5d365e",
+      "replacement": "This differs from Wardell’s May 1906 account; the withdrawal chronology remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        10,
+        "action"
+      ],
+      "expected_sha256": "a88b922440a488f9fcb7d4fe86c834479d5f693e8de373af58da300902603e67",
+      "replacement": "Wardell reports withdrawal in May 1906; the Genealogical Society’s transcription gives April 30 for effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "b5a5882b19684fdeffe67c49819b2d54ae358ee797411bf61e606b7c306d47a5",
+      "replacement": "Wardell cites an August 10, 1700 deed using Iapough, through Bischoff and Kahn p. 23.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "cbf7ab23e7f3c3a4d22f8583232bcf388aa63caca71b20a3b4fc84acc6734828",
+      "replacement": "A reported early occurrence of an older regional locality name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "07216108d7027f6ebd0657215e6e5186cbb15b1b7e08d5778a0d3a26dffd4840",
+      "replacement": "Wardell cites Panne in a 1739 record, through New Jersey Archives 22, p. 543.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "2770082a764769f08da7e96d93ac386623282e54f1915e18395ac338d227d574",
+      "replacement": "Wardell cites The Panne in a 1748 record, through New Jersey Archives 22, p. 506; later accounts render the locality The Ponds.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        4,
+        "type"
+      ],
+      "expected_sha256": "6cd3f3af42c491999f9416c7fba2d622a28064856828363a0241244ec86a0485",
+      "replacement": "Alternative retrospective naming year",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "e50d55fd7f0b6fe8f6127555309dc8fdbc69adcda123285881f8d8fdf2097f15",
+      "replacement": "An older municipal account gives 1870 for the community name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "c36be07191a98a36dca5b02233157037a7d2719baf9c151717ee86e909794941",
+      "replacement": "That reported year differs from Van Valen’s 1869 meeting account, without establishing a second naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "f6776b84839fed9db92fd933b27f4ae675af55fd6f8b0f33da93cd1c7de31a0f",
+      "replacement": "Wardell reports a January 15, 1872 office; the Genealogical Society’s transcription lists Jacob A. Terhune’s appointment that day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "3162ad40d7d47312efb38c7a0c270b513b0d52c15255f46820f3cd64a231cd7e",
+      "replacement": "Wardell cites Oakland in the December 26, 1873 Bergen County Democrat.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "831bd182ad47c18dbf4ba99dd5beb5fe59441a8e5bf3829de2df4563dacc8d22",
+      "replacement": "Wardell cites Oakland on the 1876 Walker atlas, pp. 121–122.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        9,
+        "action"
+      ],
+      "expected_sha256": "c23d2886cfb6235bc9e386e065a965e7b2fe139e915c25f0859e0752efaa34c4",
+      "replacement": "The legal index lists an April 15, 1902 county-book entry, Oakland book p. 1.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0243",
+      "path": [
+        "views",
+        "0243",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "06655318addd5ee3c903156829410573b84af43fa7e7c1b16162c0dfb38ea6b9",
+      "replacement": "The indexed filing and effect followed the separately dated annexation vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "3c1bdfb631a9537849bd95d4e5bf04e4cc0dd79ec3c5f11ae5d7a20faab0a881",
+      "replacement": "Wardell reports Oradell postal establishment June 11, 1872; the Genealogical Society’s transcription separately dates Daniel I. Demarest’s appointment to June 4.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d7a18ad8835558aa30bc8589c6cb29072ea977e8bbb13d2228070ad06ed50c29",
+      "replacement": "Wardell cites the name in an earlier published county history.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "e1d8cf856745b5e5b27a897f79b2311e20d5c11c64895e257d2ad221bd8161cb",
+      "replacement": "A reported published occurrence before borough formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "fba47313efd510bbb83bb2c91db13f43b023cfe695a9b68ec54e1ebbe54bddc7",
+      "replacement": "Eric Model’s later local-history account attributes Delford to Bellis and reports Jacob Van Buskirk Jr.’s rejected Borough of Midland proposal.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "8a22f6ef6c0d99ec9f4e28f9b7a969121a257559667fb40b5a1a442efc60b1fa",
+      "replacement": "Postal compilations report Palisades Park Post Office in 1889. December 28 is a transcribed postmaster-appointment date, which does not by itself establish an office-opening day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "b93a62ad2a7f6fa25f6fe1db26982707f687db739cf5f54b105d6dba1553310b",
+      "replacement": "Reported first-mayor chronology",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "ad4323aaec1bb30bc4fd8081623b6873be9290d045919b7ea1cae2259f732b46",
+      "replacement": "A later compiled account places John S. Edsall’s first oath around April 1899.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "bd9a5d713f9a6868cbdd8ba4b4fba0ca798ed692aed0f25ab27aa08573630d9b",
+      "replacement": "The reported oath concerns government organization after the immediately effective borough law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "b23770c77ed21632eaa7898aa8a83925c20e3372fc72187aff462d0609f43e75",
+      "replacement": "The reported advertisement dates from after postal use of the name and does not establish the original naming intention.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "3dcde97e2e5d979bc0f16d6881ae94ca4c48d5f5374fbd578557bb603294dcbb",
+      "replacement": "Wardell’s later compilation reports the singular form in a railway-directory citation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        0,
+        "type"
+      ],
+      "expected_sha256": "fd09312814afd9a471af3b73211aa4c8517e7cbc0abb7c56e974d1e272112833",
+      "replacement": "Reported early spelling",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "35c5c5c84c0e73583eca1541e2d38bdc421ed482b6699d92b4865ac07b32fa57",
+      "replacement": "A reported early form from a later quotation, rather than an established first-ever use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        1,
+        "type"
+      ],
+      "expected_sha256": "cb3b4259c1e2f87b71a46cd04ca8eda3dd7bcb66937b9e12fb26b6db833cd543",
+      "replacement": "Reported Indigenous river-name form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "02bac8969f63ab29f1b28984c0dab1d6d891243ab8336fc9357e628f5ee8017b",
+      "replacement": "The specialist gazetteer is cited for Paramauquing River in a deed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "13b3161e6c166925d698d69238d1eb3d88da8e09088ae6e345a685dc0cad85f6",
+      "replacement": "The exact spelling relationship among the early reported forms remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        2,
+        "type"
+      ],
+      "expected_sha256": "05bc23aea7c2736f00835a2a9db91011c9fb67b1b38d6132585eea8dc626b538",
+      "replacement": "Reported river-name form",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "66905d2d0dd017003928cce85778b7917d46a21262aba50cc713221aa26d3324",
+      "replacement": "The specialist gazetteer is cited for Parampseapuss or Sadle River in a land sale.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0246",
+      "path": [
+        "views",
+        "0246",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "f68e4a6a907a369c6133b02ebe09cc773990d9ba13325bd4b4efe4eb8cda6ab1",
+      "replacement": "This reported wording connects an Indigenous name with the river later called Saddle River.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "d57389f9e2122875dbe246b4d31b53c5c74c8c03bae684697157682d704d1cfd",
+      "replacement": "Wardell reports July 18 postal establishment; the Genealogical Society’s transcription lists John A. Blauvelt’s appointment on July 18, 1870.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "9db3b9c72e9549af3cba98fd1284b5551bdd2618338d6d7bed9f7f6c2cd971f3",
+      "replacement": "Wardell cites Park Ridge in the February 28, 1873 Paterson Guardian, through Relics, January 1978, p. 3.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "192f3c091ea64c7a978d7150ba7240b891537324fc86df3034744b1532d2ca96",
+      "replacement": "A reported printed occurrence of the name before borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "f42a750ac8bdc01bb0e7daebb82286a142448a35f798090eb4f6747b072f751a",
+      "replacement": "Wardell cites Park Ridge on the 1876 Walker atlas, pp. 111–112.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "e188f556f5223f01b15844da81fe0b364e9d9e4f2b1c158c3bd7a43ce8da7825",
+      "replacement": "The legal-history index lists a May 14, 1894 incorporation election.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        7,
+        "actor"
+      ],
+      "expected_sha256": "148f13d950e5ea4e356a069d0d428067ecfb37340ca8904560d122706cab7cd6",
+      "replacement": "County clerk and Court of Common Pleas",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "11e236e3fe07f4eee3da752a351ca54b67cd10b4b64794b40d9832d615f94169",
+      "replacement": "The legal-history index lists election-result filing and effect on May 15, 1894 under the general borough framework.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        8,
+        "action"
+      ],
+      "expected_sha256": "ee31be0474690b7581f9a9ac23700c264973266c117e03abcf44568367a127b6",
+      "replacement": "The legal-history index lists a May 2, 1898 resolution for the title The Borough of Park Ridge.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "440209fe0e97b38dfeb8b6b9f6197f123257d3bb98470f57ea806f86dc80861d",
+      "replacement": "Wardell cites New Success in an 1811 road return.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "9bbb9e78a3fdf102e7066795c82184d20455312784ba14de13865ccdb96ce5d6",
+      "replacement": "An older locality-name occurrence, with its exact geographic extent and later relationships uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "9af9b35a94833c3457c158829c8150785fc8dc86ade1e071008c544a2a3455ee",
+      "replacement": "Wardell cites a diary death entry at Mount Prospect’s tollgate.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "f374936b3297701e8a5bfdf881e28f5a11fe9e75c6464f8b7be531dafb8efa28",
+      "replacement": "Wardell cites Ramsey’s on a November 24, 1848 timetable.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "997430f0c74c731d68f42b1e5ec06351b366ff2be475fb781a991bc7cd9f4c9d",
+      "replacement": "Reported station use carried Peter J. Ramsey’s surname into a public place name; it does not date the original naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "e7369e64ea0d64c54992b431e5672019e7b3c014bc2cef278221d1b2cc97a984",
+      "replacement": "Wardell reports establishment of Ramsey’s Post Office on February 9, 1855.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "a3d5074b40b63767add9683c612dda59b1f6d2cef8967affd88dbc55b0e752b3",
+      "replacement": "Wardell reports the Ramsey’s-to-Ramsey postal change on August 12, 1889.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0248",
+      "path": [
+        "views",
+        "0248",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "6cfeb2872fefabf7580a0489d2ee05cdf5de088e79633d0873ebb426e32e2254",
+      "replacement": "The legal-history index lists a March 31 county incorporation entry.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "622d99816318eca619d889433279868886cb939a487a9df4840a56e019f6e4eb",
+      "replacement": "Postal compilations report Ridgefield Post Office in 1875. February 24 is a transcribed postmaster-appointment date, which does not by itself establish an office-opening day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        5,
+        "after"
+      ],
+      "expected_sha256": "ca1a29cc938822b889d82a645fb4866fa42e3cd3a87e49325cc7f0a30a25c913",
+      "replacement": "Proposed Borough of Ridgefield",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "6af767b0e80b13a15a12966d2055a615ce7fae2769bb9aef1108901663f123b9",
+      "replacement": "The poll list establishes an election record and date, without certifying the yes-and-no tally or outcome.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "editorial",
+        "0241",
+        "journey",
+        2,
+        "date"
+      ],
+      "expected_sha256": "476d027081c807f8abcb9cf9ec1c6a3403d660f11eee0a3b7931e839963901ea",
+      "replacement": "March 8 catalogue listing / March 14 law, 1905",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "editorial",
+        "0241",
+        "journey",
+        2,
+        "date"
+      ],
+      "expected_sha256": "476d027081c807f8abcb9cf9ec1c6a3403d660f11eee0a3b7931e839963901ea",
+      "replacement": "March 8 catalogue listing / March 14 law, 1905",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "journey",
+        1,
+        "date"
+      ],
+      "expected_sha256": "351530360da5eb146bedbf08dbe46fbfe0aed6c22a2ed2cfd75fc6f42b457c6f",
+      "replacement": "1894 proposal; March 22 law / April oath reported, 1899",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "editorial",
+        "0245",
+        "journey",
+        1,
+        "date"
+      ],
+      "expected_sha256": "351530360da5eb146bedbf08dbe46fbfe0aed6c22a2ed2cfd75fc6f42b457c6f",
+      "replacement": "1894 proposal; March 22 law / April oath reported, 1899",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0239",
+      "path": [
+        "views",
+        "0239",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "6fb33d46d242e6dffcc793641fdf8ec0f8f7dc3ac32ee6eb430f40aabcb8ef12",
+      "replacement": "The original election return cites the February court order under the proposed borough name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "9124e24810031c516233fcb1d5228e190751a7266a8b779f03e74a4421c6dd30",
+      "replacement": "The reported atlas occurrence places Neuvy station before Northvale postal use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "6ba343744838561c377d7e2a7332e8c228d9ca30e800de78a6f291dc98a058b2",
+      "replacement": "The reported appointment records institutional use of the name before borough formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "12802d6b0e99e43253c5a13609d15d183f3147b0e54010e8682d039bd4705a28",
+      "replacement": "Wardell reports printed use of Oakland before borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0243",
+      "path": [
+        "views",
+        "0243",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "e60e23ba6adcffda878d017bd2cbaa288d51bf2f56e03a6e5bb416b8d3f8e0fa",
+      "replacement": "The later municipal history reports an early form ancestral to Old Tappan.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "6ba343744838561c377d7e2a7332e8c228d9ca30e800de78a6f291dc98a058b2",
+      "replacement": "The reported establishment and appointment concern distinct postal stages under the older Oradell name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "98b35bad16d7781ba82358a2d687bcc549958df3a4b1277f632c1886d5ff3f73",
+      "replacement": "Reported postal use of Palisades Park preceded borough formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "6ba343744838561c377d7e2a7332e8c228d9ca30e800de78a6f291dc98a058b2",
+      "replacement": "The reported appointment and establishment concern institutional use of the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "28859ce238f3276e3f844823e3c46ee55b52c333607dc3f6da67f62cecf987d0",
+      "replacement": "The law adopted the township name before later postal and borough use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0239",
+      "path": [
+        "views",
+        "0239",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "6fb33d46d242e6dffcc793641fdf8ec0f8f7dc3ac32ee6eb430f40aabcb8ef12",
+      "replacement": "The original election return cites the February court order under the proposed borough name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0240",
+      "path": [
+        "views",
+        "0240",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "9124e24810031c516233fcb1d5228e190751a7266a8b779f03e74a4421c6dd30",
+      "replacement": "The reported atlas occurrence places Neuvy station before Northvale postal use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0241",
+      "path": [
+        "views",
+        "0241",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "6ba343744838561c377d7e2a7332e8c228d9ca30e800de78a6f291dc98a058b2",
+      "replacement": "The reported appointment records institutional use of the name before borough formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0242",
+      "path": [
+        "views",
+        "0242",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "12802d6b0e99e43253c5a13609d15d183f3147b0e54010e8682d039bd4705a28",
+      "replacement": "Wardell reports printed use of Oakland before borough incorporation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0243",
+      "path": [
+        "views",
+        "0243",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "e60e23ba6adcffda878d017bd2cbaa288d51bf2f56e03a6e5bb416b8d3f8e0fa",
+      "replacement": "The later municipal history reports an early form ancestral to Old Tappan.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0244",
+      "path": [
+        "views",
+        "0244",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "6ba343744838561c377d7e2a7332e8c228d9ca30e800de78a6f291dc98a058b2",
+      "replacement": "The reported establishment and appointment concern distinct postal stages under the older Oradell name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0245",
+      "path": [
+        "views",
+        "0245",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "98b35bad16d7781ba82358a2d687bcc549958df3a4b1277f632c1886d5ff3f73",
+      "replacement": "Reported postal use of Palisades Park preceded borough formation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0247",
+      "path": [
+        "views",
+        "0247",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "6ba343744838561c377d7e2a7332e8c228d9ca30e800de78a6f291dc98a058b2",
+      "replacement": "The reported appointment and establishment concern institutional use of the older community name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0249",
+      "path": [
+        "views",
+        "0249",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "28859ce238f3276e3f844823e3c46ee55b52c333607dc3f6da67f62cecf987d0",
+      "replacement": "The law adopted the township name before later postal and borough use.",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
