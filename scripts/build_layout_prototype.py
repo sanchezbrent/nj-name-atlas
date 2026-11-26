@@ -149,6 +149,8 @@ def transform(source, css):
     filter_summaries = [n for n in doc.nodes if n["tag"] == "summary" and filters["inner"] < n["start"] < filters["close"]]
     require(len(filter_summaries) == 1, "Origin filter heading changed upstream.")
     filter_summary = filter_summaries[0]
+    clear_origin = doc.one(id="atlas-all-origins")
+    require(source[clear_origin["inner"]:clear_origin["close"]] == "Show all origins", "Origin reset label changed upstream.")
     filter_label_end = source.find('<span id="atlas-origin-filter-hint"', filter_summary["inner"], filter_summary["close"])
     require(filter_label_end >= 0, "Origin filter hint moved upstream.")
     require(explore["inner"] < tour["start"] < tour["end"] < explore["close"], "Advanced tools moved upstream.")
@@ -162,9 +164,10 @@ def transform(source, css):
         (title["inner"], title["close"], "Find your town"),
         (filters["start"], filters["inner"], '<section class="origin-filters" id="atlas-filters" aria-label="Map colors and name origins">'),
         (filters["close"], filters["end"], '</section>'),
-        (filter_summary["start"], filter_summary["inner"], '<h3 class="layout-legend-heading">'),
+        (filter_summary["start"], filter_summary["inner"], '<div class="layout-legend-header"><h3 class="layout-legend-heading">'),
         (filter_summary["inner"], filter_label_end, "Map colors: current-name origins"),
-        (filter_summary["close"], filter_summary["end"], '</h3>'),
+        (filter_summary["close"], filter_summary["end"], '</h3><p class="layout-legend-instruction">Choose a category to filter towns.</p></div>'),
+        (clear_origin["inner"], clear_origin["close"], "Clear origin filter"),
         (search["start"], search["inner"], search_tag.replace('placeholder="Town or former name"', 'placeholder="Search a town or an older name"')),
         (tour["start"], explore["close"], '<details id="layout-more" class="layout-more"><summary>More ways to explore</summary><div class="layout-more-body">\n' + advanced + '\n</div></details>\n    '),
         (map_panel["inner"], map_panel["inner"], '<div class="layout-map-heading"><h2 id="layout-map-heading">Choose a place</h2><p>Select a town to discover its name story.</p></div>'),
@@ -192,6 +195,7 @@ def reader_flow(source):
     tools, title = doc.one(cls="story-tools"), doc.one(id="atlas-title")
     navigation, origin = doc.one(cls="story-navigation"), doc.one(cls="referent-block")
     narrative, glance = doc.one(id="atlas-pilot-story"), doc.one(id="atlas-name-glance")
+    onward = doc.one(id="atlas-onward")
     glance_title, journey = doc.one(id="atlas-name-glance-title"), doc.one(cls="journey")
     journey_title = doc.one(id="atlas-journey-heading")
     require(filters["end"] < map_panel["start"] < story["start"], "Browse surfaces moved upstream.")
@@ -199,13 +203,15 @@ def reader_flow(source):
     require(navigation["end"] < origin["start"] < narrative["start"] < glance["start"] < journey["start"],
             "Story surfaces moved upstream.")
     require(glance["tag"] == "section" and glance_title["tag"] == "h3", "Glance disclosure contract changed.")
+    require(journey["end"] < onward["start"] < onward["end"] < story["close"], "Onward navigation moved upstream.")
     require(source[journey_title["inner"]:journey_title["close"]] == "The name journey", "Chronology heading changed upstream.")
     # Transform the story independently before relocating its complete span.
     story_edits = [
         (tools["start"], tools["end"], ""),
         (title["end"], title["end"], "\n" + doc.raw(tools)),
         (navigation["start"], origin["start"], ""),
-        (narrative["end"], narrative["end"], "\n" + source[navigation["start"]:origin["start"]]),
+        (narrative["end"], narrative["end"], "\n" + doc.raw(onward) + "\n" + source[navigation["start"]:origin["start"]]),
+        (onward["start"], onward["end"], ""),
         (glance["start"], glance["end"], ""),
         (journey["end"], journey["end"], "\n" +
          '<details id="atlas-name-glance" class="name-glance labeled-disclosure" aria-labelledby="atlas-name-glance-title">' +

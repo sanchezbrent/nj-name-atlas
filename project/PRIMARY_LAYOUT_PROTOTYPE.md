@@ -2,7 +2,7 @@
 
 November 23, 2026. **Interactive local prototype; no production change.**
 
-Latest revision: **UI-1.2**, earlier story entry and compact chronology; see the addenda below.
+Latest revision: **UI-1.3**, earlier onward links and clearer legend filtering; see the addenda below.
 The original UI-1 evidence and hashes remain recorded as that checkpoint.
 
 The interface and editorial paths remain separate. Editorial PR #5 owns copy,
@@ -267,3 +267,87 @@ combined integration checkpoint and separately authorized release/live readback.
 Provisional active work after review remains 30–60 minutes for a bounded revision
 and 45–90 minutes for a selected-source integration rehearsal, excluding waits;
 no editorial or publication completion ETA is asserted.
+
+## UI-1.3 — next stories and clearer legend filtering
+
+November 26, 2026. Two bounded presentation changes build on UI-1.2, keeping the
+same checkpoint 23 pin and all previous UI/content recovery points unchanged.
+
+- The single existing “Continue exploring” navigation moves directly after the
+  narrative, before section tools and chronology. Its two original links become
+  cards with arrows, a full-card hit area and a visible keyboard focus outline.
+  Cards sit side by side on desktop and stack on phone. Original town choices,
+  relationship labels, accessible names, URLs and handlers remain unchanged.
+  No story synopsis, inferred relationship or new recommendation data is added.
+- The exposed legend adds “Choose a category to filter towns.” A selected category
+  has a checkmark, accent border and background wash, driven by the original
+  `aria-pressed` state. The original reset button is relabeled “Clear origin
+  filter,” remains beside the legend and still clears only the origin selection.
+  The builder rejects an unexpected upstream reset label before applying this
+  UI wording. The runtime still owns counts, selection and all filtering.
+
+### Preservation and checks
+
+Builder SHA-256:
+`a002b758ec845658664c7ff21cba91822b77d80a1e8aef6af9b92a62002addb7`.
+Overlay SHA-256:
+`5f337604397a0fe00560d3c0aec484ca6d1f8dc5e3172f74605841a43020e16c`.
+
+| Composed source | UI-1.3 generated Primary SHA-256 |
+| --- | --- |
+| Main base, unchanged | `e3cee9b83ed35ddd2efd5c4f84b2cdb4ba8794d1f3a1cd68fee6a0830e94c8bc` |
+| Checkpoint 23, still pinned | `dc6a7c63d3bf2ac8410458882c7d4d444b7de4b32e79043aae6b80497b85e23a` |
+| Checkpoint 24, independent rehearsal | `d91ca935dc70fea5ab455d52f1539f55c3e456da634b490b2b03a161d9d8f4bc` |
+
+All original scripts/data and styles remain byte-identical, all 186 original IDs
+are preserved, and no IDs beyond UI-1's three are introduced. Metadata/CSP and
+the six unaffected output assets remain exact. No new JavaScript, dependency,
+storage code or schema is added. Published assets, committed baselines, the pin,
+the editorial branch and private authority remain unchanged.
+
+All 22 Python tests and the required unchanged publishing-source checks pass.
+Each of the three composed sources passes its own project/script checks,
+16 fake-storage notebook assertions and statewide corpus checks (5,941 for each
+editorial snapshot; 5,921 for main). The report-only audit on the branch's older
+published source remains NEEDS_REVIEW with 21,724 heuristic candidates, unchanged;
+this is not publication clearance or a statement of the editorial path's latest
+review coverage.
+
+Browser QA on checkpoint 23:
+
+- At 320, 390, 768, 900, 1280 and 1600px, browse and reading views have no
+  horizontal page overflow. All seven legend buttons remain visible with at
+  least 44px height; desktop 1280/1600px retains one horizontal legend row.
+- The two story links have at least 44px height at each sampled width. Their
+  container starts 24px after the narrative, ahead of the 22 Cinnaminson chronology
+  records. The complete chronology and optional alternate view remain available.
+- Enter on Palmyra opens its story in reading view. The existing back link returns
+  to Cinnaminson. Clicking the card's arrow area also follows the original link.
+  Tab exposes the whole-card focus outline; no duplicate link is added.
+- All seven filters select/reset with the original statewide counts. Enter can
+  activate a category and the reset. Clearing the origin while Burlington County
+  and a Cinnaminson search are set retains both, and hides the origin reset again.
+- The new card and selected-legend appearances were inspected on phone in light
+  and dark modes. Origin citation/return restores reference focus; the timeline
+  jump focuses the original T1582 summary and Escape returns to browse.
+- Existing browser notes were not inspected, migrated, edited or transmitted.
+  Automated notebook checks use invented text and fake storage only.
+
+Screenshots and validation receipts remain outside Git. The wider prior QA limits
+still apply: no new full-corpus rendered/editorial review, assistive-technology
+certification, native download/print acceptance or checkpoint 24 browser acceptance
+is claimed. Young Explorers is unchanged byte-for-byte; its adapted summary was
+last rendered in UI-1.2 and was not separately rechecked in this bounded revision.
+
+### Stage and next checkpoint
+
+UI-1.3 implementation, local/browser QA and immutable-source rehearsals are
+complete; the interactive prototype is usable. The draft PR records this
+checkpoint and CI status. Editorial/research/export work continues independently,
+with no new editorial reviews or publication sign-offs from this revision.
+Stop for design review. Remaining milestones are layout acceptance, deliberate
+selection of a later completed editorial snapshot, a new combined checkpoint,
+combined acceptance and separately authorized release/live readback. Provisional
+active work remains 30–60 minutes for a bounded design revision or 45–90 minutes
+for the selected-source integration rehearsal, excluding waits; no editorial or
+publication completion ETA is asserted.
