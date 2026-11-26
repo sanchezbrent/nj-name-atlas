@@ -3,9 +3,9 @@
   "release_status": "BLOCKED",
   "editions": {
     "primary": {
-      "expanded_canonical_sha256": "a9c4a4ab3eeccf6150ac696a1b0dfc6548e471a0eb0c2c5829e824c3f9fb41ad",
-      "payload_sha256": "9e7c6a123a29946ddb92b6fb96c4101d3bc12012584998e0400ae068ece0c9bd",
-      "editorial_sha256": "dd111edf3ea2e02c3d6ed735951a783e0644542777e8bc0ff09f2d6254f9d3b7",
+      "expanded_canonical_sha256": "cb20704b668e26b41a5d7e95ea65f07c660cdb4246654d46ac8f562b5f4da102",
+      "payload_sha256": "1c8f74049c828f6536e2baa45fc95306b248c2a9d0177c7949b354213189c739",
+      "editorial_sha256": "76e50be4d5554d2640e145c8c07f8b294a8ba7f7a12ff3b5a5d1cf019a899285",
       "reader_copy_sha256": "e99b16dab7f72ff9c4afafcefa623b1918fc3d944a256cb7c39e1c3e20f99ff4",
       "frozen_reader_copy_sha256": "63c58945a15e7144d4d7ff57996c7daaf4e7aa632ee3c8d0a26d578226c98e48",
       "before_editorial_sha256": "8abb42999949bcfc874bddc85e3a28f9f9ba95782eb9555884d9516f1fb0d53c",
@@ -584,14 +584,14 @@
       "exact_C57_reader_records": 67,
       "contextual_review_complete": false,
       "before_asset_sha256": "56d590582a0d67a08e6a9d0f071a4f88ecd1b68e4f43e55d50fbb1b0e07c2ef2",
-      "after_asset_sha256": "04567b5081a8dde3f231e505ddd1eff3ce5e2e9dacad2c37a391e94bad0df6cb",
+      "after_asset_sha256": "80ea62ec4da210f2a800ae7c7e16aa66ee6889b74a2f1565277815a9426e2277",
       "before_bytes": 11667921,
-      "after_bytes": 7427742
+      "after_bytes": 7427774
     },
     "young-explorers": {
-      "expanded_canonical_sha256": "d11c37c49f73c2c40a0a4c2e44558a97725a1ec8895e2edc09e8d2592bb5249c",
-      "payload_sha256": "59b122ae018020c114f33991198d97f1a815d7ed4b57396dc9b196da1f770819",
-      "editorial_sha256": "d6e2d9a9d476813291c672e665ff8747f977170aa9a8eea988ed62340cfe03dd",
+      "expanded_canonical_sha256": "39943228eb3dfc3b07ccfbc48542af5fd404ff5f832be4e5046553868255998e",
+      "payload_sha256": "47890b672c4c5b11adf0c24c47756ec9220208b2f3d4299b775a59e59c4a8a97",
+      "editorial_sha256": "2453aa72b796f2d02b3aa62f464d6951005a438ddea7f4ee5ffa9f3e78bb04ff",
       "reader_copy_sha256": "244b2a82c46c1dab193fcfd817ad2ce4cd1f1f1327d06ebda3593f6de82f8e5c",
       "frozen_reader_copy_sha256": "7e687ea1bff12044444e102fc7be36fb7249c792e4a2c8aa040ae69a3c1ef568",
       "before_editorial_sha256": "8295e310e91d1385174e645677cc57027656fae1ac2331d26ed2e5eddbf8a6ba",
@@ -1170,11 +1170,11 @@
       "exact_C57_reader_records": 68,
       "contextual_review_complete": false,
       "before_asset_sha256": "5e28671d49921dd6f986d020ef18678848192d2b0a02b361688ada4cdfb7fb60",
-      "after_asset_sha256": "890ea20ca4399c33a6d1de63c628cfe51e98040bee81aaef3ee3380bb7791709",
+      "after_asset_sha256": "e29f5be9620c70850c8cda6bcb7a2a7ba1ecb40a7eb0706b249d44f963669dd1",
       "before_bytes": 11797861,
-      "after_bytes": 7505784
+      "after_bytes": 7505808
     }
   },
-  "corrections_sha256": "c8d6b0f11c30e94da7a43179183f3b0775dfc431f94a4b317f88772e9a94ae88",
+  "corrections_sha256": "b878ef33e2478c87c91a53121316870b7c44774e181c4c462daab962e97473cb",
   "owner_approval": false
 }
