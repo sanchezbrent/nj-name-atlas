@@ -105,6 +105,10 @@ for(const edition of ['primary','young-explorers']){
       lesson.guard.expected_data='stale';
       check(resolver.lessonFor(code)===null,'stale Young binding rejected '+code);
       lesson.guard.expected_data=expected;
+      const intro=lesson.intro;
+      lesson.intro+=' Unbound replacement.';
+      check(resolver.lessonFor(code)===null,'changed Young prose without content binding rejected '+code);
+      lesson.intro=intro;
     }
   }
 }

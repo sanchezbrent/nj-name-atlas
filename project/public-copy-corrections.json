@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_49",
+  "checkpoint": "PUBLIC_COPY_50",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -205657,6 +205657,372 @@
       "expected_sha256": "e3aba18e699e47e24ec25e1a6a5a83de0a368201d3aaaa04786ca02b4c6cdf76",
       "replacement": "Pascack Press / Pascack Historical Society",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1410",
+      "path": [
+        "views",
+        "1410",
+        "sources",
+        "S1494",
+        "author"
+      ],
+      "expected_sha256": "8dcd93c43a023338ea18e7ade125a8e34a1efd16a7c7b716b22251fa6ae78855",
+      "replacement": "Whippanong Library (host; author unknown)",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "primary",
+      "code": "1410",
+      "path": [
+        "views",
+        "1410",
+        "sources",
+        "S1494",
+        "title"
+      ],
+      "expected_sha256": "8333dde171f7d9437291495746f6f884c8ed832ce832cc27136ea71272b9b1d7",
+      "replacement": "Local history hosted by Whippanong Library (title unknown)",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "primary",
+      "code": "1410",
+      "path": [
+        "views",
+        "1410",
+        "sources",
+        "S1494",
+        "publication"
+      ],
+      "expected_sha256": "c7843ccb69c8f2650955d929a1626b0702bf895475e1f59f26a764aedcf5faa0",
+      "replacement": "Publication date unknown",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "primary",
+      "code": "1412",
+      "path": [
+        "views",
+        "1412",
+        "sources",
+        "S1494",
+        "author"
+      ],
+      "expected_sha256": "8dcd93c43a023338ea18e7ade125a8e34a1efd16a7c7b716b22251fa6ae78855",
+      "replacement": "Whippanong Library (host; author unknown)",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "primary",
+      "code": "1412",
+      "path": [
+        "views",
+        "1412",
+        "sources",
+        "S1494",
+        "title"
+      ],
+      "expected_sha256": "8333dde171f7d9437291495746f6f884c8ed832ce832cc27136ea71272b9b1d7",
+      "replacement": "Local history hosted by Whippanong Library (title unknown)",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "primary",
+      "code": "1412",
+      "path": [
+        "views",
+        "1412",
+        "sources",
+        "S1494",
+        "publication"
+      ],
+      "expected_sha256": "c7843ccb69c8f2650955d929a1626b0702bf895475e1f59f26a764aedcf5faa0",
+      "replacement": "Publication date unknown",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "primary",
+      "code": "1408",
+      "path": [
+        "editorial",
+        "1408",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "027df771de00a8bde571f451809fcedb26fd7aaff7424b2dbb11f62f9dd88a39",
+      "replacement": "The 1857 account does not establish whether that year refers to creating the office, appointing a postmaster or opening for service.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1410",
+      "path": [
+        "views",
+        "1410",
+        "sources",
+        "S1494",
+        "author"
+      ],
+      "expected_sha256": "8dcd93c43a023338ea18e7ade125a8e34a1efd16a7c7b716b22251fa6ae78855",
+      "replacement": "Whippanong Library (host; author unknown)",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1410",
+      "path": [
+        "views",
+        "1410",
+        "sources",
+        "S1494",
+        "title"
+      ],
+      "expected_sha256": "8333dde171f7d9437291495746f6f884c8ed832ce832cc27136ea71272b9b1d7",
+      "replacement": "Local history hosted by Whippanong Library (title unknown)",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1410",
+      "path": [
+        "views",
+        "1410",
+        "sources",
+        "S1494",
+        "publication"
+      ],
+      "expected_sha256": "c7843ccb69c8f2650955d929a1626b0702bf895475e1f59f26a764aedcf5faa0",
+      "replacement": "Publication date unknown",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1412",
+      "path": [
+        "views",
+        "1412",
+        "sources",
+        "S1494",
+        "author"
+      ],
+      "expected_sha256": "8dcd93c43a023338ea18e7ade125a8e34a1efd16a7c7b716b22251fa6ae78855",
+      "replacement": "Whippanong Library (host; author unknown)",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1412",
+      "path": [
+        "views",
+        "1412",
+        "sources",
+        "S1494",
+        "title"
+      ],
+      "expected_sha256": "8333dde171f7d9437291495746f6f884c8ed832ce832cc27136ea71272b9b1d7",
+      "replacement": "Local history hosted by Whippanong Library (title unknown)",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1412",
+      "path": [
+        "views",
+        "1412",
+        "sources",
+        "S1494",
+        "publication"
+      ],
+      "expected_sha256": "c7843ccb69c8f2650955d929a1626b0702bf895475e1f59f26a764aedcf5faa0",
+      "replacement": "Publication date unknown",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1408",
+      "path": [
+        "editorial",
+        "1408",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "027df771de00a8bde571f451809fcedb26fd7aaff7424b2dbb11f62f9dd88a39",
+      "replacement": "The 1857 account does not establish whether that year refers to creating the office, appointing a postmaster or opening for service.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds"
+    }
+  ],
+  "auxiliary_changes": [
+    {
+      "edition": "primary",
+      "code": "0327",
+      "path": [
+        "tours",
+        0,
+        "stops",
+        0,
+        "text"
+      ],
+      "expected_sha256": "787257d4cfbbb80bf3c4eadc5f690542eaf56c62b37901284087e5be22dcfe5c",
+      "replacement": "A later account credits Isaiah Toy with the 1849 railroad choice of Palmyra, after the ancient Syrian city. His exact words and reason remain uncertain.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "discovery"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "tours",
+        0,
+        "stops",
+        3,
+        "text"
+      ],
+      "expected_sha256": "8a020c218ce885546c5be338ba8db2cfdea0a0f9a5d314b143c34fcbe059ab85",
+      "replacement": "A later nomination quotes Fanwood Park in 1868, before the present 1874 depot. Competing personal-namesake explanations remain unresolved.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "discovery"
+    },
+    {
+      "edition": "primary",
+      "code": "2012",
+      "path": [
+        "connections",
+        41,
+        "text"
+      ],
+      "expected_sha256": "ba9d70d39d9121bf6b6bc851554827ed296fdb78a330d650ef9414594f247482",
+      "replacement": "A later compilation reports the 1858 village of Plainfield within parts of Plainfield and Warren townships. This relationship did not rename Warren or establish the later city’s boundaries.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "discovery"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0327",
+      "path": [
+        "tours",
+        0,
+        "stops",
+        0,
+        "text"
+      ],
+      "expected_sha256": "b310de33c047ba3119e5920491daad4c1d9cc39ef131fe75ccd1fffa79b8af44",
+      "replacement": "A later story credits Isaiah Toy with choosing the name of an ancient city in Syria for the station in 1849. His exact reason remains uncertain.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "discovery"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "tours",
+        0,
+        "stops",
+        3,
+        "text"
+      ],
+      "expected_sha256": "8a020c218ce885546c5be338ba8db2cfdea0a0f9a5d314b143c34fcbe059ab85",
+      "replacement": "A later nomination quotes Fanwood Park in 1868, before the present 1874 depot. Competing personal-namesake explanations remain unresolved.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "discovery"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2012",
+      "path": [
+        "connections",
+        41,
+        "text"
+      ],
+      "expected_sha256": "da3107c6f63448a6087b34b008ab90fd37ca6793ad5a22db8ef790d86cbd232f",
+      "replacement": "A later compilation places the 1858 village of Plainfield in parts of Plainfield and Warren townships. Warren was not renamed Plainfield, and this does not establish the later city’s boundaries.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "discovery"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0327",
+      "path": [
+        "stories",
+        "0327",
+        "intro"
+      ],
+      "expected_sha256": "9db9dc09f0db6a8bac27faf59860d699d24b44b57cbdec950666eb8d9237b6a6",
+      "replacement": "Palmyra was a station and community name before it became a town government’s name. A later account credits Isaiah Toy with suggesting the ancient Syrian city in 1849. Texas was the earlier station or local name. It was not a former municipality. Why the older place was called Texas remains unknown. Toy’s exact words and reason remain uncertain.\n\nOther records tell different parts of the story. A postal list records Toy’s appointment as postmaster on August 5, 1851. That appointment does not establish when the office opened. The legal index records Palmyra Township on April 19, 1894, and a borough replacing it on February 20, 1923. The government changed form while keeping the established place name.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "youngContent"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0327",
+      "path": [
+        "stories",
+        "0327",
+        "uncertain"
+      ],
+      "expected_sha256": "cf05819f2a6adaf46751e8a908feac9b9bd7c8eea011a01e234b39439eed800e",
+      "replacement": "The reason for Texas and the office’s opening day remain unresolved. An appointment date does not establish when an office opened. Toy’s exact reason for choosing Palmyra also remains uncertain.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "youngContent"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0327",
+      "path": [
+        "stories",
+        "0327",
+        "moments",
+        1,
+        2
+      ],
+      "expected_sha256": "4833086464941e2caa2aac2d1d168856c4102de1cce2653998ae154568eb5c35",
+      "replacement": "A later account credits Isaiah Toy with the station’s name. His exact reason remains uncertain.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "youngContent"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0327",
+      "path": [
+        "stories",
+        "0327",
+        "evidence"
+      ],
+      "expected_sha256": "dd52650196cf90aa76ccb4a1e9e8063de11143af29f811708402b61a21c18f08",
+      "replacement": "The later naming account credits Wikipedia for the 1849 railway story. The legal index describes government changes, while the postal compilation records a postmaster appointment. These sources answer different questions; an appointment does not establish the office’s opening day.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "youngContent"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1417",
+      "path": [
+        "stories",
+        "1417",
+        "intro"
+      ],
+      "expected_sha256": "8ab870ab7a33f63da940cda0b7b085d9dfdf77ed831069d16aa37c9b4fb87799",
+      "replacement": "Madison was once a community called Bottle Hill. The historical society reports that residents proposed Jefferson on April 2, 1834. That name met a postal objection because it was already in use. The society dates the choice of Madison to August 30. Later history connects the name to James Madison, but the original reason remains uncertain.\n\nA suggested name belongs in a different category from an adopted name: Jefferson was a proposal. A reported Madison Academy name in 1809 does not establish when the community first used Madison. Borough government came much later. The index gives a December 24, 1889 election and December 27 filing and effect. Separation from Chatham followed in 1895. A shorter corporate title in 1921 was another government step, not the community’s first use of Madison.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "youngContent"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1417",
+      "path": [
+        "stories",
+        "1417",
+        "uncertain"
+      ],
+      "expected_sha256": "1e93616e47d7186260f1624181ed51cb35359d3f0da10b47b8e5500af6b611b5",
+      "replacement": "The exact original reason for Madison remains uncertain. A reported Madison Academy name in 1809 does not establish the community name’s first use. Bottle Hill’s origin remains disputed.",
+      "treatment": "Reader-copy proposal; retain attribution, evidence limits and source holds",
+      "owner": "youngContent"
     }
   ]
 }

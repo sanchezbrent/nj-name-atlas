@@ -2,17 +2,15 @@
 
 Public site: https://sanchezbrent.github.io/nj-name-atlas/
 
-**Current remediation candidate:** [Copy proposals checkpoint 49](PUBLIC_COPY_CHECKPOINT_49.md).
-The live editions remain unchanged and are not copy-cleared. The draft removes
-original-wording owners and private fallback stores, preserves sealed C57 originals
-and Review27 mappings, and keeps strict scanning blocking. Agent text review is
-564/564 per edition, with 0 per edition remaining. County totals are
-Morris: 39, Sussex: 24, Warren: 22, Hunterdon: 26, Somerset: 21, Middlesex: 25, Monmouth: 53, Ocean: 33, Burlington: 40, Camden: 36, Cape May: 16, Cumberland: 14, Essex: 22, Gloucester: 24, Hudson: 12, Mercer: 12, Passaic: 16, Salem: 15, Union: 21, Atlantic: 23, Bergen: 70.
-All 21 counties now have agent text review; Bergen is 70/70. The final run completed
-9/9 and stopped. No further town queue remains. Next work requires a separately
-scoped candidate-disposition and publication QA checkpoint.
-Human sign-offs and rendered/publication QA remain open. Proposed derivatives
-cover 524 primary and 522 Young C57 reader records; sealed originals remain unchanged.
+**Current remediation candidate:** [Copy proposals checkpoint 50](PUBLIC_COPY_CHECKPOINT_50.md).
+Statewide agent text review remains 564/564 per edition across all 21 counties.
+Checkpoint 50 adds 26 guarded main/discovery/activity copy proposals, preserving
+all 14,655 earlier rows; cumulative total 14,681. The unchanged strict scanner now
+passes with zero candidates in each edition. Human/publication sign-offs remain
+zero and release remains BLOCKED. Targeted agent rendered QA covers eight towns
+per edition on desktop/mobile; broader statewide rendered acceptance remains open.
+All source holds continue. Stop after checkpoint 50. Next bounded checkpoint: broaden rendered QA beyond the eight sampled towns, using fresh browser contexts and no existing notes; preserve all source holds and zero human sign-offs. No merge/deploy.
+Nothing merged or deployed; the live editions remain unchanged and not copy-cleared.
 The implementation/browser statements below describe the earlier publication,
 not fresh acceptance of this remediation candidate.
 

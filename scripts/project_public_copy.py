@@ -160,6 +160,55 @@ def apply_copy_corrections(payload, edition, corrections):
     return count
 
 
+def apply_auxiliary_copy_corrections(bundle, owner, edition, corrections):
+    """Guard reader text in discovery cards and Young activities separately."""
+    seen = set()
+    changed_lessons = set()
+    count = 0
+    for row in corrections.get('auxiliary_changes', []):
+        if row.get('owner') not in {'discovery', 'youngContent'}:
+            raise ValueError('Unknown auxiliary copy owner')
+        if row['edition'] != edition or row['owner'] != owner:
+            continue
+        path, code = row['path'], row['code']
+        if code not in corrections['towns']:
+            raise ValueError('Auxiliary copy outside town scope')
+        key = tuple(path)
+        if key in seen:
+            raise ValueError('Duplicate auxiliary copy correction')
+        seen.add(key)
+        allowed = False
+        if owner == 'discovery':
+            if len(path) == 5 and path[0] == 'tours' and path[2] == 'stops' and path[-1] == 'text':
+                allowed = bundle['tours'][path[1]]['stops'][path[3]]['code'] == code
+            elif len(path) == 3 and path[0] == 'connections' and path[-1] == 'text':
+                item = bundle['connections'][path[1]]
+                allowed = code in (item['a'], item['b'])
+        elif owner == 'youngContent' and len(path) >= 3 and path[:2] == ['stories', code]:
+            allowed = ((len(path) == 3 and path[2] in {'intro', 'evidence', 'uncertain'}) or
+                       (len(path) == 5 and path[2] == 'moments' and type(path[3]) is int and path[4] == 2))
+        if not allowed:
+            raise ValueError('Protected field in auxiliary copy correction')
+        if owner == 'youngContent' and code not in changed_lessons:
+            lesson = bundle['stories'][code]
+            public = {k: v for k, v in lesson.items() if k not in {'guard', 'version'}}
+            if lesson['guard']['expected_lesson'] != stable_bytes(public).decode():
+                raise ValueError('Stale Young activity content binding')
+            changed_lessons.add(code)
+        parent = bundle
+        for part in path[:-1]:
+            parent = parent[part]
+        before, after = parent[path[-1]], row['replacement']
+        if not isinstance(before, str) or not isinstance(after, str) or digest(before) != row['expected_sha256']:
+            raise ValueError('Stale auxiliary copy correction')
+        parent[path[-1]] = after
+        count += 1
+    for code in changed_lessons:
+        lesson = bundle['stories'][code]
+        lesson['guard']['expected_lesson'] = stable_bytes({k: v for k, v in lesson.items() if k not in {'guard', 'version'}}).decode()
+    return count
+
+
 def project_html(html, edition=None, corrections=None):
     page = Page()
     page.feed(html)
@@ -203,6 +252,7 @@ def project_html(html, edition=None, corrections=None):
         raise ValueError('Missing retired reader/note replacement dictionaries')
 
     discovery, _, _ = literal(html, 'discovery')
+    auxiliary_count = 0
     for item in discovery['connections'] + [stop for tour in discovery['tours'] for stop in tour['stops']]:
         for binding in item.get('basis', []):
             binding['value_guard'] = digest(binding.pop('value'))
@@ -212,6 +262,8 @@ def project_html(html, edition=None, corrections=None):
             public_event=next((e for e in projected['views'][code]['events'] if e['id']==item['event']),None)
             if source_event and public_event and item['eventAction']==source_event['action']:
                 item['eventAction']=public_event['action']
+    if corrections:
+        auxiliary_count += apply_auxiliary_copy_corrections(discovery, 'discovery', edition, corrections)
     html = replace_literal(html, 'discovery', discovery)
     before = "profiles[b.code]?.[b.field]===b.value"
     after = "typeof b.value_guard==='string'&&pilotPayload.source_field_guards?.[b.code]?.[b.field]===b.value_guard"
@@ -232,6 +284,8 @@ def project_html(html, edition=None, corrections=None):
             if lesson['guard']['expected_data'] != original['view_guards'][code]:
                 raise ValueError('Source Young lesson guard mismatch')
             lesson['guard']['expected_data'] = projected['view_guards'][code]
+        if corrections:
+            auxiliary_count += apply_auxiliary_copy_corrections(young, 'youngContent', edition, corrections)
         html = replace_literal(html, 'youngContent', young)
 
     return html, {
@@ -248,6 +302,7 @@ def project_html(html, edition=None, corrections=None):
         'sources': sum(len(view['sources']) for view in projected['views'].values()),
         'source_input_writes': 0,
         'copy_correction_fields': correction_count,
+        'auxiliary_copy_correction_fields': auxiliary_count,
         'exact_C57_reader_records':sum(reader_copy({c:original['editorial'][c]})==reader_copy({c:projected['editorial'][c]}) for c in original['editorial']),
         'contextual_review_complete': False,
     }
