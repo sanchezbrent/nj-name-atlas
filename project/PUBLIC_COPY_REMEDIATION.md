@@ -4,7 +4,25 @@
 
 Implementation tracking: [Issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4).
 
-## Current checkpoint 40 — November 25, 2026
+## Current checkpoint 41 — November 25, 2026
+
+[Checkpoint 41](PUBLIC_COPY_CHECKPOINT_41.md) completes twelve towns in Union County
+in both editions, adding 415 proposals for 12,699 cumulative. All
+12,284 earlier rows and prior 459 reviewed reader/view records remain exact.
+Agent text review is **471/564 per edition**, with 93 remaining and zero human
+sign-offs. Strict candidates: 412 primary and 387 Young, including duplicates
+and possible false positives. **Release BLOCKED.**
+
+Project/source/schema checks, 23 Python tests, six script syntax checks, 16
+notebook assertions and 5,941 runtime assertions pass locally. C21/C57 authority,
+dates, citations, all 179 Review27 mappings and discovery eligibility/holds are
+preserved. Source holds, human acceptance and rendered cross-edition QA remain
+open. Exact before text and continuation records stay private. Live Pages is unchanged.
+
+The owner has authorized 24-town runs, with saved twelve-town checkpoints and
+no renewed town-selection approval. Continue the first twelve authorized Atlantic towns as checkpoint 42, save both PRs and issue #4, then stop after all 24.
+
+## Historical checkpoint 40 — November 25, 2026
 
 [Checkpoint 40](PUBLIC_COPY_CHECKPOINT_40.md) completes twelve towns in Salem and Union counties
 in both editions, adding 353 proposals for 12,284 cumulative. All
