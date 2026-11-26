@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_42",
+  "checkpoint": "PUBLIC_COPY_43",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -486,7 +486,19 @@
     "0109",
     "0110",
     "0111",
-    "0112"
+    "0112",
+    "0113",
+    "0114",
+    "0115",
+    "0116",
+    "0117",
+    "0118",
+    "0119",
+    "0120",
+    "0121",
+    "0122",
+    "0123",
+    "0201"
   ],
   "changes": [
     {
@@ -182015,6 +182027,3126 @@
       ],
       "expected_sha256": "6ae929343172b96fcf2d8837fc64f197cf5b69141785a95e323a09a9914d586a",
       "replacement": "Calculated statutory meeting schedule; actual occurrence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "events",
+        5,
+        "actor"
+      ],
+      "expected_sha256": "43a2c646e30b8b1ed475584a8b5e5bd28b85807163eb7f231c0f772342148462",
+      "replacement": "Local electorate, court and county clerk, as reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "b42f6c2408487736281d96bb9e2d8d3f1c4b2b69b36941a85007b983b67732af",
+      "replacement": "Local electorate and legal authorities, as reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "d6972c0b841590a05ead19c3ca968c4e80ac5f6ad32a18d3fa44d09a700c85a4",
+      "replacement": "Borough creation preceded the 1897 city replacement and the 1909 rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "sources",
+        "S1667",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "b37a4f22f499fd0bae814cbdab091912c916fbd9f32eb01fee54a9cd4e453ea8",
+      "replacement": "Statutory committee-meeting schedule; actual occurrence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "502988560a1c9b3c41c3c1c956a9d324c8a1f1ea16df98aead391a71df8d97bd",
+      "replacement": "Statutory annual-meeting schedule; actual occurrence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "54b3249c5a1e2204e88c39b1449ae2dd578e305791a1f5159efe2df9ff21f6c5",
+      "replacement": "Exact charter approval; operational effect conditional",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "sources",
+        "S2269",
+        "title"
+      ],
+      "expected_sha256": "8bbca9e43ba720dcfcaed0aa9d8473b95c9736e24cd5472966f4a226f2baf16b",
+      "replacement": "Laws of New Jersey 1858, chapter 152, pp.385–400 — Egg Harbor City",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "c62d4bd51d6367df52369ab9ef7a667f0932958c57918e60c9fa9042d423f01c",
+      "replacement": "The reported December 15 and December 18 dates conflict; their relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "sources",
+        "S1691",
+        "publication"
+      ],
+      "expected_sha256": "747a155dd4d49bdc334c0ff4b1c81b75f7218efe077e197510d63bb8c05f3a6b",
+      "replacement": "Act approved March 2, 1799; Statutes at Large volume 1 compilation date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "sources",
+        "S1692",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "c887f008491188add3ca43f6479322860ee581da49324c45b129ad1e82adef26",
+      "replacement": "1798-02-12 — division act passed, as printed in 1800 revision",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "a651d3b1497f24e30ba83bcd3858a9651c2b08c963a7c9d71864371d6852c191",
+      "replacement": "Paterson’s 1800 revision, pp.264–265, prints the division act’s title, date and boundary clause naming Weymouth.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        1,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "c887f008491188add3ca43f6479322860ee581da49324c45b129ad1e82adef26",
+      "replacement": "1798-02-12 — division act passed, as printed in 1800 revision",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "c96b99a1bcb8df4c17bedee979bf637ee20cd2aaf5ad7ddf8cd37d936693b4e8",
+      "replacement": "Exact statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "85b2a1d44a98717156db985c14fe71ff625944eae2622b61dee4b10d534be35f",
+      "replacement": "The law’s immediate effect was separate from the later reported June 1 organization day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "events",
+        5,
+        "actor"
+      ],
+      "expected_sha256": "43a2c646e30b8b1ed475584a8b5e5bd28b85807163eb7f231c0f772342148462",
+      "replacement": "Local electorate, court and county clerk, as reported by the index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "b42f6c2408487736281d96bb9e2d8d3f1c4b2b69b36941a85007b983b67732af",
+      "replacement": "Local electorate and legal authorities, as reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "d6972c0b841590a05ead19c3ca968c4e80ac5f6ad32a18d3fa44d09a700c85a4",
+      "replacement": "Borough creation preceded the 1897 city replacement and the 1909 rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "sources",
+        "S1667",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "b37a4f22f499fd0bae814cbdab091912c916fbd9f32eb01fee54a9cd4e453ea8",
+      "replacement": "Statutory committee-meeting schedule; actual occurrence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "502988560a1c9b3c41c3c1c956a9d324c8a1f1ea16df98aead391a71df8d97bd",
+      "replacement": "Statutory annual-meeting schedule; actual occurrence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "54b3249c5a1e2204e88c39b1449ae2dd578e305791a1f5159efe2df9ff21f6c5",
+      "replacement": "Exact charter approval; operational effect conditional",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "sources",
+        "S2269",
+        "title"
+      ],
+      "expected_sha256": "8bbca9e43ba720dcfcaed0aa9d8473b95c9736e24cd5472966f4a226f2baf16b",
+      "replacement": "Laws of New Jersey 1858, chapter 152, pp.385–400 — Egg Harbor City",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "c62d4bd51d6367df52369ab9ef7a667f0932958c57918e60c9fa9042d423f01c",
+      "replacement": "The reported December 15 and December 18 dates conflict; their relationship remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "sources",
+        "S1691",
+        "publication"
+      ],
+      "expected_sha256": "747a155dd4d49bdc334c0ff4b1c81b75f7218efe077e197510d63bb8c05f3a6b",
+      "replacement": "Act approved March 2, 1799; Statutes at Large volume 1 compilation date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "sources",
+        "S1692",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "c887f008491188add3ca43f6479322860ee581da49324c45b129ad1e82adef26",
+      "replacement": "1798-02-12 — division act passed, as printed in 1800 revision",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "a651d3b1497f24e30ba83bcd3858a9651c2b08c963a7c9d71864371d6852c191",
+      "replacement": "Paterson’s 1800 revision, pp.264–265, prints the division act’s title, date and boundary clause naming Weymouth.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        1,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "c887f008491188add3ca43f6479322860ee581da49324c45b129ad1e82adef26",
+      "replacement": "1798-02-12 — division act passed, as printed in 1800 revision",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "c96b99a1bcb8df4c17bedee979bf637ee20cd2aaf5ad7ddf8cd37d936693b4e8",
+      "replacement": "Exact statutory approval and immediate effect",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "85b2a1d44a98717156db985c14fe71ff625944eae2622b61dee4b10d534be35f",
+      "replacement": "The law’s immediate effect was separate from the later reported June 1 organization day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0113",
+      "path": [
+        "editorial",
+        "0113",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "18aa2ff040ae34e306d44a60b9c8d3bbedf15bd139ff0c25082ede9c4d083574",
+      "replacement": "D’Avino’s later postal history reports a Hammonton office established under that name; this does not establish first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0113",
+      "path": [
+        "editorial",
+        "0113",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "18aa2ff040ae34e306d44a60b9c8d3bbedf15bd139ff0c25082ede9c4d083574",
+      "replacement": "D’Avino’s later postal history reports a Hammonton office established under that name; this does not establish first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "editorial",
+        "0114",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e461c11d8e4c56727720d5b1cdc9d57503242ad1618a562378d8ceb89c385994",
+      "replacement": "The later index reports the vote first and implies a results filing the next day. Voting and filing are distinct reported stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "editorial",
+        "0114",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "e461c11d8e4c56727720d5b1cdc9d57503242ad1618a562378d8ceb89c385994",
+      "replacement": "The later index reports the vote first and implies a results filing the next day. Voting and filing are distinct reported stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "678e33c2b3cf8d6e3e06168c4a998c660053e4e11b7a2c9b19704212cbe63547",
+      "replacement": "Margate’s seaside name points across the Atlantic. A later municipal master plan identifies Margate, England, as the source of the New Jersey name. The connection fits the resort setting, but the person who first suggested the transfer and the original local campaign details remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "942ce78cf7fb37fe3d3eb5113d7c164195bf111d8a8199219b05b246f4403077",
+      "replacement": "Two seaside places share the name Margate. A later history in the city’s master plan says New Jersey’s name came from Margate in England. We do not know who first suggested borrowing it.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "0bc78fb65df92ec59799b4bc12cd23d470485604b77a06e92ef47a07a7cc2440",
+      "replacement": "The later boundary compilation reports an August 1 vote before September 7 borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "0bc78fb65df92ec59799b4bc12cd23d470485604b77a06e92ef47a07a7cc2440",
+      "replacement": "The later boundary compilation reports an August 1 vote before September 7 borough creation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "516128a94994ea8fc207b80d32eb2d6328b3ac2089924381f25c2376571fc67f",
+      "replacement": "The later boundary history reports September 7 borough creation as an earlier stage, before city incorporation and the Margate rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "516128a94994ea8fc207b80d32eb2d6328b3ac2089924381f25c2376571fc67f",
+      "replacement": "The later boundary history reports September 7 borough creation as an earlier stage, before city incorporation and the Margate rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "ff0e93801dabcf7a1be80992d66858b16e59cf84a8628ddbce8eb4aebbcdc4ba",
+      "replacement": "The later compilation reports an April 25 vote before May 13 reincorporation under the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "ff0e93801dabcf7a1be80992d66858b16e59cf84a8628ddbce8eb4aebbcdc4ba",
+      "replacement": "The later compilation reports an April 25 vote before May 13 reincorporation under the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "journey",
+        5,
+        "date"
+      ],
+      "expected_sha256": "122504de2ba6e167cc947d57ab8c2dd8151b1d94cc1ea44c39c8046b4e5ab247",
+      "replacement": "By 1909 rename; exact proposal date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "journey",
+        5,
+        "date"
+      ],
+      "expected_sha256": "122504de2ba6e167cc947d57ab8c2dd8151b1d94cc1ea44c39c8046b4e5ab247",
+      "replacement": "By 1909 rename; exact proposal date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "b9f7fe6a11b2f5f10a53b964a595dc175a505aa81820b25c341260bb2c435657",
+      "replacement": "The municipal master plan identifies coastal Margate, England. The original local proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "editorial",
+        "0116",
+        "sidebar",
+        "fields",
+        "agents",
+        "text"
+      ],
+      "expected_sha256": "0c216a6de234c9b4ba386e6d6fa4382f42569409e5c205a9ba8e6e5c625f0b6c",
+      "replacement": "The Legislature made the legal change. The original local proposer, petitioners and campaign motives remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "editorial",
+        "0118",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a2de07202061a91a13b9992983297fee6e362f262728b6f6d3527c255c22a517",
+      "replacement": "Northfield has an established name but no confirmed explanation for its choice. It is tempting to read a landscape description into north and field, yet that original intention remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "editorial",
+        "0118",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "bc5c645540cc4a03752702fefe9f38818d1c7367d1f2c98bfd1196d84c5f5ae7",
+      "replacement": "The law creates the city and takes effect that day. Both accounts concern the same law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "editorial",
+        "0118",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "bc5c645540cc4a03752702fefe9f38818d1c7367d1f2c98bfd1196d84c5f5ae7",
+      "replacement": "The law creates the city and takes effect that day. Both accounts concern the same law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "editorial",
+        "0118",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "a9625830e4077990ef57d6d65c9899043a2e81bbee4f2c9e186418a3c802e3a2",
+      "replacement": "Englund’s later postal history reports the office changing from Bakersville to Northfield, after the city had adopted the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "editorial",
+        "0118",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "a9625830e4077990ef57d6d65c9899043a2e81bbee4f2c9e186418a3c802e3a2",
+      "replacement": "Englund’s later postal history reports the office changing from Bakersville to Northfield, after the city had adopted the name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0119",
+      "path": [
+        "editorial",
+        "0119",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "8be888c88471a14e49d1c990c037211c41e8401b28928b741495f7457bc41042",
+      "replacement": "The history calls Ingersoll Squire; a 1945 place-name list calls him Dr. Daniel Ingersoll. His exact identity, occupation and role remain uncertain. Both accounts say Daniel.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0122",
+      "path": [
+        "editorial",
+        "0122",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "abc15e8edb18833dd52cc58fd107ce28ad66dff9d0703a3852fc8a4329cc3677",
+      "replacement": "The city was created from Egg Harbor Township territory under a law that took effect on March 17, 1903. Municipal history reports a first meeting on April 20. That separately reported meeting date does not determine when the law began.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0122",
+      "path": [
+        "editorial",
+        "0122",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "57e462422680787acda12bca74eb5c5c3c0032879da144c3748a51ac7ebf5554",
+      "replacement": "The city law began on March 17, 1903, creating a government from Egg Harbor Township territory. A later account reports a first town meeting on April 20. The development’s name came years before the city government.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0122",
+      "path": [
+        "editorial",
+        "0122",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "8a5edeebdc8fbdd275da42cfb71cd962cf7addbbb8f291ecd545ea8ab8bd1949",
+      "replacement": "The law creates the city from Egg Harbor Township territory. Municipal history separately reports an April 20 first meeting; that is distinct from the law’s effective day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0122",
+      "path": [
+        "editorial",
+        "0122",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "8a5edeebdc8fbdd275da42cfb71cd962cf7addbbb8f291ecd545ea8ab8bd1949",
+      "replacement": "The law creates the city from Egg Harbor Township territory. Municipal history separately reports an April 20 first meeting; that is distinct from the law’s effective day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0122",
+      "path": [
+        "editorial",
+        "0122",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "225d2ba69e7e8ac5ab76905a29297c8fda7d661b8356bc931c3e2d8b4a547a42",
+      "replacement": "The law took effect March 17, 1903. Municipal history separately reports a first meeting on April 20; that reported meeting does not determine the law’s start.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0122",
+      "path": [
+        "editorial",
+        "0122",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "225d2ba69e7e8ac5ab76905a29297c8fda7d661b8356bc931c3e2d8b4a547a42",
+      "replacement": "The law took effect March 17, 1903. Municipal history separately reports a first meeting on April 20; that reported meeting does not determine the law’s start.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "editorial",
+        "0123",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "969fdec583439094fd37704f8b84d9ed1b0fd0f98a0d59f58ee0c5ea8c0f34ca",
+      "replacement": "Paterson’s authorized revision printed in 1800 describes the division creating Weymouth under an older regional name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "editorial",
+        "0123",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "969fdec583439094fd37704f8b84d9ed1b0fd0f98a0d59f58ee0c5ea8c0f34ca",
+      "replacement": "Paterson’s authorized revision printed in 1800 describes the division creating Weymouth under an older regional name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "editorial",
+        "0123",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b1b34ed5cc6e164e93a98528a035c8b48f92499ce39401a3c70156b795aee2e0",
+      "replacement": "The February 12 division and February 21 statewide township law describe different legal steps. Paterson’s authorized 1800 revision prints the division’s title, date and boundary clause, and the later law’s township list.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "editorial",
+        "0123",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "b1b34ed5cc6e164e93a98528a035c8b48f92499ce39401a3c70156b795aee2e0",
+      "replacement": "The February 12 division and February 21 statewide township law describe different legal steps. Paterson’s authorized 1800 revision prints the division’s title, date and boundary clause, and the later law’s township list.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "c43902b31ba32422766dcc0b047f0edd0ebb1896cb8b839586eb0b2e7d616ebe",
+      "replacement": "The older locality was called The Turnpike. Railway planning, surveying and construction during 1841–1848 brought a different identity into use. A place-name compilation cites Allendale in a timetable dated November 24, 1848. The project’s seven-year span should not be read as a proved seven-year personal surveying assignment for Allen.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "5a5492811e53d874c4abdb1efe14d9c64540af224d30fbb8dd5caff650c04949",
+      "replacement": "People had earlier called the locality The Turnpike. A railroad project brought planning, surveying and construction between 1841 and 1848. A later book points to an Allendale timetable dated November 24, 1848. The project dates do not prove that Allen himself surveyed for all seven years.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "ee7b0ed90987477e10893a77af10b9773d7aaf1710930392ce172af0d1737a74",
+      "replacement": "The community name was established long before borough government. An event index records an incorporation election on November 8, 1894 and county filing and legal effect on November 10. Municipal history reports a 100–11 vote. The borough drew territory from Franklin, Hohokus and Orvil townships.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "cc57851923503044c538d2eb254330cdbfef1fd42d841f191d4beca023885a7f",
+      "replacement": "Wardell’s compilation cites Allendale in a timetable dated November 24, 1848. This reported early use does not establish the first naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "cc57851923503044c538d2eb254330cdbfef1fd42d841f191d4beca023885a7f",
+      "replacement": "Wardell’s compilation cites Allendale in a timetable dated November 24, 1848. This reported early use does not establish the first naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f08f3cbb01800b641b3f219bc5d932318408dd4b11815361d53558623d24fc26",
+      "replacement": "The event index dates the vote November 8. Municipal history reports a result of 100–11, separately from the later filing and legal effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "f08f3cbb01800b641b3f219bc5d932318408dd4b11815361d53558623d24fc26",
+      "replacement": "The event index dates the vote November 8. Municipal history reports a result of 100–11, separately from the later filing and legal effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "3f8d0316e4df5deb6e85e3ebfd8ec8f1abab49f3cc6c1d7a0254f23310ad015f",
+      "replacement": "Wardell’s compilation cites Allendale in a November 24, 1848 railway timetable. The first name chooser and exact original naming day remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "adc43700d5c49f7c3ebc99ead3eb9c43f085f45fc32ad0035e0cdab306c1d43d",
+      "replacement": "A later book cites an Allendale timetable from November 24, 1848. That reported use does not tell us exactly who first chose the name or when.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "editorial",
+        "0201",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "09bfb1ccfec1c1e4eacb4a9eafd09c2643ab334f2d2c6146c2c81bb9ed29bd46",
+      "replacement": "The index dates the vote November 8, 1894 and filing/effect November 10. Municipal history reports 100–11.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0113",
+      "path": [
+        "views",
+        "0113",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "0d8ab163caec1e4510a1a0c67fc011c24d4a85de9e8522f1e0c7a79001470347",
+      "replacement": "The later postal history reports the name before municipal incorporation, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0113",
+      "path": [
+        "views",
+        "0113",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "0d8ab163caec1e4510a1a0c67fc011c24d4a85de9e8522f1e0c7a79001470347",
+      "replacement": "The later postal history reports the name before municipal incorporation, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0113",
+      "path": [
+        "views",
+        "0113",
+        "sources",
+        "S1653",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0113",
+      "path": [
+        "views",
+        "0113",
+        "sources",
+        "S1653",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0113",
+      "path": [
+        "views",
+        "0113",
+        "sources",
+        "S1656",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0113",
+      "path": [
+        "views",
+        "0113",
+        "sources",
+        "S1656",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "28a9403028d64ce5fe9d087d8a672ff93d80cb86f165157b526593967d1d8151",
+      "replacement": "Geneva’s reported local use preceded Linwood; that account does not establish an authorized Geneva post office.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "28a9403028d64ce5fe9d087d8a672ff93d80cb86f165157b526593967d1d8151",
+      "replacement": "Geneva’s reported local use preceded Linwood; that account does not establish an authorized Geneva post office.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3ba928dd4ded070b6df5ff28aca2149d85af8c3702a6de30c592e60caa7bacf9",
+      "replacement": "The municipal webpage quotes a church report describing the 1880 railway setting and Leedsville’s change to Linwood.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3ba928dd4ded070b6df5ff28aca2149d85af8c3702a6de30c592e60caa7bacf9",
+      "replacement": "The municipal webpage quotes a church report describing the 1880 railway setting and Leedsville’s change to Linwood.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2e647ae41032a15ab732b0fe19037d460d0c82e6e0192f57e02384ed123cd5b8",
+      "replacement": "The quoted near-contemporary report describes an earlier change, without dating the exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "2e647ae41032a15ab732b0fe19037d460d0c82e6e0192f57e02384ed123cd5b8",
+      "replacement": "The quoted near-contemporary report describes an earlier change, without dating the exact naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "sources",
+        "S1657",
+        "author"
+      ],
+      "expected_sha256": "fefc9022af6ca802da0bfef5c4ec45ca71fe50a785f1b8af799e3741ecc4c024",
+      "replacement": "City of Linwood; individual authors unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "sources",
+        "S1657",
+        "author"
+      ],
+      "expected_sha256": "fefc9022af6ca802da0bfef5c4ec45ca71fe50a785f1b8af799e3741ecc4c024",
+      "replacement": "City of Linwood; individual authors unidentified",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "sources",
+        "S1657",
+        "title"
+      ],
+      "expected_sha256": "1bf6ad77ed922fe9b4466fee33daa8926402b9a8d27eecef69be32cef3f0a926",
+      "replacement": "School Preservation Plan (cited title)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "sources",
+        "S1657",
+        "title"
+      ],
+      "expected_sha256": "1bf6ad77ed922fe9b4466fee33daa8926402b9a8d27eecef69be32cef3f0a926",
+      "replacement": "School Preservation Plan (cited title)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "sources",
+        "S1657",
+        "publication"
+      ],
+      "expected_sha256": "b84be86034ab6521c42606b1b3c93389d0dc310fea3a45434fb3bedca27f4d7e",
+      "replacement": "Date and edition unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "sources",
+        "S1657",
+        "publication"
+      ],
+      "expected_sha256": "b84be86034ab6521c42606b1b3c93389d0dc310fea3a45434fb3bedca27f4d7e",
+      "replacement": "Date and edition unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "sources",
+        "S1659",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0114",
+      "path": [
+        "views",
+        "0114",
+        "sources",
+        "S1659",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "428fc3ba4d5b6900fa7b760b778c14f4da729b03f2931572b354616c474ad8ea",
+      "replacement": "Heston attributes the name to the earlier landowner, without establishing the exact original naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "428fc3ba4d5b6900fa7b760b778c14f4da729b03f2931572b354616c474ad8ea",
+      "replacement": "Heston attributes the name to the earlier landowner, without establishing the exact original naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "2160174aa67aa4a5d2d5c9826b0a3aef88bd8ed23303557c497fa9a8e625359d",
+      "replacement": "1887 — printed Longport entry",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "events",
+        1,
+        "date"
+      ],
+      "expected_sha256": "2160174aa67aa4a5d2d5c9826b0a3aef88bd8ed23303557c497fa9a8e625359d",
+      "replacement": "1887 — printed Longport entry",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "events",
+        1,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "2160174aa67aa4a5d2d5c9826b0a3aef88bd8ed23303557c497fa9a8e625359d",
+      "replacement": "1887 — printed Longport entry",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "events",
+        1,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "2160174aa67aa4a5d2d5c9826b0a3aef88bd8ed23303557c497fa9a8e625359d",
+      "replacement": "1887 — printed Longport entry",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "f8d3fcf5e193266b2312a223a67dba6d1596b6908aea665d446115c6e71154aa",
+      "replacement": "The handbook uses Longport while reporting an earlier naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "f8d3fcf5e193266b2312a223a67dba6d1596b6908aea665d446115c6e71154aa",
+      "replacement": "The handbook uses Longport while reporting an earlier naming event.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "sources",
+        "S1664",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0115",
+      "path": [
+        "views",
+        "0115",
+        "sources",
+        "S1664",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "74379ba2ba89f2e854b6a59d4764d2b95870f60d7b85e90abb9f966b9e017bdb",
+      "replacement": "Vote day reported by the boundary compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "74379ba2ba89f2e854b6a59d4764d2b95870f60d7b85e90abb9f966b9e017bdb",
+      "replacement": "Vote day reported by the boundary compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "f6cd335007bfe279e4cc9295e015a64e8b5e52709cc28678578273917350c73c",
+      "replacement": "The reported vote preceded borough creation under the South Atlantic City name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "f6cd335007bfe279e4cc9295e015a64e8b5e52709cc28678578273917350c73c",
+      "replacement": "The reported vote preceded borough creation under the South Atlantic City name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "74379ba2ba89f2e854b6a59d4764d2b95870f60d7b85e90abb9f966b9e017bdb",
+      "replacement": "Vote day reported by the boundary compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "74379ba2ba89f2e854b6a59d4764d2b95870f60d7b85e90abb9f966b9e017bdb",
+      "replacement": "Vote day reported by the boundary compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "f6cd335007bfe279e4cc9295e015a64e8b5e52709cc28678578273917350c73c",
+      "replacement": "The reported vote concerned reincorporation under the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "f6cd335007bfe279e4cc9295e015a64e8b5e52709cc28678578273917350c73c",
+      "replacement": "The reported vote concerned reincorporation under the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "74379ba2ba89f2e854b6a59d4764d2b95870f60d7b85e90abb9f966b9e017bdb",
+      "replacement": "Reincorporation day reported by the boundary compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "74379ba2ba89f2e854b6a59d4764d2b95870f60d7b85e90abb9f966b9e017bdb",
+      "replacement": "Reincorporation day reported by the boundary compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "f6cd335007bfe279e4cc9295e015a64e8b5e52709cc28678578273917350c73c",
+      "replacement": "Borough reincorporation preceded later city status and the Margate name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "f6cd335007bfe279e4cc9295e015a64e8b5e52709cc28678578273917350c73c",
+      "replacement": "Borough reincorporation preceded later city status and the Margate name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "74379ba2ba89f2e854b6a59d4764d2b95870f60d7b85e90abb9f966b9e017bdb",
+      "replacement": "City incorporation day reported by the boundary compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "74379ba2ba89f2e854b6a59d4764d2b95870f60d7b85e90abb9f966b9e017bdb",
+      "replacement": "City incorporation day reported by the boundary compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "f6cd335007bfe279e4cc9295e015a64e8b5e52709cc28678578273917350c73c",
+      "replacement": "City status came before the later Margate corporate name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "f6cd335007bfe279e4cc9295e015a64e8b5e52709cc28678578273917350c73c",
+      "replacement": "City status came before the later Margate corporate name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        5,
+        "date"
+      ],
+      "expected_sha256": "122504de2ba6e167cc947d57ab8c2dd8151b1d94cc1ea44c39c8046b4e5ab247",
+      "replacement": "By 1909 rename; exact proposal date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        5,
+        "date"
+      ],
+      "expected_sha256": "122504de2ba6e167cc947d57ab8c2dd8151b1d94cc1ea44c39c8046b4e5ab247",
+      "replacement": "By 1909 rename; exact proposal date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        5,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "122504de2ba6e167cc947d57ab8c2dd8151b1d94cc1ea44c39c8046b4e5ab247",
+      "replacement": "By 1909 rename; exact proposal date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "events",
+        5,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "122504de2ba6e167cc947d57ab8c2dd8151b1d94cc1ea44c39c8046b4e5ab247",
+      "replacement": "By 1909 rename; exact proposal date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "sources",
+        "S1666",
+        "publication"
+      ],
+      "expected_sha256": "9c392334eb2e5dc6a7e44f096b0b086b9ac026a9d408db8eb9bc8a4aaa527157",
+      "replacement": "Historic record date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0116",
+      "path": [
+        "views",
+        "0116",
+        "sources",
+        "S1666",
+        "publication"
+      ],
+      "expected_sha256": "9c392334eb2e5dc6a7e44f096b0b086b9ac026a9d408db8eb9bc8a4aaa527157",
+      "replacement": "Historic record date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "8a1360baea911365a64ddc27a5145d0298eb22fdfbdac6a815df70c779e2eb7d",
+      "replacement": "The statutory second Wednesday falls on March 14, rather than the separately reported March 13.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "8a1360baea911365a64ddc27a5145d0298eb22fdfbdac6a815df70c779e2eb7d",
+      "replacement": "The statutory second Wednesday falls on March 14, rather than the separately reported March 13.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "ea5c5b960534dfb6a19d9ca8d9306b0180f9bdce0953753684a6b2ca50c71114",
+      "replacement": "Older river-name origin; exact naming date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "ea5c5b960534dfb6a19d9ca8d9306b0180f9bdce0953753684a6b2ca50c71114",
+      "replacement": "Older river-name origin; exact naming date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "334ccd86f6a98acfedd90d529bb0be0cb5b56fdfc1896d4d6c04d20a7c345cf6",
+      "replacement": "The personal-name association does not establish the river’s first naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "334ccd86f6a98acfedd90d529bb0be0cb5b56fdfc1896d4d6c04d20a7c345cf6",
+      "replacement": "The personal-name association does not establish the river’s first naming year.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "sources",
+        "S1671",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0117",
+      "path": [
+        "views",
+        "0117",
+        "sources",
+        "S1671",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "e29aa17fa5d1523a9a4dee9378fd5355dbd6d951da625a09e23c451e2740fbb4",
+      "replacement": "1905-03-21 — statutory Northfield name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "e29aa17fa5d1523a9a4dee9378fd5355dbd6d951da625a09e23c451e2740fbb4",
+      "replacement": "1905-03-21 — statutory Northfield name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        0,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "e29aa17fa5d1523a9a4dee9378fd5355dbd6d951da625a09e23c451e2740fbb4",
+      "replacement": "1905-03-21 — statutory Northfield name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        0,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "e29aa17fa5d1523a9a4dee9378fd5355dbd6d951da625a09e23c451e2740fbb4",
+      "replacement": "1905-03-21 — statutory Northfield name",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "11ee22f69651ffb40c20f59220570ed191792f6faaf9aedb635f4247c50e9eff",
+      "replacement": "The law uses the full name without establishing first local use or original coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "11ee22f69651ffb40c20f59220570ed191792f6faaf9aedb635f4247c50e9eff",
+      "replacement": "The law uses the full name without establishing first local use or original coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "47cf860de1d3765a4bade64aad0382f2324e6f91c1eb51aad9c8c4d1d70694a4",
+      "replacement": "Local Geohistory indexes the March 28 filing in Atlantic County Incorporation Book 3, page 364.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "47cf860de1d3765a4bade64aad0382f2324e6f91c1eb51aad9c8c4d1d70694a4",
+      "replacement": "Local Geohistory indexes the March 28 filing in Atlantic County Incorporation Book 3, page 364.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "17a3e85f421dd270c8829b8c71f0abf9e2fbf65974d3b4806563ef16989ff1fe",
+      "replacement": "Older locality and station labels preceded or overlapped the 1905 legal name; the original reason for choosing Northfield remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        5,
+        "action"
+      ],
+      "expected_sha256": "17a3e85f421dd270c8829b8c71f0abf9e2fbf65974d3b4806563ef16989ff1fe",
+      "replacement": "Older locality and station labels preceded or overlapped the 1905 legal name; the original reason for choosing Northfield remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "b449a2f264a1e2a6c2855bc78f7551d3f5bb0492f9b0136a2fbc29083dc26be2",
+      "replacement": "City incorporation and station chronology do not establish the exact naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "b449a2f264a1e2a6c2855bc78f7551d3f5bb0492f9b0136a2fbc29083dc26be2",
+      "replacement": "City incorporation and station chronology do not establish the exact naming decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        6,
+        "date"
+      ],
+      "expected_sha256": "0350013a74a4266d32660701386d4132a2db976a4f67a5e0a4cd18351db11954",
+      "replacement": "Earlier railway-station name; exact date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        6,
+        "date"
+      ],
+      "expected_sha256": "0350013a74a4266d32660701386d4132a2db976a4f67a5e0a4cd18351db11954",
+      "replacement": "Earlier railway-station name; exact date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        6,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "0350013a74a4266d32660701386d4132a2db976a4f67a5e0a4cd18351db11954",
+      "replacement": "Earlier railway-station name; exact date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        6,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "0350013a74a4266d32660701386d4132a2db976a4f67a5e0a4cd18351db11954",
+      "replacement": "Earlier railway-station name; exact date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "2e022e954cff355ad58a76d0b09651d84c6e24aa2fe10e5e1304133bbb656c6d",
+      "replacement": "The reported station name does not establish a former legal city or the reason for choosing Northfield.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "2e022e954cff355ad58a76d0b09651d84c6e24aa2fe10e5e1304133bbb656c6d",
+      "replacement": "The reported station name does not establish a former legal city or the reason for choosing Northfield.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "sources",
+        "S1674",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "sources",
+        "S1674",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "sources",
+        "S1675",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0118",
+      "path": [
+        "views",
+        "0118",
+        "sources",
+        "S1675",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "7b818db4efa27c552fd63f71698c29b7502a80a2b0937c55180c5d6da02f327e",
+      "replacement": "1872 — Beers map",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        0,
+        "date"
+      ],
+      "expected_sha256": "7b818db4efa27c552fd63f71698c29b7502a80a2b0937c55180c5d6da02f327e",
+      "replacement": "1872 — Beers map",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        0,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "7b818db4efa27c552fd63f71698c29b7502a80a2b0937c55180c5d6da02f327e",
+      "replacement": "1872 — Beers map",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        0,
+        "date_review",
+        "display"
+      ],
+      "expected_sha256": "7b818db4efa27c552fd63f71698c29b7502a80a2b0937c55180c5d6da02f327e",
+      "replacement": "1872 — Beers map",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "bae407263b0056bd83b73d42f0e7c0446db6f88423e9f1a0b7f6d2c2507651dd",
+      "replacement": "The Beers map labels Pleasantville beside Mount Pleasant in its inset.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        0,
+        "action"
+      ],
+      "expected_sha256": "bae407263b0056bd83b73d42f0e7c0446db6f88423e9f1a0b7f6d2c2507651dd",
+      "replacement": "The Beers map labels Pleasantville beside Mount Pleasant in its inset.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "991a0b4ac83059d68f88cafe202e3874a9a9008f30a822af9fd06d0b85a90007",
+      "replacement": "Local Geohistory and Snyder report acceptance on April 14; the index also cites an April 18 newspaper headline.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "991a0b4ac83059d68f88cafe202e3874a9a9008f30a822af9fd06d0b85a90007",
+      "replacement": "Local Geohistory and Snyder report acceptance on April 14; the index also cites an April 18 newspaper headline.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "ccc1143d71717e6c1947c75d290070642378833a4358bb0312fc3a033edee58b",
+      "replacement": "Both later accounts use Daniel; the naming participant’s exact identity, occupation and role remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "ccc1143d71717e6c1947c75d290070642378833a4358bb0312fc3a033edee58b",
+      "replacement": "Both later accounts use Daniel; the naming participant’s exact identity, occupation and role remain uncertain.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "sources",
+        "S1679",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0119",
+      "path": [
+        "views",
+        "0119",
+        "sources",
+        "S1679",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "11999595ef4c09c0c7b9fc9ab8dc0a0d495306e0a311fb92167ff09418d6c0ce",
+      "replacement": "Federal postal administration; original proposer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "events",
+        1,
+        "actor"
+      ],
+      "expected_sha256": "11999595ef4c09c0c7b9fc9ab8dc0a0d495306e0a311fb92167ff09418d6c0ce",
+      "replacement": "Federal postal administration; original proposer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "e47bc6af6c1cec624dfdd1b3c7682a39faca4a144105843103bfcb9921fa19f2",
+      "replacement": "Van Sant attribution in the later preservation account; initial proposer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "e47bc6af6c1cec624dfdd1b3c7682a39faca4a144105843103bfcb9921fa19f2",
+      "replacement": "Van Sant attribution in the later preservation account; initial proposer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e6d61a281ad4086ee4ee671c6a25d3fe715d880878f47260f2069fc1b826246c",
+      "replacement": "The historic-district nomination, section 8, reports an 1842 Unionville episode followed by postal renaming, conflicting with the compiled July 28, 1840 Port Republic office-name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "e6d61a281ad4086ee4ee671c6a25d3fe715d880878f47260f2069fc1b826246c",
+      "replacement": "The historic-district nomination, section 8, reports an 1842 Unionville episode followed by postal renaming, conflicting with the compiled July 28, 1840 Port Republic office-name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "41d9e9aef844e5f290d4f942fc498d8d06f4258602333b17071d3a7ae7b39424",
+      "replacement": "The later community account and compiled postal chronology describe conflicting sequences.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "41d9e9aef844e5f290d4f942fc498d8d06f4258602333b17071d3a7ae7b39424",
+      "replacement": "The later community account and compiled postal chronology describe conflicting sequences.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "sources",
+        "S1684",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "sources",
+        "S1684",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "sources",
+        "S1686",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0120",
+      "path": [
+        "views",
+        "0120",
+        "sources",
+        "S1686",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "89345646549ff065cf8a3a14431d829de18ac99dfe512c17b2baf0dfd1d263ef",
+      "replacement": "Section 7 on printed p.632 names Somers Point as the residence of the Great Egg Harbor district collector; the statute’s approval is on p.704.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "89345646549ff065cf8a3a14431d829de18ac99dfe512c17b2baf0dfd1d263ef",
+      "replacement": "Section 7 on printed p.632 names Somers Point as the residence of the Great Egg Harbor district collector; the statute’s approval is on p.704.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "d92489626b56d36f4cdfe6ec3494fd6c0d70ddb94bf106187f3ea93bb261bd85",
+      "replacement": "The reported vote preceded borough creation; it does not establish first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "d92489626b56d36f4cdfe6ec3494fd6c0d70ddb94bf106187f3ea93bb261bd85",
+      "replacement": "The reported vote preceded borough creation; it does not establish first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "d92489626b56d36f4cdfe6ec3494fd6c0d70ddb94bf106187f3ea93bb261bd85",
+      "replacement": "The reported vote preceded reincorporation under an existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "d92489626b56d36f4cdfe6ec3494fd6c0d70ddb94bf106187f3ea93bb261bd85",
+      "replacement": "The reported vote preceded reincorporation under an existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "d92489626b56d36f4cdfe6ec3494fd6c0d70ddb94bf106187f3ea93bb261bd85",
+      "replacement": "Reincorporation followed a separate vote and kept the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "d92489626b56d36f4cdfe6ec3494fd6c0d70ddb94bf106187f3ea93bb261bd85",
+      "replacement": "Reincorporation followed a separate vote and kept the existing name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "3e1d3ce4ddbf7d7b66b9e7b0543c081a1c08e25deafd22f922f94a9ef154a582",
+      "replacement": "Older family-name transmission; circa 1750 tradition uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "3e1d3ce4ddbf7d7b66b9e7b0543c081a1c08e25deafd22f922f94a9ef154a582",
+      "replacement": "Older family-name transmission; circa 1750 tradition uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "8c4250560968260f8eaf927b0775a85d5f446ed8e665602b2afb192c7260a396",
+      "replacement": "The family’s property and ferry connections plausibly underlie the locality name; the exact transition to the full name Somers Point remains undated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "8c4250560968260f8eaf927b0775a85d5f446ed8e665602b2afb192c7260a396",
+      "replacement": "The family’s property and ferry connections plausibly underlie the locality name; the exact transition to the full name Somers Point remains undated.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "sources",
+        "S1689",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "sources",
+        "S1689",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "sources",
+        "S1690",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0121",
+      "path": [
+        "views",
+        "0121",
+        "sources",
+        "S1690",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0122",
+      "path": [
+        "views",
+        "0122",
+        "sources",
+        "S1694",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0122",
+      "path": [
+        "views",
+        "0122",
+        "sources",
+        "S1694",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0122",
+      "path": [
+        "views",
+        "0122",
+        "sources",
+        "S1696",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0122",
+      "path": [
+        "views",
+        "0122",
+        "sources",
+        "S1696",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "764073c4b6866cd918e75da1d9255dcc219fb761ff54977ec7e7c99d9230f478",
+      "replacement": "Court-era usage reported by Mickle; original namer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        0,
+        "actor"
+      ],
+      "expected_sha256": "764073c4b6866cd918e75da1d9255dcc219fb761ff54977ec7e7c99d9230f478",
+      "replacement": "Court-era usage reported by Mickle; original namer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "0f5632c856d478118c77e2808d8913b780372a0667b67672b75f4b92b8e9f124",
+      "replacement": "Paterson’s authorized 1800 revision prints the act heading, §1 and Gloucester County list naming Weymouth, Egg-Harbour and Galloway.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "0f5632c856d478118c77e2808d8913b780372a0667b67672b75f4b92b8e9f124",
+      "replacement": "Paterson’s authorized 1800 revision prints the act heading, §1 and Gloucester County list naming Weymouth, Egg-Harbour and Galloway.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "66242131aa782a4682fa27c21906239bcc0062a292592c9bfc1e35fe8b742e16",
+      "replacement": "Mickle p.78 describes the old alias as partly revived when Egg Harbor was divided in 1798. Modern accounts add the later Quaker-settler and English-place traditions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        6,
+        "action"
+      ],
+      "expected_sha256": "66242131aa782a4682fa27c21906239bcc0062a292592c9bfc1e35fe8b742e16",
+      "replacement": "Mickle p.78 describes the old alias as partly revived when Egg Harbor was divided in 1798. Modern accounts add the later Quaker-settler and English-place traditions.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "37404baca7c765e144f81d23ebda0efba26a0d506e35a1e23321e89b20c6f639",
+      "replacement": "The older regional name does not establish unchanged township government from 1694.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "events",
+        6,
+        "significance"
+      ],
+      "expected_sha256": "37404baca7c765e144f81d23ebda0efba26a0d506e35a1e23321e89b20c6f639",
+      "replacement": "The older regional name does not establish unchanged township government from 1694.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "sources",
+        "S1700",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0123",
+      "path": [
+        "views",
+        "0123",
+        "sources",
+        "S1700",
+        "publication"
+      ],
+      "expected_sha256": "e416833309bbfcf2966c74887a4c275b4771017eecc6191848fd031188295f79",
+      "replacement": "Undated modern account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "9ed33482b2508b5127bedc745f6ba382a1e4cdd8813d2074ae8ab24dea6b0270",
+      "replacement": "Municipal history describes railway planning, surveying and construction during 1841–1848, credits Allen with the route survey and reports his Ackerman-family lodging.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "9ed33482b2508b5127bedc745f6ba382a1e4cdd8813d2074ae8ab24dea6b0270",
+      "replacement": "Municipal history describes railway planning, surveying and construction during 1841–1848, credits Allen with the route survey and reports his Ackerman-family lodging.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "317dc848534495c2540e6e486a08f400dc0a336dd1088bfd080edd7a63e84163",
+      "replacement": "Wardell’s compilation cites Allendale in a timetable dated November 24, 1848.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "317dc848534495c2540e6e486a08f400dc0a336dd1088bfd080edd7a63e84163",
+      "replacement": "Wardell’s compilation cites Allendale in a timetable dated November 24, 1848.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "546fbb0ce9adffb4c9cbdab2ce87c02e368d5cc462c568bffdd121d8c2b6669b",
+      "replacement": "The later compilation reports an early timetable use, without establishing first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "546fbb0ce9adffb4c9cbdab2ce87c02e368d5cc462c568bffdd121d8c2b6669b",
+      "replacement": "The later compilation reports an early timetable use, without establishing first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3b68c64dd7e97281bcaf27a4d7dc98f117c986cbc7d12687f0277ba08fd54136",
+      "replacement": "Local Geohistory indexes the November 8 incorporation vote; municipal history reports the result as 100–11.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "3b68c64dd7e97281bcaf27a4d7dc98f117c986cbc7d12687f0277ba08fd54136",
+      "replacement": "Local Geohistory indexes the November 8 incorporation vote; municipal history reports the result as 100–11.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "d44f0ef6b0b8db6a6697357c1ec286a6ec9072710c344e1b92b43ca6448e2cad",
+      "replacement": "Local Geohistory identifies November 10 as the county filing of election results and resulting effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "events",
+        4,
+        "action"
+      ],
+      "expected_sha256": "d44f0ef6b0b8db6a6697357c1ec286a6ec9072710c344e1b92b43ca6448e2cad",
+      "replacement": "Local Geohistory identifies November 10 as the county filing of election results and resulting effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "0201",
+      "path": [
+        "views",
+        "0201",
+        "sources",
+        "S01",
+        "publication"
+      ],
+      "expected_sha256": "8cfac6e3988ddefee20bb15fd12e8e5dec0bcb47a1f0d4bdee14fc16347052fd",
+      "replacement": "Preface dated January 2009; separate printing date unknown",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
