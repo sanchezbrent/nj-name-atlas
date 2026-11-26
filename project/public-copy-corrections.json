@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkpoint": "PUBLIC_COPY_39",
+  "checkpoint": "PUBLIC_COPY_40",
   "status": "PROPOSED_OWNER_REVIEW_PENDING",
   "human_sign_off": false,
   "towns": [
@@ -450,7 +450,19 @@
     "1709",
     "1710",
     "1711",
-    "1712"
+    "1712",
+    "1713",
+    "1714",
+    "1715",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009"
   ],
   "changes": [
     {
@@ -167324,6 +167336,4952 @@
       ],
       "expected_sha256": "3f3a9d3ab6b1ccc5d1589f70cf625306220d3406c48421c2fc9ad9a9fe5ea849",
       "replacement": "Later county history places Quinton’s Bridge in the Revolutionary-era locality landscape. The exact original naming date remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "29def76c0903ae04250407c008f64832fdd1f1579a9b3c06a400c931aafa7fee",
+      "replacement": "Salem’s founding tradition credits John Fenwick with choosing New Salem for his Quaker settlement in 1675 and associating the name with peace. Later histories give that explanation, without establishing an exact original naming statement or the full linguistic derivation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a39b3cdcfef030ee09415675209ea56cdb04123bf055be576e49669bbbc80098",
+      "replacement": "Later histories say John Fenwick called his 1675 settlement New Salem and connected the name with peace. That is the explanation they report, rather than an exact quotation from Fenwick.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "19b86f69f86ab93b2e7f9149c184aea83719e4442d1876e44e15131f5983efb6",
+      "replacement": "Later township and city stages have separate histories. The government index traces a Salem Township lineage from 1693, followed by state-law continuation in 1798 and city form in 1858. The 1915 corporate-title actions concern a formal government title, rather than the first geographic use of Salem. The precise filing or effective role of the January 20 event remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ab4da82fd65a6064bd090c51434acbc4f7ba171dfd85587b3ff0e02341c67546",
+      "replacement": "Later histories connect Fenwick’s New Salem choice with peace. That attributed tradition does not establish an exact original quotation or the full linguistic derivation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "ab4da82fd65a6064bd090c51434acbc4f7ba171dfd85587b3ff0e02341c67546",
+      "replacement": "Later histories connect Fenwick’s New Salem choice with peace. That attributed tradition does not establish an exact original quotation or the full linguistic derivation.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "c46a6090cf2b2a8bc5ddfa65eb707672653e13fb31695ebf93027a01faca0554",
+      "replacement": "The index gives January 20 for a related corporate-title stage. Its precise filing or effective role remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "c46a6090cf2b2a8bc5ddfa65eb707672653e13fb31695ebf93027a01faca0554",
+      "replacement": "The index gives January 20 for a related corporate-title stage. Its precise filing or effective role remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "01b90b24dd7925d35806af5bc5930f60f2e75051b3c7e7d7f4b4be0d9cc5a0c8",
+      "replacement": "Later histories say Fenwick chose the name and connected it with peace. They do not establish his exact original words.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f8dc2c0282362ee5731ca1e603e98252ba0da6b2847f502a4ffff237e5908a78",
+      "replacement": "The index reports a January 11, 1915 corporate-title resolution and a related January 20 event whose precise filing or effective role remains unresolved. These later steps did not begin the geographic name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1713",
+      "path": [
+        "editorial",
+        "1713",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "f8dc2c0282362ee5731ca1e603e98252ba0da6b2847f502a4ffff237e5908a78",
+      "replacement": "The index reports a January 11, 1915 corporate-title resolution and a related January 20 event whose precise filing or effective role remains unresolved. These later steps did not begin the geographic name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1714",
+      "path": [
+        "editorial",
+        "1714",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "8acd893f2f85f85598dc1df5b98617fc0d6b0e42977ecd512b7567612edb593f",
+      "replacement": "The legal chronology has two distinct steps: the index cites approval of the establishing act on March 6, 1846 and effectiveness on March 10. The individual who proposed the qualified name remains unknown. Later territory contributed to Elmer, with January 28, 1893 treated as a provisional filing or effect date, and a 1913 boundary adjustment followed. Those changes concern the township’s extent, rather than a new origin for its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1714",
+      "path": [
+        "editorial",
+        "1714",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "46801de02eae993986e3f6fd55f74d335376f094749aa6c2db88d15fa2bf5a2e",
+      "replacement": "An index gives March 6, 1846 for approval of the law and March 10 for the township taking effect. Those dates mark different steps. The first person to suggest the name remains unknown. Later changes affected the township’s size, including land used for Elmer, while Upper Pittsgrove kept its inherited identity.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1714",
+      "path": [
+        "editorial",
+        "1714",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "50617a4881497d144e8d707101f92a054ddd28ceb68586a22ebba4f6414a9969",
+      "replacement": "The index gives March 6 for approval of the law and March 10 for effectiveness. These dates describe separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1714",
+      "path": [
+        "editorial",
+        "1714",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "50617a4881497d144e8d707101f92a054ddd28ceb68586a22ebba4f6414a9969",
+      "replacement": "The index gives March 6 for approval of the law and March 10 for effectiveness. These dates describe separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1714",
+      "path": [
+        "editorial",
+        "1714",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "640a66d005d12ccdd2d85a7891aca6dbb6c0fcdfefb3ce330257ad9b9f9fbf7d",
+      "replacement": "The index treats January 28 as a provisional filing or effective day for Elmer. That territorial change was separate from Upper Pittsgrove’s original naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1714",
+      "path": [
+        "editorial",
+        "1714",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "640a66d005d12ccdd2d85a7891aca6dbb6c0fcdfefb3ce330257ad9b9f9fbf7d",
+      "replacement": "The index treats January 28 as a provisional filing or effective day for Elmer. That territorial change was separate from Upper Pittsgrove’s original naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1714",
+      "path": [
+        "editorial",
+        "1714",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "c816535686abc2bbc1445840479ff59982d6ef19d4e3c87b0a9d8d50c22f6191",
+      "replacement": "The legal index gives March 6, 1846 for approval and March 10 for effectiveness. These are separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "150c820a6d2ee7c2de6af8271c337820b7688e5fdbab3c36948ec4de18b465c0",
+      "replacement": "A 2017 borough publication reports a Pennsylvania Gazette advertisement dated April 10, 1766 using Woods’s Town, citing an earlier environmental inventory. The 1964 place-name compilation separately reports Woodsboro in 1797. These are attributed accounts of older forms, without establishing a legal rename before Woodstown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "1bd7e6064ba3e19ee6772624e3a542e2252d5116a14bdcc46d6ddac58989e962",
+      "replacement": "A borough publication reports that an old newspaper used Woods’s Town in 1766. Another later book reports Woodsboro in 1797. These are the spellings those later accounts report; Woodsboro is not a proved former legal borough name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "05d04469d1ae97bd41be6dedb65889040338157868394665a6d7d3dc74d44395",
+      "replacement": "The borough inherited its settlement name when it formed from Pilesgrove on July 26, 1882. A 1925 charter revival or confirmation was a later government step, rather than a new choice of the community name. The old mill landscape and family-associated buildings give its setting, while the exact naming transition and first coiner remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b5a3df796854df724e06bd6908b40db412cecf408de802cdce24d4223f22c7b4",
+      "replacement": "The 2017 account, citing a 2005 inventory, reports Woods’s Town in a 1766 newspaper advertisement. The wording and date are attributed to that later account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "b5a3df796854df724e06bd6908b40db412cecf408de802cdce24d4223f22c7b4",
+      "replacement": "The 2017 account, citing a 2005 inventory, reports Woods’s Town in a 1766 newspaper advertisement. The wording and date are attributed to that later account.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "48bbb9cf879df5709c2068ce1580fea21bbe825addfdc64327003e07910c09ef",
+      "replacement": "The 1964 compilation reports Woodsboro in 1797. That attributed spelling does not establish a legal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "48bbb9cf879df5709c2068ce1580fea21bbe825addfdc64327003e07910c09ef",
+      "replacement": "The 1964 compilation reports Woodsboro in 1797. That attributed spelling does not establish a legal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "274577860954c9ac83db4692c5fce16b1ee60054612714468631cb0e0ac1ff15",
+      "replacement": "The 2017 borough publication cites an earlier inventory for the Gazette advertisement using Woods’s Town on April 10, 1766. This is an attributed account of the newspaper wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "274577860954c9ac83db4692c5fce16b1ee60054612714468631cb0e0ac1ff15",
+      "replacement": "The 2017 borough publication cites an earlier inventory for the Gazette advertisement using Woods’s Town on April 10, 1766. This is an attributed account of the newspaper wording.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "a7f7074aa0f9b7c267ec37f6bb9f82fa6a632b475d148ab786b3551d8295aa9a",
+      "replacement": "No original transport naming role is established. The 1797 Woodsboro form is reported in a later compilation, without establishing a legal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1715",
+      "path": [
+        "editorial",
+        "1715",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "a7f7074aa0f9b7c267ec37f6bb9f82fa6a632b475d148ab786b3551d8295aa9a",
+      "replacement": "No original transport naming role is established. The 1797 Woodsboro form is reported in a later compilation, without establishing a legal rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "487e959782fdf972e6c8fcae6e05d9cb6b917f06cdf08fd9670cb631c99e08f3",
+      "replacement": "Berkeley Heights was a local development name before it became the township title. A 2022 survey references an 1890 Berkeley Heights Improvement Company map, filed in 1891. That is a later reference to earlier name use, without establishing the company’s original naming decision or first coiner. Even the township’s history qualifies the familiar Lord Berkeley attribution.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "b90920475a7bfa6a16669018da9b916d946840b8f88631ca9109d3fee06a1674",
+      "replacement": "Berkeley Heights was a development name before the township adopted it. A modern survey refers to an older company map. It does not establish who first chose the name or exactly why. The Lord Berkeley explanation remains a qualified tradition.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7acd8a11379aedc3190d97cb2feac84f5f6c224551c4b6b577d48f24e8d3abcd",
+      "replacement": "Snyder reports creation of New Providence Township on November 8, 1809, before the later borough and township-name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "7acd8a11379aedc3190d97cb2feac84f5f6c224551c4b6b577d48f24e8d3abcd",
+      "replacement": "Snyder reports creation of New Providence Township on November 8, 1809, before the later borough and township-name change.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "11a4785161ba5e26f6b72d1b687c148464d989cd3fdfd8ea6a5c2ee96e730695",
+      "replacement": "The 2022 survey references an 1890 company map and its 1891 filing. That later reference describes earlier use without establishing the original coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "11a4785161ba5e26f6b72d1b687c148464d989cd3fdfd8ea6a5c2ee96e730695",
+      "replacement": "The 2022 survey references an 1890 company map and its 1891 filing. That later reference describes earlier use without establishing the original coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "c2b6a0d84dc84451ae278ce182051423fe91c8f6b0e549a2c4df70bad536e669",
+      "replacement": "The contemporary newspaper reports an April 4 petition and its later rejection for too few eligible signers. Nigro intended a new petition; the successful vote came later.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "c2b6a0d84dc84451ae278ce182051423fe91c8f6b0e549a2c4df70bad536e669",
+      "replacement": "The contemporary newspaper reports an April 4 petition and its later rejection for too few eligible signers. Nigro intended a new petition; the successful vote came later.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "36aced2e03151c30649944b7612fc2a3ad8d1940f7bc0fc1c493d059eb902461",
+      "replacement": "The township’s history qualifies the Lord Berkeley explanation. The original company naming decision and first coiner remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "36aced2e03151c30649944b7612fc2a3ad8d1940f7bc0fc1c493d059eb902461",
+      "replacement": "The township’s history qualifies the Lord Berkeley explanation. The original company naming decision and first coiner remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "28fe17eb714503f89167c4aa68b5590d1b3b7e6bae271e14d386c70b6c04c162",
+      "replacement": "The 2022 survey references an 1890 company map and its 1891 filing. This is a later account of earlier name use, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "editorial",
+        "2001",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "28fe17eb714503f89167c4aa68b5590d1b3b7e6bae271e14d386c70b6c04c162",
+      "replacement": "The 2022 survey references an 1890 company map and its 1891 filing. This is a later account of earlier name use, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "9bfced929e32f5e22c8eccab094fcb54192a55b626fb33dc6b600e0d7b160597",
+      "replacement": "Consistent later municipal and local histories identify Abraham Clark as the township’s honoree. Newspaper accounts describe farmers involved in the separation campaign; one reports a tradition about Rahway’s consent, a school payment and honoring Clark. The first naming proposer and details of the original negotiations remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "76fe5f882c1e042e93799aae07d530d48dd1715a8ae2e27d4e4801463fe97500",
+      "replacement": "Later local histories say Clark honors Abraham Clark. Accounts describe farmers who sought separation from Rahway and a remembered school-payment agreement. The first naming proposer and details of the negotiations remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "f7e944e588eefc30ae8be615782fd15f39fa1abfe35190121c558cd552a8694e",
+      "replacement": "The act supplies neither an honoree explanation nor a referendum condition. That silence does not disprove a separate local bargain or vote reported later, whose exact circumstances remain unresolved. Cranford and Winfield subsequently used Clark territory under separate laws, leaving the older naming question distinct from later boundaries.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "preview"
+      ],
+      "expected_sha256": "800e0ff6b1ce9b400a71c93a75aa033c55e5813ca073df87545561dcb4d42412",
+      "replacement": "Clark was created from Rahway City’s Fifth Ward in 1864. Later local history identifies Abraham Clark as the honoree; the original selection discussion remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "profile",
+        "referent"
+      ],
+      "expected_sha256": "800e0ff6b1ce9b400a71c93a75aa033c55e5813ca073df87545561dcb4d42412",
+      "replacement": "Clark was created from Rahway City’s Fifth Ward in 1864. Later local history identifies Abraham Clark as the honoree; the original selection discussion remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "58b59dbb632edc77e3e95aabc899f5ffd6a42768ac060b9410e844f5e17d5d26",
+      "replacement": "Later histories identify Abraham Clark as honoree and report the farmers’ campaign and a local bargain. The original proposer and negotiation details remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "58b59dbb632edc77e3e95aabc899f5ffd6a42768ac060b9410e844f5e17d5d26",
+      "replacement": "Later histories identify Abraham Clark as honoree and report the farmers’ campaign and a local bargain. The original proposer and negotiation details remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1d73fa5d86500a1bf83a1eeffe34bbf18918bcd2b0cb5d4804f53f15718d3544",
+      "replacement": "The law prescribed a schoolhouse meeting on the annual township-meeting day. The exact day and actual occurrence of the first meeting remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "1d73fa5d86500a1bf83a1eeffe34bbf18918bcd2b0cb5d4804f53f15718d3544",
+      "replacement": "The law prescribed a schoolhouse meeting on the annual township-meeting day. The exact day and actual occurrence of the first meeting remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "1513a9b9aa927560203df55f1c21968a78f7a75dc59dba540dc36c6500df4284",
+      "replacement": "No postal or railway naming decision is established as the origin of Clark.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "1513a9b9aa927560203df55f1c21968a78f7a75dc59dba540dc36c6500df4284",
+      "replacement": "No postal or railway naming decision is established as the origin of Clark.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0929c562069e6937e6ddf105e35a49d04ec3824c5fe6daf6824751bf65df7ce7",
+      "replacement": "The act had immediate March 23 effect and no referendum condition. Prescribed meetings do not establish actual occurrence; the exact circumstances of the later reported local bargain remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "editorial",
+        "2002",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "0929c562069e6937e6ddf105e35a49d04ec3824c5fe6daf6824751bf65df7ce7",
+      "replacement": "The act had immediate March 23 effect and no referendum condition. Prescribed meetings do not establish actual occurrence; the exact circumstances of the later reported local bargain remain unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "9dadcc8e09d0c52d437c65212267e4bf18e6f1b5b4488ca80ea88014ab6e89b6",
+      "replacement": "Cranford’s name belongs to the story of the Crane family, mills and a railroad community, but the familiar explanation that it shortened Crane’s Ford remains disputed. Older accounts describe Crane’s Mills, a French House stop and Craneville. One credits Sunday-school children with choosing Craneville in 1849. A historian challenges that first-choice story and reports earlier use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "da964289f03ab60c082fa4c9726932587cc3bc0dbc244440fb0845f49344521e",
+      "replacement": "Cranford’s story includes the Crane family, mills and a railway stop. Craneville was an older community name. A story credits children with choosing it in 1849, but a historian reports earlier use. The idea that Cranford simply shortened Crane’s Ford is also disputed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "25290253f64d95d90d3a47fee24b609cddba0d54f8abf16d0982c4d80470c4bb",
+      "replacement": "Later accounts place Cranford’s adoption in 1869. Some describe a local meeting and postal change, with Riverdale losing to Cranford. An older reminiscence credits the railroad. Those accounts may describe connected steps, but their exact relationship and the first proposer remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "147dc5902e87f22087d8f60227d79f9caf7d17d48894e6bb4538eb7b61ea57e5",
+      "replacement": "The act prescribed April 10 at the new schoolhouse. A statutory schedule does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "147dc5902e87f22087d8f60227d79f9caf7d17d48894e6bb4538eb7b61ea57e5",
+      "replacement": "The act prescribed April 10 at the new schoolhouse. A statutory schedule does not establish that the meeting occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "2b18ed90ae6f2d556ffd6b7a5388b884e3b5c341bf470fcf3536fa030223bc16",
+      "replacement": "Later sources report June 18 as the acceptance vote. That is separate from approval of the conditional law in May.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "2b18ed90ae6f2d556ffd6b7a5388b884e3b5c341bf470fcf3536fa030223bc16",
+      "replacement": "Later sources report June 18 as the acceptance vote. That is separate from approval of the conditional law in May.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "5cfd807507deb9a916f5265e54a4e8c01ec6d2d9ec06f8f543273fb208794bdc",
+      "replacement": "The law took effect on March 14, 1871 and scheduled an April 10 schoolhouse meeting. The schedule does not establish that the meeting actually occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "editorial",
+        "2003",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "5cfd807507deb9a916f5265e54a4e8c01ec6d2d9ec06f8f543273fb208794bdc",
+      "replacement": "The law took effect on March 14, 1871 and scheduled an April 10 schoolhouse meeting. The schedule does not establish that the meeting actually occurred.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "58c8846616146f4d44fc465e0258fbd81f161a662b6e5d68e06aae6d89893797",
+      "replacement": "Elizabeth’s name is attributed to Lady Elizabeth Carteret, wife of proprietor Sir George Carteret. Later official history places Elizabethtown in 1665, after the reported 1664 land purchase. Philip Carteret is traditionally associated with the naming, but the first individual proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "8362ce41d711f1dea014e1b7fc279b76a6cf4c723a3db8606af55f9913d6442c",
+      "replacement": "Elizabeth’s name is linked with Lady Elizabeth Carteret, wife of Sir George Carteret. A later city history reports Elizabethtown in 1665. The first individual proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "d670d95149a8080dda8686cbd12909b2c3ff1d219437ae219841c79fb7a00a86",
+      "replacement": "The March 13, 1855 city charter joined borough and township inhabitants, subject to majority adoption. A March 29 validating law expressly recites a March 22 election and confirms its result after doubts about the judges’ authority. A later March 27 date remains unexplained, and the original tally remains unknown. April officer elections and canvassing were separate requirements. The city’s creation was more than an Elizabethtown-to-Elizabeth rename.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "592fa17063b82b8fee9392c8331c49594597dd81cd10fda5451aae908140388e",
+      "replacement": "The 1855 city law required voters’ approval. A second law says an election occurred on March 22 and confirms its result. Another reported March date remains unexplained. Later officer elections and counting votes were separate requirements. Creating the city was more than shortening its name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "35b4fed521503d4ad594b43f6ff4159e2859f8bae567864c6bdf78d28209820c",
+      "replacement": "Later official history attributes Elizabethtown in 1665 to Lady Elizabeth Carteret. The earlier land purchase was a separate event, and the first individual naming proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "35b4fed521503d4ad594b43f6ff4159e2859f8bae567864c6bdf78d28209820c",
+      "replacement": "Later official history attributes Elizabethtown in 1665 to Lady Elizabeth Carteret. The earlier land purchase was a separate event, and the first individual naming proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e86b87181e507d9bbac4d9c62b97be9b0ba1485484ae61b67480db950712aae8",
+      "replacement": "The legal-history index reports the 1693 township division and its bounds. This municipal stage does not establish first use of the settlement name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        1,
+        "detail"
+      ],
+      "expected_sha256": "e86b87181e507d9bbac4d9c62b97be9b0ba1485484ae61b67480db950712aae8",
+      "replacement": "The legal-history index reports the 1693 township division and its bounds. This municipal stage does not establish first use of the settlement name.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "fc04863084fb6b9ccafe083247c45c3e184a5cf151d95983dc51d6a85359b808",
+      "replacement": "Later accounts report the shorter Elizabeth title in 1740. That attributed title does not establish a single formal decision to shorten Elizabethtown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "fc04863084fb6b9ccafe083247c45c3e184a5cf151d95983dc51d6a85359b808",
+      "replacement": "Later accounts report the shorter Elizabeth title in 1740. That attributed title does not establish a single formal decision to shorten Elizabethtown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3bedec6213ab912f1ce427aa1f5285cc181108b0c9b1a9e355385505536c224e",
+      "replacement": "The March 29 validating act recites an election on March 22. A later March 27 account remains unexplained; the original tally remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "3bedec6213ab912f1ce427aa1f5285cc181108b0c9b1a9e355385505536c224e",
+      "replacement": "The March 29 validating act recites an election on March 22. A later March 27 account remains unexplained; the original tally remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "6e961581a367aaf678764003389ae17996a19323e66c6fc158cae3d9fd94b442",
+      "replacement": "The March 29 law confirmed the election and result after doubts about the judges’ authority. Election and validation were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "6e961581a367aaf678764003389ae17996a19323e66c6fc158cae3d9fd94b442",
+      "replacement": "The March 29 law confirmed the election and result after doubts about the judges’ authority. Election and validation were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "f5704cde71453d392ff2b67e783498643bd5ac527ec92fcdd1f51ffc92154070",
+      "replacement": "The charter scheduled a separate officer election for this day. The schedule does not establish actual occurrence or its result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "f5704cde71453d392ff2b67e783498643bd5ac527ec92fcdd1f51ffc92154070",
+      "replacement": "The charter scheduled a separate officer election for this day. The schedule does not establish actual occurrence or its result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "97c1c695bdc129dfc04910be4e72f86ec6706a96fee07f8ae8116b9c0b707f0e",
+      "replacement": "The law prescribed a canvass on the next Monday. A later official history reports Darby’s mayoral declaration on April 16; that reported outcome is separate from the statutory schedule.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "97c1c695bdc129dfc04910be4e72f86ec6706a96fee07f8ae8116b9c0b707f0e",
+      "replacement": "The law prescribed a canvass on the next Monday. A later official history reports Darby’s mayoral declaration on April 16; that reported outcome is separate from the statutory schedule.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "26a6fdacb9dae8012cf28ec83813b4b26e409ef437a999a1053aa0b82db3f410",
+      "replacement": "Later official history identifies Lady Elizabeth Carteret, Sir George Carteret’s wife, as honoree. The first individual naming proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "26a6fdacb9dae8012cf28ec83813b4b26e409ef437a999a1053aa0b82db3f410",
+      "replacement": "Later official history identifies Lady Elizabeth Carteret, Sir George Carteret’s wife, as honoree. The first individual naming proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "ba906ea53c4515930c61cb5ad1c1ee712a70d84c954d12e91fc51ab067e94882",
+      "replacement": "Later accounts report Elizabethtown in 1665 and a shorter Elizabeth borough title in 1740. The earlier land purchase was a separate event; these reported forms do not establish an original naming statement or a formal shortening decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "629bd3e8db8b592b59436797975cc38514b10b5f6b68be6abf1e603d1fe6ca0e",
+      "replacement": "A later city history reports Elizabethtown in 1665, after the land purchase. Later accounts use the shorter Elizabeth in a 1740 borough title. Those accounts do not establish a formal shortening decision.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "editorial",
+        "2004",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "82ab831d94d2818102deecd9c2b30d0992a5cf63eec1333df5a23ffc84c16a3f",
+      "replacement": "The first city law required voters’ approval. A later law confirms a March 22 election and its result. Another reported March date remains unexplained.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "beb5ade55711cdfd4e66aba47fc32b79fb66fcc7ce79cae4063b7f9e15683051",
+      "replacement": "Fanwood’s name was in use before the present 1874 station building. A historic-register nomination quotes Fanwood Park in a January 23, 1868 newspaper and reports an 1868 map. It also quotes a September 29, 1870 advertisement for lots at Fanwood Station. Those are attributed accounts of earlier use; the advertisement’s planned sale day does not establish a station-naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "a4c23fe4fab5d683fd835c20aa2539a1e85d9ad50552f8d564449675d70f996d",
+      "replacement": "Fanwood’s name is older than its present 1874 depot. A later historic-register account quotes Fanwood Park in an 1868 newspaper and Fanwood Station in an advertisement published in 1870. The depot’s construction does not establish the name’s first use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "4928c3a58697450442ede9f9399bbe9799c5610b4baec4dea97d3ab11c21821b",
+      "replacement": "Two accounts identify different people named Fanny. The nomination relays a family account, through daughter Emily de Forest, crediting railroad president John Taylor Johnston with honoring his wife Fanny. A later municipal tradition instead identifies journalist Fanny Wood and cites a reported 1973 letter. These remain competing attributed explanations, without settling the original naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "e7bc6137f3309004afd8f694b6f37bc2fc59cf1950272c06b9f72535e4a0e995",
+      "replacement": "Two stories explain its Fanny. A family account, passed through daughter Emily de Forest, says railroad president John Taylor Johnston honored his wife Fanny. A later town account names journalist Fanny Wood and refers to a reported 1973 letter. The competing stories do not settle who was honored.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "31da003645bcd8d9e3b5929165287338a8d54879591fca5b41ca36159976f35d",
+      "replacement": "Fanwood Park quoted in a later nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "journey",
+        0,
+        "label"
+      ],
+      "expected_sha256": "31da003645bcd8d9e3b5929165287338a8d54879591fca5b41ca36159976f35d",
+      "replacement": "Fanwood Park quoted in a later nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "227539f88c78490ab20350546e8d9af2e6e963e6e723159878733e66ad580ee1",
+      "replacement": "The historic-register nomination quotes a January 1868 newspaper and reports an 1868 map. Those attributed uses precede the present depot without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "227539f88c78490ab20350546e8d9af2e6e963e6e723159878733e66ad580ee1",
+      "replacement": "The historic-register nomination quotes a January 1868 newspaper and reports an 1868 map. Those attributed uses precede the present depot without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "3da75ecd1ab7853e66817948184a2a66579656fcead5420d3bc25431dd5239e0",
+      "replacement": "Sources report October 1 voting and October 2 formation or inferred filing. A conflicting May-vote account remains unresolved; voting, formation and filing are distinct stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "3da75ecd1ab7853e66817948184a2a66579656fcead5420d3bc25431dd5239e0",
+      "replacement": "Sources report October 1 voting and October 2 formation or inferred filing. A conflicting May-vote account remains unresolved; voting, formation and filing are distinct stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "83a8e24a2a382e48310a8a5bce523324aa319a6715cc6d352a4a9be869eaac08",
+      "replacement": "The historic-register nomination reports Fanwood Park and Fanwood Station before borough government. Fanwood Township came first; the remaining township later became Scotch Plains.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "sidebar",
+        "fields",
+        "earlier",
+        "text"
+      ],
+      "expected_sha256": "49f5144015eb7035d43ef8934dded9b14ade733234e946e79cc1e5321a1ab702",
+      "replacement": "The historic-register account reports Fanwood Park and Fanwood Station before there was a borough. The borough formed within Fanwood Township. The remaining township later became Scotch Plains.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "86767ce635740d03bed53ae41173d353863d97468d0235e0b80f30de2348410b",
+      "replacement": "The nomination relays daughter Emily de Forest’s family account that John Taylor Johnston named the place for his wife Fanny. A later municipal story identifies journalist Fanny Wood and cites a reported 1973 letter. The explanations remain competing attributed accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "5972ca3763efac05ff24b51d4a018e446c63ce0fbb2ee01717384a7196e9d0dc",
+      "replacement": "One family story says John Taylor Johnston honored his wife Fanny. A later town story names journalist Fanny Wood. The two explanations remain open; neither settles the original naming choice.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "3603439f6dffad607db98f2818a4648fa8f7c4f7a100bf5d898e266417a90fcc",
+      "replacement": "The historic-register nomination quotes Fanwood Park on January 23, 1868 and Fanwood Station in a September 29, 1870 advertisement. These are attributed accounts of use; the advertised sale day does not establish a naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "3603439f6dffad607db98f2818a4648fa8f7c4f7a100bf5d898e266417a90fcc",
+      "replacement": "The historic-register nomination quotes Fanwood Park on January 23, 1868 and Fanwood Station in a September 29, 1870 advertisement. These are attributed accounts of use; the advertised sale day does not establish a naming date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "089de96eb994875825413e57ee7c841d16dd1632d49563206e19920dae0e63e6",
+      "replacement": "Sources report October 1, 1895 voting, October 2 formation or inferred filing and October 22 first council meeting. A May-vote account conflicts. The index separately applies the 1896 general law to separation from the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "editorial",
+        "2005",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "089de96eb994875825413e57ee7c841d16dd1632d49563206e19920dae0e63e6",
+      "replacement": "Sources report October 1, 1895 voting, October 2 formation or inferred filing and October 22 first council meeting. A May-vote account conflicts. The index separately applies the 1896 general law to separation from the township.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "402990716f245dd80e63cc1144dc4c9ca2d93a217276894ebe443148f45bfa91",
+      "replacement": "Garwood grew around a company that developed land for industry. Later histories connect it with Samuel Garwood and John Rogers Maxwell. They identify Samuel as the person the company and community are said to honor. The first proposer and exact original naming decision remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "paragraphs",
+        1
+      ],
+      "expected_sha256": "bb27d75de18fbd50176ae9b10bdd33aea722133784b14dfb7f5a0a63a32b57cc",
+      "replacement": "The railroad helped the development take shape. A municipal account dates the Garwood station’s opening to August 1892, without establishing an exact opening day. Nearby Oakland belongs to the older locality story: the later borough law refers to an Oakland building-lots map. Oakland was not a former legal name of Garwood Borough.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "f7c48de94a1797d12659c10f864577fd1af2a5cbccdcde1e0bd5c7fb4f9d746c",
+      "replacement": "The act approved March 19, 1903 created the borough from parts of Cranford and Westfield and took effect immediately. It required no referendum. A February 25 date in a later account remains unexplained; it does not establish a separate earlier legal stage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f3978bdf89a29f2b453e8a40c6a5863b4a858840caa9b3c92289c6ba438370b7",
+      "replacement": "Later municipal histories place the development company in 1891 and identify Samuel Garwood as its reported namesake. The first naming proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "f3978bdf89a29f2b453e8a40c6a5863b4a858840caa9b3c92289c6ba438370b7",
+      "replacement": "Later municipal histories place the development company in 1891 and identify Samuel Garwood as its reported namesake. The first naming proposer remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "59266ebe9d2c1d2b53e13e4d9483b822f9b076926ea4a9a9d0f8a03f1fd6f4e9",
+      "replacement": "Later histories report the company in 1891. The 1903 law names the borough, without establishing first-ever locality use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "sidebar",
+        "fields",
+        "earliest",
+        "text"
+      ],
+      "expected_sha256": "59266ebe9d2c1d2b53e13e4d9483b822f9b076926ea4a9a9d0f8a03f1fd6f4e9",
+      "replacement": "Later histories report the company in 1891. The 1903 law names the borough, without establishing first-ever locality use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "ac92c3d50cbd784e10fc2743a3228469b3d0924cfa854af509cd149728bb6081",
+      "replacement": "Municipal history reports the station opening in August 1892. The exact opening day and original naming decision remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2006",
+      "path": [
+        "editorial",
+        "2006",
+        "sidebar",
+        "fields",
+        "rail_postal",
+        "text"
+      ],
+      "expected_sha256": "ac92c3d50cbd784e10fc2743a3228469b3d0924cfa854af509cd149728bb6081",
+      "replacement": "Municipal history reports the station opening in August 1892. The exact opening day and original naming decision remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "editorial",
+        "2007",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "24c6d3b11a5404265f667f669ea231a7acf5b9365e6d82dd5f55c7380e8d20be",
+      "replacement": "The successful Hillside act was approved April 3, 1913. It required majority acceptance and a written election result entered in Union Township’s minutes before the new township could operate, followed by a separate county filing. Later sources report an April 29 vote. The reported vote alone does not establish when every required step was completed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "editorial",
+        "2007",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "04cd65c97d382c350543850a1e8a93998501dc5f787f142ec23e3f55e796df6d",
+      "replacement": "The Hillside law followed in April 1913. Later histories report an April 29 vote. The law also required the written result in Union Township’s minutes, followed by a separate county filing. The reported vote does not establish when all those steps were completed.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "editorial",
+        "2007",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "81385aa7933fc931e8b0cc6df914cc5bfbf49dfe399c4432c9f8aa4a52ad6066",
+      "replacement": "Later sources report the vote on April 29. That account does not establish completion dates for the minute entry and separate filing required by law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "editorial",
+        "2007",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "81385aa7933fc931e8b0cc6df914cc5bfbf49dfe399c4432c9f8aa4a52ad6066",
+      "replacement": "Later sources report the vote on April 29. That account does not establish completion dates for the minute entry and separate filing required by law.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "editorial",
+        "2007",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "19cd1abdcf2a155ccdd68dd485d8afefb3d7743d451943bade4c7eb4b26cb95e",
+      "replacement": "The April 3, 1913 law required voters’ approval and their written result entered in Union Township’s minutes before operation. April 29 voting is reported; completion dates for the minute entry and separate county filing remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "editorial",
+        "2007",
+        "sidebar",
+        "fields",
+        "legal",
+        "text"
+      ],
+      "expected_sha256": "afe1d6e61a1a9cd3877ef6a03d4557a53978f1edc9d098e2688da833c72fe1b6",
+      "replacement": "The law required voters’ approval and their written result in Union Township’s minutes. Later histories report April 29 voting. Completion dates for the minute entry and separate county filing remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "editorial",
+        "2008",
+        "paragraphs",
+        0
+      ],
+      "expected_sha256": "0f4c69dc296564379224e24ff141ed3c7ac53a4e2e3e5007c69f4b1f37c066b9",
+      "replacement": "Kenilworth’s name has a literary route into local history. Later accounts connect the developers’ Kenilworth Club with Sir Walter Scott’s novel, whose title recalls Kenilworth Castle in England. They report a Kenilworth company and community in 1904. The first individual proposer and exact original club or company naming decision remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "editorial",
+        "2008",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "7dfcd4db18e95307079aff57bf8f6d003e203d23c12f733c9dbdb319e9263362",
+      "replacement": "The act was approved May 13, 1907 and required a favorable local vote before incorporation could operate. Later sources report acceptance on June 18. Some anniversary accounts call June 18 the signing day, although the printed act gives May 13. Legislative approval and reported local acceptance were different stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "editorial",
+        "2008",
+        "paragraphs",
+        2
+      ],
+      "expected_sha256": "dddce2954cb790cb7b465c0be99d73c332d36b3303d878fb93554c47a62282cc",
+      "replacement": "A law approved May 13, 1907 offered borough government, but required local approval. Later histories report a June 18 vote. Some anniversary stories call June 18 the signing day, although the printed act gives May 13. Approval of the law and reported local acceptance were separate steps.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "editorial",
+        "2008",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b7e05c336d08f7b881e8cf08dff6253ebc39981088acc46c67b9bd3739bc1d32",
+      "replacement": "Later accounts report Kenilworth Realty and the community name in 1904, following New Orange. They do not establish an exact naming day or first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "editorial",
+        "2008",
+        "journey",
+        0,
+        "detail"
+      ],
+      "expected_sha256": "b7e05c336d08f7b881e8cf08dff6253ebc39981088acc46c67b9bd3739bc1d32",
+      "replacement": "Later accounts report Kenilworth Realty and the community name in 1904, following New Orange. They do not establish an exact naming day or first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "editorial",
+        "2008",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "7c9858efd9e8529fb4a8a3107a137057d1dd1a444cda4349f3851ebaa252953e",
+      "replacement": "Later histories report acceptance on June 18. That reported vote is separate from approval of the act on May 13.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "editorial",
+        "2008",
+        "journey",
+        2,
+        "detail"
+      ],
+      "expected_sha256": "7c9858efd9e8529fb4a8a3107a137057d1dd1a444cda4349f3851ebaa252953e",
+      "replacement": "Later histories report acceptance on June 18. That reported vote is separate from approval of the act on May 13.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "26296d28c411605c570822273fc5c8624a8df40756f07c1bc572f13dc86e245c",
+      "replacement": "A later compilation reports the referendum on March 28, 1882, separate from its March 30 formation date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        3,
+        "detail"
+      ],
+      "expected_sha256": "26296d28c411605c570822273fc5c8624a8df40756f07c1bc572f13dc86e245c",
+      "replacement": "A later compilation reports the referendum on March 28, 1882, separate from its March 30 formation date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "e7e00315d7f9bf229e5c22d3792bb5c896be9db69b179a3caa3051b89e269a5e",
+      "replacement": "The later compilation gives March 30, 1882 for formation from Linden Township. That is a reported date, separate from the vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "e7e00315d7f9bf229e5c22d3792bb5c896be9db69b179a3caa3051b89e269a5e",
+      "replacement": "The later compilation gives March 30, 1882 for formation from Linden Township. That is a reported date, separate from the vote.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "a7daa13d40ee31dfeec1479b18f072946e255bff2b60201fe8a37476d286db19",
+      "replacement": "The later account reports December 18 voting with a 149–121 result. Voting was separate from later reporting and certification.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        5,
+        "detail"
+      ],
+      "expected_sha256": "a7daa13d40ee31dfeec1479b18f072946e255bff2b60201fe8a37476d286db19",
+      "replacement": "The later account reports December 18 voting with a 149–121 result. Voting was separate from later reporting and certification.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "1026bd93e2eb85a51234be5535506620c9064edda57c81e2d1d229d5c1954b75",
+      "replacement": "The later narrative says the result reached the county clerk on December 19, between the vote and certification.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        6,
+        "detail"
+      ],
+      "expected_sha256": "1026bd93e2eb85a51234be5535506620c9064edda57c81e2d1d229d5c1954b75",
+      "replacement": "The later narrative says the result reached the county clerk on December 19, between the vote and certification.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "2f4797d16712d380344862074fc9ff0160addbee1466563b8099a05c64898b6e",
+      "replacement": "Later accounts report December 20 certification or formation. The legal-history index infers its effective day from unofficial filing evidence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        7,
+        "detail"
+      ],
+      "expected_sha256": "2f4797d16712d380344862074fc9ff0160addbee1466563b8099a05c64898b6e",
+      "replacement": "Later accounts report December 20 certification or formation. The legal-history index infers its effective day from unofficial filing evidence.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "9145eb7c84bc82eb5f3ea51cf39d4774c5799ceea7fdf2b44072bb8d11977310",
+      "replacement": "Snyder reports a November 8, 1923 consolidation vote. That attributed date is separate from the court order and its later effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        8,
+        "detail"
+      ],
+      "expected_sha256": "9145eb7c84bc82eb5f3ea51cf39d4774c5799ceea7fdf2b44072bb8d11977310",
+      "replacement": "Snyder reports a November 8, 1923 consolidation vote. That attributed date is separate from the court order and its later effect.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        11,
+        "detail"
+      ],
+      "expected_sha256": "f3883de7515e424e325a92f39870a4f19ccd4450dc2cdd3327b0222fcb43421f",
+      "replacement": "The printed law gives August 6, 1941, while Assembly override proceedings give July 28. The conflicting accounts do not establish two separate legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "journey",
+        11,
+        "detail"
+      ],
+      "expected_sha256": "f3883de7515e424e325a92f39870a4f19ccd4450dc2cdd3327b0222fcb43421f",
+      "replacement": "The printed law gives August 6, 1941, while Assembly override proceedings give July 28. The conflicting accounts do not establish two separate legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "fa02e4004d235e087b7d3ecde50ab5aba6ecf071a956bca49f059b93aa35cf15",
+      "replacement": "The 1961 account credits Mrs. Tenney’s Linden Road sign and Ward’s recommendation. A German-resident explanation is another tradition; the original naming choice remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "editorial",
+        "2009",
+        "sidebar",
+        "fields",
+        "meaning",
+        "text"
+      ],
+      "expected_sha256": "fa02e4004d235e087b7d3ecde50ab5aba6ecf071a956bca49f059b93aa35cf15",
+      "replacement": "The 1961 account credits Mrs. Tenney’s Linden Road sign and Ward’s recommendation. A German-resident explanation is another tradition; the original naming choice remains unresolved.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "editorial",
+        "2007",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "a49270f0d5a8a7bd40fafb209ef426744d10fd27708b4e3274b62d4078c6e5ed",
+      "replacement": "The written result had to enter Union Township’s minutes before operation, followed by a separate certified county filing. The dates when those steps actually occurred remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "editorial",
+        "2007",
+        "journey",
+        4,
+        "detail"
+      ],
+      "expected_sha256": "a49270f0d5a8a7bd40fafb209ef426744d10fd27708b4e3274b62d4078c6e5ed",
+      "replacement": "The written result had to enter Union Township’s minutes before operation, followed by a separate certified county filing. The dates when those steps actually occurred remain unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1713",
+      "path": [
+        "views",
+        "1713",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "d9aae219e3a9b824fd0e6325d2479511727502155eb9d6ae852fa4b02fcf1bfb",
+      "replacement": "A later Salem example follows the shorter form already used alongside New Salem in the July 12, 1676 warrant.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1713",
+      "path": [
+        "views",
+        "1713",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "d9aae219e3a9b824fd0e6325d2479511727502155eb9d6ae852fa4b02fcf1bfb",
+      "replacement": "A later Salem example follows the shorter form already used alongside New Salem in the July 12, 1676 warrant.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "views",
+        "1715",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "e3c57aeaf52a0fbe0836509c895a6b5610c7fe87798062f557fc18bb00d34888",
+      "replacement": "Newspaper date reported in a later borough publication",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1715",
+      "path": [
+        "views",
+        "1715",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "e3c57aeaf52a0fbe0836509c895a6b5610c7fe87798062f557fc18bb00d34888",
+      "replacement": "Newspaper date reported in a later borough publication",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "views",
+        "1715",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "563328ffda7e5b3e62e55ceb02eb97e1ed6d910e03861e07c5ecf9595823ae04",
+      "replacement": "The later publication attributes Woods’s Town to an early newspaper advertisement; this account does not establish first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1715",
+      "path": [
+        "views",
+        "1715",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "563328ffda7e5b3e62e55ceb02eb97e1ed6d910e03861e07c5ecf9595823ae04",
+      "replacement": "The later publication attributes Woods’s Town to an early newspaper advertisement; this account does not establish first naming.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "1715",
+      "path": [
+        "views",
+        "1715",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "c96a87654b21cb0936bfae6222032282ed5d7608138f6da5d482b862ba13cd45",
+      "replacement": "Reported spelling variant",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "1715",
+      "path": [
+        "views",
+        "1715",
+        "events",
+        3,
+        "type"
+      ],
+      "expected_sha256": "c96a87654b21cb0936bfae6222032282ed5d7608138f6da5d482b862ba13cd45",
+      "replacement": "Reported spelling variant",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "50432db5c6db8f88beecb85ef976bef7d51d5e9483cc979ed8d350b06066aed6",
+      "replacement": "Earlier map year cited in a later survey",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "50432db5c6db8f88beecb85ef976bef7d51d5e9483cc979ed8d350b06066aed6",
+      "replacement": "Earlier map year cited in a later survey",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "8d2bf714bda86f070c1a304c0dcd67d2bf928ada0370e8b42300d899f216ebac",
+      "replacement": "Map publisher or company identified by a later survey; original proposer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        2,
+        "actor"
+      ],
+      "expected_sha256": "8d2bf714bda86f070c1a304c0dcd67d2bf928ada0370e8b42300d899f216ebac",
+      "replacement": "Map publisher or company identified by a later survey; original proposer unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "486c6ef6b6f8cfa3262391cc45f65fb7a1b1811dd1b2174098510513cadcbbe2",
+      "replacement": "The 2022 survey references Map No. 1 of Property of Berkeley Heights Improvement Company dated 1890 and filed February 19, 1891 as Map No. 66A.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        2,
+        "action"
+      ],
+      "expected_sha256": "486c6ef6b6f8cfa3262391cc45f65fb7a1b1811dd1b2174098510513cadcbbe2",
+      "replacement": "The 2022 survey references Map No. 1 of Property of Berkeley Heights Improvement Company dated 1890 and filed February 19, 1891 as Map No. 66A.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "bade7de5ccee27a1580dcac7e656d0fb7f0236f9dfda4c99a7a608b471cb5d7f",
+      "replacement": "The later survey gives an attributed pre-1951 company-name use, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "bade7de5ccee27a1580dcac7e656d0fb7f0236f9dfda4c99a7a608b471cb5d7f",
+      "replacement": "The later survey gives an attributed pre-1951 company-name use, without establishing first coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "9fd662806128db1946ae396e56d3fa6889b036880e62fb8576777f5041a5b6c6",
+      "replacement": "An older locality name became the township title in 1951; the exact first locality naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "9fd662806128db1946ae396e56d3fa6889b036880e62fb8576777f5041a5b6c6",
+      "replacement": "An older locality name became the township title in 1951; the exact first locality naming day remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "sources",
+        "S2339",
+        "author"
+      ],
+      "expected_sha256": "8ce0e03513c42876772d5b749cfbd21f44103eb5d74297aa6ddcd2cef55320b9",
+      "replacement": "John P. Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "sources",
+        "S2339",
+        "author"
+      ],
+      "expected_sha256": "8ce0e03513c42876772d5b749cfbd21f44103eb5d74297aa6ddcd2cef55320b9",
+      "replacement": "John P. Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "sources",
+        "S2339",
+        "title"
+      ],
+      "expected_sha256": "ecc18c9e39bc422098dc6ed8104dd9934ce4c868092087278f3791acf477b9c1",
+      "replacement": "The Story of New Jersey’s Civil Boundaries, 1606–1968 — Union County entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "sources",
+        "S2339",
+        "title"
+      ],
+      "expected_sha256": "ecc18c9e39bc422098dc6ed8104dd9934ce4c868092087278f3791acf477b9c1",
+      "replacement": "The Story of New Jersey’s Civil Boundaries, 1606–1968 — Union County entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "sources",
+        "S2359",
+        "author"
+      ],
+      "expected_sha256": "afa7aac6c4f5bcaee17a60ee4530b7dde5b550b2aff678881eb25bde14dc7b62",
+      "replacement": "John P. Snyder; New Jersey Bureau of Geology and Topography",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2001",
+      "path": [
+        "views",
+        "2001",
+        "sources",
+        "S2359",
+        "author"
+      ],
+      "expected_sha256": "afa7aac6c4f5bcaee17a60ee4530b7dde5b550b2aff678881eb25bde14dc7b62",
+      "replacement": "John P. Snyder; New Jersey Bureau of Geology and Topography",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "c27392cd3b37aea8548ec28707c52b814fce49c7da2314aa2ddec6d292a33322",
+      "replacement": "The Abraham Clark attribution comes through later histories; the statute names the township without explaining its honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "c27392cd3b37aea8548ec28707c52b814fce49c7da2314aa2ddec6d292a33322",
+      "replacement": "The Abraham Clark attribution comes through later histories; the statute names the township without explaining its honoree.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "681669e56dc632b374b171d8e6e72df47631cd87120b4c710e5cbd9f31aeffc0",
+      "replacement": "The act names Clark and creates the township from Rahway’s Fifth Ward, without identifying an original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "681669e56dc632b374b171d8e6e72df47631cd87120b4c710e5cbd9f31aeffc0",
+      "replacement": "The act names Clark and creates the township from Rahway’s Fifth Ward, without identifying an original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "8d604f5e64677d29a898ba5152f3663721fc3b0c3d8fefd163c4f61ed4fd3070",
+      "replacement": "The law establishes creation and immediate legal effect, separate from the later scheduled meetings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "8d604f5e64677d29a898ba5152f3663721fc3b0c3d8fefd163c4f61ed4fd3070",
+      "replacement": "The law establishes creation and immediate legal effect, separate from the later scheduled meetings.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "546bbe93fd6018edffb8ecf28687f3d0615946db2c6ef5b177f41b83099a01b7",
+      "replacement": "The printed August 6 passage statement conflicts with July 28 Assembly proceedings. These accounts do not establish two separate legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "546bbe93fd6018edffb8ecf28687f3d0615946db2c6ef5b177f41b83099a01b7",
+      "replacement": "The printed August 6 passage statement conflicts with July 28 Assembly proceedings. These accounts do not establish two separate legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "sources",
+        "S2339",
+        "author"
+      ],
+      "expected_sha256": "8ce0e03513c42876772d5b749cfbd21f44103eb5d74297aa6ddcd2cef55320b9",
+      "replacement": "John P. Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "sources",
+        "S2339",
+        "author"
+      ],
+      "expected_sha256": "8ce0e03513c42876772d5b749cfbd21f44103eb5d74297aa6ddcd2cef55320b9",
+      "replacement": "John P. Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "sources",
+        "S2339",
+        "title"
+      ],
+      "expected_sha256": "ecc18c9e39bc422098dc6ed8104dd9934ce4c868092087278f3791acf477b9c1",
+      "replacement": "The Story of New Jersey’s Civil Boundaries, 1606–1968 — Union County entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2002",
+      "path": [
+        "views",
+        "2002",
+        "sources",
+        "S2339",
+        "title"
+      ],
+      "expected_sha256": "ecc18c9e39bc422098dc6ed8104dd9934ce4c868092087278f3791acf477b9c1",
+      "replacement": "The Story of New Jersey’s Civil Boundaries, 1606–1968 — Union County entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "32594c0561ebaff0a930fef557447efc074997a9fc67935573b1ecb14bc6f71c",
+      "replacement": "Name-use year reported in retrospective accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "32594c0561ebaff0a930fef557447efc074997a9fc67935573b1ecb14bc6f71c",
+      "replacement": "Name-use year reported in retrospective accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "635f56d502680983b85e28852524a1e28c9de5dcd5b1f0d813427ce7223c345f",
+      "replacement": "Later narratives place Cranford’s depot name before township creation, without establishing its first use or original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "635f56d502680983b85e28852524a1e28c9de5dcd5b1f0d813427ce7223c345f",
+      "replacement": "Later narratives place Cranford’s depot name before township creation, without establishing its first use or original proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "0f321f4e4b272837ed68630d7cdf897a3d2b921cf29a63651139bf69fb9597eb",
+      "replacement": "The 2003 Natural Resources Inventory reports Cranford narrowly defeating Riverdale; Bary describes a local meeting and post-office adoption. An 1894 reminiscence instead credits the railway, while Fridlington challenges familiar naming stories. The accounts’ exact relationship remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "0f321f4e4b272837ed68630d7cdf897a3d2b921cf29a63651139bf69fb9597eb",
+      "replacement": "The 2003 Natural Resources Inventory reports Cranford narrowly defeating Riverdale; Bary describes a local meeting and post-office adoption. An 1894 reminiscence instead credits the railway, while Fridlington challenges familiar naming stories. The accounts’ exact relationship remains unknown.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "ad7983415229e5bf75966eaefc51a85c16d955d1a44d46cd243ced0d1b579e1f",
+      "replacement": "The local meeting, postal change and railway attribution come from later accounts, without establishing the first proposer or exact mechanism.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "ad7983415229e5bf75966eaefc51a85c16d955d1a44d46cd243ced0d1b579e1f",
+      "replacement": "The local meeting, postal change and railway attribution come from later accounts, without establishing the first proposer or exact mechanism.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "4078c62ebd643a9ba267b0398972bbc907fbc003bb368dadbfe2521893fc7832",
+      "replacement": "The law names Kenilworth and makes incorporation dependent on majority local acceptance, separate from legislative approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "4078c62ebd643a9ba267b0398972bbc907fbc003bb368dadbfe2521893fc7832",
+      "replacement": "The law names Kenilworth and makes incorporation dependent on majority local acceptance, separate from legislative approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "6fb28680055d7bc30f682f76d05374a28d68f1fb7cf6905b7b36136ff548db21",
+      "replacement": "Referendum day reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "6fb28680055d7bc30f682f76d05374a28d68f1fb7cf6905b7b36136ff548db21",
+      "replacement": "Referendum day reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S1802",
+        "author"
+      ],
+      "expected_sha256": "2754655be119a2dcae7267154726cde4da320d8b3f04231e2b0dacc0b5c5aa2d",
+      "replacement": "Attributed to the Township of Cranford",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S1802",
+        "author"
+      ],
+      "expected_sha256": "2754655be119a2dcae7267154726cde4da320d8b3f04231e2b0dacc0b5c5aa2d",
+      "replacement": "Attributed to the Township of Cranford",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S1802",
+        "title"
+      ],
+      "expected_sha256": "eab9de389588e46daf4ce71ad12f4d91a51aebb6f55042e3efeec38e663fa9f6",
+      "replacement": "Historic Preservation Element",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S1802",
+        "title"
+      ],
+      "expected_sha256": "eab9de389588e46daf4ce71ad12f4d91a51aebb6f55042e3efeec38e663fa9f6",
+      "replacement": "Historic Preservation Element",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S1802",
+        "publication"
+      ],
+      "expected_sha256": "7c68d4724e8bbafe2a121a8517dcd5deed43f140e311176a1aae85c59e9515a7",
+      "replacement": "2022 (provisional attribution); publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S1802",
+        "publication"
+      ],
+      "expected_sha256": "7c68d4724e8bbafe2a121a8517dcd5deed43f140e311176a1aae85c59e9515a7",
+      "replacement": "2022 (provisional attribution); publication date unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S1814",
+        "publication"
+      ],
+      "expected_sha256": "555f7894aab24ddc1401d89243fa6804f1170b1c7b0f8eb32a1d699a5049de2a",
+      "replacement": "Undated four-page essay; references include 2015 communications",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S1814",
+        "publication"
+      ],
+      "expected_sha256": "555f7894aab24ddc1401d89243fa6804f1170b1c7b0f8eb32a1d699a5049de2a",
+      "replacement": "Undated four-page essay; references include 2015 communications",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S2339",
+        "author"
+      ],
+      "expected_sha256": "8ce0e03513c42876772d5b749cfbd21f44103eb5d74297aa6ddcd2cef55320b9",
+      "replacement": "John P. Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S2339",
+        "author"
+      ],
+      "expected_sha256": "8ce0e03513c42876772d5b749cfbd21f44103eb5d74297aa6ddcd2cef55320b9",
+      "replacement": "John P. Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S2339",
+        "title"
+      ],
+      "expected_sha256": "ecc18c9e39bc422098dc6ed8104dd9934ce4c868092087278f3791acf477b9c1",
+      "replacement": "The Story of New Jersey’s Civil Boundaries, 1606–1968 — Union County entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S2339",
+        "title"
+      ],
+      "expected_sha256": "ecc18c9e39bc422098dc6ed8104dd9934ce4c868092087278f3791acf477b9c1",
+      "replacement": "The Story of New Jersey’s Civil Boundaries, 1606–1968 — Union County entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S2345",
+        "publication"
+      ],
+      "expected_sha256": "e6e91f8d6eefd023967f8b644fc7b882c253ef0e6e0fb711c77cb536ee0ac043",
+      "replacement": "Undated essay",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S2345",
+        "publication"
+      ],
+      "expected_sha256": "e6e91f8d6eefd023967f8b644fc7b882c253ef0e6e0fb711c77cb536ee0ac043",
+      "replacement": "Undated essay",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S2347",
+        "publication"
+      ],
+      "expected_sha256": "8af46bc3129c62beb942d95aba8d17cf29519e8a6811016205a2d2f3e8489cb6",
+      "replacement": "Undated essay; bibliography includes a Spring 2014 work",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2003",
+      "path": [
+        "views",
+        "2003",
+        "sources",
+        "S2347",
+        "publication"
+      ],
+      "expected_sha256": "8af46bc3129c62beb942d95aba8d17cf29519e8a6811016205a2d2f3e8489cb6",
+      "replacement": "Undated essay; bibliography includes a Spring 2014 work",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "393594d5d167d97f9dace810aef49da629589d2ea2580acd77f2eb5091901220",
+      "replacement": "Settlement naming year reported in later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "393594d5d167d97f9dace810aef49da629589d2ea2580acd77f2eb5091901220",
+      "replacement": "Settlement naming year reported in later history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "5e3dcd25ebbcef37b1ed89aaabad53f9d69e8a9da81c3be6e6976d2d4cdfabf9",
+      "replacement": "Later official history attributes the early settlement name to Lady Elizabeth Carteret, without identifying the first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "5e3dcd25ebbcef37b1ed89aaabad53f9d69e8a9da81c3be6e6976d2d4cdfabf9",
+      "replacement": "Later official history attributes the early settlement name to Lady Elizabeth Carteret, without identifying the first proposer.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "1649262e70ce97196147a46ba35b911b7bc4bcda22d3efefdf23be85d91d273f",
+      "replacement": "Later accounts describe the shorter Elizabeth form in the 1740 Free Borough and Town title, following earlier Elizabethtown and indexed Elizabeth Town Township usage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        1,
+        "action"
+      ],
+      "expected_sha256": "1649262e70ce97196147a46ba35b911b7bc4bcda22d3efefdf23be85d91d273f",
+      "replacement": "Later accounts describe the shorter Elizabeth form in the 1740 Free Borough and Town title, following earlier Elizabethtown and indexed Elizabeth Town Township usage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "b2ef42ea6dd60d5d0482cc8f6eded3638867e7b2988eee097989ab7f60dae433",
+      "replacement": "Related settlement and government forms span this broad period, without establishing a single shortening day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "b2ef42ea6dd60d5d0482cc8f6eded3638867e7b2988eee097989ab7f60dae433",
+      "replacement": "Related settlement and government forms span this broad period, without establishing a single shortening day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "ff68b85cb13b5201900bbfe04666ddb9d80ab649d2938b9648e3ce1fb366b3ee",
+      "replacement": "Approval date reported by a legal-history index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "ff68b85cb13b5201900bbfe04666ddb9d80ab649d2938b9648e3ce1fb366b3ee",
+      "replacement": "Approval date reported by a legal-history index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "6fd5e56fe8f02d1342b7975b28c56196f5edf7b5b1d1246dd103c02852af277a",
+      "replacement": "Charter date reported by Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "6fd5e56fe8f02d1342b7975b28c56196f5edf7b5b1d1246dd103c02852af277a",
+      "replacement": "Charter date reported by Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "d7a679bd3678ce4ce13fbceae3636dcf10a99ea5883d7d64fb4da863050dbec8",
+      "replacement": "Royal colonial authority, as reported in later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        3,
+        "actor"
+      ],
+      "expected_sha256": "d7a679bd3678ce4ce13fbceae3636dcf10a99ea5883d7d64fb4da863050dbec8",
+      "replacement": "Royal colonial authority, as reported in later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "e7f37368fec3be8e8019d5e95e2a7672ad316a3a1a9fe28ba9dfea487ee861a8",
+      "replacement": "Snyder reports borough chartering on February 8, 1740. A municipal-history account gives the title Free Borough and Town of Elizabeth.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        3,
+        "action"
+      ],
+      "expected_sha256": "e7f37368fec3be8e8019d5e95e2a7672ad316a3a1a9fe28ba9dfea487ee861a8",
+      "replacement": "Snyder reports borough chartering on February 8, 1740. A municipal-history account gives the title Free Borough and Town of Elizabeth.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "60d35001ee8909e63d8a2b6ed56633036edfbf6ae1db416e90d30409e539818e",
+      "replacement": "Act date reported by a legal-history index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "60d35001ee8909e63d8a2b6ed56633036edfbf6ae1db416e90d30409e539818e",
+      "replacement": "Act date reported by a legal-history index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "aff6af5312c0ab95d1bc2b9769cba8918f77de3a26aa5f653f4923039001037a",
+      "replacement": "The indexed May 1793 legislative stage is separate from the later April 1794 formation date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "aff6af5312c0ab95d1bc2b9769cba8918f77de3a26aa5f653f4923039001037a",
+      "replacement": "The indexed May 1793 legislative stage is separate from the later April 1794 formation date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "222a5018c1be8f2c6ef1713bfa493f07e53ea5257078b7c69acbd9ba25e937c3",
+      "replacement": "Printed passage date in the 1800 statutory revision",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "222a5018c1be8f2c6ef1713bfa493f07e53ea5257078b7c69acbd9ba25e937c3",
+      "replacement": "Printed passage date in the 1800 statutory revision",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "688449597a5d2309c8d0725ef8823b465400402d93084025efd0fc4d002f6eff",
+      "replacement": "Township creation is separate from the later 1798 continuation and 1903 borough stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        5,
+        "significance"
+      ],
+      "expected_sha256": "688449597a5d2309c8d0725ef8823b465400402d93084025efd0fc4d002f6eff",
+      "replacement": "Township creation is separate from the later 1798 continuation and 1903 borough stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "1598e52c57830e235d42b3ec9cb9b65780ef4d5bdcc8276eb983062bf0fcbcb0",
+      "replacement": "Supplemental-act date reported by a legal-history index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "1598e52c57830e235d42b3ec9cb9b65780ef4d5bdcc8276eb983062bf0fcbcb0",
+      "replacement": "Supplemental-act date reported by a legal-history index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "7e189f9d8ec7608b6fa8dad7300704ff1a8bc035862612c19ae4c14f1f78277b",
+      "replacement": "Day reported by Snyder and Ricord",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "7e189f9d8ec7608b6fa8dad7300704ff1a8bc035862612c19ae4c14f1f78277b",
+      "replacement": "Day reported by Snyder and Ricord",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "f3a55a3759fb10c5cde71aeafad9b3f1bab1207b6e91b29afd38bf1646d7ea3c",
+      "replacement": "Snyder p.240 reports Rahway Township formed from Elizabeth and Westfield townships on February 27, 1804 and cites the 1811 compilation p.112. Ricord’s later history also reports that date; repetition does not establish independent contemporary accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        7,
+        "action"
+      ],
+      "expected_sha256": "f3a55a3759fb10c5cde71aeafad9b3f1bab1207b6e91b29afd38bf1646d7ea3c",
+      "replacement": "Snyder p.240 reports Rahway Township formed from Elizabeth and Westfield townships on February 27, 1804 and cites the 1811 compilation p.112. Ricord’s later history also reports that date; repetition does not establish independent contemporary accounts.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "fb50d467347716e8e8a9e687eab6cf181ca6926c59a4e1f1174d7a471f9c4cd5",
+      "replacement": "Printed passage date in the 1811 statutory compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "fb50d467347716e8e8a9e687eab6cf181ca6926c59a4e1f1174d7a471f9c4cd5",
+      "replacement": "Printed passage date in the 1811 statutory compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "119025c6cb8a3c2b1319ff0d3c28caa9b79ed64aece758f223a7c7a75c9dc15f",
+      "replacement": "The compilation names Union and describes territory taken from the borough of Elizabeth.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        8,
+        "significance"
+      ],
+      "expected_sha256": "119025c6cb8a3c2b1319ff0d3c28caa9b79ed64aece758f223a7c7a75c9dc15f",
+      "replacement": "The compilation names Union and describes territory taken from the borough of Elizabeth.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "ee5febe8cf81f034f6dea9be817d51c4bb11b426b4b7e95d684799eaff71ef49",
+      "replacement": "The enabling charter required a vote; the election and its legislative validation were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "ee5febe8cf81f034f6dea9be817d51c4bb11b426b4b7e95d684799eaff71ef49",
+      "replacement": "The enabling charter required a vote; the election and its legislative validation were separate stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "a07057c1b338152878852c11f15885c85564ea3c24d5d916614758232d9f68bc",
+      "replacement": "The law validates the earlier election and result after doubts about the judges’ authority, separately from charter approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "a07057c1b338152878852c11f15885c85564ea3c24d5d916614758232d9f68bc",
+      "replacement": "The law validates the earlier election and result after doubts about the judges’ authority, separately from charter approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        13,
+        "action"
+      ],
+      "expected_sha256": "08a32ad96510a0d129c68d95fc65794db928e0aedb7a0d023eb987c7fa5c451a",
+      "replacement": "Section 4 prescribes public canvass on the Monday after election, calculated April 16. The later official founding history reports Elias Darby declared mayor on April 16; that is an attributed account of the outcome.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "events",
+        13,
+        "action"
+      ],
+      "expected_sha256": "08a32ad96510a0d129c68d95fc65794db928e0aedb7a0d023eb987c7fa5c451a",
+      "replacement": "Section 4 prescribes public canvass on the Monday after election, calculated April 16. The later official founding history reports Elias Darby declared mayor on April 16; that is an attributed account of the outcome.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S1869",
+        "publication"
+      ],
+      "expected_sha256": "00b37d03b6b9fab4578b0c3f3476dd0ac21ae1bd82a7f1f5c84abbf77fd91faa",
+      "replacement": "1923; foreword dated January 6, 1923",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S1869",
+        "publication"
+      ],
+      "expected_sha256": "00b37d03b6b9fab4578b0c3f3476dd0ac21ae1bd82a7f1f5c84abbf77fd91faa",
+      "replacement": "1923; foreword dated January 6, 1923",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2339",
+        "author"
+      ],
+      "expected_sha256": "8ce0e03513c42876772d5b749cfbd21f44103eb5d74297aa6ddcd2cef55320b9",
+      "replacement": "John P. Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2339",
+        "author"
+      ],
+      "expected_sha256": "8ce0e03513c42876772d5b749cfbd21f44103eb5d74297aa6ddcd2cef55320b9",
+      "replacement": "John P. Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2339",
+        "title"
+      ],
+      "expected_sha256": "ecc18c9e39bc422098dc6ed8104dd9934ce4c868092087278f3791acf477b9c1",
+      "replacement": "The Story of New Jersey’s Civil Boundaries, 1606–1968 — Union County entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2339",
+        "title"
+      ],
+      "expected_sha256": "ecc18c9e39bc422098dc6ed8104dd9934ce4c868092087278f3791acf477b9c1",
+      "replacement": "The Story of New Jersey’s Civil Boundaries, 1606–1968 — Union County entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2348",
+        "title"
+      ],
+      "expected_sha256": "c43f0d51caa24147e0a06f8a12469e256afd437e02f39367e30ccd72b69e9b87",
+      "replacement": "An act to establish the city of Elizabeth — chapter 95",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2348",
+        "title"
+      ],
+      "expected_sha256": "c43f0d51caa24147e0a06f8a12469e256afd437e02f39367e30ccd72b69e9b87",
+      "replacement": "An act to establish the city of Elizabeth — chapter 95",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2376",
+        "author"
+      ],
+      "expected_sha256": "afa7aac6c4f5bcaee17a60ee4530b7dde5b550b2aff678881eb25bde14dc7b62",
+      "replacement": "John P. Snyder; New Jersey Bureau of Geology and Topography",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2376",
+        "author"
+      ],
+      "expected_sha256": "afa7aac6c4f5bcaee17a60ee4530b7dde5b550b2aff678881eb25bde14dc7b62",
+      "replacement": "John P. Snyder; New Jersey Bureau of Geology and Topography",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2382",
+        "title"
+      ],
+      "expected_sha256": "1c717431089a2b658930ffa2ad1ab34f71d30e2d51d7f20b5305e5b2ffa196de",
+      "replacement": "Laws of the State of New-Jersey — 1794 Westfield and 1798 township entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2382",
+        "title"
+      ],
+      "expected_sha256": "1c717431089a2b658930ffa2ad1ab34f71d30e2d51d7f20b5305e5b2ffa196de",
+      "replacement": "Laws of the State of New-Jersey — 1794 Westfield and 1798 township entries",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2382",
+        "publication"
+      ],
+      "expected_sha256": "be2a03390c35b527bf955a9073bfa112cdf83eb5a8f85c4c1112bcbeeb016c0d",
+      "replacement": "1800; Newark, printed by Matthias Day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2004",
+      "path": [
+        "views",
+        "2004",
+        "sources",
+        "S2382",
+        "publication"
+      ],
+      "expected_sha256": "be2a03390c35b527bf955a9073bfa112cdf83eb5a8f85c4c1112bcbeeb016c0d",
+      "replacement": "1800; Newark, printed by Matthias Day",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "1a0f806d33cdc0c003555459e05ad890b17591156f6a4d3bb8f1bd079cdb5f30",
+      "replacement": "Newspaper date reported in a later nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "1a0f806d33cdc0c003555459e05ad890b17591156f6a4d3bb8f1bd079cdb5f30",
+      "replacement": "Newspaper date reported in a later nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "3ab213e35beae5e1250396b12cd0a359447faa34189d89857ca4e0f412b86cc9",
+      "replacement": "The nomination gives an attributed early Fanwood Park use, without establishing first use or the original coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "3ab213e35beae5e1250396b12cd0a359447faa34189d89857ca4e0f412b86cc9",
+      "replacement": "The nomination gives an attributed early Fanwood Park use, without establishing first use or the original coiner.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "f6fa3ebc8dc56bab8c6eaa228a0f5cbe60146597d5bd5fdde2cd421b1460aee5",
+      "replacement": "Advertisement publication date reported in a later nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "f6fa3ebc8dc56bab8c6eaa228a0f5cbe60146597d5bd5fdde2cd421b1460aee5",
+      "replacement": "Advertisement publication date reported in a later nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "f9006e768b3132fa4b447b7dca23244032c70c4045a821ca4dedb6bb5b48e598",
+      "replacement": "Advertisement publication was separate from the planned October 6 sale and does not establish the station’s naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "f9006e768b3132fa4b447b7dca23244032c70c4045a821ca4dedb6bb5b48e598",
+      "replacement": "Advertisement publication was separate from the planned October 6 sale and does not establish the station’s naming day.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "6a40f02b822df22bbccfa301c454a241e5dddc393284b2ee44d59e009a370b75",
+      "replacement": "Township creation in 1878 was separate from the later borough stages in 1895.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "6a40f02b822df22bbccfa301c454a241e5dddc393284b2ee44d59e009a370b75",
+      "replacement": "Township creation in 1878 was separate from the later borough stages in 1895.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "817673fc8a3ace202ffb488eb477eb81ecc844e748c63a5a59efb0e0e8e8639d",
+      "replacement": "Election day reported by later sources and index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "817673fc8a3ace202ffb488eb477eb81ecc844e748c63a5a59efb0e0e8e8639d",
+      "replacement": "Election day reported by later sources and index",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "d67ca31a1ba719a60fdec61579688f86eec2a2cd2d2763de0af6f6056e97f478",
+      "replacement": "The reported formation and inferred filing day remain distinct accounts; an inference does not establish an exact legal effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        4,
+        "significance"
+      ],
+      "expected_sha256": "d67ca31a1ba719a60fdec61579688f86eec2a2cd2d2763de0af6f6056e97f478",
+      "replacement": "The reported formation and inferred filing day remain distinct accounts; an inference does not establish an exact legal effective date.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "4c22b8585b10727738fcd40243a1fb40500863aa120e943ef949ff1a8cf1fb52",
+      "replacement": "First council meeting date reported by municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "4c22b8585b10727738fcd40243a1fb40500863aa120e943ef949ff1a8cf1fb52",
+      "replacement": "First council meeting date reported by municipal history",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "fdb77c4e1fb239518ccb3448915a0227c447c9527166ec6758362614a6625cd1",
+      "replacement": "Relative statutory schedule; actual occurrence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "fdb77c4e1fb239518ccb3448915a0227c447c9527166ec6758362614a6625cd1",
+      "replacement": "Relative statutory schedule; actual occurrence unknown",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "sources",
+        "S1809",
+        "author"
+      ],
+      "expected_sha256": "cc3dbaf08725f4517acb3662093971332e44a4640aca37bc8358648cb49a5257",
+      "replacement": "Living Places; adapted from a National Register nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2005",
+      "path": [
+        "views",
+        "2005",
+        "sources",
+        "S1809",
+        "author"
+      ],
+      "expected_sha256": "cc3dbaf08725f4517acb3662093971332e44a4640aca37bc8358648cb49a5257",
+      "replacement": "Living Places; adapted from a National Register nomination",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2006",
+      "path": [
+        "views",
+        "2006",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cd91f4d42a6c58918c22b4b4d6aaf97b567531f69d4aa56d6a5f01eb66d299c9",
+      "replacement": "Company year reported by later histories",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2006",
+      "path": [
+        "views",
+        "2006",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "cd91f4d42a6c58918c22b4b4d6aaf97b567531f69d4aa56d6a5f01eb66d299c9",
+      "replacement": "Company year reported by later histories",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2006",
+      "path": [
+        "views",
+        "2006",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "f8e5ff2155eec267362e8b5851083fc64a1b9269943060c9b108698dbc1973f8",
+      "replacement": "The company year comes from later histories; it does not establish first name use or coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2006",
+      "path": [
+        "views",
+        "2006",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "f8e5ff2155eec267362e8b5851083fc64a1b9269943060c9b108698dbc1973f8",
+      "replacement": "The company year comes from later histories; it does not establish first name use or coinage.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2006",
+      "path": [
+        "views",
+        "2006",
+        "sources",
+        "S1814",
+        "publication"
+      ],
+      "expected_sha256": "555f7894aab24ddc1401d89243fa6804f1170b1c7b0f8eb32a1d699a5049de2a",
+      "replacement": "Undated four-page essay; references include 2015 communications",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2006",
+      "path": [
+        "views",
+        "2006",
+        "sources",
+        "S1814",
+        "publication"
+      ],
+      "expected_sha256": "555f7894aab24ddc1401d89243fa6804f1170b1c7b0f8eb32a1d699a5049de2a",
+      "replacement": "Undated four-page essay; references include 2015 communications",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "f7bb14d7aec183c06aac83203f2f2f8276beeffd9ff40424b95584a0e95448a9",
+      "replacement": "Failed-bill year reported by a later pamphlet",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "events",
+        1,
+        "precision"
+      ],
+      "expected_sha256": "f7bb14d7aec183c06aac83203f2f2f8276beeffd9ff40424b95584a0e95448a9",
+      "replacement": "Failed-bill year reported by a later pamphlet",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "4abd08d3915dc222a42d239c5e741eddffe6c2bf1c42f2b614128c03926f32cd",
+      "replacement": "The law names Hillside and sets conditions for incorporation, without establishing the name’s first-ever use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "events",
+        2,
+        "significance"
+      ],
+      "expected_sha256": "4abd08d3915dc222a42d239c5e741eddffe6c2bf1c42f2b614128c03926f32cd",
+      "replacement": "The law names Hillside and sets conditions for incorporation, without establishing the name’s first-ever use.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "601d22b19710fd118331d48ad724a11e5745e3ed48bd1ae695dd64727ae5c903",
+      "replacement": "Referendum day reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "events",
+        3,
+        "precision"
+      ],
+      "expected_sha256": "601d22b19710fd118331d48ad724a11e5745e3ed48bd1ae695dd64727ae5c903",
+      "replacement": "Referendum day reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6b7a92f5bef2cbc861f37063ddbccf8ccaaee19ea67ab2cd2a4b5047f16e58a0",
+      "replacement": "The reported local vote was separate from approval of the conditional act and its recording requirements.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6b7a92f5bef2cbc861f37063ddbccf8ccaaee19ea67ab2cd2a4b5047f16e58a0",
+      "replacement": "The reported local vote was separate from approval of the conditional act and its recording requirements.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1816",
+        "author"
+      ],
+      "expected_sha256": "eff848ef3b052cb6b3695b96ce533f29e3d0bb7a2db9a8af92027c6c74fa7c03",
+      "replacement": "Union County Planning Board",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1816",
+        "author"
+      ],
+      "expected_sha256": "eff848ef3b052cb6b3695b96ce533f29e3d0bb7a2db9a8af92027c6c74fa7c03",
+      "replacement": "Union County Planning Board",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1816",
+        "publication"
+      ],
+      "expected_sha256": "13f2cf9d9825c5d11431569517554d383e052e615edecabf8aef2292269ac0ad",
+      "replacement": "Undated excerpt; mentions 1970 population and 1971 museum dedication",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1816",
+        "publication"
+      ],
+      "expected_sha256": "13f2cf9d9825c5d11431569517554d383e052e615edecabf8aef2292269ac0ad",
+      "replacement": "Undated excerpt; mentions 1970 population and 1971 museum dedication",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1817",
+        "publication"
+      ],
+      "expected_sha256": "e4678fd7978016b9643c0f0ccf2e40d3e8443492afa44e551263563e0ed29d84",
+      "replacement": "Undated catalogue entry",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1817",
+        "publication"
+      ],
+      "expected_sha256": "e4678fd7978016b9643c0f0ccf2e40d3e8443492afa44e551263563e0ed29d84",
+      "replacement": "Undated catalogue entry",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1818",
+        "author"
+      ],
+      "expected_sha256": "0592a5736ecdd157c59ae87aa78281c8943a865cfb64be9b60cb83c5ad8d86bf",
+      "replacement": "Author unidentified; hosted by Hillside Historical Society",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1818",
+        "author"
+      ],
+      "expected_sha256": "0592a5736ecdd157c59ae87aa78281c8943a865cfb64be9b60cb83c5ad8d86bf",
+      "replacement": "Author unidentified; hosted by Hillside Historical Society",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1818",
+        "publication"
+      ],
+      "expected_sha256": "d0c17cd3c2d80fd44264aca76a63cf2f4a12f629b13e3ed330765e318b8def77",
+      "replacement": "Undated; includes April 10 and September 1958 accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1818",
+        "publication"
+      ],
+      "expected_sha256": "d0c17cd3c2d80fd44264aca76a63cf2f4a12f629b13e3ed330765e318b8def77",
+      "replacement": "Undated; includes April 10 and September 1958 accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1819",
+        "publication"
+      ],
+      "expected_sha256": "5f0dcec1f14a9afbb6b812291460888f29eb8a8df33976bc2d3e65fa83ee7ebc",
+      "replacement": "May 1945 reissue",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2007",
+      "path": [
+        "views",
+        "2007",
+        "sources",
+        "S1819",
+        "publication"
+      ],
+      "expected_sha256": "5f0dcec1f14a9afbb6b812291460888f29eb8a8df33976bc2d3e65fa83ee7ebc",
+      "replacement": "May 1945 reissue",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "18810625b5f9c36d9521019f1faff76174a2fe7da77cffa6fb8f4d4c6b2e05e8",
+      "replacement": "Company and community adoption year reported by later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        0,
+        "precision"
+      ],
+      "expected_sha256": "18810625b5f9c36d9521019f1faff76174a2fe7da77cffa6fb8f4d4c6b2e05e8",
+      "replacement": "Company and community adoption year reported by later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "6fac4b69038303c82f18d8c9b04cac690774f5a51d604a2c7eedca079a291761",
+      "replacement": "The 1904 use is attributed to later accounts; the 1907 law separately names the borough and company.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        0,
+        "significance"
+      ],
+      "expected_sha256": "6fac4b69038303c82f18d8c9b04cac690774f5a51d604a2c7eedca079a291761",
+      "replacement": "The 1904 use is attributed to later accounts; the 1907 law separately names the borough and company.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "4078c62ebd643a9ba267b0398972bbc907fbc003bb368dadbfe2521893fc7832",
+      "replacement": "The law names Kenilworth and makes incorporation dependent on majority local acceptance, separate from legislative approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        1,
+        "significance"
+      ],
+      "expected_sha256": "4078c62ebd643a9ba267b0398972bbc907fbc003bb368dadbfe2521893fc7832",
+      "replacement": "The law names Kenilworth and makes incorporation dependent on majority local acceptance, separate from legislative approval.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "6fb28680055d7bc30f682f76d05374a28d68f1fb7cf6905b7b36136ff548db21",
+      "replacement": "Referendum day reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        2,
+        "precision"
+      ],
+      "expected_sha256": "6fb28680055d7bc30f682f76d05374a28d68f1fb7cf6905b7b36136ff548db21",
+      "replacement": "Referendum day reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6674589f5852ea83abe00df85de687c8714ec447b533ed3af77e8a525917d007",
+      "replacement": "The attributed connection passes through a developers’ club and Scott’s novel to the English castle.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "events",
+        3,
+        "significance"
+      ],
+      "expected_sha256": "6674589f5852ea83abe00df85de687c8714ec447b533ed3af77e8a525917d007",
+      "replacement": "The attributed connection passes through a developers’ club and Scott’s novel to the English castle.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "sources",
+        "S1814",
+        "publication"
+      ],
+      "expected_sha256": "555f7894aab24ddc1401d89243fa6804f1170b1c7b0f8eb32a1d699a5049de2a",
+      "replacement": "Undated four-page essay; references include 2015 communications",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "sources",
+        "S1814",
+        "publication"
+      ],
+      "expected_sha256": "555f7894aab24ddc1401d89243fa6804f1170b1c7b0f8eb32a1d699a5049de2a",
+      "replacement": "Undated four-page essay; references include 2015 communications",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "sources",
+        "S1823",
+        "publication"
+      ],
+      "expected_sha256": "b77dc90b0786fc65ba10a8849c4af445fdcd447784715de20fff01f728e8c2fa",
+      "replacement": "June 17, 1982 supplement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2008",
+      "path": [
+        "views",
+        "2008",
+        "sources",
+        "S1823",
+        "publication"
+      ],
+      "expected_sha256": "b77dc90b0786fc65ba10a8849c4af445fdcd447784715de20fff01f728e8c2fa",
+      "replacement": "June 17, 1982 supplement",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "298c8068fec71c1e8907224825553ee62727b5b22ee981c11e8ba1c2da6f3e1b",
+      "replacement": "Formation date reported in a later compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        4,
+        "precision"
+      ],
+      "expected_sha256": "298c8068fec71c1e8907224825553ee62727b5b22ee981c11e8ba1c2da6f3e1b",
+      "replacement": "Formation date reported in a later compilation",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "1295574341b96d5a57c1c7562640a46ec9a238d156ce52aec19eb8437fcc9af1",
+      "replacement": "Election day reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        5,
+        "precision"
+      ],
+      "expected_sha256": "1295574341b96d5a57c1c7562640a46ec9a238d156ce52aec19eb8437fcc9af1",
+      "replacement": "Election day reported by later sources",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "17d93b7045519b6588c32341081bf33e9b8c1e40d6e5dd6906373666a2d7475a",
+      "replacement": "Reporting date in the later centennial account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        6,
+        "precision"
+      ],
+      "expected_sha256": "17d93b7045519b6588c32341081bf33e9b8c1e40d6e5dd6906373666a2d7475a",
+      "replacement": "Reporting date in the later centennial account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "7cd116c5e320f72dd578b90d2fc72f17dbc58cb61496b3f37ff93ca31fe65914",
+      "replacement": "Certification and incorporation date reported by later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        7,
+        "precision"
+      ],
+      "expected_sha256": "7cd116c5e320f72dd578b90d2fc72f17dbc58cb61496b3f37ff93ca31fe65914",
+      "replacement": "Certification and incorporation date reported by later accounts",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "8179d825e94bcfa35ec40d6055e768b1e6cc760a79131678e668aaaded1979ab",
+      "replacement": "Roselle formed from Linden Township; reported certification was separate from voting and delivery of the result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        7,
+        "significance"
+      ],
+      "expected_sha256": "8179d825e94bcfa35ec40d6055e768b1e6cc760a79131678e668aaaded1979ab",
+      "replacement": "Roselle formed from Linden Township; reported certification was separate from voting and delivery of the result.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "10be873257c0ba8525528be9689e7bbe5b03ebf0131a06583dc95e3d48a6600c",
+      "replacement": "Referendum day reported by Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        8,
+        "precision"
+      ],
+      "expected_sha256": "10be873257c0ba8525528be9689e7bbe5b03ebf0131a06583dc95e3d48a6600c",
+      "replacement": "Referendum day reported by Snyder",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "a2e5139a14ffde83cfc1bd1b717cc01b1c6a9c6eb3b3ef7d4db822b1e571e2f8",
+      "replacement": "The official notice describes a court order with a later effective day, rather than a new special legislative consolidation act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        9,
+        "significance"
+      ],
+      "expected_sha256": "a2e5139a14ffde83cfc1bd1b717cc01b1c6a9c6eb3b3ef7d4db822b1e571e2f8",
+      "replacement": "The official notice describes a court order with a later effective day, rather than a new special legislative consolidation act.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "546bbe93fd6018edffb8ecf28687f3d0615946db2c6ef5b177f41b83099a01b7",
+      "replacement": "The printed August 6 passage statement conflicts with July 28 Assembly proceedings. These accounts do not establish two separate legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "events",
+        11,
+        "significance"
+      ],
+      "expected_sha256": "546bbe93fd6018edffb8ecf28687f3d0615946db2c6ef5b177f41b83099a01b7",
+      "replacement": "The printed August 6 passage statement conflicts with July 28 Assembly proceedings. These accounts do not establish two separate legal stages.",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1825",
+        "title"
+      ],
+      "expected_sha256": "ecc6f2a0b0d8dbf32659c7b5f53fe6f3216d3934f4d17b3915dfa3b1b3e10f8d",
+      "replacement": "1861–1961 Linden: Looking Back to Look Ahead — naming account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1825",
+        "title"
+      ],
+      "expected_sha256": "ecc6f2a0b0d8dbf32659c7b5f53fe6f3216d3934f4d17b3915dfa3b1b3e10f8d",
+      "replacement": "1861–1961 Linden: Looking Back to Look Ahead — naming account",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1826",
+        "author"
+      ],
+      "expected_sha256": "5d1dc4e3b60f74c8c250537d40f81dae09d1a3cac078c689dd9ac04725c15039",
+      "replacement": "Linden High School",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1826",
+        "author"
+      ],
+      "expected_sha256": "5d1dc4e3b60f74c8c250537d40f81dae09d1a3cac078c689dd9ac04725c15039",
+      "replacement": "Linden High School",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1827",
+        "author"
+      ],
+      "expected_sha256": "ccb7170eb2f03ce16b29c9ce7c8b899146e4ec6e70c0ca585032862afa5d8c1c",
+      "replacement": "Attributed to Lauren Yeats",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1827",
+        "author"
+      ],
+      "expected_sha256": "ccb7170eb2f03ce16b29c9ce7c8b899146e4ec6e70c0ca585032862afa5d8c1c",
+      "replacement": "Attributed to Lauren Yeats",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1827",
+        "title"
+      ],
+      "expected_sha256": "c1811a1051a9967a707ec04fadaec910a2ce57e12c3022534feacd38e968aca6",
+      "replacement": "Linden, New Jersey — 2002 edition attribution unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1827",
+        "title"
+      ],
+      "expected_sha256": "c1811a1051a9967a707ec04fadaec910a2ce57e12c3022534feacd38e968aca6",
+      "replacement": "Linden, New Jersey — 2002 edition attribution unconfirmed",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1827",
+        "publication"
+      ],
+      "expected_sha256": "349cd4dc84c68fbcfd4b659e4ae2e0e24af8d79a453482dc8ad40086c710ba5d",
+      "replacement": "2002 (provisional edition attribution); publication details uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1827",
+        "publication"
+      ],
+      "expected_sha256": "349cd4dc84c68fbcfd4b659e4ae2e0e24af8d79a453482dc8ad40086c710ba5d",
+      "replacement": "2002 (provisional edition attribution); publication details uncertain",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1828",
+        "title"
+      ],
+      "expected_sha256": "8305d7af6c88decb6843a9ab1bd4f5f6c40a25c621955d0c256f00dedd7d2bdf",
+      "replacement": "Linden, New Jersey (Images of America), chapter opening",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1828",
+        "title"
+      ],
+      "expected_sha256": "8305d7af6c88decb6843a9ab1bd4f5f6c40a25c621955d0c256f00dedd7d2bdf",
+      "replacement": "Linden, New Jersey (Images of America), chapter opening",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1845",
+        "author"
+      ],
+      "expected_sha256": "1184f31a4ce3653169d1f6375d81f0c7eebcf6126f38a942dbd3c76f8fc7e2ac",
+      "replacement": "William Frolich and coauthor (attribution uncertain)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S1845",
+        "author"
+      ],
+      "expected_sha256": "1184f31a4ce3653169d1f6375d81f0c7eebcf6126f38a942dbd3c76f8fc7e2ac",
+      "replacement": "William Frolich and coauthor (attribution uncertain)",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "primary",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S2359",
+        "author"
+      ],
+      "expected_sha256": "afa7aac6c4f5bcaee17a60ee4530b7dde5b550b2aff678881eb25bde14dc7b62",
+      "replacement": "John P. Snyder; New Jersey Bureau of Geology and Topography",
+      "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
+    },
+    {
+      "edition": "young-explorers",
+      "code": "2009",
+      "path": [
+        "views",
+        "2009",
+        "sources",
+        "S2359",
+        "author"
+      ],
+      "expected_sha256": "afa7aac6c4f5bcaee17a60ee4530b7dde5b550b2aff678881eb25bde14dc7b62",
+      "replacement": "John P. Snyder; New Jersey Bureau of Geology and Topography",
       "treatment": "reader-copy proposal; preserve historical attribution, dates and uncertainty"
     }
   ]
