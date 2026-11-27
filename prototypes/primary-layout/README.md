@@ -1,4 +1,4 @@
-# Primary layout prototype — checkpoint UI-1.7
+# Primary layout prototype — checkpoint UI-1.8
 
 This is the separate interface path toward the shared Atlas release. It does not
 modify the editorial branch, either published edition, a content checkpoint or an
@@ -44,6 +44,13 @@ review. GitHub stores the overlay/tooling and checks, not another content copy.
 - A map and a distinct selected-town preview instead of three competing columns.
 - A stronger selected-town outline using the existing halo/outline paths, keeping
   category fills, map geometry, zoom and selection logic unchanged.
+- A phone map bar containing the same county/statewide controls and town stepper.
+  It stays visible while exploring the map, becomes ordinary scrolling content
+  on short screens or when enlarged, and stays static in the town index.
+- Clear county-zoom, county-reset and statewide-reset labels on the original
+  controls. Their original handlers retain search and origin filters. Map
+  controls have at least 44px targets. Returning from the map's reading action
+  restores focus to that action as well as the entry viewport and scroll.
 - The same selected-town preview before the map on phone, with its title and
   reading action in the first screen at 390px. No duplicated story or selection.
 - A prominent existing “Read the story” control and the existing reading view.
@@ -76,6 +83,9 @@ original town-reveal behavior; it does not change filters or selection rules.
 UI-1.7 extends that bridge with county/form context, the current town identity
 and a call to the original reading-view function. List replacement observers
 decorate rendered links without rewriting narratives, match excerpts or rankings.
+UI-1.8 groups the existing map controls, relabels their original actions and
+measures the map bar for responsive scroll clearance. It adds no map handler or
+viewport bridge. A guard rejects drift in the source's county-label convention.
 There is no new dependency, content schema, data extraction, note storage,
 tracking, hosting or publication configuration. The original projection and
 geometry are retained. Young Explorers is copied byte-for-byte for
@@ -160,7 +170,7 @@ separate. Design approval never marks the 564-by-two copy review complete.
 
 ## Checkpoint and remaining work
 
-UI-1.7 adds search/index result navigation, retaining reading navigation, the finder,
+UI-1.8 adds phone map navigation, retaining search/index result navigation, the finder,
 annotation refinements and prior checkpoints. Research, workbook exports and editorial
 remediation remain on their existing path. See
 [the recorded QA](../../project/PRIMARY_LAYOUT_PROTOTYPE.md) for actual checks and

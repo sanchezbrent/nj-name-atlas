@@ -57,6 +57,30 @@ class LayoutBoundaryTests(unittest.TestCase):
             with self.subTest(original=original), self.assertRaises(layout.ContractError):
                 layout.transform(self.source.replace(original, replacement, 1), self.css)
 
+    def test_map_controls_cannot_move_or_disappear_upstream(self):
+        for original, replacement in [
+            ('class="map-scope-controls"', 'class="changed-scope-controls"'),
+            ('id="atlas-state-view"', 'id="changed-state-view"'),
+            ('id="atlas-browse-status"', 'id="changed-browse-status"'),
+            ("county ? 'Browse ' + county", "county ? 'Focus on ' + county"),
+        ]:
+            with self.subTest(original=original), self.assertRaises(layout.ContractError):
+                layout.transform(self.source.replace(original, replacement, 1), self.css)
+
+    def test_map_controls_are_grouped_without_duplicate_ids(self):
+        doc = layout.Document(self.candidate)
+        navigation = doc.one(cls="layout-map-navigation")
+        for id in ("atlas-state-view", "atlas-county-view", "atlas-map-stepper", "atlas-browse-status"):
+            control = doc.one(id=id)
+            self.assertTrue(navigation["inner"] < control["start"] < control["end"] <= navigation["close"])
+
+    def test_status_moving_outside_map_cannot_expand_the_sticky_group(self):
+        source = layout.Document(self.source)
+        status = source.raw(source.one(id="atlas-browse-status"))
+        moved = self.source.replace(status, "", 1).replace('</main>', status + '</main>', 1)
+        with self.assertRaisesRegex(layout.ContractError, 'Map navigation grouping changed'):
+            layout.transform(moved, self.css)
+
     def test_later_ui_copy_cannot_be_silently_overwritten(self):
         with self.assertRaisesRegex(layout.ContractError, "Masthead changed upstream"):
             layout.transform(self.source.replace('<h1>New Jersey</h1>', '<h1>A later editorial heading</h1>', 1), self.css)

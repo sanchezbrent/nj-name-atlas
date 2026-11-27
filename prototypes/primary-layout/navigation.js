@@ -11,6 +11,29 @@
   const status = document.getElementById('atlas-browse-status');
   const showMap = document.getElementById('atlas-reader-show-map');
   if (!root || !stepper || !tools || !story || !toggle || !status || !showMap) return;
+  const mapNavigation = root.querySelector('.layout-map-navigation');
+  const stateView = document.getElementById('atlas-state-view');
+  const countyView = document.getElementById('atlas-county-view');
+  if (mapNavigation && stateView && countyView) {
+    for (const control of [stateView, countyView]) control.title = 'Reset the map area and zoom; keep search and origin filters.';
+    let countyLabel = '';
+    const copy = (control, text) => {
+      if (control.textContent !== text) control.textContent = text;
+      if (control.getAttribute('aria-label') !== text) control.setAttribute('aria-label', text);
+    };
+    const scopeLabels = () => {
+      // The runtime supplies this label after every render. Retain only the
+      // county's display label when our own copy triggers a second observation.
+      const label = countyView.getAttribute('aria-label') || '';
+      if (label.startsWith('Browse ')) countyLabel = label.slice(7);
+      const countyActive = countyView.getAttribute('aria-pressed') === 'true';
+      copy(stateView, countyActive ? 'Show all New Jersey' : 'Reset statewide map');
+      copy(countyView, countyLabel ? (countyActive ? 'Reset ' : 'Zoom to ') + countyLabel : 'Choose a county');
+    };
+    const observer = new MutationObserver(scopeLabels);
+    observer.observe(countyView, {childList: true, attributes: true, attributeFilter: ['aria-label', 'aria-pressed']});
+    scopeLabels();
+  }
 
   // Decorate the original result links after each runtime render. Observe only
   // direct list replacements, so adding cues below cannot trigger itself.
@@ -63,7 +86,7 @@
     }
     const links = document.getElementById(position.resultList)?.querySelectorAll('a[data-index-town]') || [];
     const origin = Array.from(links).find(link => link.dataset.indexTown === position.resultCode);
-    (origin || toggle).focus({preventScroll: true});
+    (origin || document.getElementById(position.mapControl) || toggle).focus({preventScroll: true});
     window.scrollTo({left: position.left, top: position.top, behavior: 'instant'});
   };
   const placeNavigation = () => {
@@ -82,14 +105,25 @@
   placeNavigation();
   if (typeof ResizeObserver !== 'undefined') {
     const sizeNavigation = () => {
-      if (!reading()) return;
+      if (!reading()) {
+        if (mapNavigation) {
+          const height = Math.ceil(mapNavigation.getBoundingClientRect().height);
+          const tall = height > Math.min(220, window.innerHeight / 3);
+          root.classList.toggle('layout-tall-map-navigation', tall);
+          root.style.setProperty('--layout-map-toolbar-offset', tall ? '12px' : height + 24 + 'px');
+        }
+        return;
+      }
       const height = Math.ceil(tools.getBoundingClientRect().height);
       const tall = height > Math.min(200, window.innerHeight / 3);
       root.classList.toggle('layout-tall-navigation', tall);
       root.style.setProperty('--layout-toolbar-offset', tall ? '12px' : Math.max(160, height + 12) + 'px');
     };
-    new ResizeObserver(sizeNavigation).observe(tools);
+    const observer = new ResizeObserver(sizeNavigation);
+    observer.observe(tools);
+    if (mapNavigation) observer.observe(mapNavigation);
     window.addEventListener('resize', sizeNavigation);
+    sizeNavigation();
   }
 
   // Capture before the runtime changes layout; act while bubbling after its
@@ -101,6 +135,7 @@
     if (reading() && control?.id === 'atlas-reader-show-map') revealTown();
     clicks.set(event, {active: reading(), position: {left: window.scrollX, top: window.scrollY,
       resultCode: result ? control.dataset.indexTown : null,
+      mapControl: control?.id === 'atlas-open-map-story' ? control.id : null,
       resultList: result ? control.closest('#atlas-search-match-list, #atlas-town-index-list')?.id : null,
       indexTop: document.getElementById('atlas-town-index-list')?.scrollTop || 0, viewport: readViewport()},
       returning: browseReturn, control});

@@ -117,7 +117,7 @@ def navigation_extension():
     state.zoom = saved.zoom; state.pan = [...saved.pan]; lastMapSelected = state.town; drawMap();
   }
 });"""
-    return "\n/* Primary layout navigation overlay (UI-1.7). */\n" + script + bridge + "\n/* End primary layout navigation overlay. */\n"
+    return "\n/* Primary layout navigation overlay (UI-1.8). */\n" + script + bridge + "\n/* End primary layout navigation overlay. */\n"
 
 
 def verify_preservation(source, candidate):
@@ -176,6 +176,18 @@ def transform(source, css):
     for id in ("atlas-search-match-list", "atlas-town-index-list"):
         require(doc.one(id=id)["tag"] in ("ul", "ol"), "Result list changed upstream.")
     stepper, story_tools = doc.one(id="atlas-map-stepper"), doc.one(cls="story-tools")
+    scope, browse_status = doc.one(cls="map-scope-controls"), doc.one(id="atlas-browse-status")
+    require("county ? 'Browse ' + county + ' County' : 'Choose a town to browse its county'" in source,
+            "County map label contract changed upstream.")
+    browse_toolbar = doc.one(cls="map-browse-toolbar")
+    require(browse_toolbar["inner"] < scope["start"] < scope["end"] < browse_toolbar["close"]
+            < stepper["start"] < stepper["end"] < browse_status["start"] < browse_status["end"]
+            < doc.one(cls="map-panel")["close"],
+            "Map navigation grouping changed upstream.")
+    for id in ("atlas-state-view", "atlas-county-view"):
+        control = doc.one(id=id)
+        require(control["tag"] == "button" and scope["inner"] < control["start"] < control["end"] < scope["close"],
+                "Map area controls changed upstream.")
     require(doc.one(cls="map-panel")["inner"] < stepper["start"] < stepper["end"] < doc.one(cls="map-panel")["close"],
             "Town navigation moved upstream.")
     for id in ("atlas-prev-town", "atlas-next-town", "atlas-open-map-story"):
@@ -226,6 +238,9 @@ def transform(source, css):
     advanced = source[tour["start"]:explore["close"]]
     more = '<details id="layout-more" class="layout-more"><summary>More ways to explore</summary><div class="layout-more-body">\n' + browse_fields + '\n' + advanced + '\n</div></details>'
     edits = [
+        (scope["start"], scope["end"], ""),
+        (stepper["start"], stepper["start"], '<div class="layout-map-navigation">' + doc.raw(scope)),
+        (browse_status["end"], browse_status["end"], '</div>'),
         (runtime["close"]-len("\n})();\n"), runtime["close"]-len("\n})();\n"), navigation_extension()),
         (head["close"], head["close"], '<style id="primary-layout-overlay">\n' + css + '\n</style>\n'),
         (root["start"], root["inner"], source[root["start"]:root["inner"]].replace('class="atlas-sheet"', 'class="atlas-sheet primary-layout-preview"')),

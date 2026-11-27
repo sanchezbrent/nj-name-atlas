@@ -2,7 +2,7 @@
 
 November 23, 2026. **Interactive local prototype; no production change.**
 
-Latest revision: **UI-1.6**, reading navigation and return-view preservation; see the addenda below.
+Latest revision: **UI-1.8**, phone map navigation and clearer map-area actions; see the addenda below.
 The original UI-1 evidence and hashes remain recorded as that checkpoint.
 
 The interface and editorial paths remain separate. Editorial PR #5 owns copy,
@@ -749,4 +749,111 @@ deliberate selection of a completed content snapshot, a new combined integration
 checkpoint and separately authorized release/live readback. Editorial work stays
 independent. Provisional next active work: 30–60 minutes for a bounded UI revision
 or 45–90 minutes for selected-source integration, excluding waits; no editorial or
+publication completion ETA is asserted.
+
+
+## UI-1.8 — phone map navigation (November 27, 2026)
+
+### Scope and behavior
+
+The user authorized a phone map prototype with persistent selected-town/reading
+controls and clearer county/statewide navigation. UI-1.7 is preserved at
+`b411785d8381a0849c51d731845b698702d903b0`. Main was read again and remains
+`8b5597b728731cd6df4ee470caaedbe7041e1ffb`. Editorial work continues independently;
+no published asset, baseline, checkpoint pin, PR #5 record or private authority changes.
+
+A wrapper groups the original map-area controls, town stepper and live status.
+At 600px and below it sticks within the map panel while browsing. The town name,
+Read story action and previous/next buttons remain available during map use.
+The duplicate county line is omitted visually on phones; the map-area action
+still identifies the county. The index keeps the group static. The same single
+stepper moves into reading and returns to this wrapper on exit. No cloned control,
+new button, new ID, separate selection state or map event handler is added.
+
+The original county/statewide handlers keep their filter, zoom and pan semantics.
+Labels now identify Zoom to [county], Reset [county], Show all New Jersey or Reset
+statewide map as appropriate. Their accessible names match the visible wording;
+original pressed/disabled states remain intact. An observer updates only these
+labels after the runtime renders, with equality guards to settle its own mutations.
+The source's county-label convention is guarded so future copy drift fails for
+reconciliation. All five map-bar controls have at least 44px targets.
+
+If the bar exceeds 220px or one-third of the viewport height, it scrolls normally.
+Resize observation supplies map scroll clearance; source Show on map clears the
+bar. Desktop controls remain in normal flow. Print hides the new grouping,
+retaining the original control-hiding behavior. Return/Escape from the map's
+reading action now restores focus to that original action, alongside the existing
+page and map-viewport restoration. Search/index origin focus retains UI-1.7 logic.
+
+The builder guards scope controls, ordering, their label convention and the live
+status remaining inside the map panel. It moves exact original markup and rejects
+an upstream status move that would accidentally wrap unrelated page content.
+The existing exact-extension recovery contract remains: removing only the approved
+extension recovers all four original scripts byte-for-byte. Original styles,
+metadata/CSP, 186 IDs and six unaffected assets remain exact. There are still three
+prototype IDs and nine files relative to main. No schema, dependency, storage,
+network, analytics, history interception, hosting or publication change.
+
+### Reproduction identities
+
+| Component | SHA-256 |
+| --- | --- |
+| Builder | `ca1ccf974fbb06f38bc6855ed8da411fcb52516b1228c972e56a3078a4371b69` |
+| CSS overlay | `d3e95134875b62ae51f7be0300fc0c649c2f98a916f91539113e7f05e2d52af4` |
+| Navigation adapter | `2fdf89043c1540703c26b5b50398fe6fded4ab96c8e33176df6fcf7634aeccce` |
+| Checkpoint 23 Primary, still pinned | `89889228a33fbef237375522ffe4911346ed91a3e48bf1775bf84c24a5ae575b` |
+| Main-base Primary rehearsal | `7dfbeed1f723a3f0085056d2a6f3adde2ffba55ed149f82851acd2f3d5dc1faa` |
+| Checkpoint 24 Primary rehearsal | `5a53424a5261e23b64e289684b2fcdf6c75483587c1463d4ee3764151ed3d9f5` |
+
+### Validation and observed results
+
+All 28 Python tests and 40 actual-adapter assertions pass. New checks cover control
+grouping, upstream label/status drift, scope-label updates, preserved pressed state,
+map-action return focus, measured clearance and tall/short-screen fallbacks. The
+adapter harness uses invented values and no browser storage/network. Each final
+composition passes its selected source's own project/script check, 16 fake-storage
+notebook assertions and corpus checks (5,941 for checkpoints 23/24; 5,921 for main).
+Required unchanged publishing-source checks pass; existing publication holds remain.
+
+Sampled checkpoint-23 browser checks:
+
+- At 320, 390, 600, 601, 768, 900, 1280 and 1600px there is no horizontal overflow,
+  one stepper and five map controls with dimensions at least 44px. The bar sticks
+  at the sampled phone widths and stays static above 600px. At 390x320 it becomes
+  static instead of covering the map. Sampled normal-height phone bars are about
+  161–203px depending on width and selected-town wrapping.
+- Search for Cinnaminson, Enter its result, then Show on map returns to the map,
+  focuses the original map-view control and places the canvas below the bar
+  (map top about 186px; bar bottom about 176px at 390px).
+- Burlington + Township + Indigenous origin retains the original two-town pool.
+  After native zoom/pan, a coordinate click opens Cinnaminson from the visible
+  map action. A forward step reaches Shamong. Return restores exact page Y=2029,
+  the same fixed municipality's SVG geometry, all filters and focus to the map
+  story action; the bar remains at Y=8. Locator clicks were excluded from entry
+  coordinate comparisons because automation can scroll a target before clicking.
+- County reset recovers the fitted map; statewide reset clears county scope and
+  retains query/origin. Labels follow those changes without changing handlers.
+  The index makes the group static; Enter from an index result and Escape retain
+  index view and restore focus to its current original result link.
+- Timeline T1582 and origin-citation return focus remain about 160px from the top,
+  clear of the reading toolbar's 137px bottom. Light/dark phone maps were inspected.
+  A fresh older-event URL opens T1582 in reading view. Young Explorers opens
+  Madison without the overlay; existing browser notes were not inspected.
+
+Screenshots and measured return/reflow evidence remain outside Git in the existing
+local review directory. This is sampled browser QA, not native zoom, assistive
+technology, every-tour/all-history, print/download or checkpoint-24 rendered
+acceptance. Future content/runtime integration still needs fresh browser acceptance
+of the original viewport bridge. Original notebook semantics remain covered with
+fake storage; existing browser notes are never inspected or changed here.
+
+### Stage and remaining milestones
+
+UI-1.8 implementation, local/browser QA and immutable-source rehearsals are complete;
+the phone map prototype is usable for design review. Save it in draft PR #7 and
+stop at this checkpoint. Remaining milestones: design acceptance, deliberate
+selection of a completed editorial snapshot, a new combined integration checkpoint
+and separately authorized release/live readback. Editorial work continues on its
+own path. Provisional next active work: 30–60 minutes for a bounded UI revision or
+45–90 minutes for selected-source integration, excluding waits. No editorial or
 publication completion ETA is asserted.

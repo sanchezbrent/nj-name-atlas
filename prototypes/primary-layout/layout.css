@@ -227,6 +227,13 @@
 #nj-name-atlas.primary-layout-preview .layout-map-heading h2 { font-size: 1.25rem; font-weight: 500; }
 #nj-name-atlas.primary-layout-preview .layout-map-heading p { display: none; }
 #nj-name-atlas.primary-layout-preview .map-browse-toolbar { margin-top: 10px; }
+#nj-name-atlas.primary-layout-preview .layout-map-navigation { padding-top: 8px; }
+#nj-name-atlas.primary-layout-preview .layout-map-navigation .map-stepper { grid-template-columns: 44px minmax(0, 1fr) 44px; }
+#nj-name-atlas.primary-layout-preview .layout-map-navigation .map-step-arrow { min-width: 44px; min-height: 44px; }
+#nj-name-atlas.primary-layout-preview .layout-map-navigation #atlas-open-map-story { min-height: 44px; }
+#nj-name-atlas.primary-layout-preview .layout-map-navigation .map-scope-controls { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; margin-bottom: 8px; }
+#nj-name-atlas.primary-layout-preview .map-scope-controls button { min-height: 44px; min-width: 44px; padding: 8px 10px; border: 1px solid var(--soft-rule); border-radius: 6px; font-size: .875rem; line-height: 1.4; text-align: center; }
+#nj-name-atlas.primary-layout-preview .map-scope-controls button[aria-pressed="true"] { border-color: var(--layout-accent); background: var(--layout-accent-wash); color: var(--ink); }
 #nj-name-atlas.primary-layout-preview .map-wrap { max-width: 500px; margin: 0 auto; border-radius: 9px; }
 /* Use the runtime's two existing strokes; retain the original category fill. */
 #nj-name-atlas.primary-layout-preview .selected-halo { stroke-width: 6.5; }
@@ -341,6 +348,16 @@
   #nj-name-atlas.primary-layout-preview .explore > input { flex-basis: 100%; }
 }
 @media (max-width: 600px) {
+  #nj-name-atlas.primary-layout-preview:not(.is-reading) .layout-map-navigation { position: sticky; top: 8px; z-index: 4; padding: 8px; margin: 0 -8px 10px; border: 1px solid var(--soft-rule); border-radius: 9px; background: var(--control); box-shadow: 0 4px 8px #0000000d; }
+  #nj-name-atlas.primary-layout-preview:not(.is-reading).layout-tall-map-navigation .layout-map-navigation,
+  #nj-name-atlas.primary-layout-preview .map-panel:has(#atlas-map-view[hidden]) .layout-map-navigation { position: static; box-shadow: none; }
+  #nj-name-atlas.primary-layout-preview:not(.is-reading) .map-panel :is(button, .map-wrap) { scroll-margin-top: var(--layout-map-toolbar-offset, 12px); }
+  #nj-name-atlas.primary-layout-preview:not(.is-reading) .layout-map-navigation .map-stepper { padding: 8px 0 0; gap: 6px; }
+  #nj-name-atlas.primary-layout-preview:not(.is-reading) .layout-map-navigation #atlas-step-position { font-size: .8125rem; }
+  #nj-name-atlas.primary-layout-preview:not(.is-reading) .layout-map-navigation #atlas-step-county { display: none; }
+  #nj-name-atlas.primary-layout-preview:not(.is-reading) .layout-map-navigation #atlas-open-map-story { min-height: 44px; row-gap: 4px; }
+  #nj-name-atlas.primary-layout-preview:not(.is-reading) .layout-map-navigation .map-story-cue { width: 100%; font-size: .875rem; color: var(--layout-accent); }
+  #nj-name-atlas.primary-layout-preview:not(.is-reading) .layout-map-navigation .map-story-cue span { display: none; }
   #nj-name-atlas.primary-layout-preview { width: calc(100% - 16px); margin: 8px auto; padding: 16px; border-radius: 12px; }
   #nj-name-atlas.primary-layout-preview .masthead { padding: 0 0 16px; }
   #nj-name-atlas.primary-layout-preview .masthead h1 { font-size: 1.75rem; }
@@ -379,6 +396,7 @@
   #nj-name-atlas.primary-layout-preview .origin-filters,
   #nj-name-atlas.primary-layout-preview .story-tools,
   #nj-name-atlas.primary-layout-preview .reader-context { display: none; }
+  #nj-name-atlas.primary-layout-preview .layout-map-navigation { display: none; }
   #nj-name-atlas.primary-layout-preview .map-panel { width: 75%; margin: auto; }
   #nj-name-atlas.primary-layout-preview .story,
   #nj-name-atlas.primary-layout-preview.is-reading .story { display: block; break-before: page; border: 0; }

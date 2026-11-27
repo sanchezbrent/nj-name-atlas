@@ -7,7 +7,7 @@ import vm from 'node:vm';
 let assertions = 0;
 const check = (value, label) => { assert.ok(value, label); assertions++; };
 const microtasks = [], frames = [], listeners = {};
-let active = false, observer, measure, focused, dialog = false, storyScrolls = 0, toolsHeight = 100;
+let active = false, observer, measure, focused, dialog = false, storyScrolls = 0, toolsHeight = 100, mapToolsHeight = 170;
 let viewport = {zoom: 2, pan: [12, 34], county: 'Example', view: 'map'};
 let reveals = 0, resultOpens = 0, selected = 'example-a';
 const listObservers = {};
@@ -24,11 +24,12 @@ class Element {
   querySelectorAll(selector) { const all = this.children.flatMap(c => [c, ...c.querySelectorAll(selector)]); return all.filter(c => selector === 'a[data-index-town]' ? c.dataset.indexTown : c.className.split(' ').includes(selector.slice(1))); }
   querySelector(selector) { return this.querySelectorAll(selector)[0]; }
   setAttribute(name, value) { this.attributes[name] = value; }
+  getAttribute(name) { return this.attributes[name] ?? null; }
   focus() { focused = this.id; }
   scrollIntoView() { storyScrolls++; page.scrollY = 444; }
-  getBoundingClientRect() { return {height: toolsHeight}; }
+  getBoundingClientRect() { return {height: this.id === 'map' ? mapToolsHeight : toolsHeight}; }
 }
-const ids = Object.fromEntries(['nj-name-atlas', 'atlas-map-stepper', 'atlas-story', 'atlas-reading-toggle', 'atlas-reader-show-map', 'atlas-browse-status', 'atlas-prev-town', 'atlas-next-town', 'atlas-search-match-list', 'atlas-town-index-list'].map(id => [id, new Element(id)]));
+const ids = Object.fromEntries(['nj-name-atlas', 'atlas-map-stepper', 'atlas-story', 'atlas-reading-toggle', 'atlas-reader-show-map', 'atlas-browse-status', 'atlas-prev-town', 'atlas-next-town', 'atlas-search-match-list', 'atlas-town-index-list', 'atlas-state-view', 'atlas-county-view', 'atlas-open-map-story'].map(id => [id, new Element(id)]));
 function result(listId, code) {
   const row = new Element('li'), link = new Element('a'); link.dataset.indexTown = code;
   link.id = listId + '-' + code;
@@ -40,11 +41,13 @@ const searchA = result('atlas-search-match-list', 'example-a'), searchB = result
 const indexA = result('atlas-town-index-list', 'example-a');
 const root = ids['nj-name-atlas'], tools = new Element('tools'), map = new Element('map');
 const stepper = ids['atlas-map-stepper'], status = ids['atlas-browse-status'], toggle = ids['atlas-reading-toggle'];
-map.append(stepper, status);
+const county = ids['atlas-county-view'], statewide = ids['atlas-state-view'];
+county.setAttribute('aria-label', 'Browse Example County'); county.setAttribute('aria-pressed', 'false');
+map.append(statewide, county, stepper, status);
 const locator = new Element('locator'); locator.append(ids['atlas-reader-show-map']);
 root.classList = {contains: name => name === 'is-reading' ? active : classes.has(name), toggle: (name, on) => on ? classes.add(name) : classes.delete(name)};
 root.style = {setProperty: (name, value) => { styles[name] = value; }};
-root.querySelector = selector => selector === '.story-tools' ? tools : dialog ? {} : null;
+root.querySelector = selector => selector === '.story-tools' ? tools : selector === '.layout-map-navigation' ? map : dialog ? {} : null;
 root.addEventListener = (type, listener, capture) => { listeners[type + (capture ? '-capture' : '-bubble')] = listener; };
 vm.runInNewContext(fs.readFileSync(new URL('../prototypes/primary-layout/navigation.js', import.meta.url), 'utf8') + '({readViewport, restoreViewport, revealTown, resultContext, selectedTown, openResult});', {
   resultContext: () => 'Example County · Borough',
@@ -147,4 +150,20 @@ check(focused === indexA.link.id, 'Returning from a result restores focus to its
 const fresh = result('atlas-search-match-list', 'example-b'); selected = 'example-b';
 listObservers['atlas-search-match-list']();
 check(fresh.row.dataset.selected === 'true' && fresh.link.attributes['aria-current'] === 'true', 'New runtime results are decorated with the current selection');
+viewport.view = 'map'; measure();
+check(!classes.has('layout-tall-map-navigation') && styles['--layout-map-toolbar-offset'] === '194px', 'Compact map controls reserve scroll clearance');
+mapToolsHeight = 300; measure();
+check(classes.has('layout-tall-map-navigation') && styles['--layout-map-toolbar-offset'] === '12px', 'Oversized map controls scroll normally');
+mapToolsHeight = 170; page.innerHeight = 320; listeners['window-resize']();
+check(classes.has('layout-tall-map-navigation'), 'A short landscape viewport also disables map stickiness');
+page.innerHeight = 844; measure();
+check(!classes.has('layout-tall-map-navigation'), 'Restoring viewport space restores compact map navigation');
+check(statewide.textContent === 'Reset statewide map' && county.textContent === 'Zoom to Example County', 'Unfiltered map labels identify the reset and county-zoom actions');
+county.setAttribute('aria-label', 'Browse Another County'); county.setAttribute('aria-pressed', 'true');
+listObservers['atlas-county-view'](); listObservers['atlas-county-view']();
+check(statewide.textContent === 'Show all New Jersey' && county.textContent === 'Reset Another County', 'County labels follow runtime changes and remain stable under a second observation');
+check(county.getAttribute('aria-pressed') === 'true' && county.getAttribute('aria-label') === county.textContent, 'Relabeling preserves the original pressed state and visible accessible name');
+event('click', ids['atlas-open-map-story'], () => { active = true; });
+event('click', toggle, originalExit);
+check(focused === 'atlas-open-map-story', 'Returning from the map story action restores focus to that original action');
 console.log(JSON.stringify({status: 'PASS', assertions, scope: 'Actual prototype navigation adapter with invented controls and scroll values; no browser storage, historical content or network.'}));
