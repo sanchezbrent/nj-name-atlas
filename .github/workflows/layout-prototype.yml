@@ -1,0 +1,37 @@
+name: Isolated layout prototype
+on:
+  pull_request:
+    paths:
+      - 'prototypes/primary-layout/**'
+      - 'scripts/build_layout_prototype.py'
+      - 'tests/test_layout_prototype.py'
+      - 'tests/layout_navigation.mjs'
+      - 'project/PRIMARY_LAYOUT_PROTOTYPE.md'
+      - '.github/workflows/layout-prototype.yml'
+permissions:
+  contents: read
+concurrency:
+  group: layout-prototype-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  integration-contract:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Read prototype and immutable source history
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Test overwrite and content-preservation boundaries
+        run: python3 -m unittest discover -s tests -p test_layout_prototype.py -v
+      - name: Test prototype navigation with invented controls and scroll positions
+        run: node tests/layout_navigation.mjs
+      - name: Compose from the pinned editorial checkpoint
+        run: python3 scripts/build_layout_prototype.py --verify --output-dir "$RUNNER_TEMP/atlas-editorial-preview"
+      - name: Compose independently from this branch's source
+        run: python3 scripts/build_layout_prototype.py --verify --source-ref "$(git rev-parse HEAD)" --output-dir "$RUNNER_TEMP/atlas-main-preview"
+      - name: Rehearse with later editorial checkpoint 24 without changing the preview pin
+        run: python3 scripts/build_layout_prototype.py --verify --source-ref 726a90d1ef1449f1913aac38db16d805946a71b2 --output-dir "$RUNNER_TEMP/atlas-editorial-next"
+      - name: Prove the published source and baselines were not modified
+        run: git diff --exit-code HEAD -- docs project/asset-baseline.json project/content-baseline.json
