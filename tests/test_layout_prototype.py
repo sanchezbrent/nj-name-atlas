@@ -47,6 +47,16 @@ class LayoutBoundaryTests(unittest.TestCase):
         with self.assertRaisesRegex(layout.ContractError, "Duplicate"):
             layout.transform(self.source.replace("</main>", '<div id="atlas-search"></div></main>', 1), self.css)
 
+    def test_result_bridge_changes_fail_closed(self):
+        for original, replacement in [
+            ('function townAnchor(code,cls){', 'function differentTownAnchor(code,cls){'),
+            ('a.dataset.indexTown=code;', 'a.dataset.otherTown=code;'),
+            ('id="atlas-search-match-list"', 'id="changed-match-list"'),
+            ('function setReadingView(expanded,{focus=true,showMap=false}={}){', 'function setReadingView(expanded){'),
+        ]:
+            with self.subTest(original=original), self.assertRaises(layout.ContractError):
+                layout.transform(self.source.replace(original, replacement, 1), self.css)
+
     def test_later_ui_copy_cannot_be_silently_overwritten(self):
         with self.assertRaisesRegex(layout.ContractError, "Masthead changed upstream"):
             layout.transform(self.source.replace('<h1>New Jersey</h1>', '<h1>A later editorial heading</h1>', 1), self.css)

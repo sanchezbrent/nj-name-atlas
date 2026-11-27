@@ -107,6 +107,9 @@ def navigation_extension():
     script = (PROTOTYPE / "navigation.js").read_text()
     require("</script" not in script.lower(), "Invalid navigation overlay.")
     bridge = """({
+  resultContext: code => profiles[code] ? profiles[code].county + ' County · ' + profiles[code].form : '',
+  selectedTown: () => state.town,
+  openResult: () => setReadingView(true),
   readViewport: () => ({zoom: state.zoom, pan: [...state.pan], county: state.county, view: state.view}),
   revealTown: () => { lastMapSelected = ''; },
   restoreViewport: saved => {
@@ -114,7 +117,7 @@ def navigation_extension():
     state.zoom = saved.zoom; state.pan = [...saved.pan]; lastMapSelected = state.town; drawMap();
   }
 });"""
-    return "\n/* Primary layout navigation overlay (UI-1.6). */\n" + script + bridge + "\n/* End primary layout navigation overlay. */\n"
+    return "\n/* Primary layout navigation overlay (UI-1.7). */\n" + script + bridge + "\n/* End primary layout navigation overlay. */\n"
 
 
 def verify_preservation(source, candidate):
@@ -166,6 +169,12 @@ def transform(source, css):
     require(source[runtime["inner"]:runtime["close"]].endswith("\n})();\n")
             and "let readingReturn=null,lastMapSelected='';" in source
             and "function drawMap(){" in source, "Map viewport bridge changed upstream.")
+    require("function setReadingView(expanded,{focus=true,showMap=false}={}){" in source
+            and "function townAnchor(code,cls){" in source
+            and "a.dataset.indexTown=code;" in source,
+            "Result navigation bridge changed upstream.")
+    for id in ("atlas-search-match-list", "atlas-town-index-list"):
+        require(doc.one(id=id)["tag"] in ("ul", "ol"), "Result list changed upstream.")
     stepper, story_tools = doc.one(id="atlas-map-stepper"), doc.one(cls="story-tools")
     require(doc.one(cls="map-panel")["inner"] < stepper["start"] < stepper["end"] < doc.one(cls="map-panel")["close"],
             "Town navigation moved upstream.")

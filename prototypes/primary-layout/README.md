@@ -1,4 +1,4 @@
-# Primary layout prototype — checkpoint UI-1.6
+# Primary layout prototype — checkpoint UI-1.7
 
 This is the separate interface path toward the shared Atlas release. It does not
 modify the editorial branch, either published edition, a content checkpoint or an
@@ -34,6 +34,12 @@ review. GitHub stores the overlay/tooling and checks, not another content copy.
 - Search has the main space, with the original county/town menus grouped under
   “More ways to explore.” Matching-name links and the full index stay available
   while the menus are closed; active filter chips stay outside the disclosure.
+- Search and the town index use consistent whole-row native links, county/form
+  context, a visible selected marker and a “Read story” cue. Plain activation
+  selects through the original handler and then opens the original reading view.
+- Returning from a result restores focus to its current original link, page
+  scroll and the desktop index's inner scroll. Index page/letter and filters
+  remain owned by the original runtime. Modified links retain their town URLs.
 - The requested “New Jersey Name Atlas” brand, without a redundant tagline.
 - A map and a distinct selected-town preview instead of three competing columns.
 - A stronger selected-town outline using the existing halo/outline paths, keeping
@@ -63,10 +69,13 @@ review. GitHub stores the overlay/tooling and checks, not another content copy.
 - Existing qualifications remain with the origin explanation; dates, references,
   category colors, deep links, tours and source holds retain their existing logic.
 
-UI-1.6 adds a small navigation adapter, separate from the historical runtime. It
+UI-1.6 introduced a small navigation adapter, separate from the historical runtime. It
 moves existing controls, manages focus/scroll clearance and keeps an in-memory
 viewport snapshot. A narrow bridge reads/restores map zoom/pan and requests the
 original town-reveal behavior; it does not change filters or selection rules.
+UI-1.7 extends that bridge with county/form context, the current town identity
+and a call to the original reading-view function. List replacement observers
+decorate rendered links without rewriting narratives, match excerpts or rankings.
 There is no new dependency, content schema, data extraction, note storage,
 tracking, hosting or publication configuration. The original projection and
 geometry are retained. Young Explorers is copied byte-for-byte for
@@ -151,7 +160,7 @@ separate. Design approval never marks the 564-by-two copy review complete.
 
 ## Checkpoint and remaining work
 
-UI-1.6 adds reading navigation and view restoration, retaining the finder,
+UI-1.7 adds search/index result navigation, retaining reading navigation, the finder,
 annotation refinements and prior checkpoints. Research, workbook exports and editorial
 remediation remain on their existing path. See
 [the recorded QA](../../project/PRIMARY_LAYOUT_PROTOTYPE.md) for actual checks and

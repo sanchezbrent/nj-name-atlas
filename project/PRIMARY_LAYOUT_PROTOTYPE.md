@@ -352,6 +352,111 @@ active work remains 30–60 minutes for a bounded design revision or 45–90 min
 for the selected-source integration rehearsal, excluding waits; no editorial or
 publication completion ETA is asserted.
 
+## UI-1.7 — search and town-index navigation (November 27, 2026)
+
+### Scope and decisions
+
+The user authorized the proposed search/index prototype after explicitly limiting
+this chat to site design and navigation. UI-1.6 remains preserved at
+`cd39df77f524f211c4042539b7181b4901cd5e70`. Editorial files, the source pin and
+both published editions remain unchanged. Live main was read again and remains
+`8b5597b728731cd6df4ee470caaedbe7041e1ffb`.
+
+Search and index entries now share a bordered result row with a visible “Read
+story” cue. Search gains the existing county/form context. The selected result
+has a text marker, inset border, background and `aria-current`; selection is read
+from the original runtime. Accessible link names include county context to
+distinguish repeated town names. The original match excerpt, index summary,
+ranking, filters, twelve-entry pagination and initial-letter controls are retained.
+Search uses two columns on desktop and one at 900px and below. Rows wrap without
+clipping their text. Initial-letter, view and pagination controls have 44px targets.
+
+One original native link stretches across each row with CSS. No row click
+handler, duplicate tab stop, nested control or synthetic selection is added.
+For a plain activation already handled by the original link, the adapter calls
+the original reading-view function after its selection/route handler. Modified
+and middle activations are left alone; their native town URL opens the existing
+town destination. No reading URL convention or history interception is introduced.
+
+Return/Escape restores the page position and, for index-origin sessions, its
+inner scroll position. It focuses the freshly rendered original result link,
+falling back to the existing reading toggle if that result is unavailable.
+The original runtime still owns index page, initial, query, county and category.
+The adapter retains only in-memory return coordinates and originating link identity.
+
+The bridge adds read-only county/form/current-town access and a call to
+`setReadingView(true)`. Two observers watch direct list replacements only;
+decoration below each row cannot trigger them recursively. Builder guards reject
+changed result-list IDs/types, anchor binding and reading-function signature.
+The UI-1.6 exact-extension recovery contract remains: removing only the approved
+UI-1.7 extension recovers all four original scripts byte-for-byte. All original
+styles, metadata/CSP, 186 IDs and six unaffected assets remain exact. There are
+still only three added IDs and nine prototype files relative to main. No data
+schema, dependency, storage, analytics, hosting or publication change.
+
+### Reproduction identities
+
+| Component | SHA-256 |
+| --- | --- |
+| Builder | `48d48d262f9a4c9b677d836744386f17e23b04a2156244e3ec6b4868ada943f0` |
+| CSS overlay | `014d4ef7196734f9ba10e7b4f2ffbad4b2cef862f73c42b5bfbf75fafc85f603` |
+| Navigation adapter | `ffdbd5b617382ce04342648e561069bf643130ac32a81af9b5744daedc73e848` |
+| Checkpoint 23 Primary, still pinned | `fea31e36d045f7212a2c0be50e97fef03278f377e9ed9ae8c8e428b65c061583` |
+| Main-base Primary rehearsal | `a5f5a398356d0a25ef52b5d8e4a6508ccfcb248560d72f0711054647b4f2b711` |
+| Checkpoint 24 Primary rehearsal | `55e5d836a79239948506991b986405f6d29b307c5feb64ffdce900990857e116` |
+
+### Validation and limits
+
+All 25 Python tests and 32 actual-adapter assertions pass. Added boundary cases
+reject result bridge drift; adapter checks cover native modifier behavior, one
+cue/context per row, rendered selection, accessible county names, original routes,
+handled activation order and result focus/inner-scroll restoration. These tests
+use invented values and no browser storage or network. All three final immutable
+source compositions pass their own complete project/script, fake-storage notebook
+(16 assertions) and corpus checks (5,941 for checkpoints 23/24; 5,921 for main).
+Required unchanged publishing-source checks pass. Existing publication holds stay
+open; this checkpoint makes no editorial or historical acceptance claim.
+
+Sampled checkpoint-23 browser checks:
+
+- Search and the index have no horizontal overflow at 320, 390, 640, 768, 900,
+  1280, 1430 and 1600px. Each rendered result has one link and exceeds 44px in
+  height. Initial-letter controls are 44px high. Light/dark phone appearance and
+  long result rows were inspected. No text is line-clamped or removed.
+- Tab reaches the original result link with a visible outline around its row;
+  Enter opens reading and Escape restores focus to that result. Clicking county
+  text inside a row also opens its story. Accessible names include county/form.
+- On desktop, a coordinate click in Monroe's result on page 2 of 4 enters reading
+  at page Y=1193.5 and inner index scroll=900. Return restores those exact values,
+  page 2 and focus to the current Monroe result link. W initial filtering and
+  disabled pagination boundaries remain driven by the original runtime.
+- Burlington + Township search + Indigenous category yields the original two-town
+  pool. Cinnaminson opens through its search result; stepping reaches Shamong and
+  Escape retains county/query/category/index view with Shamong marked selected.
+  Empty search and its original reset action recover all 564 towns.
+- Timeline T1582 and the origin citation's return link focus around 160px, below
+  the phone toolbar's 137px bottom. A fresh town/event URL opens that earlier
+  record in reading view. Young Explorers opens Madison without the overlay.
+  Existing browser notes were not inspected, changed or transmitted.
+
+Screenshots, viewport measurements and composition receipts remain outside Git
+in the existing local review directory. No generated pages or screenshots are
+uploaded as CI artifacts. This is sampled browser QA, not assistive-technology,
+native zoom, every-tour, all-history, native print/download or checkpoint-24
+rendered acceptance. UI-1.6 map-return evidence remains separately recorded;
+future source/runtime integration still requires fresh browser acceptance.
+
+### Stage and remaining milestones
+
+UI-1.7 implementation, local/browser QA and immutable-source rehearsals are
+complete; this prototype is usable for design review. Save this checkpoint in
+draft PR #7 and stop. Remaining milestones: UI acceptance, deliberate selection
+of a completed editorial snapshot, a new combined integration checkpoint and a
+separately authorized release/live readback. Editorial work continues independently.
+Provisional next active work: 30–60 minutes for a bounded design revision or
+45–90 minutes for selected-source integration, excluding waits. No editorial or
+publication completion ETA is asserted.
+
 ## UI-1.4 — browser annotation refinements
 
 November 26, 2026. The three owner annotations are implemented on the separate

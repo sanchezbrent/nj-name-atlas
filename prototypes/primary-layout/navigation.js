@@ -1,8 +1,8 @@
 /* Prototype navigation only. The original runtime owns towns, filters and maps.
-   No content parsing, storage, network, history or duplicated selection state. */
+   No narrative parsing, storage, network, history or duplicated selection state. */
 ((viewportApi) => {
   'use strict';
-  const {readViewport, restoreViewport, revealTown} = viewportApi;
+  const {readViewport, restoreViewport, revealTown, resultContext, selectedTown, openResult} = viewportApi;
   const root = document.getElementById('nj-name-atlas');
   const stepper = document.getElementById('atlas-map-stepper');
   const tools = root?.querySelector('.story-tools');
@@ -12,6 +12,42 @@
   const showMap = document.getElementById('atlas-reader-show-map');
   if (!root || !stepper || !tools || !story || !toggle || !status || !showMap) return;
 
+  // Decorate the original result links after each runtime render. Observe only
+  // direct list replacements, so adding cues below cannot trigger itself.
+  const decorateResults = list => {
+    for (const link of list.querySelectorAll('a[data-index-town]')) {
+      if (link.querySelector('.layout-result-cue')) continue;
+      const row = link.closest('li'), code = link.dataset.indexTown;
+      if (!row) continue;
+      row.classList.add('layout-result');
+      const contextText = resultContext(code);
+      link.setAttribute('aria-label', link.textContent + ' · ' + contextText + '. Read story.');
+      if (list.id === 'atlas-search-match-list') {
+        const context = document.createElement('p');
+        context.className = 'layout-result-context';
+        context.textContent = contextText;
+        link.after(context);
+      }
+      const selected = selectedTown() === code;
+      row.dataset.selected = String(selected);
+      if (selected) {
+        link.setAttribute('aria-current', 'true');
+        const marker = document.createElement('span');
+        marker.className = 'layout-result-selected'; marker.textContent = 'Selected';
+        link.append(marker);
+      }
+      const cue = document.createElement('span');
+      cue.className = 'layout-result-cue'; cue.textContent = 'Read story';
+      link.append(cue);
+    }
+  };
+  for (const id of ['atlas-search-match-list', 'atlas-town-index-list']) {
+    const list = document.getElementById(id);
+    if (!list) continue;
+    new MutationObserver(() => decorateResults(list)).observe(list, {childList: true});
+    decorateResults(list);
+  }
+
   const home = document.createComment('Original town navigation position');
   stepper.before(home);
   const mapHome = document.createComment('Original locator action position');
@@ -19,6 +55,17 @@
   const reading = () => root.classList.contains('is-reading');
   let wasReading = reading();
   let browseReturn = null;
+  const restorePosition = position => {
+    restoreViewport(position.viewport);
+    const current = readViewport();
+    if (current.view === 'index' && position.viewport.view === 'index' && current.county === position.viewport.county) {
+      document.getElementById('atlas-town-index-list').scrollTop = position.indexTop;
+    }
+    const links = document.getElementById(position.resultList)?.querySelectorAll('a[data-index-town]') || [];
+    const origin = Array.from(links).find(link => link.dataset.indexTown === position.resultCode);
+    (origin || toggle).focus({preventScroll: true});
+    window.scrollTo({left: position.left, top: position.top, behavior: 'instant'});
+  };
   const placeNavigation = () => {
     const active = reading();
     if (active && stepper.parentNode !== tools) tools.append(showMap, stepper, status);
@@ -50,22 +97,31 @@
   const clicks = new WeakMap();
   root.addEventListener('click', event => {
     const control = event.target.closest('button, a');
+    const result = control?.matches('.search-town-link, .index-town-link');
     if (reading() && control?.id === 'atlas-reader-show-map') revealTown();
-    clicks.set(event, {active: reading(), position: {left: window.scrollX, top: window.scrollY, viewport: readViewport()},
+    clicks.set(event, {active: reading(), position: {left: window.scrollX, top: window.scrollY,
+      resultCode: result ? control.dataset.indexTown : null,
+      resultList: result ? control.closest('#atlas-search-match-list, #atlas-town-index-list')?.id : null,
+      indexTop: document.getElementById('atlas-town-index-list')?.scrollTop || 0, viewport: readViewport()},
       returning: browseReturn, control});
   }, true);
   root.addEventListener('click', event => {
     const before = clicks.get(event);
     if (!before) return;
     const {control} = before;
-    if (!before.active) { if (reading()) browseReturn = before.position; return; }
+    if (!before.active) {
+      // The original anchor handler has already selected the town and updated
+      // its route. Only its handled plain activation enters reading here.
+      if (control?.matches('.search-town-link, .index-town-link') && event.defaultPrevented &&
+          event.button === 0 && !event.ctrlKey && !event.metaKey && !event.shiftKey && !event.altKey) openResult();
+      if (reading()) browseReturn = before.position;
+      return;
+    }
     if (control?.id === 'atlas-reading-toggle') {
       const position = before.returning;
       requestAnimationFrame(() => {
         if (!reading() && position) {
-          restoreViewport(position.viewport);
-          toggle.focus({preventScroll: true});
-          window.scrollTo({left: position.left, top: position.top, behavior: 'instant'});
+          restorePosition(position);
         }
       });
     } else if (control &&
@@ -84,9 +140,7 @@
     if (!position) return;
     requestAnimationFrame(() => {
       if (!reading() && position) {
-        restoreViewport(position.viewport);
-        toggle.focus({preventScroll: true});
-        window.scrollTo({left: position.left, top: position.top, behavior: 'instant'});
+        restorePosition(position);
       }
     });
   });
