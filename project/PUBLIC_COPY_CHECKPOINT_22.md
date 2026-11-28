@@ -1,0 +1,94 @@
+# Public-copy remediation — checkpoint 22
+
+November 23, 2026. **Draft proposals; publication BLOCKED.**
+Continues [issue #4](https://github.com/sanchezbrent/nj-name-atlas/issues/4) and
+[PR #5](https://github.com/sanchezbrent/nj-name-atlas/pull/5).
+[Checkpoint 21](PUBLIC_COPY_CHECKPOINT_21.md) and its [date-label addendum](PUBLIC_COPY_CHECKPOINT_21_ADDENDUM.md) remain complete and preserved.
+
+## Completed scope
+
+Agent text review is complete in both editions for Ocean Gate, Pine Beach, Plumsted Township, Point Pleasant, Point Pleasant Beach, Seaside Heights, Seaside Park, Ship Bottom, South Toms River, Stafford Township, Surf City, Tuckerton.
+Complete summaries, stories, journeys, sidebars, timeline text, citation
+descriptions, historical search aliases and embedded summary fallbacks were
+examined. Separate Young adaptations and resulting proposals were read.
+This is not human acceptance or original-source verification.
+
+This checkpoint adds 221 guarded field proposals (109 primary,
+112 Young), for 6,630 cumulative. All 6,409
+earlier rows and all prior 231 reviewed reader/view records remain exact.
+Repeated contexts are included; these are not error counts.
+
+## Preservation and limits
+
+C21 factual authority, sealed C57 originals and the content-baseline seals remain
+unchanged. Fresh byte hashes match the retained C21 workbooks and C57 payloads.
+No workbook was interpreted, recalculated or written. All 321 unscoped reader
+records remain exact C57 in each edition, with 329 primary and 328 Young records exact C57 in total.
+All 552 views outside this twelve-town checkpoint are unchanged from checkpoint 21 with its date-label addendum.
+
+Event IDs, years, municipality associations, source IDs/URLs, citation bindings,
+numeric date sequences, date holds and all 179 Review27 mappings are preserved.
+Actual discovery retains ten active stops, eleven connections and 36 held items
+per edition. Only the two edition files changed within the seven-file website
+allowlist; the other five assets remain exact.
+
+Historical uncertainty, attributed explanations and source conflicts remain
+qualified. All source questions and holds continue privately. No original-source
+inspection or historical adjudication is claimed. Original research, exact before
+text, process notes and continuation records remain private.
+
+## Checks and remaining gates
+
+| Current measure | Primary | Young Explorers |
+| --- | ---: | ---: |
+| Agent text reviews | 243 / 564 | 243 / 564 |
+| Human/publication sign-offs | 0 / 564 | 0 / 564 |
+| Cumulative proposed fields | 3,351 | 3,279 |
+| Strict scan candidates | 1,431 | 1,312 |
+
+Required project/source/schema checks, 21 Python tests, six actual script syntax
+checks, 16 notebook assertions and 5,941 statewide runtime assertions pass locally.
+Notebook checks use invented content and isolated storage only; no existing
+browser notes were accessed. New town contexts trigger no heuristic patterns;
+the additional contextual process-language check found no residual process-language matches. Historical place names remain preserved.
+These checks do not certify publication clearance. Scanner rules and protections
+were not weakened.
+
+Strict scanning exits 1 and blocks release. Counts include duplicate guards and
+possible false positives. Human acceptance, source questions and rendered/mobile/
+keyboard/search/source/deep-panel QA remain open. No fresh rendered or live-host
+acceptance is claimed. Nothing merged or deployed; live Pages is unchanged.
+
+## Authorized run and continuation
+
+The owner has authorized agent-selected runs of up to 24 towns across both
+editions without renewed town-selection approval. Save and validate checkpoints
+of at most twelve, update both PRs and issue #4, continue through the authorized
+run and stop after 24. Historical research/adjudication, workbook changes,
+deferred archive transfers, merge and deployment remain outside this authority.
+
+This checkpoint completes 24 of the current run’s 24 towns.
+Stop after the completed 24-town Ocean County run. The next 24-town Burlington County metadata queue is saved but NOT_STARTED; resume it only on continuation.
+Statewide, 321 town pairs remain, along with source holds, human acceptance,
+rendered cross-edition QA, passing strict CI and a separately authorized release
+with actual-host readback. Allow provisionally 45–90 active minutes per twelve-town
+checkpoint or 90–180 per 24-town run, excluding review/access/execution waits.
+The draft is reviewable now; statewide publication clearance has no reliable ETA.
+
+## Completed 24-town Ocean County run
+
+Checkpoints 21 and 22, including the bounded two-town checkpoint-21 date-label
+addendum, complete the authorized 24-town run. All 33 Ocean County towns now have
+agent text review in both editions; human/publication sign-offs remain zero.
+The run adds 477 proposals: 250 in checkpoint 21, six in its
+addendum and 221 in checkpoint 22. Direct comparison with checkpoint 20 preserves
+all 6,153 pre-run rows, prior 219 review/reader/view records and all 540 reader/view
+records outside the run. All new exact before-text hashes match privately.
+The addendum retains the original checkpoint-21 seal and exact earlier versions
+of its two amended reviews. Final reader/view hashes match all 24 current reviews
+in both editions.
+
+Stopped after 24. The next 24 Burlington County towns, Bass River Township through
+Mount Laurel Township in municipal-code order, are a metadata queue only and
+NOT_STARTED. No Burlington town text was reviewed. Resume only on continuation.
+The next run is provisionally 90–180 active minutes excluding waits.

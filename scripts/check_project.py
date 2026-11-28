@@ -64,6 +64,11 @@ def check(root,syntax=True):
     node=shutil.which('node')
     if syntax:require(node is not None,'Node.js 22 or newer is required for syntax checks.')
     corpus=json.loads((root/'project/content-baseline.json').read_text())
+    publication=json.loads((root/'project/public-copy-baseline.json').read_text()) if (root/'project/public-copy-baseline.json').exists() else None
+    if publication and publication.get('corrections_sha256'):
+        corrections=json.loads((root/'project/public-copy-corrections.json').read_text())
+        require(hashlib.sha256(stable_bytes(corrections)).hexdigest()==publication['corrections_sha256'],'Copy proposal manifest identity changed')
+        require(publication['release_status']=='BLOCKED' and publication['owner_approval'] is False,'Unapproved copy proposals cannot clear publication')
     script_count=0
     for edition in ['primary','young-explorers']:
         page=Page();page.feed((site/edition/'index.html').read_text())
@@ -73,17 +78,36 @@ def check(root,syntax=True):
         data=[s for s in page.scripts if s['attrs'].get('id')=='atlas-pilot-data']
         require(len(data)==1,edition+': missing versioned pilot payload')
         packed=json.loads(data[0]['text'])
+        approved_corpus=publication['editions'][edition] if publication else corpus['editions'][edition]
         require(packed.get('encoding')=='gzip-base64',edition+': unexpected payload encoding')
         raw=gzip.decompress(base64.b64decode(packed['payload'],validate=True))
         digest=hashlib.sha256(raw).hexdigest()
-        require(digest==packed['sha256']==corpus['editions'][edition]['payload_sha256'],edition+': reviewed payload identity changed')
+        require(digest==packed['sha256']==approved_corpus['payload_sha256'],edition+': reviewed payload identity changed')
         payload=expand_payload(json.loads(raw))
-        require(hashlib.sha256(stable_bytes(payload)).hexdigest()==corpus['editions'][edition]['expanded_canonical_sha256'],edition+': original payload identity changed')
+        require(hashlib.sha256(stable_bytes(payload)).hexdigest()==approved_corpus['expanded_canonical_sha256'],edition+': reviewed projection identity changed')
         identities=corpus['editions'][edition]['municipalities'];codes=set(identities)
         require(len(codes)==564 and len(set(identities.values()))==564,edition+': incomplete municipality baseline')
         require(set(payload['views'])==set(payload['view_guards'])==set(payload['editorial'])==codes,edition+': statewide town scope changed')
         require({c:e['municipality_id'] for c,e in payload['editorial'].items()}==identities,edition+': municipality identity changed')
-        require(hashlib.sha256(stable_bytes(payload['editorial'])).hexdigest()==corpus['editions'][edition]['editorial_sha256'],edition+': rewritten narratives changed')
+        require(hashlib.sha256(stable_bytes(payload['editorial'])).hexdigest()==approved_corpus['editorial_sha256'],edition+': rewritten narratives changed')
+        if publication:
+            from project_public_copy import reader_copy,PROFILE_FIELDS,EVENT_FIELDS,SOURCE_FIELDS
+            require(approved_corpus['before_editorial_sha256']==corpus['editions'][edition]['editorial_sha256'],edition+': frozen C57 binding changed')
+            require(hashlib.sha256(stable_bytes(reader_copy(payload['editorial']))).hexdigest()==approved_corpus['reader_copy_sha256'],edition+': reviewed reader copy changed')
+            if publication.get('corrections_sha256'):
+                for row in corrections['changes']:
+                    if row['edition']!=edition:continue
+                    value=payload
+                    for part in row['path']:value=value[part]
+                    require(value==row['replacement'],edition+': explicit copy proposal missing')
+            for code,view in payload['views'].items():
+                require(set(view['profile'])<=PROFILE_FIELDS|{'referent','earlier'},edition+': private profile field reintroduced')
+                require(payload['view_guards'][code]==stable_bytes(view).decode(),edition+': public view guard mismatch')
+                for event in view['events']:
+                    require(set(event)<=EVENT_FIELDS,edition+': private event field reintroduced')
+                    require(set(event.get('date_review',{}).get('expected_fields',{}))<=EVENT_FIELDS,edition+': private date guard field reintroduced')
+                for source in view['sources'].values():
+                    require(set(source)<=SOURCE_FIELDS,edition+': private source field reintroduced')
         for code,record in payload['editorial'].items():
             require(bool(record.get('preview','').strip()) and bool(record.get('paragraphs')) and all(p.strip() for p in record['paragraphs']),edition+': missing story or summary '+code)
             require(bool(record.get('journey')) and bool(record.get('sidebar')),edition+': missing journey or sidebar '+code)
