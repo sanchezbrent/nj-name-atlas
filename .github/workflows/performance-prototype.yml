@@ -1,0 +1,39 @@
+name: Isolated performance prototype
+on:
+  pull_request:
+    paths:
+      - 'prototypes/performance/**'
+      - 'scripts/build_performance_prototype.py'
+      - 'scripts/build_layout_prototype.py'
+      - 'prototypes/primary-layout/**'
+      - 'tests/performance.mjs'
+      - 'tests/test_performance_prototype.py'
+      - 'project/PERFORMANCE_PROTOTYPE.md'
+      - '.github/workflows/performance-prototype.yml'
+permissions:
+  contents: read
+concurrency:
+  group: performance-prototype-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  runtime-contract:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Read prototype and immutable source history
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Reject source drift and unsafe output destinations
+        run: python3 -m unittest discover -s tests -p test_performance_prototype.py -v
+      - name: Compare original and retained rendering with real data and D3
+        run: node tests/performance.mjs
+      - name: Compose with the frozen editorial checkpoint and reader layout
+        run: python3 scripts/build_performance_prototype.py --reader-layout --verify --output-dir "$RUNNER_TEMP/atlas-performance-pin"
+      - name: Compose independently with this branch's source
+        run: python3 scripts/build_performance_prototype.py --verify --source-ref "$(git rev-parse HEAD)" --output-dir "$RUNNER_TEMP/atlas-performance-source"
+      - name: Rehearse the next completed editorial checkpoint
+        run: python3 scripts/build_performance_prototype.py --reader-layout --verify --source-ref 726a90d1ef1449f1913aac38db16d805946a71b2 --output-dir "$RUNNER_TEMP/atlas-performance-next"
+      - name: Prove publishing sources and content pins were not changed
+        run: git diff --exit-code HEAD -- docs project/asset-baseline.json project/content-baseline.json prototypes/primary-layout/checkpoint.json
