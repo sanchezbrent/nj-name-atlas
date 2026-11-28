@@ -369,7 +369,7 @@ def build(ref, destination):
     return report
 
 
-def verify_runtime(ref, destination, report):
+def verify_runtime(ref, destination, report, *, marker=MARKER):
     """Run the selected content checkpoint's own checks against composed pages."""
     node = shutil.which("node")
     require(node is not None, "Node.js 22+ is required for --verify.")
@@ -404,7 +404,7 @@ def verify_runtime(ref, destination, report):
             require(result.returncode == 0, "Selected checkpoint validation failed: " + command[-1] + "\n" + result.stdout + result.stderr)
             results.append({"check": command[-1], "result": json.loads(result.stdout)})
     report["selected_checkpoint_validation"] = results
-    (destination / MARKER).write_text(json.dumps(report, indent=2) + "\n")
+    (destination / marker).write_text(json.dumps(report, indent=2) + "\n")
 
 
 def preview_handler(destination):
