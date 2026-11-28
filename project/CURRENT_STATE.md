@@ -2,14 +2,14 @@
 
 Public site: https://sanchezbrent.github.io/nj-name-atlas/
 
-**Current remediation candidate:** [Copy proposals checkpoint 77](PUBLIC_COPY_CHECKPOINT_77.md).
+**Current remediation candidate:** [Copy proposals checkpoint 78](PUBLIC_COPY_CHECKPOINT_78.md).
 Agent text review remains 564/564 per edition across all 21 counties. All 14,681
 copy proposals are unchanged. Strict candidates remain zero in both editions.
-Targeted agent rendered QA now covers 332/564 towns per edition at desktop/mobile
-sizes; 232 per edition remain unsampled. Human/publication sign-offs remain
+Targeted agent rendered QA now covers 344/564 towns per edition at desktop/mobile
+sizes; 220 per edition remain unsampled. Human/publication sign-offs remain
 zero; release remains BLOCKED. All source holds continue. Website files, payloads,
 scripts, tests and baselines remain byte exact from checkpoint 50.
-Continue only the remaining twelve towns of the authorized 24-town run in checkpoint 78, then stop. Nothing merged or deployed; live Pages is unchanged.
+Stop after the authorized 24-town run. No further batch has been selected or started. Nothing merged or deployed; live Pages is unchanged.
 The implementation/browser statements below describe the earlier publication,
 not fresh acceptance of this remediation candidate.
 
