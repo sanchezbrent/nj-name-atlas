@@ -2,6 +2,7 @@
 import importlib.util
 from pathlib import Path
 import sys
+import subprocess
 import tempfile
 import unittest
 
@@ -25,12 +26,16 @@ class PerformanceBoundaryTests(unittest.TestCase):
                 self.assertEqual(before.ids(), after.ids())
                 self.assertEqual(before.blocks('script')[:3], after.blocks('script')[:3])
 
-    def test_pin_and_next_checkpoint_accept_the_same_bounded_patch(self):
-        for ref in ['cbc5b9646a866ff03359f94877bc24a130b24d67', '726a90d1ef1449f1913aac38db16d805946a71b2']:
-            for edition in ['primary', 'young-explorers']:
-                with self.subTest(ref=ref, edition=edition):
-                    source = layout.git_bytes(ref, 'docs/' + edition + '/index.html').decode()
-                    performance.verify_preservation(source, performance.transform(source))
+    def test_a_later_snapshot_keeps_unrelated_runtime_changes_exact(self):
+        # Unit tests also run in the standard shallow quality checkout. The
+        # full-history performance workflow composes both actual editorial refs.
+        for edition in ['primary', 'young-explorers']:
+            with self.subTest(edition=edition):
+                source = (ROOT / 'docs' / edition / 'index.html').read_text()
+                future = source.replace('function createAtlasPilotCore(', '/* later source revision */ function createAtlasPilotCore(', 1)
+                candidate = performance.transform(future)
+                performance.verify_preservation(future, candidate)
+                self.assertIn('/* later source revision */', candidate)
 
     def test_primary_layout_composes_before_performance_without_changing_layout_contract(self):
         source = (ROOT / 'docs/primary/index.html').read_text()
@@ -88,7 +93,8 @@ class PerformanceBoundaryTests(unittest.TestCase):
 
     def test_build_records_inputs_and_only_changes_two_edition_outputs(self):
         with tempfile.TemporaryDirectory() as folder:
-            report = performance.build('cbc5b9646a866ff03359f94877bc24a130b24d67', Path(folder), reader_layout=True)
+            ref = subprocess.check_output(['git', '-C', str(ROOT), 'rev-parse', 'HEAD']).decode().strip()
+            report = performance.build(ref, Path(folder), reader_layout=True)
             self.assertFalse(report['publication_cleared'])
             self.assertTrue(report['layout_composition']['original_script_bytes_preserved'])
             self.assertEqual(set(report['layout_input_sha256']), {'layout.css', 'navigation.js', 'checkpoint.json'})

@@ -125,6 +125,13 @@ Reproduction identities for the final local candidate:
   validation results. Refreshing receipt metadata left generated HTML hashes
   unchanged after browser QA. The source and UI branch readbacks remain the
   commits listed above. Screenshots stay local under `name-atlas-primary-review/`.
+- The first GitHub quality run caught a new unit-test assumption about full Git
+  history. Unit tests now use the current immutable HEAD or synthetic later
+  source; actual checkpoint-23/24 integration remains mandatory in the dedicated
+  workflow with full history. The existing shallow quality checkout is retained,
+  with no skipped tests, relaxed guards or broader history fetch in that job.
+  A fresh depth-one local clone with the corrected tests passes the project check
+  and all 37 Python tests, reproducing that checkout constraint before push.
 
 ## Remaining milestones and provisional active-work estimates
 
